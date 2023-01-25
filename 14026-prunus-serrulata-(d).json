@@ -101,26 +101,63 @@
         "diseases": "High Risk Host for Xylella fastidiosa. May be susceptible to bacterial canker, blossom wilt, brown rot, honey fungus and silver leaf."
     },
     "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Prunus_serrula.html",
+        "pt_link": "https://www.picturethisai.com/wiki/Prunus_serrulata.html",
         "filename": "14026-prunus-serrulata-(d).json",
-        "latin_name": "Prunus serrula",
+        "latin_name": "Prunus serrulata",
         "common_names": [
-            "Tibetan cherry"
+            "Japanese cherry",
+            "East asian cherry",
+            "Japanese flowering cherry",
+            "Oriental cherry",
+            "Hill cherry",
+            "Cherry blossom",
+            "Sakura"
         ],
         "synonyms": [
-            "Prunus puddum var. tibetica",
-            "Cerasus serrula",
-            "Prunus odontocalyx",
-            "Prunus serrula var. tibetica",
-            "Prunus cerasoides var. tibetica",
-            "Prunus serrula"
+            "Cerasus paniculata",
+            "Prunus speciosa",
+            "Padus serrulata",
+            "Cerasus sieboldii",
+            "Cerasus serrulata",
+            "Prunus koidzumii",
+            "Prunus sieboldii",
+            "Cerasus serrulatus",
+            "Cerasus serrulata var. taishanensis",
+            "Cerasus maeda",
+            "Prunus serrulata"
         ],
-        "ru_data": null,
-        "rank": 3660,
+        "ru_data": {
+            "common_names": [
+                "Вишня мелкопильчатая",
+                "Черёмуха мелкопильчатая",
+                "Слива мелкопильчатая",
+                "Сакура",
+                "Сатодзакура",
+                "Яма-сакура"
+            ],
+            "synonyms": [
+                "Cerasus paniculata",
+                "Prunus speciosa",
+                "Padus serrulata",
+                "Cerasus sieboldii",
+                "Cerasus serrulata",
+                "Prunus koidzumii",
+                "Prunus sieboldii",
+                "Cerasus serrulatus",
+                "Cerasus serrulata var. taishanensis",
+                "Cerasus maeda",
+                "Prunus serrulata"
+            ]
+        },
+        "rank": 9,
         "items_data": {
+            "water": "Every 1-2 weeks",
             "sunlight": "Full sun",
-            "water": "Every 2 weeks",
-            "planting_time": "Fall"
+            "hardiness_zones": "2 - 7",
+            "planting_time": [
+                "Spring",
+                "Fall"
+            ]
         },
         "class_data": {
             "phylum": "Vascular plants",
@@ -133,15 +170,18 @@
             ],
             "family": "Rose",
             "genus": "Prunus",
-            "species": "Tibetan cherry"
+            "species": "Japanese cherry"
         },
         "toxic_data": [
+            "",
             ""
         ],
         "diseases_data": [
+            "Underwatering",
+            "Brown spot",
             "Shot hole disease",
-            "Aged yellow and dry",
-            "Underwatering"
+            "Leaf beetles",
+            "Aged yellow and dry"
         ]
     }
 }
