@@ -88,15 +88,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in loam-based compost with added leaf mould. Water freely & feed monthly from April to September. Outside grow in moderately fertile, humus-rich, moist, neutral to acid soil in partial shade and provide winter protection. In cold areas, grow in containers & overwinter indoors.",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Generally not required. Can prune out and faded growth as necessary",
-        "pests": "May be susceptible to slugs or snails.",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Under glass, grow in loam-based compost with added leaf mould. Water freely & feed monthly from April to September. Outside grow in moderately fertile, humus-rich, moist, neutral to acid soil in partial shade and provide winter protection. In cold areas, grow in containers & overwinter indoors.",
+            "link_names": [
+                "Winter protection",
+                "Containers",
+                "Overwinter indoors"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "overwinter_indoors": "https://www.rhs.org.uk/prevention-protection/overwintering-tender-plants-wrapping"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Generally not required. Can prune out and faded growth as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs or snails.",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Selaginella_uncinata.html",
@@ -161,5 +203,7 @@
             "Longhorn beetles",
             "Plant dried up"
         ]
-    }
+    },
+    "main_name_original": "Selaginella uncinata",
+    "display_name": "Peacock moss"
 }

@@ -84,17 +84,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Outdoors grow in moderately fertile, well-drained soil in full sun. Grow at the base of a warm, sunny wall, or in a herbaceous or mixed border. Can be grown in a temperate greenhouse or conservatory for winter flowers",
-        "propagation": "Propagate by seed in early spring in situ. For winter-flowering container plants, sow seed at 13-16°C (55-61°F) in autumn in loam-based potting compost",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs, snails and aphids may appear",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Outdoors grow in moderately fertile, well-drained soil in full sun. Grow at the base of a warm, sunny wall, or in a herbaceous or mixed border. Can be grown in a temperate greenhouse or conservatory for winter flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring in situ. For winter-flowering container plants, sow seed at 13-16°C (55-61°F) in autumn in loam-based potting compost",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails and aphids may appear",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hunnemannia fumariifolia 'Sunlite'",
+    "display_name": "Tulip poppy 'sunlite'"
 }

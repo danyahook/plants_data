@@ -85,16 +85,50 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich moist soil in full or partial shade",
-        "propagation": "Divide after flowering or in early autumn. Root leaf-tip cuttings in midsummer. It may also form plantlets in the axils of the leaflets",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Aphids and flea beetles may damage the leaves",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in humus-rich moist soil in full or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide after flowering or in early autumn. Root leaf-tip cuttings in midsummer. It may also form plantlets in the axils of the leaflets",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids and flea beetles may damage the leaves",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cardamine_pratensis__Flore_Pleno_.html",
@@ -132,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cardamine pratensis 'Flore Pleno' (d)",
+    "display_name": "Double cuckoo flower"
 }

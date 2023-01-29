@@ -83,21 +83,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant out into flowering postions in autumn, choosing a sheltered, sunny site on free-draining soil",
-        "propagation": "Propagate by seed sown in late spring for flowers the following year",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Bedding",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead regularly",
-        "pests": "May be susceptible to aphids, slugs, snails and caterpillars",
-        "diseases": "May be susceptible to a rust"
-    }
+        "cultivation": {
+            "text": "Plant out into flowering postions in autumn, choosing a sheltered, sunny site on free-draining soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in late spring for flowers the following year",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Bedding",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs, snails and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Dianthus 'Amazon Rose Magic' (Amazon Series)",
+    "display_name": "Sweet william 'amazon rose magic'"
 }

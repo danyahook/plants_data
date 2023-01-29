@@ -94,16 +94,48 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in fertile, moist but well-drained soil in full sun; but dry soils and partial shade tolerated",
-        "propagation": "Propagate by division, basal cuttings or softwood cuttings in spring or by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "Can produce autumn tints in cold weather so delay cutting back until spring",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Best grown in fertile, moist but well-drained soil in full sun; but dry soils and partial shade tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, basal cuttings or softwood cuttings in spring or by semi-ripe cuttings in summer",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Can produce autumn tints in cold weather so delay cutting back until spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gaura_lindheimeri__Whirling_Butterflies_.html",
@@ -132,5 +164,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Gaura lindheimeri 'Whirling Butterflies'",
+    "display_name": "Gaura 'whirling butterflies'"
 }

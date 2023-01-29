@@ -89,19 +89,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, light, well-drained soil in full sun",
-        "propagation": "Propagate by seed sown in a cold frame in autumn; root softwood cuttings in late spring or greenwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "See pruning group 6",
-        "pests": "May be susceptible to capsid bugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, light, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame in autumn; root softwood cuttings in late spring or greenwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Greenwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bugs",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Caryopteris incana Petit Bleu",
+    "display_name": ""
 }

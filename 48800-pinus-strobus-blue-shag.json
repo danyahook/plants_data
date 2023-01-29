@@ -84,18 +84,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Rock garden",
-            "Coastal",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, pine shoot moth, sawflies, adelgids",
-        "diseases": "May be susceptible to pine needle cast"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Rock garden",
+                "Coastal",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, pine shoot moth, sawflies, adelgids",
+            "link_names": [
+                "Aphids",
+                "Adelgids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pinus_strobus__Blue_Shag_.html",
@@ -128,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pinus strobus 'Blue Shag'",
+    "display_name": "Weymouth pine 'blue shag'"
 }

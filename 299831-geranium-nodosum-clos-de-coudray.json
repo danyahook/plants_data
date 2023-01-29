@@ -83,20 +83,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in partial shade. The plant can tolerate dry shade once established.",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat. The plant can seed itself around once established but seedlings may not come true to the named cultivar.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut old, winter-damaged foliage back to the ground in spring",
-        "pests": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews, downy mildews and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in partial shade. The plant can tolerate dry shade once established.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat. The plant can seed itself around once established but seedlings may not come true to the named cultivar.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut old, winter-damaged foliage back to the ground in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Geranium sawfly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, downy mildews and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium nodosum 'Clos de Coudray'",
+    "display_name": ""
 }

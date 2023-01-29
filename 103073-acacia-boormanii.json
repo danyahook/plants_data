@@ -83,17 +83,69 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral to acid, well-drained soil in a sheltered site in full sun. For more information see tree cultivation.",
-        "propagation": "Propagate by semi-ripe cuttings in mid summer.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8 or pruning group 13 for wall-trained shrubs",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in neutral to acid, well-drained soil in a sheltered site in full sun. For more information see tree cultivation.",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in mid summer.",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 13 for wall-trained shrubs",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acacia boormanii",
+    "display_name": "Snowy river wattle"
 }

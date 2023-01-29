@@ -90,18 +90,56 @@
         "plant_range": "SE Europe, Turkey, Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Prefers to grow in light, well-drained, moderately fertile soil in full sun. It is likely to need support especially if grown on rich soils - see staking perennials. Can be short-lived",
-        "propagation": "Propagate by seed. Sow in situ or in containers in early spring or early summer. Take basal cuttings in spring, see softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune back flowered stems in the autumn",
-        "pests": "Aphids may be a problem",
-        "diseases": "Can be affected by a rust and leaf spot"
+        "cultivation": {
+            "text": "Prefers to grow in light, well-drained, moderately fertile soil in full sun. It is likely to need support especially if grown on rich soils - see staking perennials. Can be short-lived",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed. Sow in situ or in containers in early spring or early summer. Take basal cuttings in spring, see softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune back flowered stems in the autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rust and leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Malva_alcea.html",
@@ -156,5 +194,7 @@
             "Leaf beetles",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Malva alcea",
+    "display_name": "Greater musk mallow"
 }

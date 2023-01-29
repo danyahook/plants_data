@@ -91,17 +91,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade; plants may need support",
-        "propagation": "Propagate by division in early spring or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly then cut stems down to the ground in winter",
-        "pests": "Can get aphids and leaf and bud eelworms",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade; plants may need support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly then cut stems down to the ground in winter",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids and leaf and bud eelworms",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Leucanthemum_×_superbum__Aglaia_.html",
@@ -130,5 +168,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Leucanthemum × superbum 'Aglaia' (d)",
+    "display_name": "Shasta daisy 'aglaia'"
 }

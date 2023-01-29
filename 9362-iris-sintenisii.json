@@ -86,15 +86,57 @@
         "plant_range": "SE & E Europe to N Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
-        "pests": "May be attacked by slugs, snails and thrips",
-        "diseases": "May be susceptible to grey moulds; see also iris diseases"
+        "cultivation": {
+            "text": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and thrips",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Thrips"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds; see also iris diseases",
+            "link_names": [
+                "Iris diseases"
+            ],
+            "related_links": {
+                "iris_diseases": "https://www.rhs.org.uk/disease/iris-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_sintenisii.html",
@@ -139,5 +181,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Iris sintenisii",
+    "display_name": ""
 }

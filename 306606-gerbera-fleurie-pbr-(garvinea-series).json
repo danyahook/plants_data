@@ -88,19 +88,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in a sheltered position in full sun; ideal for patio containers grown in a loam-based potting compost (JI No.2) and may be overwintered under glass in colder areas. See Gerbera cultivation for further information",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wall side borders",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead flowers regularly",
-        "pests": "Aphids, glasshouse whitefly and chrysanthemum leaf miner may be a problem",
-        "diseases": "May be affected by leaf spot (fungal) and root rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in a sheltered position in full sun; ideal for patio containers grown in a loam-based potting compost (JI No.2) and may be overwintered under glass in colder areas. See Gerbera cultivation for further information",
+            "link_names": [
+                "Containers",
+                "Gerbera cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "gerbera_cultivation": "https://www.rhs.org.uk/plants/gerbera/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wall side borders",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead flowers regularly",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse whitefly and chrysanthemum leaf miner",
+            "link_names": [
+                "Aphids",
+                "Glasshouse whitefly",
+                "Chrysanthemum leaf miner"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "chrysanthemum_leaf_miner": "https://www.rhs.org.uk/biodiversity/chrysanthemum-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot (fungal) and root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Gerbera 'Fleurie'PBR (Garvinea Series)",
+    "display_name": "Gerbera 'fleurie'"
 }

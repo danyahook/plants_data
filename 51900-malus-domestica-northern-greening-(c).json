@@ -90,13 +90,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sheltered spot well away from frost pockets. Fruits best in full sun. For more detailed advice see apple cultivation",
-        "propagation": "Propagate by grafting onto a rootstock for fruit in late winter. The rootstock used will largely determine the size of the tree",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Apple pruning varies according to the age of the tree, the desired form and the tree type; this cultivar is a spur bearer",
-        "pests": "May be susceptible to woolly aphids, rosy apple aphids, fruit tree red spider mite, apple leaf-mining moth, codling moth, apple sawfly and capsid bugs.",
-        "diseases": "May be susceptible to apple canker, apple scab, powdery mildew and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in a sheltered spot well away from frost pockets. Fruits best in full sun. For more detailed advice see apple cultivation",
+            "link_names": [
+                "Apple cultivation"
+            ],
+            "related_links": {
+                "apple_cultivation": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting onto a rootstock for fruit in late winter. The rootstock used will largely determine the size of the tree",
+            "link_names": [
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Apple pruning varies according to the age of the tree, the desired form and the tree type; this cultivar is a spur bearer",
+            "link_names": [
+                "Apple pruning"
+            ],
+            "related_links": {
+                "apple_pruning": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, including woolly aphid and rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Rosy apple aphid",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "rosy_apple_aphid": "https://www.rhs.org.uk/biodiversity/rosy-apple-aphid",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to apple canker, apple scab, powdery mildew and honey fungus",
+            "link_names": [
+                "Apple canker",
+                "Apple scab",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Malus domestica 'Northern Greening' (C)",
+    "display_name": "Apple 'northern greening'"
 }

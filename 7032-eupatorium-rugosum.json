@@ -109,15 +109,53 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "The ideal site is a moist, alkaline soil in partial shade; frost may damage new shoots",
-        "propagation": "Propagate by seed or division, in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back faded flower stems to base",
-        "pests": "May be attacked by slugs and aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "The ideal site is a moist, alkaline soil in partial shade; frost may damage new shoots",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division, in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back faded flower stems to base",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Eupatorium rugosum",
+    "display_name": "White snakeroot"
 }

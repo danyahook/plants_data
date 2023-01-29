@@ -85,14 +85,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in moisture-retentive soil. Soil should be reasonably fertile so you can improve soil by adding organic matter, such as well-rotted manure, in the autumn. Lettuces grow best on soil that is close to neutral so if you have very acidic or alkaline soil you may want to consider raised beds, containers or improving the pH of your soil. Water when the soil is dry, ideally early in the morning. Harvest from May until September. See lettuce cultivation for more information.",
-        "propagation": "Propagate by seed, sowing from March until June. Seed germination is poor if soil temperatures are very warm therefore if sowing in hot weather sow in the evening and water well after sowing.",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cottage and informal garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to birds, slugs, snails and lettuce root aphid.",
-        "diseases": "May be susceptible to grey moulds, shows some resistance to lettuce downy mildew. Lettuce mosaic virus can affect overwintering crops."
-    }
+        "cultivation": {
+            "text": "Grow in full sun in moisture-retentive soil. Soil should be reasonably fertile so you can improve soil by adding organic matter, such as well-rotted manure, in the autumn. Lettuces grow best on soil that is close to neutral so if you have very acidic or alkaline soil you may want to consider raised beds, containers or improving the pH of your soil. Water when the soil is dry, ideally early in the morning. Harvest from May until September. See lettuce cultivation for more information.",
+            "link_names": [
+                "Organic matter",
+                "Raised beds",
+                "Containers",
+                "Lettuce cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "lettuce_cultivation": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sowing from March until June. Seed germination is poor if soil temperatures are very warm therefore if sowing in hot weather sow in the evening and water well after sowing.",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds, slugs, snails and lettuce root aphid.",
+            "link_names": [
+                "Birds",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds, shows some resistance to lettuce downy mildew. Lettuce mosaic virus can affect overwintering crops.",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Lactuca sativa 'Pigale'",
+    "display_name": "Lettuce 'pigale'"
 }

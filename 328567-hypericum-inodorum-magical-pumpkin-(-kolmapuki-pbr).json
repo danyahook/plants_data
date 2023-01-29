@@ -94,19 +94,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade.",
-        "propagation": "Propagate from semi-ripe cuttings in summer.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "pruning group 1, or pruning group 6",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to rust diseases."
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from semi-ripe cuttings in summer.",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "pruning group 1, or pruning group 6",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust and honey fungus (rarely)",
+            "link_names": [
+                "A rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hypericum × inodorum Magical Pumpkin ('Kolmapuki'PBR)",
+    "display_name": ""
 }

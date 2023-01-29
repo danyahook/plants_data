@@ -82,15 +82,49 @@
         "plant_range": "Pyrenees & Alps"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich moist but well-drained soil in full sun with some midday shade. Suitable for rock garden, alpine house or peat bed. Protect from excessive winter wet",
-        "propagation": "Propagate by seed or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in humus-rich moist but well-drained soil in full sun with some midday shade. Suitable for rock garden, alpine house or peat bed. Protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Soldanella_alpina.html",
@@ -129,5 +163,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Soldanella alpina",
+    "display_name": "Alpine snowbell"
 }

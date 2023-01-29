@@ -81,17 +81,49 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in partial shade with shelter from cold, drying winds. See how to grow ferns for further advice",
-        "propagation": "Propagate by division in spring or plant bulbils in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Tidy spent leaves in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in partial shade with shelter from cold, drying winds. See how to grow ferns for further advice",
+            "link_names": [
+                "How to grow ferns"
+            ],
+            "related_links": {
+                "how_to_grow_ferns": "https://www.rhs.org.uk/plants/types/ferns/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or plant bulbils in late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy spent leaves in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cystopteris_bulbifera.html",
@@ -161,5 +193,7 @@
             "Leaf tips withering",
             "Underwatering"
         ]
-    }
+    },
+    "main_name_original": "Cystopteris bulbifera",
+    "display_name": "Alpine bladder fern"
 }

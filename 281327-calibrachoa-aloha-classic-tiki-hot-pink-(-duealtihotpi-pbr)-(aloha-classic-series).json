@@ -92,16 +92,60 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny, sheltered site. Ideal for tubs and baskets",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by aphids, slugs and snails",
-        "diseases": "May be subject to grey moulds, foot rot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny, sheltered site. Ideal for tubs and baskets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to grey moulds, foot rot and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Calibrachoa Aloha Classic Tiki Hot Pink ('Duealtihotpi'PBR) (Aloha Classic Series)",
+    "display_name": "Calibrachoa [aloha classic tiki hot pink]"
 }

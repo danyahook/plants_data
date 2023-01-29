@@ -82,10 +82,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun. For more advice see carrots cultivation",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to carrot fly",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. For more advice see carrots cultivation",
+            "link_names": [
+                "Carrots cultivation"
+            ],
+            "related_links": {
+                "carrots_cultivation": "https://www.rhs.org.uk/vegetables/carrots/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to carrot fly",
+            "link_names": [
+                "Carrot fly"
+            ],
+            "related_links": {
+                "carrot_fly": "https://www.rhs.org.uk/biodiversity/carrot-fly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Daucus carota 'Napoli'",
+    "display_name": "Carrot 'napoli'"
 }

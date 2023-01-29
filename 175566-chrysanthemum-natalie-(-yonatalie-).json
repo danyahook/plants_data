@@ -84,13 +84,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Suited to pot cultivation for flowering outdoors this cultivar is considered half-hardy needing winter protection. Water regularly and feed until flower buds colour up. See chrysanthemum cultivation",
-        "propagation": "Propagate by basal cuttings in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Pinch out cuttings-raised plants at the start of summer to encourage bushiness",
-        "pests": "May be susceptible to chrysanthemum leaf miner, glasshouse whitefly and aphids",
-        "diseases": "Susceptible to chrysanthemum white rust, powdery mildews and grey moulds"
-    }
+        "cultivation": {
+            "text": "Suited to pot cultivation for flowering outdoors this cultivar is considered half-hardy needing winter protection. Water regularly and feed until flower buds colour up. See chrysanthemum cultivation",
+            "link_names": [
+                "Winter protection",
+                "Chrysanthemum cultivation"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "chrysanthemum_cultivation": "https://www.rhs.org.uk/plants/chrysanthemums/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings in early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out cuttings-raised plants at the start of summer to encourage bushiness",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to chrysanthemum leaf miner, glasshouse whitefly and aphids",
+            "link_names": [
+                "Chrysanthemum leaf miner",
+                "Glasshouse whitefly",
+                "Aphids"
+            ],
+            "related_links": {
+                "chrysanthemum_leaf_miner": "https://www.rhs.org.uk/biodiversity/chrysanthemum-leaf-miner",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to chrysanthemum white rust, powdery mildews and grey moulds",
+            "link_names": [
+                "Chrysanthemum white rust",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "chrysanthemum_white_rust": "https://www.rhs.org.uk/disease/chrysanthemum-white-rust",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Chrysanthemum Natalie ('Yonatalie')",
+    "display_name": "Chrysanthemum [natalie]"
 }

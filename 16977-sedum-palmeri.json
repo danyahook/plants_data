@@ -93,16 +93,62 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a free-draining potting mix, in full light with good ventilation, Can be grown outside in frost-free areas, in well-drained soil in full sun or partial shade. Drought tolerant once established. Protect against frost",
-        "propagation": "Propagate by seed, or by softwood stem cuttings or leaf cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Rock garden",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, scale insects, mealybugs and vine weevils when grown under glass, and to slugs and snails when grown outdoors",
-        "diseases": "May be susceptible to fungal and bacterial crown and root rots"
+        "cultivation": {
+            "text": "Grow under glass in a free-draining potting mix, in full light with good ventilation, Can be grown outside in frost-free areas, in well-drained soil in full sun or partial shade. Drought tolerant once established. Protect against frost",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by softwood stem cuttings or leaf cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Rock garden",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, mealybugs and vine weevils when grown under glass, and to slugs and snails when grown outdoors",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Mealybugs",
+                "Vine weevils",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal and bacterial crown and root rots",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sedum_palmeri.html",
@@ -155,5 +201,7 @@
             "Brown spot",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Sedum palmeri",
+    "display_name": ""
 }

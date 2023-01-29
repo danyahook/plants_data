@@ -97,17 +97,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moderately fertile to poor, well-drained soils in full sun, or indoors in a mix of equal parts loam, leaf mould and sharp sand. Protect from excessive winter wet",
-        "propagation": "Propagate by seed, or by division or basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Cut back old flower stems in early spring",
-        "pests": "May be susceptible to aphids and red spider mites",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow outdoors in moderately fertile to poor, well-drained soils in full sun, or indoors in a mix of equal parts loam, leaf mould and sharp sand. Protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by division or basal softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old flower stems in early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and red spider mites",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Origanum_majorana.html",
@@ -197,5 +233,7 @@
             "Nutrient deficiencies",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Origanum majorana",
+    "display_name": "Sweet marjoram"
 }
