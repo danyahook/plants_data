@@ -88,15 +88,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in rows between parallel wires for support. Mulch with acidic material such as composted bark. See Raspberry cultivation",
-        "propagation": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Hedging and screens"
-        ],
-        "pruning": "Prune all canes to ground level in late winter",
-        "pests": "Can get aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites",
-        "diseases": "Good resistance to phytophthora root diseases"
-    }
+        "cultivation": {
+            "text": "Grow in rows between parallel wires for support. Mulch with acidic material such as composted bark. See Raspberry cultivation",
+            "link_names": [
+                "Mulch",
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune all canes to ground level in late winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Glasshouse red spider mite",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "Good resistance to phytophthora root diseases",
+            "link_names": [
+                "Phytophthora"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Rubus 'Autumn Bliss'",
+    "display_name": "Raspberry 'autumn bliss'"
 }

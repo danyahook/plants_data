@@ -91,18 +91,58 @@
         "plant_range": "W & C Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained neutral or slightly alkaline soil",
-        "propagation": "Lift and propagate by division in early autumn. Propagate by seed; sow seeds in cold frame in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove the foliage once it has died down",
-        "pests": "May be attacked by slugs and snails",
-        "diseases": "May be subject to grey moulds and ink disease. See iris diseases"
+        "cultivation": {
+            "text": "Grow in well-drained neutral or slightly alkaline soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Lift and propagate by division in early autumn. Propagate by seed; sow seeds in cold frame in spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove the foliage once it has died down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to grey moulds and ink disease. See iris diseases",
+            "link_names": [
+                "Grey moulds",
+                "Iris diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "iris_diseases": "https://www.rhs.org.uk/disease/iris-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_xiphium.html",
@@ -201,5 +241,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Iris xiphium",
+    "display_name": "Spanish iris"
 }

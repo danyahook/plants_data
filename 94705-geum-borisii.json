@@ -82,17 +82,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant in fertile, well-drained soil. Avoid waterlogging in winter",
-        "propagation": "Propagate by division or seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering; remove spent flower stems",
-        "pests": "May be susceptible to aphids and sawflies",
-        "diseases": "May be susceptible to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Plant in fertile, well-drained soil. Avoid waterlogging in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering; remove spent flower stems",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and sawflies",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Geum 'Borisii'",
+    "display_name": "Avens 'borisii'"
 }

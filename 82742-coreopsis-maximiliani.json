@@ -88,21 +88,67 @@
         "plant_range": "N America (MO, TX, S. Canada)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, humus-rich, moist but well-drained, neutral to alkaline soil in full sun. May need support. See staking perennials",
-        "propagation": "Propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Prairie planting",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Cut flowers",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back old stems after flowering as they die down for the winter",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews and sclerotinia diseases"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, humus-rich, moist but well-drained, neutral to alkaline soil in full sun. May need support. See staking perennials",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Prairie planting",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Cut flowers",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems after flowering as they die down for the winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews and sclerotinia diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Sclerotinia diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "sclerotinia_diseases": "https://www.rhs.org.uk/disease/sclerotinia-disease"
+            }
+        }
+    },
+    "main_name_original": "Coreopsis maximiliani",
+    "display_name": "Maximilian sunflower"
 }

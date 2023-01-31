@@ -97,16 +97,68 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See photinia cultivation",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in summer or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to leaf damage by vine weevil",
-        "diseases": "May be susceptible to fireblight, a leaf spot or powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See photinia cultivation",
+            "link_names": [
+                "Photinia cultivation"
+            ],
+            "related_links": {
+                "photinia_cultivation": "https://www.rhs.org.uk/plants/photinia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in summer or autumn",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf damage by vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, a leaf spot, honey fungus and powdery mildews",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Photinia serratifolia Curly Fantasy ('Kolcurl'PBR)",
+    "display_name": ""
 }

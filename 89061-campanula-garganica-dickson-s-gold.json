@@ -87,20 +87,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Requires fertile, well-drained soil in sun or partial shade",
-        "propagation": "Divide in spring or autumn; basal stem cuttings inserted in gritty compost can be taken in late spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Powdery mildews may be a problem in very dry conditions; a virus, fungal leaf spot, downy mildews and grey moulds are occasional problems"
+        "cultivation": {
+            "text": "Requires fertile, well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in spring or autumn; basal stem cuttings inserted in gritty compost can be taken in late spring or early summer",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem in very dry conditions; a virus, fungal leaf spot, downy mildews and grey moulds are occasional problems",
+            "link_names": [
+                "Powdery mildews",
+                "A virus",
+                "Downy mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Campanula_garganica__Dickson_s_Gold_.html",
@@ -130,5 +174,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Campanula garganica 'Dickson's Gold'",
+    "display_name": "Adriatic bellflower 'dickson's gold'"
 }

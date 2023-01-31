@@ -95,19 +95,55 @@
         "plant_range": "Caucasus Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist leafy soil, preferably in partial shade, but it will also grow in full shade; it makes good ground cover beneath trees and deciduous shrubs",
-        "propagation": "Propagate by seed in autumn, by division in spring, or by basal stem softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free but may be affected by slugs",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist leafy soil, preferably in partial shade, but it will also grow in full shade; it makes good ground cover beneath trees and deciduous shrubs",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in autumn, by division in spring, or by basal stem softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pachyphragma_macrophyllum.html",
@@ -154,5 +190,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pachyphragma macrophyllum",
+    "display_name": "Large-leaved pachyphragma"
 }

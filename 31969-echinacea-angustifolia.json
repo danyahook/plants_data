@@ -85,20 +85,56 @@
         "plant_range": "C. North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus rich, well drained soil in full sun. Sow seed indoors in seed trays of moist compost and maintain the temperature at 13C, harden off before transplanting outdoors in early Summer",
-        "propagation": "Propagate by seed sown at 13C in late Winter-Spring; by division in Spring or Autumn or by root cuttings from late Autumn to early Winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to extend flowering",
-        "pests": "May be susceptible to japanese beetle",
-        "diseases": "May be susceptible to a leaf spot"
+        "cultivation": {
+            "text": "Grow in fertile, humus rich, well drained soil in full sun. Sow seed indoors in seed trays of moist compost and maintain the temperature at 13C, harden off before transplanting outdoors in early Summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 13C in late Winter-Spring; by division in Spring or Autumn or by root cuttings from late Autumn to early Winter",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to extend flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to japanese beetle",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Echinacea_angustifolia.html",
@@ -149,5 +185,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Echinacea angustifolia",
+    "display_name": "Narrow-leaved purple cone flower"
 }

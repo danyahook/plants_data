@@ -80,19 +80,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained, humus-rich soil in full sun or partial shade. Plant out when the danger of frost has passed",
-        "propagation": "Propagate by seed or basal cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by caterpillars, mealybugs, thrips and vine weevils",
-        "diseases": "May be subject to powdery mildews, grey moulds and stem rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained, humus-rich soil in full sun or partial shade. Plant out when the danger of frost has passed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or basal cuttings",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by caterpillars, mealybugs, thrips and vine weevils",
+            "link_names": [
+                "Mealybugs",
+                "Thrips",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews, grey moulds and stem rot",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Begonia Cocktail Series",
+    "display_name": "Begonia cocktail series"
 }

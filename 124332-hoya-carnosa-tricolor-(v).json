@@ -102,14 +102,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-based compost in bright, filtered light. Direct sunlight early or late in the day is beneficial to promote flowering. Maintain moderate humidity. Provide support. See hoya cultivation",
-        "propagation": "Propagate by seed, semi-hardwood cuttings or by layering in spring or summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 11",
-        "pests": "May be susceptible to mealybugs, glasshouse whitefly and scale insects",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in loam-based compost in bright, filtered light. Direct sunlight early or late in the day is beneficial to promote flowering. Maintain moderate humidity. Provide support. See hoya cultivation",
+            "link_names": [
+                "Hoya cultivation"
+            ],
+            "related_links": {
+                "hoya_cultivation": "https://www.rhs.org.uk/plants/hoya/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, semi-hardwood cuttings or by layering in spring or summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, glasshouse whitefly and scale insects",
+            "link_names": [
+                "Mealybugs",
+                "Glasshouse whitefly",
+                "Scale insects"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hoya_carnosa__Tricolor_.html",
@@ -145,5 +193,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hoya carnosa 'Tricolor' (v)",
+    "display_name": ""
 }

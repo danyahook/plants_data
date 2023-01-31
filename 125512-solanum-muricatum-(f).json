@@ -98,15 +98,61 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in water-retaining but well-drained soil in good light. Water freely and use a hig potassium eg tomato feed for maximum crop.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse",
-            "Edible fruit"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids, mealybugs, glasshouse whitefly and glasshouse red spider mite",
-        "diseases": "May be susceptible to Potato blight"
+        "cultivation": {
+            "text": "Grow in water-retaining but well-drained soil in good light. Water freely and use a hig potassium eg tomato feed for maximum crop.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, mealybugs, glasshouse whitefly and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Mealybugs",
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Potato blight",
+            "link_names": [
+                "Potato blight"
+            ],
+            "related_links": {
+                "potato_blight": "https://www.rhs.org.uk/disease/potato-and-tomato-blight"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Solanum_muricatum.html",
@@ -191,5 +237,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Solanum muricatum (F)",
+    "display_name": "Pepino"
 }

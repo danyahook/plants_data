@@ -90,16 +90,54 @@
         "plant_range": "Argentina, Chile"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in any moderately fertile, well-drained, humus-rich soil. Suitable for rock garden, raised bed, trough or alpine house",
-        "propagation": "Propagate by seed, sown with moderate heat in late winter or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Gravel garden",
-            "Rock garden",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "Grows well in any moderately fertile, well-drained, humus-rich soil. Suitable for rock garden, raised bed, trough or alpine house",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown with moderate heat in late winter or early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Gravel garden",
+                "Rock garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Oxalis adenophylla",
+    "display_name": "Sauer klee"
 }

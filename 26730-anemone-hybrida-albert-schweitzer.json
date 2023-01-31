@@ -92,16 +92,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in any garden soil but avoid excessive winter wet, dislikes being moved around. Can spread rapidly once established. See anemone cultivation",
-        "propagation": "Propagate by division in early spring or autumn, or propagate by root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow in any garden soil but avoid excessive winter wet, dislikes being moved around. Can spread rapidly once established. See anemone cultivation",
+            "link_names": [
+                "Anemone cultivation"
+            ],
+            "related_links": {
+                "anemone_cultivation": "https://www.rhs.org.uk/plants/anemone"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or autumn, or propagate by root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Slugs"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Anemone × hybrida 'Albert Schweitzer'",
+    "display_name": "Japanese anemone 'elegans'"
 }

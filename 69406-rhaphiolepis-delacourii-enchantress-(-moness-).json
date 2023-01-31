@@ -92,19 +92,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sheltered area out of drying or cold winds in a well-drained, moderately fertile soil in full sun or light shade",
-        "propagation": "Propagate from semi-hardwood cuttings in late summer or layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest free, though may be affected by scale insects",
-        "diseases": "Generally disease free though may be affected by fireblight"
-    }
+        "cultivation": {
+            "text": "Grow in a sheltered area out of drying or cold winds in a well-drained, moderately fertile soil in full sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from semi-hardwood cuttings in late summer or layering in autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free, though may be affected by scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free though may be affected by fireblight",
+            "link_names": [
+                "Fireblight"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight"
+            }
+        }
+    },
+    "main_name_original": "Rhaphiolepis × delacourii Enchantress ('Moness')",
+    "display_name": "Indian hawthorn [enchantress]"
 }

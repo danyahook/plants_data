@@ -89,20 +89,68 @@
         "plant_range": "SW USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in very well-drained soil in full sun and in frost prone areas protect with a dry winter mulch",
-        "propagation": "Propagate by seed in late winter or spring: sow seeds at 13-18°C (55-64°F). Take softwood cuttings in early summer or semi-ripe cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Unless seed is needed, deadhead after flowering to maintain vigour",
-        "pests": "May be damaged by slugs and snails and infested with chrysanthemum eelworm",
-        "diseases": "Powdery mildews may be a problem"
+        "cultivation": {
+            "text": "Grow in very well-drained soil in full sun and in frost prone areas protect with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in late winter or spring: sow seeds at 13-18°C (55-64°F). Take softwood cuttings in early summer or semi-ripe cuttings in midsummer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Unless seed is needed, deadhead after flowering to maintain vigour",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage and chrysanthemum eelworm",
+            "link_names": [
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Penstemon_pinifolius.html",
@@ -143,5 +191,7 @@
             "Aged yellow and dry",
             "Plant dried up"
         ]
-    }
+    },
+    "main_name_original": "Penstemon pinifolius",
+    "display_name": "Pine-leaved penstemon"
 }

@@ -96,20 +96,70 @@
         "plant_range": "E. Balkan Peninsula"
     },
     "how_to_grow": {
-        "cultivation": "Best planted in dappled shade in humus-rich, moist neutral to acid soil. Tolerates full sun if soil remains moist at all times",
-        "propagation": "Propagate by seed; take root cuttings when dormant in winter. Divide between autumn and early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Susceptible to leafhoppers, vine weevil, slugs and snails, caterpillars and aphids",
-        "diseases": "May be affected by primula brown core, grey mould, primula leaf spot and a virus"
-    }
+        "cultivation": {
+            "text": "Best planted in dappled shade in humus-rich, moist neutral to acid soil. Tolerates full sun if soil remains moist at all times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed; take root cuttings when dormant in winter. Divide between autumn and early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to leafhoppers, vine weevil, slugs and snails, caterpillars and aphids",
+            "link_names": [
+                "Vine weevil",
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by primula brown core, grey mould, primula leaf spot and a virus",
+            "link_names": [
+                "Primula leaf spot",
+                "A virus"
+            ],
+            "related_links": {
+                "primula_leaf_spot": "https://www.rhs.org.uk/disease/primula-leaf-spots",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Primula sibthorpii",
+    "display_name": "Sibthorp primrose"
 }

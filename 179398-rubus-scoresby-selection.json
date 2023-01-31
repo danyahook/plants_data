@@ -91,14 +91,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, deep soil that has been enriched with organic matter such as well-rotted manure or compost",
-        "propagation": "Propagate by tip layering or from cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Usually fan trained, but blackberries can be trained in many creative ways. The principle is cut out fruited canes, leaving new growth to train in for fruiting the following year. Further advice on pruning blackberries",
-        "pests": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
-        "diseases": "Good general resistance to disease"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, deep soil that has been enriched with organic matter such as well-rotted manure or compost",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by tip layering or from cuttings",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Usually fan trained, but blackberries can be trained in many creative ways. The principle is cut out fruited canes, leaving new growth to train in for fruiting the following year. Further advice on pruning blackberries",
+            "link_names": [
+                "Pruning blackberries"
+            ],
+            "related_links": {
+                "pruning_blackberries": "https://www.rhs.org.uk/fruit/blackberries-and-hybrid-berries/pruning-training"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "Good general resistance to disease",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus 'Scoresby Selection'",
+    "display_name": "Silvanberry"
 }

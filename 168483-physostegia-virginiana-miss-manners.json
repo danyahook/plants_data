@@ -85,16 +85,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, reliably moist soil in full sun or partial shade",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn, or by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems in winter",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to fungal and bacterial rots"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, reliably moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn, or by division in early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal and bacterial rots",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Physostegia virginiana 'Miss Manners'",
+    "display_name": ""
 }

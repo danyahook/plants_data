@@ -85,16 +85,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, moist, but well drained soil in full sun or partial shade.",
-        "propagation": "Propagation by division in early spring or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowered stems to the base at the end of the flowering period",
-        "pests": "May be susceptible to aphids, slugs, earwigs, and chrysanthemum eelworm",
-        "diseases": "May be susceptible to leaf spots"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, moist, but well drained soil in full sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagation by division in early spring or late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to the base at the end of the flowering period",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs, earwigs, and chrysanthemum eelworm",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Earwigs",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spots",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Chrysanthemum maximum 'Esther Read'",
+    "display_name": "Shasta daisy 'esther read'"
 }

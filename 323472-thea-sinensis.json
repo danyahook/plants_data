@@ -95,18 +95,78 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Choose a shady, sheltered site with acid soil that is fertile, moist, but well-drained. Plant shallowly, and mulch with bark or leaf mould. Buds and flowers should be protected from cold dry winds. Don't allow to dry out. Fertilise mid-spring and early summer.",
-        "propagation": "Propagate by seed, soak seed prior to sowing, sow when ripe under glass. Can also be propogated via hardwood and semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Requires little pruning. Removal of damaged, dead, or diseased branches is best done after flowering.",
-        "pests": "May be susceptible to aphids, scale insects and vine weevil",
-        "diseases": "May be susceptible to other Camellia diseases, such as Camellia petal blight"
-    }
+        "cultivation": {
+            "text": "Choose a shady, sheltered site with acid soil that is fertile, moist, but well-drained. Plant shallowly, and mulch with bark or leaf mould. Buds and flowers should be protected from cold dry winds. Don't allow to dry out. Fertilise mid-spring and early summer.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, soak seed prior to sowing, sow when ripe under glass. Can also be propogated via hardwood and semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Hardwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Requires little pruning. Removal of damaged, dead, or diseased branches is best done after flowering.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, camellia gall, camellia leaf blight, camellia yellow mottle virus and flowers and camellia petal blight",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Camellia gall",
+                "Camellia leaf blight",
+                "Camellia yellow mottle virus",
+                "Camellia petal blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "camellia_gall": "https://www.rhs.org.uk/disease/camellia-gall",
+                "camellia_leaf_blight": "https://www.rhs.org.uk/disease/camellia-leaf-blight",
+                "camellia_yellow_mottle_virus": "https://www.rhs.org.uk/disease/camellia-viruses",
+                "camellia_petal_blight": "https://www.rhs.org.uk/disease/camellia-flower-blight"
+            }
+        }
+    },
+    "main_name_original": "Thea sinensis",
+    "display_name": "Tea plant"
 }

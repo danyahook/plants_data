@@ -94,18 +94,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun or partial shade; a sunny site will encourage fruiting",
-        "propagation": "Propagate by mallet or basal semi-hardwood cuttings, in summer under mist, or by stooling",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or pruning group 8",
-        "pests": "May be affected by berberis sawfly, which can cause severe defoliation",
-        "diseases": "May be affected by powdery mildews, rust diseases, and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun or partial shade; a sunny site will encourage fruiting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by mallet or basal semi-hardwood cuttings, in summer under mist, or by stooling",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 8",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be affected by berberis sawfly, which can cause severe defoliation",
+            "link_names": [
+                "Berberis sawfly"
+            ],
+            "related_links": {
+                "berberis_sawfly": "https://www.rhs.org.uk/biodiversity/berberis-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and sometimes by honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Berberis linearifolia 'Orange King'",
+    "display_name": "Barberry 'orange king'"
 }

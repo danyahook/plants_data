@@ -93,18 +93,54 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun; thrives in poor, sandy soils",
-        "propagation": "Propagate by seed, sown at 13-18°C in mid-spring; plant out after frosts, taking care to minimise root disturbance. Plants may self-seed in place",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes"
-        ],
-        "pruning": "Deadhead if seed is not required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free, though seedlings can be susceptible to damping off"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun; thrives in poor, sandy soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 13-18°C in mid-spring; plant out after frosts, taking care to minimise root disturbance. Plants may self-seed in place",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead if seed is not required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, though seedlings can be susceptible to damping off",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Portulaca_grandiflora.html",
@@ -219,5 +255,7 @@
             "Leaf miners",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Portulaca grandiflora",
+    "display_name": "Rose moss"
 }

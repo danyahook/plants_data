@@ -108,17 +108,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile well drained soil in full sun or semi shade. In colder areas protect from cold winds and protect in winter with a mulch",
-        "propagation": "Propagate by softwood cuttings in mid summer or semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour, prune to new shoots lower down in spring",
-        "pests": "Maybe susceptible to slugs and snails also chrysanthemum eelworm",
-        "diseases": "Maybe susceptible to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile well drained soil in full sun or semi shade. In colder areas protect from cold winds and protect in winter with a mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in mid summer or semi-hardwood cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour, prune to new shoots lower down in spring",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Maybe susceptible to slugs and snails also chrysanthemum eelworm",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Penstemon 'Electric Blue'",
+    "display_name": ""
 }

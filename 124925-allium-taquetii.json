@@ -89,19 +89,65 @@
         "plant_range": "Japan EC China S Korea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in reasonably fertile well-drained soil with full sun at the front of the border. Further allium cultivation advice",
-        "propagation": "Propagate by seed; sow seed in containers in cold frame as soon as ripe or sow in spring. Divide clumps in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Coastal",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by onion fly",
-        "diseases": "May be affected by onion white rot and downy mildew and occasionally leek rust"
-    }
+        "cultivation": {
+            "text": "Grow in reasonably fertile well-drained soil with full sun at the front of the border. Further allium cultivation advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed; sow seed in containers in cold frame as soon as ripe or sow in spring. Divide clumps in early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Coastal",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by onion fly",
+            "link_names": [
+                "Onion fly"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by onion white rot and downy mildew and occasionally leek rust",
+            "link_names": [
+                "Onion white rot",
+                "Leek rust"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust"
+            }
+        }
+    },
+    "main_name_original": "Allium taquetii",
+    "display_name": "Thunberg garlic"
 }

@@ -87,17 +87,47 @@
         "plant_range": "S Africa (Cape)"
     },
     "how_to_grow": {
-        "cultivation": "Will grow best in sandy /gritty soil with good drainage, preferably in full shade.",
-        "propagation": "Propagate from seed, by division, leaf cuttings and offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning requried",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to root rot"
+        "cultivation": {
+            "text": "Will grow best in sandy /gritty soil with good drainage, preferably in full shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed, by division, leaf cuttings and offsets",
+            "link_names": [
+                "Division",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning requried",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Haworthia_truncata_var._maughanii.html",
@@ -138,5 +168,7 @@
             "Leaf rot",
             "Low light"
         ]
-    }
+    },
+    "main_name_original": "Haworthia truncata var. maughanii",
+    "display_name": ""
 }

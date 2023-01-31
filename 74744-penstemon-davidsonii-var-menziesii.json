@@ -83,20 +83,62 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, gritty, sharply-drained soil in full sun or part shade",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour",
-        "pests": "May be damaged by slugs and snails, may be infested with chrysanthemum eelworm",
-        "diseases": "Powdery mildew may be a problem"
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, gritty, sharply-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be damaged by slugs and snails, may be infested with chrysanthemum eelworm",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildew may be a problem",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Penstemon_davidsonii_var._menziesii.html",
@@ -134,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Penstemon davidsonii var. menziesii",
+    "display_name": "Menzies penstemon"
 }

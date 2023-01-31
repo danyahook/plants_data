@@ -105,18 +105,58 @@
         "plant_range": "Morocco"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained slightly acidic soil. Partial shade will prevent the sun bleaching colour from the leaves",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Gravel garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and adelgids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained slightly acidic soil. Partial shade will prevent the sun bleaching colour from the leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Gravel garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids and aphids",
+            "link_names": [
+                "Adelgids",
+                "Aphids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, but may be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Abies pinsapo var. marocana",
+    "display_name": "Moroccan fir"
 }

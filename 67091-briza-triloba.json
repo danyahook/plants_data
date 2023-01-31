@@ -85,20 +85,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun",
-        "propagation": "Propagate by sowing seed in spring where plants are to flower, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Prairie planting",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut tatty plants back to ground level in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in spring where plants are to flower, or by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Prairie planting",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut tatty plants back to ground level in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Briza triloba",
+    "display_name": ""
 }

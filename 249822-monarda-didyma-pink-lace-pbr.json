@@ -81,18 +81,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moisture-retentive but well-drained soil in full sun",
-        "propagation": "Propagate by division in spring, before new growth begins, or by basal softwood cuttings in spring; propagation for resale is prohibited without a licence",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, though deadheading may prolong flowering",
-        "pests": "May be affected by slugs, especially in spring",
-        "diseases": "Monardas may be affected by powdery mildews, especially in hot, dry summers; 'Pink Lace' is said to be mildew-resistant"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moisture-retentive but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, before new growth begins, or by basal softwood cuttings in spring; propagation for resale is prohibited without a licence",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, though deadheading may prolong flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, especially in spring",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, especially in hot, dry summers; 'Pink Lace' is said to be mildew-resistant",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Monarda didyma 'Pink Lace'PBR",
+    "display_name": "Bergamot 'pink lace'"
 }

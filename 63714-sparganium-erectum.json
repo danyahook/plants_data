@@ -99,15 +99,45 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a shallow pool margin, to 45cm deep, in full sun or partial shade. Can spread indefinitely if not checked",
-        "propagation": "Propagate by seed sown at 15°C as soon as ripe, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Cut back old leaves and stems in spring",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in a shallow pool margin, to 45cm deep, in full sun or partial shade. Can spread indefinitely if not checked",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 15°C as soon as ripe, or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old leaves and stems in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sparganium_erectum.html",
@@ -162,5 +192,7 @@
             "Leaf scorch",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sparganium erectum",
+    "display_name": "Branched bur reed"
 }

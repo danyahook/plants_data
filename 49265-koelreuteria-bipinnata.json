@@ -84,14 +84,50 @@
         "plant_range": "S.W. China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn. Take root cuttings or graft in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "See pruning group 1; prune only to remove damaged or dead wood when dormant in winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn. Take root cuttings or graft in late winter",
+            "link_names": [
+                "Root cuttings"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 1; prune only to remove damaged or dead wood when dormant in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Koelreuteria_bipinnata.html",
@@ -141,5 +177,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Koelreuteria bipinnata",
+    "display_name": ""
 }

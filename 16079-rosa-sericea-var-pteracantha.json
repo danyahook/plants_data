@@ -95,15 +95,79 @@
         "plant_range": "Himalaya, W China"
     },
     "how_to_grow": {
-        "cultivation": "Suited to a wide range of situations but best in an open site in full sun, where ruby-red young thorns can be appreciated. Grow in moderately fertile, humus-rich, moist but well-drained soil - see rose cultivation. Tolerant of poor soil and shade",
-        "propagation": "Propagate by hardwood cuttings in late summer or autumn or by chip budding in summer. Propagate by seed; species roses can be propagated by seed but need stratification and germination may take two seasons",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 23 (roses)",
-        "pests": "May be susceptible to aphids including rose root aphid, rose leafhopper, scale insects, large rose sawfly, rose leaf-rolling sawfly and rose slugworm",
-        "diseases": "May be subject to black spot, rose dieback, grey mould, rose rust, rose powdery mildew and downy mildew, rose sickness or replant disease and a virus"
-    }
+        "cultivation": {
+            "text": "Suited to a wide range of situations but best in an open site in full sun, where ruby-red young thorns can be appreciated. Grow in moderately fertile, humus-rich, moist but well-drained soil - see rose cultivation. Tolerant of poor soil and shade",
+            "link_names": [
+                "Rose cultivation"
+            ],
+            "related_links": {
+                "rose_cultivation": "https://www.rhs.org.uk/plants/roses/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in late summer or autumn or by chip budding in summer. Propagate by seed; species roses can be propagated by seed but need stratification and germination may take two seasons",
+            "link_names": [
+                "Hardwood",
+                "Chip budding"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 23 (roses)",
+            "link_names": [
+                "Pruning group 23"
+            ],
+            "related_links": {
+                "pruning_group_23": "https://www.rhs.org.uk/plants/roses/shrub/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids including rose root aphid, rose leafhopper, scale insects, large rose sawfly, rose leaf-rolling sawfly and rose slugworm",
+            "link_names": [
+                "Aphids",
+                "Rose root aphid",
+                "Rose leafhopper",
+                "Scale insects",
+                "Large rose sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "rose_root_aphid": "https://www.rhs.org.uk/biodiversity/rose-root-aphids",
+                "rose_leafhopper": "https://www.rhs.org.uk/biodiversity/rose-leafhopper",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "large_rose_sawfly": "https://www.rhs.org.uk/biodiversity/large-rose-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to black spot, rose dieback, grey mould, rose rust, rose powdery mildew and downy mildew, rose sickness or replant disease and a virus",
+            "link_names": [
+                "Rose dieback",
+                "Rose rust",
+                "Rose powdery mildew",
+                "Replant disease",
+                "A virus"
+            ],
+            "related_links": {
+                "rose_dieback": "https://www.rhs.org.uk/problems/rose-dieback",
+                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
+                "rose_powdery_mildew": "https://www.rhs.org.uk/disease/rose-powdery-mildew",
+                "replant_disease": "https://www.rhs.org.uk/prevention-protection/replant-disease",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Rosa sericea var. pteracantha",
+    "display_name": "Winged thorn rose"
 }

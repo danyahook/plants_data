@@ -91,18 +91,54 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an open position in poor to moderately fertile, well-drained soil in full sun",
-        "propagation": "Propagate by seed sown in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Generally disease-free but may be susceptible to powdery mildews and a leaf spot and susceptible to root rot in heavy, wet soils"
+        "cultivation": {
+            "text": "Grow in an open position in poor to moderately fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in early summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to powdery mildews and a leaf spot and susceptible to root rot in heavy, wet soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Oenothera_stricta.html",
@@ -142,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Oenothera stricta",
+    "display_name": "Fragrant evening primrose"
 }

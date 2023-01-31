@@ -100,18 +100,50 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, neutral to slightly acid loam but will tolerate most soils in full sun, partial shade or shade",
-        "propagation": "Propagate by division of rhizomes from midsummer to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
-        "pests": "Generally pest free",
-        "diseases": "Less susceptible to a virus than the species"
+        "cultivation": {
+            "text": "Grow in well-drained, neutral to slightly acid loam but will tolerate most soils in full sun, partial shade or shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes from midsummer to early autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Less susceptible to a virus than the species",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_foetidissima__Variegata_.html",
@@ -148,5 +180,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Iris foetidissima 'Variegata' (v)",
+    "display_name": "Variegated stinking iris"
 }

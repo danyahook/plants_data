@@ -93,13 +93,47 @@
         "plant_range": "US"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well drained soil in full sun sheltered from cold winds as the wood is very brittle.",
-        "propagation": "Sow seeds as soon as ripe in the autumn and keep in cold frame - propagation trees from sed. Take root cuttings in winter.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1 after flowering or in late autumn or early winter.",
-        "pests": "Usually pest free",
-        "diseases": "Usually disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well drained soil in full sun sheltered from cold winds as the wood is very brittle.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Sow seeds as soon as ripe in the autumn and keep in cold frame - propagation trees from sed. Take root cuttings in winter.",
+            "link_names": [
+                "Root cuttings"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 after flowering or in late autumn or early winter.",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Usually pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Cladrastis lutea",
+    "display_name": "Kentucky yellow-wood"
 }

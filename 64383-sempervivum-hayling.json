@@ -87,17 +87,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile gritty soil in full sun. Protect from excessive winter wet. Suitable for rock garden, scree bed, wall crevice, trough or alpine house",
-        "propagation": "Propagate by rooting offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to vine weevil and sempervivum leaf miner",
-        "diseases": "May be affected by a rust"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile gritty soil in full sun. Protect from excessive winter wet. Suitable for rock garden, scree bed, wall crevice, trough or alpine house",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by rooting offsets in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil and sempervivum leaf miner",
+            "link_names": [
+                "Vine weevil",
+                "Sempervivum leaf miner"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "sempervivum_leaf_miner": "https://www.rhs.org.uk/biodiversity/sempervivum-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Sempervivum 'Hayling'",
+    "display_name": "Houseleek 'hayling'"
 }

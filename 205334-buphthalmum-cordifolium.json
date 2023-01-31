@@ -96,15 +96,51 @@
         "plant_range": "C Europe Russia Balkans"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, not too fertile soil in partial shade with shelter from strong wind",
-        "propagation": "Propagate by seed sown in containers as soon as ripe, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut flowering stems down once the flowers have faded",
-        "pests": "Young leaves may be damaged by slugs",
-        "diseases": "Generally problem free"
-    }
+        "cultivation": {
+            "text": "Grow in moist, not too fertile soil in partial shade with shelter from strong wind",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers as soon as ripe, or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut flowering stems down once the flowers have faded",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Young leaves may be damaged by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally problem free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Buphthalmum cordifolium",
+    "display_name": "Yellow ox eye"
 }

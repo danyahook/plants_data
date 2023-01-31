@@ -88,18 +88,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
-        "propagation": "Propagate by division in late summer and early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
-        "pests": "May be susceptible to slugs, snails and vine weevil",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
+            "link_names": [
+                "Hosta cultivation"
+            ],
+            "related_links": {
+                "hosta_cultivation": "https://www.rhs.org.uk/plants/hosta/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in late summer and early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hosta 'Kalamazoo' (v)",
+    "display_name": "Plantain lily 'kalamazoo'"
 }

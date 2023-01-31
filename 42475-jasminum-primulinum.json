@@ -90,14 +90,64 @@
         "plant_range": "W China"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in well-drained soil in a sheltered frost-free area. Under glass grow in loam-based compost in bright filtered light",
-        "propagation": "Propagate by semi-hardwood cuttings or by layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Can get aphids, scale insects and mealybugs under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in well-drained soil in a sheltered frost-free area. Under glass grow in loam-based compost in bright filtered light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or by layering in autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and mealybugs and glasshouse red spider mite under glass",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Mealybugs",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Jasminum primulinum",
+    "display_name": "Primrose jasmine"
 }

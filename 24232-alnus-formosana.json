@@ -91,15 +91,65 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "It is a nitrogen-fixer so can grow on poor soil. Suited to river banks on permanently damp soil in good light. For more information see tree cultivation.",
-        "propagation": "Propagate by hardwood cuttings or seed. For more advice see our information on how to propagate from seed (tree/shrub",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to alder leaf beetle, alder sucker and leaf-mining sawflies",
-        "diseases": "May be susceptible to phytophthora root rot"
+        "cultivation": {
+            "text": "It is a nitrogen-fixer so can grow on poor soil. Suited to river banks on permanently damp soil in good light. For more information see tree cultivation.",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings or seed. For more advice see our information on how to propagate from seed (tree/shrub",
+            "link_names": [
+                "Hardwood",
+                "Propagate from seed (tree/shrub"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to alder leaf beetle, alder sucker and leaf-mining sawflies",
+            "link_names": [
+                "Alder leaf beetle",
+                "Alder sucker"
+            ],
+            "related_links": {
+                "alder_leaf_beetle": "https://www.rhs.org.uk/biodiversity/alder-leaf-beetle",
+                "alder_sucker": "https://www.rhs.org.uk/biodiversity/alder-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora root rot and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Alnus_formosana.html",
@@ -141,5 +191,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Alnus formosana",
+    "display_name": ""
 }

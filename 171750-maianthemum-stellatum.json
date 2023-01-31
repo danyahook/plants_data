@@ -99,18 +99,48 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, lime-free, moist but well-drained soil in partial shade. Shelter from cold winds. Can spread",
-        "propagation": "Propagate by seed in pots in a cold frame in autumn, or by division of rhizomes in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, lime-free, moist but well-drained soil in partial shade. Shelter from cold winds. Can spread",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in autumn, or by division of rhizomes in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Maianthemum_stellatum.html",
@@ -206,5 +236,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Maianthemum stellatum",
+    "display_name": "Star-flowered lily of the valley"
 }

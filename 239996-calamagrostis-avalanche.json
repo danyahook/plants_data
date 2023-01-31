@@ -99,17 +99,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most moist, humus-rich, well-drained fertile soils, but will tolerate all but the poorest soils",
-        "propagation": "Propagate by division in mid-spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems to the ground in early spring before growth resumes",
-        "pests": "Generally pest-free",
-        "diseases": "May be affected by a rust"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most moist, humus-rich, well-drained fertile soils, but will tolerate all but the poorest soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in mid-spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems to the ground in early spring before growth resumes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Calamagrostis 'Avalanche'",
+    "display_name": "Feather reed grass 'avalanche'"
 }

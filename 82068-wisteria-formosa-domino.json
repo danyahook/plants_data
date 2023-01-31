@@ -100,15 +100,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, moist, well-drained soil in sun or semi shade. May be trained into a large tree, on a wall, arch or pergola, or as a free-standing half standard. See wisteria growing guide for more advice",
-        "propagation": "Propagate by layering, softwood cuttings, hardwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning wisteria",
-        "pests": "Can get scale insects including wisteria scale",
-        "diseases": "May be affected by a leaf spot and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, moist, well-drained soil in sun or semi shade. May be trained into a large tree, on a wall, arch or pergola, or as a free-standing half standard. See wisteria growing guide for more advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by layering, softwood cuttings, hardwood cuttings or grafting",
+            "link_names": [
+                "Layering",
+                "Softwood",
+                "Hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning wisteria",
+            "link_names": [
+                "Pruning wisteria"
+            ],
+            "related_links": {
+                "pruning_wisteria": "https://www.rhs.org.uk/plants/wisteria/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Can get scale insects including wisteria scale",
+            "link_names": [
+                "Scale insects",
+                "Wisteria scale"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "wisteria_scale": "https://www.rhs.org.uk/biodiversity/wisteria-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a leaf spot and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Wisteria × formosa Domino",
+    "display_name": "Japanese wisteria 'domino'"
 }

@@ -90,15 +90,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Plant in full sun. Will tolerate most soil types, but best in well-drained or moist but well-drained soils",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 1. Prune in summer to avoid silver leaf",
-        "pests": "May be susceptible to cherry blackfly and other aphids, leaf-mining moths and caterpillars",
-        "diseases": "May be susceptible to silver leaf, blossom wilt and bacterial canker"
-    }
+        "cultivation": {
+            "text": "Plant in full sun. Will tolerate most soil types, but best in well-drained or moist but well-drained soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in summer to avoid silver leaf",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to cherry blackfly and other aphids, leaf-mining moths and caterpillars",
+            "link_names": [
+                "Cherry blackfly",
+                "Aphids"
+            ],
+            "related_links": {
+                "cherry_blackfly": "https://www.rhs.org.uk/biodiversity/cherry-blackfly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus Frilly Frock ('Fpmspl') (v)",
+    "display_name": "Weeping cherry [frilly frock]"
 }

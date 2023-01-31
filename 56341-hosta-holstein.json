@@ -92,17 +92,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil with shelter from cold, dry winds. Best in slightly acid or neutral soils; it will grow in alkaline soils if enriched but shallow, chalky soils can cause leaves to yellow. Partial shade is best but it can tolerate some sun if the soil is kept moist. Mulch in spring",
-        "propagation": "Propagate by division in late summer or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by slugs, snails and vine weevil",
-        "diseases": "May be subject to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil with shelter from cold, dry winds. Best in slightly acid or neutral soils; it will grow in alkaline soils if enriched but shallow, chalky soils can cause leaves to yellow. Partial shade is best but it can tolerate some sun if the soil is kept moist. Mulch in spring",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in late summer or early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hosta 'Holstein'",
+    "display_name": "Plantain lily 'halcyon'"
 }

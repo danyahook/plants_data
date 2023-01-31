@@ -98,15 +98,69 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best in partial shade but tolerates full sun, thrives in any moist but well-drained soil",
-        "propagation": "Propagate by layering, hardwood cuttings or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 after flowering",
-        "pests": "May get aphids and thrips",
-        "diseases": "May be affected by powdery mildew"
-    }
+        "cultivation": {
+            "text": "Best in partial shade but tolerates full sun, thrives in any moist but well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by layering, hardwood cuttings or semi-hardwood cuttings",
+            "link_names": [
+                "Layering",
+                "Hardwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 after flowering",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, fungal leaf spot, silver leaf and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lonicera × grata",
+    "display_name": "American woodbine"
 }

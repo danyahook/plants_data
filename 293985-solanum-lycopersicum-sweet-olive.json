@@ -87,17 +87,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "This bush (determinate) tomato is ideal for outdoor cultivation. For detailed cultivation advice see Tomatoes",
-        "propagation": "Propagate by seed; for detailed propagating advice see Tomatoes",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Conservatory and greenhouse",
-            "Edible fruit"
-        ],
-        "pruning": "For detailed pruning and training advice see Tomatoes",
-        "pests": "May be susceptible to glasshouse whitefly and tomato moth",
-        "diseases": "May be susceptible to tomato leaf mould, tomato blight and tomato viruses; see also Tomatoes: leaf problems"
-    }
+        "cultivation": {
+            "text": "This bush (determinate) tomato is ideal for outdoor cultivation. For detailed cultivation advice see Tomatoes",
+            "link_names": [
+                "Tomatoes"
+            ],
+            "related_links": {
+                "tomatoes": "https://www.rhs.org.uk/vegetables/tomatoes/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed; for detailed propagating advice see Tomatoes",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Conservatory and greenhouse",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "For detailed pruning and training advice see Tomatoes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and tomato moth",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to tomato leaf mould, tomato blight and tomato viruses; see also Tomatoes: leaf problems",
+            "link_names": [
+                "Tomato",
+                "Tomato",
+                "Tomato",
+                "Tomatoes: leaf problems"
+            ],
+            "related_links": {
+                "tomato": "https://www.rhs.org.uk/problems/tomatoes-leaf-problems",
+                "tomatoes:_leaf_problems": "https://www.rhs.org.uk/problems/tomatoes-leaf-problems"
+            }
+        }
+    },
+    "main_name_original": "Solanum lycopersicum 'Sweet Olive'",
+    "display_name": "Tomato (plum) 'sweet olive'"
 }

@@ -89,17 +89,51 @@
         "plant_range": "C Americas"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based compost, in full light with shade from hot sun and moderate humidity. Water freely in summer but keep just moist in winter. During growth apply a balanced liquid fertiliser monthly. Can be grown outdoors in moderately fertile, moist but well-drained soil in full sun in a sheltered frost-free area",
-        "propagation": "Propagate by seed, sown at 18-24°C in spring or strike semi-hardwood cuttings in summer with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1. Plants grown under glass may need restrictive pruning in late winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Under glass grow in loam-based compost, in full light with shade from hot sun and moderate humidity. Water freely in summer but keep just moist in winter. During growth apply a balanced liquid fertiliser monthly. Can be grown outdoors in moderately fertile, moist but well-drained soil in full sun in a sheltered frost-free area",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 18-24°C in spring or strike semi-hardwood cuttings in summer with bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Plants grown under glass may need restrictive pruning in late winter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Senna_corymbosa.html",
@@ -162,5 +196,7 @@
             "Flower withering",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Senna corymbosa",
+    "display_name": "Flowery senna"
 }

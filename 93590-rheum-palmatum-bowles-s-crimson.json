@@ -82,16 +82,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Requires a moist but well-draining site so benefits from mulching",
-        "propagation": "Propagate by division in Spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead spent flower spikes",
-        "pests": "Generally trouble-free but may suffer from blackfly (black aphid) attack",
-        "diseases": "Generally trouble-free"
-    }
+        "cultivation": {
+            "text": "Requires a moist but well-draining site so benefits from mulching",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in Spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flower spikes",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble-free but may suffer from blackfly (black aphid) attack",
+            "link_names": [
+                "Blackfly (black aphid)"
+            ],
+            "related_links": {
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rheum palmatum 'Bowles's Crimson'",
+    "display_name": "Rhubarb 'bowles's crimson'"
 }

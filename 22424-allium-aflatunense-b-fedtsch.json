@@ -78,21 +78,61 @@
         "plant_range": "C Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun. See allium cultivation for further advice",
-        "propagation": "Propagate by seed in containers in a cold frame, when ripe or in spring; propagate by removing offsets in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Architectural",
-            "Gravel garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Tidy as leaves fade, remove seedheads if self-seeding not needed",
-        "pests": "May be affected by allium leaf mining flies",
-        "diseases": "Susceptible to onion white rot and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun. See allium cultivation for further advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame, when ripe or in spring; propagate by removing offsets in autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Architectural",
+                "Gravel garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy as leaves fade, remove seedheads if self-seeding not needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to allium leaf mining flies",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to onion white rot and downy mildews",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium aflatunense B. Fedtsch.",
+    "display_name": ""
 }

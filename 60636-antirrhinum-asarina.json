@@ -93,19 +93,53 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Good shade plant for trailing on rock gardens, raised beds or banks",
-        "propagation": "Propagate by seed or tip cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden",
-            "Banks and slopes",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Good shade plant for trailing on rock gardens, raised beds or banks",
+            "link_names": [
+                "Raised beds"
+            ],
+            "related_links": {
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or tip cuttings",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden",
+                "Banks and slopes",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Antirrhinum asarina",
+    "display_name": "Trailing snapdragon"
 }

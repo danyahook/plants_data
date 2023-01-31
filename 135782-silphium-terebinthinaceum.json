@@ -91,17 +91,47 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, deep, neutral to slightly alkaline soil in full sun or partial shade; best in heavy soil",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Architectural",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "May be cut back after flowering, or leave architectural stems until shortly before new growth begins the following season",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in moist, deep, neutral to slightly alkaline soil in full sun or partial shade; best in heavy soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Architectural",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "May be cut back after flowering, or leave architectural stems until shortly before new growth begins the following season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Silphium_terebinthinaceum.html",
@@ -152,5 +182,7 @@
             "Leaf rot",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Silphium terebinthinaceum",
+    "display_name": "Prairie burdock"
 }

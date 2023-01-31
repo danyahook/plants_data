@@ -90,17 +90,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows in a range of soils that retain moisture, in fertile moist but well-drained soil in full sun or part shade or in wet soils. Ideal for growing along pond margins. See ornamental grasses cultivation and bog gardening",
-        "propagation": "Propagate by seed in early spring or by division in mid spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Cut out any dead leaves on evergreen species in summer",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grows in a range of soils that retain moisture, in fertile moist but well-drained soil in full sun or part shade or in wet soils. Ideal for growing along pond margins. See ornamental grasses cultivation and bog gardening",
+            "link_names": [
+                "Ornamental grasses cultivation",
+                "Bog gardening"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental",
+                "bog_gardening": "https://www.rhs.org.uk/garden-design/bog-gardens"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring or by division in mid spring to early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out any dead leaves on evergreen species in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carex_secta.html",
@@ -144,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Carex secta",
+    "display_name": ""
 }

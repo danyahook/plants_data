@@ -93,18 +93,68 @@
         "plant_range": "Middle East, Burma, China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or part shade, best in a sheltered spot. See Jasmine cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in summer or layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 2 or can be trained as a wall shrub",
-        "pests": "May be susceptible to aphids and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or part shade, best in a sheltered spot. See Jasmine cultivation",
+            "link_names": [
+                "Jasmine cultivation"
+            ],
+            "related_links": {
+                "jasmine_cultivation": "https://www.rhs.org.uk/plants/jasmine"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer or layering in autumn",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2 or can be trained as a wall shrub",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and mealybugs",
+            "link_names": [
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Jasminum humile",
+    "display_name": "Italian yellow jasmine"
 }

@@ -91,14 +91,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant in most moist but well-drained fertile soil in sun or partial shade.",
-        "propagation": "Propagate by cuttings - softwood, semi-ripe or hardwood.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Once established prune out older woody stems in mid summer to encourage production of new wood for future flowering.",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Plant in most moist but well-drained fertile soil in sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by cuttings - softwood, semi-ripe or hardwood.",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Once established prune out older woody stems in mid summer to encourage production of new wood for future flowering.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, capsid bug and brown scale",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Capsid bug",
+                "Brown scale"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Weigela 'Nana Variegata' (v)",
+    "display_name": "Weigela 'nana variegata'"
 }

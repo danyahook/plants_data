@@ -83,16 +83,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, moist, fertile soil, ideally in a sunny position. Mulch with organic matter in early spring. Needs plenty of space",
-        "propagation": "Propagate by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead spent flower spikes, cut back faded leaves at the end of the season",
-        "pests": "May be susceptible to slugs and blackfly (black aphid)",
-        "diseases": "May be susceptible to crown rot, honey fungus and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in deep, moist, fertile soil, ideally in a sunny position. Mulch with organic matter in early spring. Needs plenty of space",
+            "link_names": [
+                "Mulch",
+                "Organic matter"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flower spikes, cut back faded leaves at the end of the season",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and blackfly (black aphid)",
+            "link_names": [
+                "Slugs",
+                "Blackfly (black aphid)"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to crown rot, honey fungus and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Rheum palmatum 'Red Herald'",
+    "display_name": ""
 }

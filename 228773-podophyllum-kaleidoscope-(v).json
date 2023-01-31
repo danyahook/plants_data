@@ -93,21 +93,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, leafy, moist soil in full or partial shade, sheltered from wind",
-        "propagation": "Propagate by division in spring or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Architectural",
-            "Cottage and informal garden",
-            "Sub-tropical",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Emerging leaves may be damaged by slugs and snails",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in humus-rich, leafy, moist soil in full or partial shade, sheltered from wind",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Architectural",
+                "Cottage and informal garden",
+                "Sub-tropical",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Emerging leaves may be damaged by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Podophyllum 'Kaleidoscope' (v)",
+    "display_name": "Mayapple 'kaleidoscope'"
 }

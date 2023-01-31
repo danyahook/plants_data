@@ -85,17 +85,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile soil in a sheltered site in full sun, planting out once the danger of frosts has passed. See canna cultivation for further information",
-        "propagation": "Propagate by division of rhizomes in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Leave to die back in autumn",
-        "pests": "Generally trouble free but may be attacked by glasshouse red spider mite, aphids and caterpillars",
-        "diseases": "May be affected by Canna viruses"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile soil in a sheltered site in full sun, planting out once the danger of frosts has passed. See canna cultivation for further information",
+            "link_names": [
+                "Canna cultivation"
+            ],
+            "related_links": {
+                "canna_cultivation": "https://www.rhs.org.uk/plants/canna/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Coastal",
+                "Sub-tropical",
+                "Flower borders and beds",
+                "Bedding",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Leave to die back in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, aphids and caterpillars but generally pest free",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Canna viruses",
+            "link_names": [
+                "Canna viruses"
+            ],
+            "related_links": {
+                "canna_viruses": "https://www.rhs.org.uk/disease/canna-viruses"
+            }
+        }
+    },
+    "main_name_original": "Canna 'Panache'",
+    "display_name": ""
 }

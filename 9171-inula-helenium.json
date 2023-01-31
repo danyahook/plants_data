@@ -93,17 +93,49 @@
         "plant_range": "W & C Asia"
     },
     "how_to_grow": {
-        "cultivation": "It prefers deep, rich, moisture-retentive soil in full sun or partial shade. May need support if planted in windy situation",
-        "propagation": "Propagate by division in autumn or spring. Take basal softwood cuttings in spring. Propagate by seed in spring; germinate at 10°C (50°F)",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "Trim back faded foliage in the autumn or early spring",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "It prefers deep, rich, moisture-retentive soil in full sun or partial shade. May need support if planted in windy situation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring. Take basal softwood cuttings in spring. Propagate by seed in spring; germinate at 10°C (50°F)",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back faded foliage in the autumn or early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Inula_helenium.html",
@@ -165,5 +197,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Inula helenium",
+    "display_name": "Elecampane"
 }

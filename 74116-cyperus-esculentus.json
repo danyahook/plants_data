@@ -96,14 +96,46 @@
         "plant_range": "Trop & subtrop."
     },
     "how_to_grow": {
-        "cultivation": "Grow in moisture-retentive soil, can be grown as bog plant in sun or light shade. Can be grown in large containers to prevent spread of invasive roots",
-        "propagation": "Propagate by division or by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Cut back dead material in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moisture-retentive soil, can be grown as bog plant in sun or light shade. Can be grown in large containers to prevent spread of invasive roots",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or by seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back dead material in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cyperus_esculentus.html",
@@ -245,5 +277,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cyperus esculentus",
+    "display_name": "Yellow nutsedge"
 }

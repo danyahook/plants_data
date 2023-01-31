@@ -94,19 +94,61 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil, except shallow chalk, in sun or partial shade. Is especially useful as a heding or screening plant in coastal areas",
-        "propagation": "Propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Generally pest-free but may be susceptible to elaeagnus sucker",
-        "diseases": "May be susceptible to coral spot or leaf spot (fungal) see leaf damage on woody plants"
+        "cultivation": {
+            "text": "Grow in any well-drained soil, except shallow chalk, in sun or partial shade. Is especially useful as a heding or screening plant in coastal areas",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to elaeagnus sucker",
+            "link_names": [
+                "Elaeagnus sucker"
+            ],
+            "related_links": {
+                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, coral spot or leaf spot (fungal) see leaf damage on woody plants",
+            "link_names": [
+                "Honey fungus",
+                "Coral spot"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Elaeagnus_pungens.html",
@@ -172,5 +214,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Elaeagnus pungens",
+    "display_name": "Silverthorn"
 }

@@ -86,17 +86,69 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well drained soil. Most soil types suitable but thrives in alkaline soils. Tolerant of partial shade but will fruit better if grown in full sun. Suitable for container cultivation",
-        "propagation": "Remove and transplant runners. Propagate by seed, sowing at 13-18C in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Edible fruit"
-        ],
-        "pruning": "Remove excess runners",
-        "pests": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
-        "diseases": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well drained soil. Most soil types suitable but thrives in alkaline soils. Tolerant of partial shade but will fruit better if grown in full sun. Suitable for container cultivation",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Remove and transplant runners. Propagate by seed, sowing at 13-18C in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Fragaria vesca 'Reine des Vallées' (F)",
+    "display_name": ""
 }

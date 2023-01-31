@@ -87,19 +87,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun and a well-drained soil",
-        "propagation": "Propagate by seed sown with heat in spring, or by division in spring as growth begins",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut down stems after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows best in full sun and a well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown with heat in spring, or by division in spring as growth begins",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust and honey fungus",
+            "link_names": [
+                "A rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Senecio polyodon",
+    "display_name": "Pink ragwort"
 }

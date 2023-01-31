@@ -93,19 +93,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile soil, that is not waterlogged, in full sun or partial shade",
-        "propagation": "Propagate by division in spring or take basal cuttings in early to mid spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May get vine weevil, capsid bug and Geranium sawfly",
-        "diseases": "May be affected by a downy mildew and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile soil, that is not waterlogged, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or take basal cuttings in early to mid spring and root with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May get vine weevil, capsid bug and Geranium sawfly",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug",
+                "Geranium sawfly"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a downy mildew and powdery mildews",
+            "link_names": [
+                "A downy mildew",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium 'Bloger'",
+    "display_name": "Bloody cranesbill [alan bloom]"
 }

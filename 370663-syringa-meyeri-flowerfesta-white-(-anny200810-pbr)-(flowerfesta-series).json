@@ -87,16 +87,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile,humus rich soil well-drained,neutral to alkaline soil in full sun. Mulch regularly. Dead head regularly before seed sets.",
-        "propagation": "Propagate by soft wood cuttings or layering in mid summer. Graft in winter, or chip budding in summer.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1, little or no pruning required",
-        "pests": "May be susceptible to leaf miners, thrips and willow scale",
-        "diseases": "May be susceptible to lilac leaf blight and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile,humus rich soil well-drained,neutral to alkaline soil in full sun. Mulch regularly. Dead head regularly before seed sets.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by soft wood cuttings or layering in mid summer. Graft in winter, or chip budding in summer.",
+            "link_names": [
+                "Layering",
+                "Chip budding"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, little or no pruning required",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf miners, thrips and willow scale",
+            "link_names": [
+                "Thrips"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac leaf blight and honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Syringa meyeri Flowerfesta White ('Anny200810'PBR) (Flowerfesta Series)",
+    "display_name": "Korean lilac [flowerfesta white]"
 }

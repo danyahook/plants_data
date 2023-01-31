@@ -94,18 +94,72 @@
         "plant_range": "E Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade with shelter from cold drying winds",
-        "propagation": "Propagate by seed in containers in a cold frame in spring; propagate by softwood cuttings in early summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 or Pruning group 6",
-        "pests": "Aphids, capsid bug, vine weevil and hydrangea scale may be a problem",
-        "diseases": "May be subject to a leaf spot, powdery mildew, grey moulds (Botrytis) and honey fungus"
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade with shelter from cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring; propagate by softwood cuttings in early summer or hardwood cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or Pruning group 6",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug, hydrangea scale and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrangea_paniculata.html",
@@ -180,5 +234,7 @@
             "Petal blight",
             "Caterpillars"
         ]
-    }
+    },
+    "main_name_original": "Hydrangea paniculata",
+    "display_name": "Paniculate hydrangea"
 }

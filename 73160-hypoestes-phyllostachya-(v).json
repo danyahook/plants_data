@@ -101,14 +101,50 @@
         "plant_range": "S Africa, Madagascar, SE Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow indoors in loam-based potting compost in bright, filtered light, with moderate to high humidity. Water freely in growth and sparingly in winter. Apply a balanced liquid fertiliser every 2-3 weeks in summer",
-        "propagation": "Propagate by seed, softwood cuttings in late spring, or semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Pinch out the growing tips to promote a bushy habit",
-        "pests": "Generally pest free",
-        "diseases": "Powdery mildews can occur"
+        "cultivation": {
+            "text": "Grow indoors in loam-based potting compost in bright, filtered light, with moderate to high humidity. Water freely in growth and sparingly in winter. Apply a balanced liquid fertiliser every 2-3 weeks in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings in late spring, or semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out the growing tips to promote a bushy habit",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews can occur",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hypoestes_phyllostachya.html",
@@ -158,5 +194,7 @@
             "Plant dried up",
             "Leaf deformity"
         ]
-    }
+    },
+    "main_name_original": "Hypoestes phyllostachya (v)",
+    "display_name": "Polka dot plant"
 }

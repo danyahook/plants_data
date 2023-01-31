@@ -89,15 +89,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "In frost-free areas grow outdoors in moist but well-drained soil in partial shade, with shelter from cold drying winds. Alternatively grow under glass in loam-based compost with added sharp sand in bright, filtered light. Good in hanging baskets",
-        "propagation": "Propagate by seed or from softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 12",
-        "pests": "May be attacked by glasshouse red spider mite and glasshouse whitefly under glass",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "In frost-free areas grow outdoors in moist but well-drained soil in partial shade, with shelter from cold drying winds. Alternatively grow under glass in loam-based compost with added sharp sand in bright, filtered light. Good in hanging baskets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or from softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 12",
+            "link_names": [
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse red spider mite and glasshouse whitefly under glass",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Kennedia_prostrata.html",
@@ -136,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Kennedia prostrata",
+    "display_name": "Running postman"
 }

@@ -98,15 +98,59 @@
         "plant_range": "Iberian Peninsula"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in any moist but well-drained moderately fertile soil in sun or partial shade. Superb hedging shrub and even thrives on poor, shallow, chalky soils",
-        "propagation": "Propagate by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8 including hedges pruned in late spring or early summer",
-        "pests": "Leaves may be damaged by vine weevil and leaf-mining moths",
-        "diseases": "May be affected by powdery mildews. High Risk Host for Xylella fastidiosa"
+        "cultivation": {
+            "text": "Easy to grow in any moist but well-drained moderately fertile soil in sun or partial shade. Superb hedging shrub and even thrives on poor, shallow, chalky soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 including hedges pruned in late spring or early summer",
+            "link_names": [
+                "Pruning group 8",
+                "Hedges"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Leaves may be damaged by vine weevil and leaf-mining moths",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews. High Risk Host for Xylella fastidiosa",
+            "link_names": [
+                "Powdery mildews",
+                "High risk host for xylella fastidiosa"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Prunus_lusitanica.html",
@@ -165,5 +209,7 @@
             "Aged yellow and dry",
             "Shot hole disease"
         ]
-    }
+    },
+    "main_name_original": "Prunus lusitanica",
+    "display_name": "Portugal laurel"
 }

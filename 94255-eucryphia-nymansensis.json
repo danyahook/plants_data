@@ -83,15 +83,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in fertile, moist but well-drained, neutral to acid soil but tolerant of alkaline soil. Situate in full sun with shelter from cold, drying winds",
-        "propagation": "Take semi-ripe cuttings in summer and overwinter young plants in a cool greenhouse. Root softwood cuttings with bottom heat of 19-21°C (65-70°F)",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 9",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Best grown in fertile, moist but well-drained, neutral to acid soil but tolerant of alkaline soil. Situate in full sun with shelter from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Take semi-ripe cuttings in summer and overwinter young plants in a cool greenhouse. Root softwood cuttings with bottom heat of 19-21°C (65-70°F)",
+            "link_names": [
+                "Semi-ripe",
+                "Softwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 9",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Eucryphia × nymansensis",
+    "display_name": "Nymans eucryphia"
 }

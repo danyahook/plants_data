@@ -96,19 +96,67 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil sheltered from cold, drying winds. Makes a good wall shrub. See ceanothus cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Banks and slopes",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8 or pruning group 13 if wall trained",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil sheltered from cold, drying winds. Makes a good wall shrub. See ceanothus cultivation",
+            "link_names": [
+                "Ceanothus cultivation"
+            ],
+            "related_links": {
+                "ceanothus_cultivation": "https://www.rhs.org.uk/plants/ceanothus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Banks and slopes",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 13 if wall trained",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ceanothus rigidus var. grandifolius",
+    "display_name": "Glory mat"
 }

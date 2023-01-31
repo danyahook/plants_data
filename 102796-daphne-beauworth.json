@@ -96,17 +96,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus rich soil in full sun to partial shade. See daphne cultivation for further information",
-        "propagation": "Propagate by semi-ripe heel cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "See pruning groups 1 and 8; keep pruning to a minimum",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to Phytophthora root rot, fungal leaf spot and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus rich soil in full sun to partial shade. See daphne cultivation for further information",
+            "link_names": [
+                "Daphne cultivation"
+            ],
+            "related_links": {
+                "daphne_cultivation": "https://www.rhs.org.uk/plants/daphne/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe heel cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning groups 1 and 8; keep pruning to a minimum",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Daphne 'Beauworth'",
+    "display_name": "Daphne 'beauworth'"
 }

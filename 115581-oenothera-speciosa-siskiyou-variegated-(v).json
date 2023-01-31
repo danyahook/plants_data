@@ -98,21 +98,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an average to rich, well-drained soil in full sun or light shade. A vigorous spreader and can be difficult to eradicate once established so position carefully",
-        "propagation": "Propagate by division in spring or by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Generally disease-free but may be susceptible to powdery mildews and a leaf spot and susceptible to root rot in heavy, wet soils"
-    }
+        "cultivation": {
+            "text": "Grow in an average to rich, well-drained soil in full sun or light shade. A vigorous spreader and can be difficult to eradicate once established so position carefully",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or by softwood cuttings",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to powdery mildews and a leaf spot and susceptible to root rot in heavy, wet soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Oenothera speciosa 'Siskiyou' variegated (v)",
+    "display_name": ""
 }

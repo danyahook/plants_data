@@ -93,15 +93,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil, will benefit from some shade where summers are hot",
-        "propagation": "Propagate by seed, sown in containers in a cold frame in autumn or spring, or by division in spring. This species spreads naturally by creeping rhizomes",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to encourage new flowers",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil, will benefit from some shade where summers are hot",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in containers in a cold frame in autumn or spring, or by division in spring. This species spreads naturally by creeping rhizomes",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to encourage new flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polemonium_reptans.html",
@@ -155,5 +193,7 @@
             "Leaf miners",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Polemonium reptans",
+    "display_name": "Creeping jacob's ladder"
 }

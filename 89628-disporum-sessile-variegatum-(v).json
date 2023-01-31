@@ -91,17 +91,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a cool, moist but well-drained, humus-rich soil in partial shade",
-        "propagation": "Propagate by division of rhizomes in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and vine weevils may be troublesome",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a cool, moist but well-drained, humus-rich soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and vine weevils may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Disporum sessile 'Variegatum' (v)",
+    "display_name": "Fairy bells 'variegatum'"
 }

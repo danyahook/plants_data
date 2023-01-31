@@ -97,14 +97,60 @@
         "plant_range": "China, Japan"
     },
     "how_to_grow": {
-        "cultivation": "May be grown outdoors in pots and containers in moist but well-drained soil in partial or light dappled shade in a frost free site, but this must be in a sheltered, frost-free warm area. Best to bring indoors if temperature dips below about 6°C. Otherwise, grow under glass in lime-free soil in bright filtered light in moderate humidity",
-        "propagation": "Propagate by seed, greenwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Prone to glasshouse whitefly and mealybugs under glass",
-        "diseases": "May be affected by glasshouse grey mould"
+        "cultivation": {
+            "text": "May be grown outdoors in pots and containers in moist but well-drained soil in partial or light dappled shade in a frost free site, but this must be in a sheltered, frost-free warm area. Best to bring indoors if temperature dips below about 6°C. Otherwise, grow under glass in lime-free soil in bright filtered light in moderate humidity",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, greenwood or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Greenwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Prone to glasshouse whitefly and mealybugs under glass",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by glasshouse grey mould",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gardenia_jasminoides.html",
@@ -270,5 +316,7 @@
             "Aged yellow and dry",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Gardenia jasminoides",
+    "display_name": "Cape jasmine"
 }

@@ -85,15 +85,67 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a gritty, sharply-drained soil in full sun",
-        "propagation": "Propagate by seed or from softwood or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "Deadhead after flowering",
-        "pests": "Slugs, snails, aphids and leaf and bud eelworms",
-        "diseases": "Grey mould, powdery mildews and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in a gritty, sharply-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or from softwood or semi-ripe cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs, snails, aphids and leaf and bud eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Grey mould, powdery mildews and fungal leaf spot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon alpinus",
+    "display_name": ""
 }

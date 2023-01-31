@@ -90,17 +90,49 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Ideally grown where it may scramble through a shrub or hedge in moisture-retentive fertile soil in part shade. Sun and most soils are tolerated",
-        "propagation": "Propagate by seed. Use protective gloves when handling any part of the plant",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back in winter",
-        "pests": "Generally pest-free but may be susceptible to aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Ideally grown where it may scramble through a shrub or hedge in moisture-retentive fertile soil in part shade. Sun and most soils are tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed. Use protective gloves when handling any part of the plant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aconitum_hemsleyanum.html",
@@ -146,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aconitum hemsleyanum",
+    "display_name": "Climbing monk's hood"
 }

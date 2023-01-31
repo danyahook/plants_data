@@ -90,18 +90,60 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, light, well-drained soil in a sheltered position in full sun",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "May be susceptible to capsid bug",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, light, well-drained soil in a sheltered position in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bug",
+            "link_names": [
+                "Capsid bug"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Caryopteris × clandonensis",
+    "display_name": ""
 }

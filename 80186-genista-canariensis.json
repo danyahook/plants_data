@@ -106,14 +106,54 @@
         "plant_range": "Canary Islands"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in well-drained soil in full sun. Provide shelter from cold drying winds. Will thrive in poor acid soil; lime tolerant but may look chlorotic.",
-        "propagation": "Propagate by seed or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1. Will not tolerate hard pruning. New growth will not rejuvenate from old wood",
-        "pests": "Can get aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in well-drained soil in full sun. Provide shelter from cold drying winds. Will thrive in poor acid soil; lime tolerant but may look chlorotic.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Will not tolerate hard pruning. New growth will not rejuvenate from old wood",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Genista canariensis",
+    "display_name": "Florists' genista"
 }

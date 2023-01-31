@@ -94,13 +94,65 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a house or conservatory plant in cool climates, using a loam-based compost. Position in full light with protection from very hot summer sun. Feed monthly during the growing season using a balanced liquid fertiliser. See houseplant cultivation for further information",
-        "propagation": "Propagate by semi-ripe cuttings or by removing suckers in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required, although weak stems can be shortened to 15cm in spring",
-        "pests": "May be susceptible to glasshouse red spider mite, thrips, scale insects and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow as a house or conservatory plant in cool climates, using a loam-based compost. Position in full light with protection from very hot summer sun. Feed monthly during the growing season using a balanced liquid fertiliser. See houseplant cultivation for further information",
+            "link_names": [
+                "Houseplant cultivation"
+            ],
+            "related_links": {
+                "houseplant_cultivation": "https://www.rhs.org.uk/plants/types/houseplants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings or by removing suckers in summer",
+            "link_names": [
+                "Semi-ripe",
+                "Suckers"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, although weak stems can be shortened to 15cm in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, thrips, scale insects and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Thrips",
+                "Scale insects",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to cordyline slime flux and honey fungus (rarely)",
+            "link_names": [
+                "Cordyline slime flux",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cordyline_slime_flux": "https://www.rhs.org.uk/disease/cordyline-slime-flux",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cordyline fruticosa 'Guilfoylei'",
+    "display_name": "Cabbage palm 'guilfoylei'"
 }

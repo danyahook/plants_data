@@ -85,17 +85,53 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or part shade, in fertile moisture retentive, well-drained soil. Good for dry shade",
-        "propagation": "Propagate from seed or division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down spent flower stems when flowering is finished",
-        "pests": "May be susceptible to slugs and snails, especially young growth",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun or part shade, in fertile moisture retentive, well-drained soil. Good for dry shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed or division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down spent flower stems when flowering is finished",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, especially young growth",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Leucosceptrum stellipilum var. formosanum",
+    "display_name": ""
 }

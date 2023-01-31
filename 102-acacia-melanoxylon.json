@@ -104,17 +104,67 @@
         "plant_range": "S Australia"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in neutral to acid well-drained soil in sheltered location with full sun. Suits courtyard and urban gardens in milder locations, but will need winter protection elsewhere. Under glass, grow in ericaceous or loam-based compost (peat-free JI No.2) in full light. Resents hard pruning. For more advice see tree cultivation",
-        "propagation": "Propagate by semi-ripe cuttings or seed. For advice see propagation from seed (tree/shrub",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow outdoors in neutral to acid well-drained soil in sheltered location with full sun. Suits courtyard and urban gardens in milder locations, but will need winter protection elsewhere. Under glass, grow in ericaceous or loam-based compost (peat-free JI No.2) in full light. Resents hard pruning. For more advice see tree cultivation",
+            "link_names": [
+                "Winter protection",
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings or seed. For advice see propagation from seed (tree/shrub",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Acacia_melanoxylon.html",
@@ -167,5 +217,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Acacia melanoxylon",
+    "display_name": "Australian blackwood"
 }

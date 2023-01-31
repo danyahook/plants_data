@@ -85,22 +85,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a bulb frame or alpine house in a mix of equal parts loam, leaf mould and sharp sand or grit. Water freely in the growing season and apply a low-nitrogen fertiliser monthly. Keep completely dry in summer dormancy",
-        "propagation": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Corms are vulnerable to mice, voles and squirrels",
-        "diseases": "Corms in storage may be subject to rots and moulds"
-    }
+        "cultivation": {
+            "text": "Grow in a bulb frame or alpine house in a mix of equal parts loam, leaf mould and sharp sand or grit. Water freely in the growing season and apply a low-nitrogen fertiliser monthly. Keep completely dry in summer dormancy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Corms are vulnerable to mice, voles and squirrels",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Corms in storage may be subject to rots and moulds",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Crocus sativus subsp. cartwrightianus 'Albus'",
+    "display_name": "White wild saffron"
 }

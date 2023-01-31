@@ -91,14 +91,54 @@
         "plant_range": "Temp. N. Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "A dwarf, prostrate, slow-growing shrub for sun or partial shade",
-        "propagation": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "No regular pruning required",
-        "pests": "Can get aphids, caterpillars, leaf beetles and sawflies",
-        "diseases": "May be subject to a rust"
+        "cultivation": {
+            "text": "A dwarf, prostrate, slow-growing shrub for sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No regular pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
+            "link_names": [
+                "Willow anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salix_reticulata.html",
@@ -143,5 +183,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Salix reticulata",
+    "display_name": "Netleaf willow"
 }

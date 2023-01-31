@@ -90,17 +90,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an average to rich, well-drained soil in full sun or light shade",
-        "propagation": "Propagate by seed sown in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Generally disease-free but may be affected by leaf spot, powdery mildews and downy mildews; root rot may be a problem in rich, wet, heavy soil"
-    }
+        "cultivation": {
+            "text": "Grow in an average to rich, well-drained soil in full sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in early summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot, powdery mildews and downy mildews; root rot may be a problem in rich, wet, heavy soil. Generally disease-free",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Oenothera versicolor",
+    "display_name": ""
 }

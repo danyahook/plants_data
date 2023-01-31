@@ -94,17 +94,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in frost-free conditions in light, well-drained soil in full sun",
-        "propagation": "Propagate by softwood cuttings and overwinter young plants under glass in frost-free conditions",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "May be attacked by aphids and slugs",
-        "diseases": "May be affected by fungal foot rot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in frost-free conditions in light, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings and overwinter young plants under glass in frost-free conditions",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by fungal foot rot and a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Petunia Designer Buzz Purple ('Kerbuzzby'PBR) (Designer Series)",
+    "display_name": "Petunia [designer buzz purple]"
 }

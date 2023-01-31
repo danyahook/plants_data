@@ -87,14 +87,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, well-drained soil in sun or shade. Young plants may require support initially",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn. Take softwood cuttings in early summer, semi-ripe cuttings in late summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Climber and wall shrubs"
-        ],
-        "pruning": "See pruning group 11, in early winter and if necessary also in summer",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, well-drained soil in sun or shade. Young plants may require support initially",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn. Take softwood cuttings in early summer, semi-ripe cuttings in late summer or hardwood cuttings in winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Climber and wall shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 11, in early winter and if necessary also in summer",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Parthenocissus tricuspidata 'Lowii'",
+    "display_name": "Boston ivy 'lowii'"
 }

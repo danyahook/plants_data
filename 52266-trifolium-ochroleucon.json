@@ -88,14 +88,42 @@
         "plant_range": "Europe, Asia, Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in open, sunny sites on poor soils.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow"
-        ],
-        "pruning": "None required",
-        "pests": "Trouble free",
-        "diseases": "Trouble free"
+        "cultivation": {
+            "text": "Grows best in open, sunny sites on poor soils.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Trifolium_ochroleucon.html",
@@ -140,5 +168,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Trifolium ochroleucon",
+    "display_name": "Sulphur clover"
 }

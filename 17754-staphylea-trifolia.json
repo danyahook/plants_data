@@ -92,15 +92,49 @@
         "plant_range": "E North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn. Take greenwood cuttings in early summer or semi-ripe cuttings in midsummer, both with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "See pruning group 1 or 2",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in any moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn. Take greenwood cuttings in early summer or semi-ripe cuttings in midsummer, both with bottom heat",
+            "link_names": [
+                "Greenwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 1 or 2",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Staphylea_trifolia.html",
@@ -155,5 +189,7 @@
             "Fruit withering",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Staphylea trifolia",
+    "display_name": "American bladdernut"
 }

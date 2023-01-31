@@ -83,17 +83,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best in poor, well-drained, alkaline soil in full sun. In fertile soils, it can grow large and need support",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to caterpillars and figwort weevil",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Best in poor, well-drained, alkaline soil in full sun. In fertile soils, it can grow large and need support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars and figwort weevil",
+            "link_names": [
+                "Figwort weevil"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Verbascum_lychnitis.html",
@@ -172,5 +208,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Verbascum lychnitis",
+    "display_name": "White mullein"
 }

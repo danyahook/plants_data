@@ -81,14 +81,46 @@
         "plant_range": "Madagascar"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in standard cactus compost in full light. From late spring to early autumn, water moderately and apply a low nitrogen liquid fertiliser every 4-5 weeks. Keep dry at other times",
-        "propagation": "Propagate by seed at 19-24°C ( 66-75°F), or take stem-tip cuttings, in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning necessary",
-        "pests": "Vulnerable to aphids while flowering",
-        "diseases": "Relatively disease resistant"
+        "cultivation": {
+            "text": "Under glass, grow in standard cactus compost in full light. From late spring to early autumn, water moderately and apply a low nitrogen liquid fertiliser every 4-5 weeks. Keep dry at other times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at 19-24°C ( 66-75°F), or take stem-tip cuttings, in late spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Vulnerable to aphids while flowering",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Relatively disease resistant",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pachypodium_lamerei.html",
@@ -140,5 +172,7 @@
             "Nutrient deficiencies",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Pachypodium lamerei",
+    "display_name": "Madagascar palm"
 }

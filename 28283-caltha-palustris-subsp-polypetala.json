@@ -94,14 +94,56 @@
         "plant_range": "Temp N Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Plant from spring to autumn in full sun, in deep, rich organic soil, at the water's edge or in shallow water up to 15cm deep; mulch annually to conserve moisture",
-        "propagation": "Propagate by seed, sown fresh in late summer in a cold frame, making sure that the compost does not dry out, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required, though the stems may be cut back after flowering",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by powdery mildews and rust diseases"
-    }
+        "cultivation": {
+            "text": "Plant from spring to autumn in full sun, in deep, rich organic soil, at the water's edge or in shallow water up to 15cm deep; mulch annually to conserve moisture",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown fresh in late summer in a cold frame, making sure that the compost does not dry out, or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, though the stems may be cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews and rust diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Caltha palustris subsp. polypetala",
+    "display_name": "Giant marsh marigold"
 }

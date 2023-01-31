@@ -88,17 +88,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun. In frost-prone areas, shelter from cold winds and provide a dry winter mulch",
-        "propagation": "Propagate by softwood cuttings in late spring. Propagate by removing rooted suckers in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to the base in spring",
-        "pests": "May be attacked by figwort weevil and capsid bug",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun. In frost-prone areas, shelter from cold winds and provide a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring. Propagate by removing rooted suckers in spring",
+            "link_names": [
+                "Softwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to figwort weevil and capsid bug",
+            "link_names": [
+                "Figwort weevil",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phygelius 'Raspberry Swirl'",
+    "display_name": "Cape figwort 'raspberry swirl'"
 }

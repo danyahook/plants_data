@@ -87,15 +87,57 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any reliably moist, humus-rich soil in partial shade. Shelter from cold, drying winds. Dislikes heat or drought.",
-        "propagation": "Propagate from seed sown in containers in a cold frame as soon as ripe. Germination is erratic. Seedlings take several years to reach flowering size. Alternatively, divide clumps in early spring. These can be slow to re-establish.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required. Cut back dead stems in autumn/winter",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any reliably moist, humus-rich soil in partial shade. Shelter from cold, drying winds. Dislikes heat or drought.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed sown in containers in a cold frame as soon as ripe. Germination is erratic. Seedlings take several years to reach flowering size. Alternatively, divide clumps in early spring. These can be slow to re-establish.",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required. Cut back dead stems in autumn/winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hydrangea bifida",
+    "display_name": "Two-lobed false hydrangea"
 }

@@ -88,17 +88,55 @@
         "plant_range": "W Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a deep, fertile, moisture-retentive soil in full sun or partial shade. May require support, see staking perennials",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems and foliage as the plant dies back for the winter",
-        "pests": "Generally trouble free",
-        "diseases": "Powdery mildews may be a problem in conditions that are too dry"
+        "cultivation": {
+            "text": "Grow in a deep, fertile, moisture-retentive soil in full sun or partial shade. May require support, see staking perennials",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems and foliage as the plant dies back for the winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem in conditions that are too dry",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Inula_racemosa.html",
@@ -136,5 +174,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Inula racemosa",
+    "display_name": "Indian elecampane"
 }

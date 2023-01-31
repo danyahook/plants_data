@@ -98,18 +98,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow shrubby honeysuckle in any well drained soil. Ideal for shade planting, or can be grown in full sun. See honeysuckle (shrubby) cultivation",
-        "propagation": "Propagate by layering, softwood cuttings, semi-ripe cuttings, leaf-bud cuttings and hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
-        "diseases": "May be susceptible to Powdery mildews, leaf spot (fungal) and silver leaf"
-    }
+        "cultivation": {
+            "text": "Grow shrubby honeysuckle in any well drained soil. Ideal for shade planting, or can be grown in full sun. See honeysuckle (shrubby) cultivation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by layering, softwood cuttings, semi-ripe cuttings, leaf-bud cuttings and hardwood cuttings",
+            "link_names": [
+                "Layering",
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, fungal leaf spot, silver leaf and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lonicera pileata 'Blue Pearl'",
+    "display_name": ""
 }

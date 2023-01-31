@@ -94,21 +94,75 @@
         "plant_range": "Europe to Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, well-drained but not dry soil in sun or part shade; tolerant of deep shade. Mulch to keep roots cool. Will not tolerate root disturbance and so resents transplanting",
-        "propagation": "Propagate by seed in containers in a cold frame as soon as ripe. Propagate by greenwood or softwood cuttings from spring to early summer and semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Coastal",
-            "Gravel garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1 if necessary but pruning is best kept to a minimum",
-        "pests": "Aphids may be troublesome",
-        "diseases": "Vulnerable to grey moulds (Botrytis) and a virus"
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, well-drained but not dry soil in sun or part shade; tolerant of deep shade. Mulch to keep roots cool. Will not tolerate root disturbance and so resents transplanting",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame as soon as ripe. Propagate by greenwood or softwood cuttings from spring to early summer and semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Greenwood",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Coastal",
+                "Gravel garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 if necessary but pruning is best kept to a minimum",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Daphne_oleoides.html",
@@ -146,5 +200,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Daphne oleoides",
+    "display_name": "Olive-leaved daphne"
 }

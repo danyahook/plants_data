@@ -89,19 +89,49 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in sun or partial shade in a well-drained soil",
-        "propagation": "Propagate by seed or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Ground cover",
-            "Garden edging",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in sun or partial shade in a well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Ground cover",
+                "Garden edging",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dryas_drummondii.html",
@@ -143,5 +173,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Dryas drummondii",
+    "display_name": "Drummond's avens"
 }

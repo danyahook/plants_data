@@ -85,18 +85,54 @@
         "plant_range": "Californ. Vanc. Is."
     },
     "how_to_grow": {
-        "cultivation": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
-        "propagation": "Propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildflower meadow",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to damage by slugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildflower meadow",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to damage by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Erythronium_revolutum.html",
@@ -152,5 +188,7 @@
             "Scars",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Erythronium revolutum",
+    "display_name": "Mahogany fawn lily"
 }

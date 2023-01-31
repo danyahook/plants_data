@@ -87,16 +87,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, well-drained soil in full sun or partial shade. May need support",
-        "propagation": "Propagate by division in spring or propagate by root cuttings in late autumn to early winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down once flowers fade and foliage looks tatty",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be subject to a downy mildew and fungal wilts"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, well-drained soil in full sun or partial shade. May need support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by root cuttings in late autumn to early winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down once flowers fade and foliage looks tatty",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a downy mildew and fungal wilts",
+            "link_names": [
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Papaver (Oriental Group) 'Karine'",
+    "display_name": "Oriental poppy 'karine'"
 }

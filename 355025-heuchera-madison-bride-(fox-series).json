@@ -84,20 +84,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in sun or partial shade. To prevent rhizomes rising to the surface, mulch annually and divide every few years",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove dead leaves as necessary and trim off spent flowerstalks",
-        "pests": "May be susceptible to vine weevil",
-        "diseases": "May be susceptible to heuchera rust"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in sun or partial shade. To prevent rhizomes rising to the surface, mulch annually and divide every few years",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead leaves as necessary and trim off spent flowerstalks",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to heuchera rust",
+            "link_names": [
+                "Heuchera rust"
+            ],
+            "related_links": {
+                "heuchera_rust": "https://www.rhs.org.uk/disease/heuchera-rust"
+            }
+        }
+    },
+    "main_name_original": "Heuchera 'Madison Bride' (Fox Series)",
+    "display_name": "Alum root 'madison bride'"
 }

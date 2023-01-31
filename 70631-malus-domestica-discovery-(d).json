@@ -86,16 +86,84 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Fairly compact cultivar suitable for all training forms. Keep a clear area around the trunk of at least 60cm radius - apple cultivation. Fruit thinning may be needed. Visit our Grow Your Own guide to apples",
-        "propagation": "Propagate by chip budding or grafting onto a clonal rootstock for fruit. The rootstock used will largely determine the size of the tree",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Regular pruning required - apple pruning. It is a partial tip bearer",
-        "pests": "Aphids, woolly aphid, rosy apple aphid, fruit tree red spider mite, mussel scale, codling moth and caterpillars are the main pests on edible apples",
-        "diseases": "Good general resistance to disease in particular to apple scab and powdery mildews. May be affected by apple canker and honey fungus."
-    }
+        "cultivation": {
+            "text": "Fairly compact cultivar suitable for all training forms. Keep a clear area around the trunk of at least 60cm radius - apple cultivation. Fruit thinning may be needed. Visit our Grow Your Own guide to apples",
+            "link_names": [
+                "Apple cultivation",
+                "Fruit thinning"
+            ],
+            "related_links": {
+                "apple_cultivation": "https://www.rhs.org.uk/fruit/apples/grow-your-own",
+                "fruit_thinning": "https://www.rhs.org.uk/fruit/fruit-trees/thinning"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting onto a clonal rootstock for fruit. The rootstock used will largely determine the size of the tree",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular pruning required - apple pruning. It is a partial tip bearer",
+            "link_names": [
+                "Apple pruning"
+            ],
+            "related_links": {
+                "apple_pruning": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, including woolly aphid and rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Rosy apple aphid",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "rosy_apple_aphid": "https://www.rhs.org.uk/biodiversity/rosy-apple-aphid",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to apple canker, apple scab, blossom wilt, brown rot, fireblight, honey fungus and powdery mildews",
+            "link_names": [
+                "Apple canker",
+                "Apple scab",
+                "Brown rot",
+                "Fireblight",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Malus domestica 'Discovery' (D)",
+    "display_name": "Apple 'discovery'"
 }

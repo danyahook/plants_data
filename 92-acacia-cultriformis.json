@@ -96,17 +96,67 @@
         "plant_range": "New South Wales"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral or slightly acid/alkaline, well-drained soil in a sheltered site in full sun. Tolerant of salt. For more advice, see shrub cultivation",
-        "propagation": "Propagate by semi-ripe cuttings or seed. For more information see propagating from seed (tree/shrub",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Wall side borders",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in neutral or slightly acid/alkaline, well-drained soil in a sheltered site in full sun. Tolerant of salt. For more advice, see shrub cultivation",
+            "link_names": [
+                "Shrub cultivation"
+            ],
+            "related_links": {
+                "shrub_cultivation": "https://www.rhs.org.uk/plants/types/shrubs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings or seed. For more information see propagating from seed (tree/shrub",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Wall side borders",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acacia cultriformis",
+    "display_name": "Knife-leaf wattle"
 }

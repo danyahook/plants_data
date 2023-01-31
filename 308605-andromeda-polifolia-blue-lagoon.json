@@ -93,18 +93,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moist sacid oil, with plenty of ericaceous compost added at planting time.",
-        "propagation": "Layering, Softwood cuttings, Suckers",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10. Prune after blooming and before fruit set, and before bud set for next season. Remove dead, diseased or damaged branches, cut back healthy ones.",
-        "pests": "Generally pest free",
-        "diseases": "Root rot fungus in soggy soil"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, moist sacid oil, with plenty of ericaceous compost added at planting time.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Layering, Softwood cuttings, Suckers",
+            "link_names": [
+                "Layering",
+                "Softwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10. Prune after blooming and before fruit set, and before bud set for next season. Remove dead, diseased or damaged branches, cut back healthy ones.",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Root rot fungus in soggy soil",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Andromeda polifolia 'Blue Lagoon'",
+    "display_name": "Bog rosemary 'blue lagoon'"
 }

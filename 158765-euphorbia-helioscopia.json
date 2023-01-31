@@ -99,11 +99,44 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in moist, but well-drained soil, or dry soil in full sun",
-        "propagation": "Propagate by seed",
-        "pruning": "Remove plants after flowering in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to rust diseases"
+        "cultivation": {
+            "text": "Grows best in moist, but well-drained soil, or dry soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove plants after flowering in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to rust diseases",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Euphorbia_helioscopia.html",
@@ -154,5 +187,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Euphorbia helioscopia",
+    "display_name": "Cat's milk"
 }

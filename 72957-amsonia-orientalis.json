@@ -90,16 +90,48 @@
         "plant_range": "Greece to Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a fertile, moist but well-drained soil in full sun, although it can tolerate partial shade and is fairly drought-tolerant",
-        "propagation": "Propagate by seed sown in pots in a cold frame in autumn or spring. Alternatively propagate by division in spring or root softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows best in a fertile, moist but well-drained soil in full sun, although it can tolerate partial shade and is fairly drought-tolerant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in autumn or spring. Alternatively propagate by division in spring or root softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Amsonia_orientalis.html",
@@ -142,5 +174,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Amsonia orientalis",
+    "display_name": "Eastern bluestar"
 }

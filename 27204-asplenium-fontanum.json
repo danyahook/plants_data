@@ -89,21 +89,53 @@
         "plant_range": "CS Europe C Asia"
     },
     "how_to_grow": {
-        "cultivation": "A fern which prefers alpine or rockery conditions with loose free draining soils in partial shade or full sun with slightly more moisture. Dislikes wet soils especially over winter. See advice profile on how to grow ferns",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "A fern which prefers alpine or rockery conditions with loose free draining soils in partial shade or full sun with slightly more moisture. Dislikes wet soils especially over winter. See advice profile on how to grow ferns",
+            "link_names": [
+                "How to grow ferns"
+            ],
+            "related_links": {
+                "how_to_grow_ferns": "https://www.rhs.org.uk/plants/types/ferns/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Asplenium_fontanum.html",
@@ -132,5 +164,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Asplenium fontanum",
+    "display_name": "Rock spleenwort"
 }

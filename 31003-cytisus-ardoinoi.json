@@ -91,15 +91,65 @@
         "plant_range": "Maritime Alps"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, preferably acid soil in full sun. Suitable for rock garden or raised bed. Resents transplanting",
-        "propagation": "Propagate by seed; take semi-ripe cuttings or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Gravel garden",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 1, but do not cut into old wood",
-        "pests": "Broom gall mites may be a problem",
-        "diseases": "May be affected by honey fungus and waterlogging"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, preferably acid soil in full sun. Suitable for rock garden or raised bed. Resents transplanting",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed; take semi-ripe cuttings or hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Gravel garden",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, but do not cut into old wood",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cytisus ardoinoi",
+    "display_name": "Pygmy laburnum"
 }

@@ -96,16 +96,52 @@
         "plant_range": "E North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile soil that is reliably moist but not wet overwinter; full sun is essential",
-        "propagation": "Propagate by seed sown in pots in a cold frame in autumn. Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly then cut stems down to the ground in winter",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile soil that is reliably moist but not wet overwinter; full sun is essential",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in autumn. Propagate by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly then cut stems down to the ground in winter",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Liatris calilepis",
+    "display_name": "Button snakewort"
 }

@@ -91,15 +91,61 @@
         "plant_range": "USA (California), Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow deciduous shrub but may not be fully hardy in exposed sites and best planted against a sunny wall",
-        "propagation": "Propagate by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by a leaf spot"
+        "cultivation": {
+            "text": "Easy to grow deciduous shrub but may not be fully hardy in exposed sites and best planted against a sunny wall",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in winter",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ribes_speciosum.html",
@@ -154,5 +200,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Ribes speciosum",
+    "display_name": "Fuchsia-flowered gooseberry"
 }

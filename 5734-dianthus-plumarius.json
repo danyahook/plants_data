@@ -112,24 +112,72 @@
         "plant_range": "C & S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained, neutral to alkaline soil in full sun. Prefers a soil enriched with well-rotted manure or garden compost and an application of a balanced fertiliser in spring",
-        "propagation": "Propagate by seed sown in spring, or by softwood cuttings of non-flowering shoots in summer or by layering after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Cut flowers",
-            "Garden edging",
-            "Ground cover",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "Slugs and aphids may be a problem",
-        "diseases": "May be subject to a rust, a virus and wilt"
+        "cultivation": {
+            "text": "Grow in a well-drained, neutral to alkaline soil in full sun. Prefers a soil enriched with well-rotted manure or garden compost and an application of a balanced fertiliser in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, or by softwood cuttings of non-flowering shoots in summer or by layering after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Cut flowers",
+                "Garden edging",
+                "Ground cover",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs and aphids may be a problem",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a rust, a virus and wilt",
+            "link_names": [
+                "A rust",
+                "A virus"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dianthus_plumarius.html",
@@ -184,5 +232,7 @@
             "Wilting after blooming",
             "Underwatering"
         ]
-    }
+    },
+    "main_name_original": "Dianthus plumarius",
+    "display_name": "Clove pink"
 }

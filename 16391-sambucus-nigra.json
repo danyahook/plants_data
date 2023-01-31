@@ -105,17 +105,63 @@
         "plant_range": "Europe N Africa SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moderately fertile, humus-rich, moist but well-drained soils and also thrives on extremely chalky sites",
-        "propagation": "Propagate by softwood or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1. Will tolerate hard pruning to restrict the size",
-        "pests": "May be susceptible to blackfly and glasshouse red spider mite",
-        "diseases": "May be susceptible to Verticillium wilt"
+        "cultivation": {
+            "text": "Easy to grow in moderately fertile, humus-rich, moist but well-drained soils and also thrives on extremely chalky sites",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Will tolerate hard pruning to restrict the size",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sambucus_nigra.html",
@@ -199,5 +245,7 @@
             "Plant dried up",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Sambucus nigra",
+    "display_name": "Common elder"
 }

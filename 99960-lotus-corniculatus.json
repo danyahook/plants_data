@@ -107,14 +107,42 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows in grassy places in sun and well-drained conditions. Intolerant of high levels of nitrogen",
-        "propagation": "Propagate by seed sown all year round",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow"
-        ],
-        "pruning": "None required",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grows in grassy places in sun and well-drained conditions. Intolerant of high levels of nitrogen",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown all year round",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lotus_corniculatus.html",
@@ -201,5 +229,7 @@
             "Thrips",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Lotus corniculatus",
+    "display_name": "Bird's foot trefoil"
 }

@@ -85,18 +85,66 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moist but well-drained soil in partial shade",
-        "propagation": "Divide in spring or autumn or take softwood cuttings in early summer. Propagate by seed in containers in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Deadheading plants regularly will prolong flowering",
-        "pests": "Slugs and snails may damage young growth",
-        "diseases": "Powdery mildews may be a problem in dry summers"
-    }
+        "cultivation": {
+            "text": "Prefers moist but well-drained soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in spring or autumn or take softwood cuttings in early summer. Propagate by seed in containers in autumn",
+            "link_names": [
+                "Divide",
+                "Softwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadheading plants regularly will prolong flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs and snails may damage young growth",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem in dry summers",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Nepeta subsessilis",
+    "display_name": "Short-stalked catmint"
 }

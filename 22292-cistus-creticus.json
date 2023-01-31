@@ -86,21 +86,61 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile soil in sheltered site in full sun. Usually lime tolerant, but can become chlorotic on very alkaline soils",
-        "propagation": "Propagate by seed; sow as soon as ripe and keep in cold frame or sow in spring. Take softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 or pruning group 9. Generally does not respond well to hard renovation pruning",
-        "pests": "Usually trouble free",
-        "diseases": "May suffer from nutrient deficiency when grown on very alkaline soils"
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile soil in sheltered site in full sun. Usually lime tolerant, but can become chlorotic on very alkaline soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed; sow as soon as ripe and keep in cold frame or sow in spring. Take softwood cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 9. Generally does not respond well to hard renovation pruning",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cistus_creticus.html",
@@ -148,5 +188,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cistus creticus",
+    "display_name": "Cretan rockrose"
 }

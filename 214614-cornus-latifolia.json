@@ -114,17 +114,65 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation",
-        "propagation": "Propagate by seed or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Coastal",
-            "Cottage and informal garden",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Generally pest free but may be attacked by horse chestnut scale",
-        "diseases": "Generally disease free but cornus anthracnose may affect weak shoots"
-    }
+        "cultivation": {
+            "text": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation or flowering dogwood cultivation",
+            "link_names": [
+                "Winter stem colour cultivation",
+                "Flowering dogwood cultivation"
+            ],
+            "related_links": {
+                "winter_stem_colour_cultivation": "https://www.rhs.org.uk/plants/cornus/for-stems/growing-guide",
+                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to cornus anthracnose and honey fungus",
+            "link_names": [
+                "Cornus anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cornus latifolia",
+    "display_name": "Common dogwood"
 }

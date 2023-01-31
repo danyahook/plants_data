@@ -85,16 +85,52 @@
         "plant_range": "SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile, neutral to slightly alkaline soil in full sun or partial shade",
-        "propagation": "Propagate by division or seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and aphids",
-        "diseases": "May be susceptible to root rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile, neutral to slightly alkaline soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum stoloniferum",
+    "display_name": ""
 }

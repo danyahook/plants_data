@@ -83,14 +83,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Sow indoors from mid-February to early April in small pots filled with good quality seed compost and maintain a constant temperature between 18-21C. Transplant seedlings into individual pots when two true leaves have formed and grow on in a sunny, sheltered spot. Water regularly and feed with a high potash liquid fertiliser once the first fruit has set. See vegetable cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pinch out growing tips to encourage branching",
-        "pests": "May be susceptible to aphids, glasshouse whitefly, glasshouse red spider mite",
-        "diseases": "May be susceptible to grey moulds and blossom end rot"
-    }
+        "cultivation": {
+            "text": "Sow indoors from mid-February to early April in small pots filled with good quality seed compost and maintain a constant temperature between 18-21C. Transplant seedlings into individual pots when two true leaves have formed and grow on in a sunny, sheltered spot. Water regularly and feed with a high potash liquid fertiliser once the first fruit has set. See vegetable cultivation",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out growing tips to encourage branching",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse whitefly, glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds and blossom end rot",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Capsicum annuum var. annuum (Grossum Group) 'Thor'",
+    "display_name": "Sweet pepper 'thor'"
 }

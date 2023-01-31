@@ -89,15 +89,57 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Ideal for smaller gardens, it will tolerate partial shade but a sunny place will produce the best leaf colour so long as the soil does not dry out",
-        "propagation": "Propagate by softwood cuttings or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down to ground level in late autumn or winter",
-        "pests": "Can get aphids and caterpillars",
-        "diseases": "May be affected by a downy mildew and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Ideal for smaller gardens, it will tolerate partial shade but a sunny place will produce the best leaf colour so long as the soil does not dry out",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or semi-hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down to ground level in late autumn or winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and caterpillars",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a downy mildew and verticillium wilt",
+            "link_names": [
+                "A downy mildew",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Humulus lupulus 'Golden Tassels' (f)",
+    "display_name": "Hop 'golden tassels'"
 }

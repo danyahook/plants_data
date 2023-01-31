@@ -103,22 +103,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any light, well-drained soil in full sun. Will not tolerate heavy, wet soils",
-        "propagation": "Propagate by seed sown in situ in spring, propagate by division or take basal cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to aphids, chrysanthemum eelworm and leaf miners",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any light, well-drained soil in full sun. Will not tolerate heavy, wet soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ in spring, propagate by division or take basal cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, chrysanthemum eelworm and leaf miners",
+            "link_names": [
+                "Aphids",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Tanacetum densum",
+    "display_name": ""
 }

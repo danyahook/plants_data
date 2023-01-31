@@ -89,16 +89,50 @@
         "plant_range": "E Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, well-drained soil in full sun, thrives in areas with hot summers. Young growth can be damaged by late frosts. Needs plenty of space. Plant male and female plants together to ensure berries",
-        "propagation": "Propagate by seed or by heeled semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 1",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in deep, fertile, well-drained soil in full sun, thrives in areas with hot summers. Young growth can be damaged by late frosts. Needs plenty of space. Plant male and female plants together to ensure berries",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by heeled semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phellodendron_amurense.html",
@@ -158,5 +192,7 @@
             "Plant dried up",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Phellodendron amurense",
+    "display_name": "Amur cork tree"
 }

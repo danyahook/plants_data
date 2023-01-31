@@ -96,17 +96,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in deep, fertile, well-drained soil in full sun. May need support (see staking perennials)",
-        "propagation": "Propagate by division in spring or propagate by root cuttings in late autumn to early winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back old flowering stems and leaves after flowering, for a fresh, second flush of foliage in the late summer",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to downy mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in deep, fertile, well-drained soil in full sun. May need support (see staking perennials)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by root cuttings in late autumn to early winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old flowering stems and leaves after flowering, for a fresh, second flush of foliage in the late summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews",
+            "link_names": [
+                "Downy mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Papaver orientale 'Harvest Moon'",
+    "display_name": "Oriental poppy 'harvest moon'"
 }

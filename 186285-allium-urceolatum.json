@@ -91,22 +91,66 @@
         "plant_range": "Siberia to C. Asia, Pamir and Tien Shan Mts"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in fertile well-drained soil. Add grit to clay soils to improve drainage. See allium cultivation for further advice",
-        "propagation": "Propagate by seed sown in containers in a cold frame when ripe or in the spring or remove offsets in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Rock garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Susceptible to onion fly",
-        "diseases": "Susceptible to onion white rot and a downy mildew"
-    }
+        "cultivation": {
+            "text": "Easy to grow in fertile well-drained soil. Add grit to clay soils to improve drainage. See allium cultivation for further advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame when ripe or in the spring or remove offsets in autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Rock garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to onion fly",
+            "link_names": [
+                "Onion fly"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to onion white rot and a downy mildew",
+            "link_names": [
+                "Onion white rot",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium urceolatum",
+    "display_name": "Light blue garlic"
 }

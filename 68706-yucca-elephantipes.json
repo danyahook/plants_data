@@ -91,15 +91,57 @@
         "plant_range": "Mexico, C America, Guatemala"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based compost keeping just moist in winter. Grow outdoors in containers and over-winter indoors",
-        "propagation": "Propagate by seed, sown in spring at 19-24°C. Flowers may need hand-pollination to set seed. Rooted suckers can be removed in spring or take root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Architectural",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning not normally needed, but damaged leaves and spent flower spikes can be removed as necessary in the spring",
-        "pests": "Flowers may be attacked by aphids; snails eat the foliage",
-        "diseases": "Susceptible to a leaf spot"
-    }
+        "cultivation": {
+            "text": "Under glass grow in loam-based compost keeping just moist in winter. Grow outdoors in containers and over-winter indoors",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in spring at 19-24°C. Flowers may need hand-pollination to set seed. Rooted suckers can be removed in spring or take root cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Architectural",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning not normally needed, but damaged leaves and spent flower spikes can be removed as necessary in the spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Flowers may be attacked by aphids; snails eat the foliage",
+            "link_names": [
+                "Snails"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Yucca elephantipes",
+    "display_name": "Spineless yucca"
 }

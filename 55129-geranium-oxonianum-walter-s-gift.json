@@ -92,19 +92,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any, moderately fertile soil that is not waterlogged, in full sun or partial shade",
-        "propagation": "Propagate by division in spring or take basal cuttings in early to mid spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Ground cover",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be attacked by vine weevil, capsid bug and sawflies",
-        "diseases": "May be subject to powdery mildews and a downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in any, moderately fertile soil that is not waterlogged, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or take basal cuttings in early to mid spring and root with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Ground cover",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by vine weevil, capsid bug and sawflies",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews and a downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium × oxonianum 'Walter's Gift'",
+    "display_name": "Cranesbill 'walter's gift'"
 }

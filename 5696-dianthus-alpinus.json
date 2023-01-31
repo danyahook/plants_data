@@ -85,17 +85,59 @@
         "plant_range": "E Alps"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, neutral to alkaline soil in full sun. Well-suited to a rock garden or the edge of a border",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead as required",
-        "pests": "Can get aphids, slugs and caterpillars",
-        "diseases": "May be affected by Fusarium wilt"
+        "cultivation": {
+            "text": "Grow in well-drained, neutral to alkaline soil in full sun. Well-suited to a rock garden or the edge of a border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead as required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids, slugs and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by Fusarium wilt",
+            "link_names": [
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dianthus_alpinus.html",
@@ -137,5 +179,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Dianthus alpinus",
+    "display_name": "Alpine pink"
 }

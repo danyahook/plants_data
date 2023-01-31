@@ -90,17 +90,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plants overwinter with a dry winter mulch",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer; propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour, then cut back to base in late winter",
-        "pests": "May be attacked by slugs, snails and chrysanthemum eelworms",
-        "diseases": "May be subject to a downy mildew or powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plants overwinter with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer; propagate by division in spring",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour, then cut back to base in late winter",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and chrysanthemum eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a downy mildew or powdery mildews",
+            "link_names": [
+                "A downy mildew",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Flamingo'",
+    "display_name": "Penstemon 'flamingo'"
 }

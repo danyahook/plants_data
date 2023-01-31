@@ -94,17 +94,65 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil in full sun. Protect from cold drying winds. Grow under glass in loam-based compost in full light",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can get glasshouse red spider mite, aphids, cushion scale and pittosporum sucker",
-        "diseases": "May be subject to powdery mildews"
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil in full sun. Protect from cold drying winds. Grow under glass in loam-based compost in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, aphids, cushion scale and pittosporum sucker",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids",
+                "Cushion scale",
+                "Pittosporum sucker"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "cushion_scale": "https://www.rhs.org.uk/biodiversity/cushion-scale",
+                "pittosporum_sucker": "https://www.rhs.org.uk/biodiversity/pittosporum-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, leafspot and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pittosporum_tobira__Nanum_.html",
@@ -140,5 +188,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pittosporum tobira 'Nanum'",
+    "display_name": ""
 }

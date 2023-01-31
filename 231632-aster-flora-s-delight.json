@@ -96,19 +96,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile soil in an open, sunny position. See aster cultivation for further advice",
-        "propagation": "Propagate by division in spring or root basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be susceptible to leaf and bud eelworms, slugs and snails",
-        "diseases": "Asters may be susceptible to Verticillium wilt, Powdery mildews and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile soil in an open, sunny position. See aster cultivation for further advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or root basal cuttings in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, slugs and snails",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Asters may be susceptible to Verticillium wilt, Powdery mildews and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster 'Flora's Delight'",
+    "display_name": "Aster 'flora's delight'"
 }

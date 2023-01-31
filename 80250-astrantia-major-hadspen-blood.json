@@ -89,16 +89,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in moist, fertile, humus-rich soil in sun or partial shade but will tolerate drier conditions",
-        "propagation": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe (cultivars may not come true) or propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead before seed is ripe to prevent self-seeding",
-        "pests": "May be affected by astrantia leaf miner",
-        "diseases": "Powdery mildews may be troublesome"
-    }
+        "cultivation": {
+            "text": "Best grown in moist, fertile, humus-rich soil in sun or partial shade but will tolerate drier conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe (cultivars may not come true) or propagate by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead before seed is ripe to prevent self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to astrantia leaf miner",
+            "link_names": [
+                "Astrantia leaf miner"
+            ],
+            "related_links": {
+                "astrantia_leaf_miner": "https://www.rhs.org.uk/biodiversity/astrantia-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Astrantia major 'Hadspen Blood'",
+    "display_name": "Astrantia 'hadspen blood'"
 }

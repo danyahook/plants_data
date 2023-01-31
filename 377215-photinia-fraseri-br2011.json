@@ -93,17 +93,69 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile, humus-rich soil in sun or partial shade. See photinia cultivation",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in summer or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "The leaves may be eaten by vine weevil",
-        "diseases": "May be affected by fireblight, a leaf spot or powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grows best in fertile, humus-rich soil in sun or partial shade. See photinia cultivation",
+            "link_names": [
+                "Photinia cultivation"
+            ],
+            "related_links": {
+                "photinia_cultivation": "https://www.rhs.org.uk/plants/photinia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in summer or autumn",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Most cultivars may be pruned hard in spring to regenerate if necessary. If growing as a hedge trim two or three times during the growing season to main shape and encourage new red foliage. See pruning evergreen shrubs for further advice",
+            "link_names": [
+                "Hedge"
+            ],
+            "related_links": {
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, a leaf spot, honey fungus and powdery mildews",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Photinia × fraseri 'Br2011'",
+    "display_name": "Christmas berry [chico]"
 }

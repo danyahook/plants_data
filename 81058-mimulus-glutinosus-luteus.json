@@ -104,14 +104,62 @@
         "plant_range": "W USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in humus-rich, moist soil. Grow under glass in a loam-based compost in full light with shade from hot sun and good ventilation. Often short-lived",
-        "propagation": "Propagate by seed, softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be attacked by slugs and snails outdoors",
-        "diseases": "powdery mildews may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in humus-rich, moist soil. Grow under glass in a loam-based compost in full light with shade from hot sun and good ventilation. Often short-lived",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs and snails outdoors",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "powdery mildews may be a problem",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Mimulus glutinosus luteus",
+    "display_name": "Bush monkey flower"
 }

@@ -94,16 +94,54 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, preferably alkaline soil in a sunny position",
-        "propagation": "Propagate by seed sown as soon as ripe, or by division in spring, potting up until established",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down flowering stems when no longer of ornamental value",
-        "pests": "Slugs, snails and aphids may cause damage",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, preferably alkaline soil in a sunny position",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe, or by division in spring, potting up until established",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down flowering stems when no longer of ornamental value",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails and aphids may cause damage",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Meum_athamanticum.html",
@@ -179,5 +217,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Meum athamanticum",
+    "display_name": "Bald money"
 }

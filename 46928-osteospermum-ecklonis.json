@@ -97,23 +97,69 @@
         "plant_range": "Eastern Cape"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, very well-drained soil in a warm site in full sun with shelter from cold winds; in frost-prone climates, propagate reserve plants every year, and overwinter young plants in frost-free conditions",
-        "propagation": "Propagate by seed, sown at 18°C in spring; by softwood cuttings in late spring; or by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Ground cover",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required, but deadheading will prolong flowering",
-        "pests": "Generally pest-free but may be affected by aphids",
-        "diseases": "Generally pest-free but may be affected by downy mildews and Verticillium wilt"
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, very well-drained soil in a warm site in full sun with shelter from cold winds; in frost-prone climates, propagate reserve plants every year, and overwinter young plants in frost-free conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 18°C in spring; by softwood cuttings in late spring; or by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Ground cover",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading will prolong flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally pest-free but may be susceptible to downy mildews and verticillium wilt",
+            "link_names": [
+                "Downy mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Osteospermum_ecklonis.html",
@@ -162,5 +208,7 @@
             "Aged yellow and dry",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Osteospermum ecklonis",
+    "display_name": "Deep purple african daisy"
 }

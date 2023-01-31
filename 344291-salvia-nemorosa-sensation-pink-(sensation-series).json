@@ -92,17 +92,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile humus-rich moist but well drained soil in full sun or light dappled shade",
-        "propagation": "Propagate by basal or soft wood cuttings in early spring or mid summer. Semi-ripe cuttings in late summer or early autumn. Rooted cuttings will need winter protection in a cold frame or cold greenhouse",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Dead-head faded flower spikes to prolong flowering",
-        "pests": "May be susceptible to slugs, snails and leaf hopper",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile humus-rich moist but well drained soil in full sun or light dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal or soft wood cuttings in early spring or mid summer. Semi-ripe cuttings in late summer or early autumn. Rooted cuttings will need winter protection in a cold frame or cold greenhouse",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead-head faded flower spikes to prolong flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and leaf hopper",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia nemorosa Sensation Pink (Sensation Series)",
+    "display_name": ""
 }

@@ -79,11 +79,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny site away from frost pockets, in deep soil with plenty of organic matter. Earth up as the stems grow to exclude light. Keep watered in dry weather. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
-        "propagation": "Grow from certified seed potatoes, chitted and planted in situ from April onwards",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to flea beetles and potato cyst nematodes",
-        "diseases": "May be susceptible to potato blight, potato blackleg, potato scab, potato rot and virus diseases"
+        "cultivation": {
+            "text": "Grow in a sunny site away from frost pockets, in deep soil with plenty of organic matter. Earth up as the stems grow to exclude light. Keep watered in dry weather. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Grow from certified seed potatoes, chitted and planted in situ from April onwards",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to flea beetles and potato cyst nematodes",
+            "link_names": [
+                "Flea beetles",
+                "Potato cyst nematodes"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "potato_cyst_nematodes": "https://www.rhs.org.uk/biodiversity/potato-cyst-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to potato blight, potato blackleg, potato scab, potato rot and virus diseases",
+            "link_names": [
+                "Potato blight",
+                "Potato blackleg",
+                "Potato scab",
+                "Potato rot",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "potato_blight": "https://www.rhs.org.uk/disease/potato-and-tomato-blight",
+                "potato_blackleg": "https://www.rhs.org.uk/disease/potato-blackleg",
+                "potato_scab": "https://www.rhs.org.uk/disease/potato-scabs",
+                "potato_rot": "https://www.rhs.org.uk/disease/potato-tuber-rots",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Solanum_tuberosum__Maris_Piper_.html",
@@ -123,5 +172,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Solanum tuberosum 'Maris Piper'",
+    "display_name": "Potato 'maris piper'"
 }

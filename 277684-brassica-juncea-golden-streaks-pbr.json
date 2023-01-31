@@ -84,13 +84,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained soil in full sun or part shade",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "None required",
-        "pests": "Cabbage root fly, flea beetle, caterpillars, whitefly and mealy cabbage aphid my be troublesome",
-        "diseases": "May be affected by powdery and downy mildews and clubroot"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to cabbage root fly, flea beetle, caterpillars, whitefly and mealy cabbage aphid",
+            "link_names": [
+                "Cabbage root fly",
+                "Flea beetle",
+                "Mealy cabbage aphid"
+            ],
+            "related_links": {
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly",
+                "flea_beetle": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "mealy_cabbage_aphid": "https://www.rhs.org.uk/biodiversity/mealy-cabbage-aphid"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery and downy mildews and clubroot",
+            "link_names": [
+                "Downy mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Brassica juncea 'Golden Streaks'PBR",
+    "display_name": "Mustard 'golden streaks'"
 }

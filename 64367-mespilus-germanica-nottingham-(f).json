@@ -92,14 +92,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil in full sun. Wait to collect fruit until after frost. See medlar cultivation for further details",
-        "propagation": "Propagate by chip budding in late summer or by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Aphids and caterpillars may be a problem",
-        "diseases": "May be affected by brown rot and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile soil in full sun. Wait to collect fruit until after frost. See medlar cultivation for further details",
+            "link_names": [
+                "Medlar cultivation"
+            ],
+            "related_links": {
+                "medlar_cultivation": "https://www.rhs.org.uk/fruit/medlars/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding in late summer or by grafting",
+            "link_names": [
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Aphids and caterpillars may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by brown rot and powdery mildews",
+            "link_names": [
+                "Brown rot",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Mespilus germanica 'Nottingham' (F)",
+    "display_name": "Medlar 'nottingham'"
 }

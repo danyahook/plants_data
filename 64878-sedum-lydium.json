@@ -91,21 +91,59 @@
         "plant_range": "W. and C. Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, neutral to slightly alkaline soil in full sun",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs, snails and vine weevil larvae",
-        "diseases": "May be susceptible to fungal and bacterial crown and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, neutral to slightly alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and vine weevil larvae",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal and bacterial crown and root rots",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum lydium",
+    "display_name": "Least stonecrop"
 }

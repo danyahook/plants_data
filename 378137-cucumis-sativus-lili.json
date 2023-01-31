@@ -82,14 +82,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow from seed in a heated greenhouse or on a sunny windowsill in pots and maintain a constant temperature of 21C. Prick out young plants into 25cm pots filled with a good quality growing potting compost and maintain a temperature of 12-15C. Water little and often to keep the compost evenly moist and feed every two weeks. See vegetable cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pinch out the growing point of the plant once it reaches the top of the support. Shorten sideshoots to two leaves beyond any developing fruit",
-        "pests": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, slugs and snails",
-        "diseases": "May be susceptible to cucuber mosaic virus. Shows good resistance to downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow from seed in a heated greenhouse or on a sunny windowsill in pots and maintain a constant temperature of 21C. Prick out young plants into 25cm pots filled with a good quality growing potting compost and maintain a temperature of 12-15C. Water little and often to keep the compost evenly moist and feed every two weeks. See vegetable cultivation",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out the growing point of the plant once it reaches the top of the support. Shorten sideshoots to two leaves beyond any developing fruit",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, slugs and snails",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to cucuber mosaic virus. Shows good resistance to downy mildews",
+            "link_names": [
+                "Downy mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Cucumis sativus 'Lili'",
+    "display_name": "Cucumber (ridge) 'lili'"
 }

@@ -86,20 +86,52 @@
         "plant_range": "Europe, Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist, but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn or spring. Can also be propagated by root cuttings in mid-winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required other than cutting back foliage at the end of the season",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in any moist, but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn or spring. Can also be propagated by root cuttings in mid-winter",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required other than cutting back foliage at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Cenolophium denudatum",
+    "display_name": "Baltic parsley"
 }

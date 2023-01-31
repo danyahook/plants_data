@@ -110,15 +110,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Requires free-draining, fertile soil and shelter from drying winds in sun or partial shade",
-        "propagation": "Can only be propagated by vegetative means, such as hardwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Prune according to form - if a tree is the aim, clear stems of lower branches as growth progresses. See pruning group 1",
-        "pests": "May be susceptible to aphids and scale insects",
-        "diseases": "May be susceptible to Verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Requires free-draining, fertile soil and shelter from drying winds in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Can only be propagated by vegetative means, such as hardwood cuttings or grafting",
+            "link_names": [
+                "Hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune according to form - if a tree is the aim, clear stems of lower branches as growth progresses. See pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer × conspicuum 'Red Flamingo'",
+    "display_name": "Maple 'red flamingo'"
 }

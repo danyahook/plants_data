@@ -91,15 +91,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist to wet, deep, humus-rich, acid soil; thrives at the margins of ponds or streams",
-        "propagation": "Propagate by division of rhizomes from midsummer to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove any dying foliage, old flower stems can be cut down after flowering",
-        "pests": "Prone to slugs, snails and thrips. Birds often peck flowers",
-        "diseases": "May be affected by grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in moist to wet, deep, humus-rich, acid soil; thrives at the margins of ponds or streams",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes from midsummer to early autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage, old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs, snails and thrips. Birds often peck flowers",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Thrips",
+                "Birds"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Iris 'Gerald Darby'",
+    "display_name": "Iris 'gerald darby'"
 }

@@ -94,14 +94,52 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in gardens with cool, moist summers. Plant in cool, leafy or humus-rich soil where roots are in the shade with the plant growing into the sun or partial shade, can be grown up evergreen hedges",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wall side borders"
-        ],
-        "pruning": "In early spring, cut the dead growth down to ground level",
-        "pests": "May be attacked by caterpillars, flea beetles and blackfly",
-        "diseases": "May be affected by a virus"
+        "cultivation": {
+            "text": "Thrives in gardens with cool, moist summers. Plant in cool, leafy or humus-rich soil where roots are in the shade with the plant growing into the sun or partial shade, can be grown up evergreen hedges",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "In early spring, cut the dead growth down to ground level",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by caterpillars, flea beetles and blackfly",
+            "link_names": [
+                "Flea beetles"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tropaeolum_speciosum.html",
@@ -156,5 +194,7 @@
             "Wilting after blooming",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Tropaeolum speciosum",
+    "display_name": "Flame nasturtium"
 }

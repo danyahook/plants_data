@@ -88,15 +88,75 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun",
-        "propagation": "Propagate by seed sown in a seedbed in autumn, or by chip budding in late summer, or grafting in mid-winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids, caterpillars, codling moth, pear blister mite, pear midge and pear and cherry slugworm",
-        "diseases": "May be susceptible to blossom wilt, brown rot, fireblight, pear scab and European pear rust"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a seedbed in autumn, or by chip budding in late summer, or grafting in mid-winter",
+            "link_names": [
+                "Propagate by seed",
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, codling moth, pear blister mite, pear midge and pear and cherry slugworm",
+            "link_names": [
+                "Aphids",
+                "Pear blister mite",
+                "Pear midge",
+                "Pear and cherry slugworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "pear_blister_mite": "https://www.rhs.org.uk/biodiversity/pear-blister-mite",
+                "pear_midge": "https://www.rhs.org.uk/biodiversity/pear-midge",
+                "pear_and_cherry_slugworm": "https://www.rhs.org.uk/biodiversity/pear-and-cherry-slugworm"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to blossom wilt, brown rot, fireblight, pear scab, European pear rust and honey fungus (rarely)",
+            "link_names": [
+                "Brown rot",
+                "Fireblight",
+                "Pear scab",
+                "European pear rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "pear_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "european_pear_rust": "https://www.rhs.org.uk/disease/pear-rust",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pyrus elaeagrifolia 'Silver Sails'",
+    "display_name": "Oleaster-leaved pear 'silver sails'"
 }

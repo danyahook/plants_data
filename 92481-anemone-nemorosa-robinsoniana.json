@@ -81,20 +81,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in partial shade. Drier conditions tolerated when dormant in summer",
-        "propagation": "Propagate by division of rhizomes after the leaves have died down",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by slugs and caterpillars",
-        "diseases": "May be subject to powdery mildew, leaf spot and a rust"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in partial shade. Drier conditions tolerated when dormant in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes after the leaves have died down",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and caterpillars",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildew, leaf spot and a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anemone_nemorosa__Robinsoniana_.html",
@@ -131,5 +167,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Anemone nemorosa 'Robinsoniana'",
+    "display_name": "Wood anemone 'robinsoniana'"
 }

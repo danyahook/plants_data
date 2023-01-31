@@ -86,17 +86,59 @@
         "plant_range": "S America, Falkland Islands"
     },
     "how_to_grow": {
-        "cultivation": "Grows well full sun in any moderately fertile, well-drained, humus-rich soil. Suitable for rock garden, raised bed, trough or alpine house",
-        "propagation": "Propagate by seed, sown with moderate heat in late winter or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be damaged by slugs and snails",
-        "diseases": "May be subject to a rust"
+        "cultivation": {
+            "text": "Grows well full sun in any moderately fertile, well-drained, humus-rich soil. Suitable for rock garden, raised bed, trough or alpine house",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown with moderate heat in late winter or early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Oxalis_enneaphylla.html",
@@ -137,5 +179,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Oxalis enneaphylla",
+    "display_name": "Scurvy grass"
 }

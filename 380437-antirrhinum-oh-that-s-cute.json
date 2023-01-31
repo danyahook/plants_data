@@ -85,18 +85,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun, avoiding winter wet",
-        "propagation": "Propagate by softwood cuttings in summer. Overwinter young plants under glass",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Bedding",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly and cut back after the first flush to encourage more blooms",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildews, has some resistance to antirrhinum rust"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun, avoiding winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer. Overwinter young plants under glass",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Bedding",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly and cut back after the first flush to encourage more blooms",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, has some resistance to antirrhinum rust",
+            "link_names": [
+                "Powdery mildews",
+                "Antirrhinum rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "antirrhinum_rust": "https://www.rhs.org.uk/disease/antirrhinum-rust"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum 'Oh That's Cute'",
+    "display_name": "Snapdragon 'oh that's cute'"
 }

@@ -91,13 +91,59 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in full light with shelter from hot sun. In winter keep moist, cool and well ventilated. Grow outdoors in moist but sharply-drained acid soil in full sun. Irrigate with lime-free water. See carnivorous plant cultivation",
-        "propagation": "Propagate by seed or by division or by rhizome cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "None required",
-        "pests": "May be attacked by scale insects, mealybugs, aphids and tortrix moth",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow under glass in full light with shelter from hot sun. In winter keep moist, cool and well ventilated. Grow outdoors in moist but sharply-drained acid soil in full sun. Irrigate with lime-free water. See carnivorous plant cultivation",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division or by rhizome cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by scale insects, mealybugs, aphids and tortrix moth",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs",
+                "Aphids",
+                "Tortrix moth"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sarracenia flava 'Maxima'",
+    "display_name": "Largest yellow pitcher plant"
 }

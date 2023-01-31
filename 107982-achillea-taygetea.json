@@ -94,17 +94,61 @@
         "plant_range": "Greece: Mt Taygetos"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun. Tolerates poor, dry soil",
-        "propagation": "Propagate by seed, or divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "Aphids may be a problem",
-        "diseases": "Powdery mildews may occur"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. Tolerates poor, dry soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or divide in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews may occur",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Achillea taygetea",
+    "display_name": "Egyptian yarrow"
 }

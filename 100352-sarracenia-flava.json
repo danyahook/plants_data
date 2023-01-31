@@ -96,15 +96,57 @@
         "plant_range": "E Northern America"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in full light with shelter from hot sun. In winter keep moist, cool and well ventilated. Grow outdoors in moist but sharply drained acid soil in full sun. Irrigate with lime-free water. See carnivorous plant cultivation for further advice",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by scale insects, mealybugs, aphids and tortrix moth",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in full light with shelter from hot sun. In winter keep moist, cool and well ventilated. Grow outdoors in moist but sharply drained acid soil in full sun. Irrigate with lime-free water. See carnivorous plant cultivation for further advice",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by scale insects, mealybugs, aphids and tortrix moth",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs",
+                "Aphids",
+                "Tortrix moth"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sarracenia_flava.html",
@@ -162,5 +204,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sarracenia flava",
+    "display_name": "Yellow pitcher plant"
 }

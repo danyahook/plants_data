@@ -94,19 +94,65 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, well-drained soil in full sun",
-        "propagation": "Propagate by seed in spring at 19-24°C (66-75°F). Take semi-ripe cuttings in mid- or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Trim over after flowering to keep plants compact",
-        "pests": "May suffer from glasshouse whitefly, glasshouse red spider mite and aphids may be a problem under glass",
-        "diseases": "Rust can be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring at 19-24°C (66-75°F). Take semi-ripe cuttings in mid- or late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim over after flowering to keep plants compact",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, scale insects and glasshouse red spider mite",
+            "link_names": [
+                "Mealybugs",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust and honey fungus",
+            "link_names": [
+                "A rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Senecio leucostachys misapplied",
+    "display_name": "Dusty miller"
 }

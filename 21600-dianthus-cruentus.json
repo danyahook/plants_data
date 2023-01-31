@@ -85,18 +85,60 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained, neutral to alkaline soil in full sun. Will not tolerate winter wet",
-        "propagation": "Propagate by seed or by softwood cuttings of non-flowering shoots in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering and trim overwintered shoots in spring to keep tidy",
-        "pests": "May be susceptible to slugs and aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a well-drained, neutral to alkaline soil in full sun. Will not tolerate winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by softwood cuttings of non-flowering shoots in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering and trim overwintered shoots in spring to keep tidy",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Dianthus cruentus",
+    "display_name": "Blood pink"
 }

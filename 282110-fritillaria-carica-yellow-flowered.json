@@ -86,19 +86,59 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile. well-drained soil in full sun. See bulb cultivation for further advice",
-        "propagation": "Propagate by offsets or division in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Architectural",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and lily beetle",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows best in fertile. well-drained soil in full sun. See bulb cultivation for further advice",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by offsets or division in late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Architectural",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and lily beetle",
+            "link_names": [
+                "Slugs",
+                "Lily beetle"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Fritillaria carica yellow-flowered",
+    "display_name": "Caria fritillary"
 }

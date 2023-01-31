@@ -94,19 +94,83 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Outdoors grow in fertile, moist but well-drained soil full sun or partial shade. Shelter from cold, drying winds and provide a deep winter mulch. Under glass, grow in loam-based potting compost (JI No3) or loamless potting compost, in bright filtered light with moderate humidity. Water freely in growth and keep just moist in winter. See hardy fuchsia cultivation for further information",
-        "propagation": "Propagate by seed at 15-24°C (59-75°F) in spring. Root softwood cuttings in spring, or semi-ripe cuttings in late summer with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 6; cut back to the base in frost prone areas",
-        "pests": "Susceptible to glasshouse whitefly, vine weevil, capsid bug, fuchsia gall mite, aphids and glasshouse red spider mite",
-        "diseases": "grey moulds and fuchsia rust can be problematic"
+        "cultivation": {
+            "text": "Outdoors grow in fertile, moist but well-drained soil full sun or partial shade. Shelter from cold, drying winds and provide a deep winter mulch. Under glass, grow in loam-based potting compost (JI No3) or loamless potting compost, in bright filtered light with moderate humidity. Water freely in growth and keep just moist in winter. See hardy fuchsia cultivation for further information",
+            "link_names": [
+                "Mulch",
+                "Hardy fuchsia cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hardy_fuchsia_cultivation": "https://www.rhs.org.uk/plants/fuchsia/hardy/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed at 15-24°C (59-75°F) in spring. Root softwood cuttings in spring, or semi-ripe cuttings in late summer with bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6; cut back to the base in frost prone areas",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug, fuchsia gall mite, fuchsia flea beetle, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Fuchsia gall mite",
+                "Fuchsia flea beetle",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "fuchsia_gall_mite": "https://www.rhs.org.uk/biodiversity/fuchsia-gall-mite",
+                "fuchsia_flea_beetle": "https://www.rhs.org.uk/biodiversity/fuchsia-gall-mite",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fuchsia rust, grey moulds and honey fungus (rarely)",
+            "link_names": [
+                "Fuchsia rust",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fuchsia_rust": "https://www.rhs.org.uk/disease/fuchsia-rust",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fuchsia_procumbens.html",
@@ -152,5 +216,7 @@
             "Aged yellow and dry",
             "Longhorn beetles"
         ]
-    }
+    },
+    "main_name_original": "Fuchsia procumbens",
+    "display_name": "Trailing fuchsia"
 }

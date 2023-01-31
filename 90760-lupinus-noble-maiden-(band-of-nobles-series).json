@@ -80,16 +80,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile light and slightly acid, well-drained sandy soil, in full sun or part shade",
-        "propagation": "Propagate by seed in spring or autumn, propagate by division in spring, or take basal cuttings of cultivars in mid-spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old leaves and stems after flowering",
-        "pests": "slugs and lupin aphid may be a problem",
-        "diseases": "Susceptible to powdery mildew, lupin anthracnose and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile light and slightly acid, well-drained sandy soil, in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or autumn, propagate by division in spring, or take basal cuttings of cultivars in mid-spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old leaves and stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "slugs and lupin aphid may be a problem",
+            "link_names": [
+                "Slugs",
+                "Lupin aphid"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to powdery mildew, lupin anthracnose and a virus",
+            "link_names": [
+                "Lupin anthracnose",
+                "A virus"
+            ],
+            "related_links": {
+                "lupin_anthracnose": "https://www.rhs.org.uk/disease/lupin-anthracnose",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lupinus 'Noble Maiden' (Band of Nobles Series)",
+    "display_name": "Lupin 'noble maiden'"
 }

@@ -92,17 +92,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, moist soil in full sun or partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Remove flower spikes as they fade You can delay or stagger flowering using the Chelsea chop technique",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to a downy mildew, powdery mildews and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flower spikes as they fade You can delay or stagger flowering using the Chelsea chop technique",
+            "link_names": [
+                "Chelsea chop"
+            ],
+            "related_links": {
+                "chelsea_chop": "https://www.rhs.org.uk/pruning/chelsea-chop"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew, powdery mildews and a leaf spot",
+            "link_names": [
+                "A downy mildew",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Veronica virginica 'Alba'",
+    "display_name": "Culver's root 'album'"
 }

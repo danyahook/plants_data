@@ -86,16 +86,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, neutral to slightly alkaline soil in full sun",
-        "propagation": "Propagate by division in spring or by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Gravel garden",
-            "Rock garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to root rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, neutral to slightly alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or by softwood cuttings in early summer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Gravel garden",
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum acre 'Aureum'",
+    "display_name": ""
 }

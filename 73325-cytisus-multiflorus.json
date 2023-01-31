@@ -92,17 +92,65 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, preferably acid soil in full sun. Suitable for rock garden or raised bed. Resents transplanting and may become chlorotic on particularly shallow, chalky soils",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring or autumn or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 3. Do not cut into old wood",
-        "pests": "Gall mites may be a problem",
-        "diseases": "May be affected by honey fungus and waterlogging"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, preferably acid soil in full sun. Suitable for rock garden or raised bed. Resents transplanting and may become chlorotic on particularly shallow, chalky soils",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring or autumn or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 3. Do not cut into old wood",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cytisus_multiflorus.html",
@@ -153,5 +201,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cytisus multiflorus",
+    "display_name": "White spanish broom"
 }

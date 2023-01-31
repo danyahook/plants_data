@@ -88,15 +88,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Usually fan trained. Mulch with well rotted compost or manure",
-        "propagation": "Propagate by tip layering or from cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Hedging and screens",
-            "Banks and slopes"
-        ],
-        "pruning": "Cut out old canes following fruiting and tie in new canes",
-        "pests": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
-        "diseases": "Good general resistance to disease"
-    }
+        "cultivation": {
+            "text": "Usually fan trained. Mulch with well rotted compost or manure",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by tip layering or from cuttings",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Hedging and screens",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out old canes following fruiting and tie in new canes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "Good general resistance to disease",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus fruticosus agg. 'Loch Ness' (B)",
+    "display_name": "Blackberry 'loch ness'"
 }

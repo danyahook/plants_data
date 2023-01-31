@@ -90,18 +90,48 @@
         "plant_range": "C Europe"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in poor, sharply drained soil in full sun",
-        "propagation": "Propagate by seed in spring. Divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Remove withered foliage in autumn or spring",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Best grown in poor, sharply drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring. Divide in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove withered foliage in autumn or spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Buphthalmum_salicifolium.html",
@@ -137,5 +167,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Buphthalmum salicifolium",
+    "display_name": "Yellow ox eye"
 }

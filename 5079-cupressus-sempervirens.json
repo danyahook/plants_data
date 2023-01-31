@@ -88,16 +88,50 @@
         "plant_range": "Mediterranean & W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in full sun. Protect from cool, drying winds. Tolerates dry conditions",
-        "propagation": "Propagate by seed or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by cypress aphid",
-        "diseases": "Susceptible to coryneum canker"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in full sun. Protect from cool, drying winds. Tolerates dry conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to cypress aphid",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to coryneum canker and honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cupressus_sempervirens.html",
@@ -159,5 +193,7 @@
             "Underwatering",
             "Branch blight"
         ]
-    }
+    },
+    "main_name_original": "Cupressus sempervirens",
+    "display_name": "Italian cypress"
 }

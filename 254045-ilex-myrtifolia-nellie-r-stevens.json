@@ -95,17 +95,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in full sun or part shade",
-        "propagation": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1; trim hedges in early spring",
-        "pests": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
-        "diseases": "May be susceptible to holly leaf blight"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; trim hedges in early spring",
+            "link_names": [
+                "Pruning group 1",
+                "Trim hedges"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
+            "link_names": [
+                "Scale insects",
+                "Holly leaf miner",
+                "Aphids"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "holly_leaf_miner": "https://www.rhs.org.uk/biodiversity/holly-leaf-miner",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to holly leaf blight",
+            "link_names": [
+                "Holly leaf blight"
+            ],
+            "related_links": {
+                "holly_leaf_blight": "https://www.rhs.org.uk/disease/holly-leaf-blight"
+            }
+        }
+    },
+    "main_name_original": "Ilex myrtifolia 'Nellie R. Stevens'",
+    "display_name": "Holly 'nellie r. stevens'"
 }

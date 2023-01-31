@@ -85,16 +85,50 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Requires a fertile, moisture-retentive soil, so mulching is beneficial",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Architectural",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead spent flower spikes",
-        "pests": "Generally trouble-free, but may be subject to blackfly (black aphids)",
-        "diseases": "Generally trouble-free"
-    }
+        "cultivation": {
+            "text": "Requires a fertile, moisture-retentive soil, so mulching is beneficial",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Architectural",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flower spikes",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble-free, but may be subject to blackfly (black aphids)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rheum palmatum 'Hadspen Crimson'",
+    "display_name": "Rhubarb 'hadspen crimson'"
 }

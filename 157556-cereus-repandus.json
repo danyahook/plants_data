@@ -101,16 +101,52 @@
         "plant_range": "Venez., Antilles"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a standard cactus mix with sharp drainage, in a bright sunny spot; could be placed outdoors in a sheltered spot in summer. Water freely when in growth and keep almost dry at other times. See houseplant cacti and succulent cultivation",
-        "propagation": "Propagate by seed in early spring or by stem cuttings from branching specimens",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Architectural",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealy bugs and scale insects",
-        "diseases": "Generally disease-free, though over-watering will cause rot"
+        "cultivation": {
+            "text": "Grow in a standard cactus mix with sharp drainage, in a bright sunny spot; could be placed outdoors in a sheltered spot in summer. Water freely when in growth and keep almost dry at other times. See houseplant cacti and succulent cultivation",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring or by stem cuttings from branching specimens",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Architectural",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealy bugs and scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, though over-watering will cause rot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cereus_repandus.html",
@@ -168,5 +204,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cereus repandus",
+    "display_name": "Cadushi"
 }

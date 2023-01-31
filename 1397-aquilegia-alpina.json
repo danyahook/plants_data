@@ -95,17 +95,57 @@
         "plant_range": "Alps, N Italy"
     },
     "how_to_grow": {
-        "cultivation": "Grow in free-draining but moisture-retentive soil in sun or partial shade",
-        "propagation": "Propagate by seed as soon as seed is ripe in late summer, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but can be cut back after flowering",
-        "pests": "May be affected by aphids and leaf-miners",
-        "diseases": "May be affected by powdery mildews and aquilegia downy mildew"
+        "cultivation": {
+            "text": "Grow in free-draining but moisture-retentive soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed as soon as seed is ripe in late summer, or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but can be cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by aphids and leaf-miners",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews and aquilegia downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aquilegia_alpina.html",
@@ -156,5 +196,7 @@
             "Powdery Mildew",
             "Leaf miners"
         ]
-    }
+    },
+    "main_name_original": "Aquilegia alpina",
+    "display_name": "Alpine columbine"
 }

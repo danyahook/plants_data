@@ -93,18 +93,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile soil in sun or partial shade. Plants may require staking. Mulch annually and divide every third year to maintain vigour",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back almost to ground level in late autumn",
-        "pests": "May be susceptible to eelworm, aphids, slugs and snails",
-        "diseases": "May be susceptible to fusarium wilt, leaf spot and grey mould (botrytis)"
-    }
+        "cultivation": {
+            "text": "Grow in fertile soil in sun or partial shade. Plants may require staking. Mulch annually and divide every third year to maintain vigour",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back almost to ground level in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to eelworm, aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fusarium wilt, leaf spot and grey mould (botrytis)",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Symphyotrichum novae-angliae 'Colwall Century'",
+    "display_name": ""
 }

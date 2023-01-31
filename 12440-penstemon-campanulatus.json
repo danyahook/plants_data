@@ -92,17 +92,69 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant over winter with a dry mulch. See penstemon cultivation",
-        "propagation": "Propagate by seed, or by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Regular deadheading can encourage a longer flowering season. In autumn, cut back to by about a third to tidy and reduce windrock, but leave enough to protect the crown over winter. In mid- to late spring cut back to lowest new shoots",
-        "pests": "May be susceptible to aphids and chrysanthemum eelworm",
-        "diseases": "May be susceptible to Powdery mildews"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant over winter with a dry mulch. See penstemon cultivation",
+            "link_names": [
+                "Mulch",
+                "Penstemon cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular deadheading can encourage a longer flowering season. In autumn, cut back to by about a third to tidy and reduce windrock, but leave enough to protect the crown over winter. In mid- to late spring cut back to lowest new shoots",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and chrysanthemum eelworm",
+            "link_names": [
+                "Aphids",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Penstemon_campanulatus.html",
@@ -142,5 +194,7 @@
             "Aged yellow and dry",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Penstemon campanulatus",
+    "display_name": "Bellflower beardtongue"
 }

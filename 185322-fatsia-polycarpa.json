@@ -89,19 +89,63 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Requires frost-free conditions. In very mild gardens, grow in moist but well-drained soil in full sun or partial shade. Otherwise grow under glass in loam-bsed potting compost, in bright, filtered light",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Architectural",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Can get scale insects, thrips and mealybugs",
-        "diseases": "May be affected by a leaf spot"
+        "cultivation": {
+            "text": "Requires frost-free conditions. In very mild gardens, grow in moist but well-drained soil in full sun or partial shade. Otherwise grow under glass in loam-bsed potting compost, in bright, filtered light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Architectural",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, thrips and mealybugs",
+            "link_names": [
+                "Scale insects",
+                "Thrips",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot and honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fatsia_polycarpa.html",
@@ -140,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Fatsia polycarpa",
+    "display_name": "Many-fruited aralia"
 }

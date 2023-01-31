@@ -89,16 +89,54 @@
         "plant_range": "Europe to Med."
     },
     "how_to_grow": {
-        "cultivation": "Best grown in sandy soil but will tolerate any well-drained soil in full sun; needs protection from winter wet so good in a container or alpine house",
-        "propagation": "Propagate by seed sown in pots outdoors in spring or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Coastal",
-            "Rock garden"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Best grown in sandy soil but will tolerate any well-drained soil in full sun; needs protection from winter wet so good in a container or alpine house",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots outdoors in spring or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Coastal",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Statice bellidifolia",
+    "display_name": "Matted sea lavender"
 }

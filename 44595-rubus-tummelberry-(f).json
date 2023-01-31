@@ -87,14 +87,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun. Mulch with well-rotted compost or manure",
-        "propagation": "Propagate by tip layering or from cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Cut out old canes following fruiting and tie in new canes. See pruning blackberries and hybrid berries",
-        "pests": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
-        "diseases": "Usually disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun. Mulch with well-rotted compost or manure",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by tip layering or from cuttings",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out old canes following fruiting and tie in new canes. See pruning blackberries and hybrid berries",
+            "link_names": [
+                "Pruning blackberries"
+            ],
+            "related_links": {
+                "pruning_blackberries": "https://www.rhs.org.uk/fruit/blackberries-and-hybrid-berries/pruning-training"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids, leafhoppers, raspberry beetle and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "Usually disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus 'Tummelberry' (F)",
+    "display_name": "Tummelberry"
 }

@@ -89,19 +89,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown in late winter or early spring, or by softwood tip cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be attacked by slugs, snails, aphids, glasshouse red spider mite, violet gall midge",
-        "diseases": "May be subject to powdery mildews, pansy leaf spot, a virus and a rust"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in late winter or early spring, or by softwood tip cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, aphids, glasshouse red spider mite, violet gall midge",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews, pansy leaf spot, a virus and a rust",
+            "link_names": [
+                "Powdery mildews",
+                "Pansy leaf spot",
+                "A virus",
+                "A rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "pansy_leaf_spot": "https://www.rhs.org.uk/disease/pansy-leaf-spots",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Viola 'Floella'",
+    "display_name": "Viola 'floella'"
 }

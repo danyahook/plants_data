@@ -87,19 +87,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile soil in full sun. See also Hardy heathers cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in mid-to late autumn and by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "See pruning group 10",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to Phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile soil in full sun. See also Hardy heathers cultivation",
+            "link_names": [
+                "Hardy heathers"
+            ],
+            "related_links": {
+                "hardy_heathers": "https://www.rhs.org.uk/plants/types/heathers/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in mid-to late autumn and by layering",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 10",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases, including honey fungus (rarely), and Phytophthora root rot, in wet conditions",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Bruckenthalia spiculifolia 'Balkan Rose'",
+    "display_name": "Spike heath 'balkan rose'"
 }

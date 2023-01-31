@@ -85,18 +85,62 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
-        "propagation": "Propagation is by division in early spring. Seed-raised offspring of species and particularly cultivars will be variable",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
-        "pests": "May be attacked by slugs and snails; plants in pots may be susceptible to vine weevil",
-        "diseases": "Problems with a virus are becoming more common"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
+            "link_names": [
+                "Hosta cultivation"
+            ],
+            "related_links": {
+                "hosta_cultivation": "https://www.rhs.org.uk/plants/hosta/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagation is by division in early spring. Seed-raised offspring of species and particularly cultivars will be variable",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and snails; plants in pots may be susceptible to vine weevil",
+            "link_names": [
+                "Slugs",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Problems with a virus are becoming more common",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hosta plantaginea var. grandiflora",
+    "display_name": "Japanese fragrant plantain lily"
 }

@@ -85,17 +85,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in fertile, moist and well-drained soil in full sun or patial shade.",
-        "propagation": "Propagate by division in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back dead foliage and spent flowers",
-        "pests": "May be susceptible to vine weevil and eelworms",
-        "diseases": "May be susceptible to rust"
-    }
+        "cultivation": {
+            "text": "Will grow well in fertile, moist and well-drained soil in full sun or patial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back dead foliage and spent flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil and eelworms",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rust",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Heuchera 'Silver Celebration' (Fox Series)",
+    "display_name": "Alum root 'silver celebration'"
 }

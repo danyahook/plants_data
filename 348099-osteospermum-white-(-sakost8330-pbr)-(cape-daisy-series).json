@@ -93,21 +93,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. Tolerate poor soil, salt or drought. In frosty areas overwinter cuttings under glass",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer from non-flowering shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly and tidy in spring. No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to downy mildews and Verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. Tolerate poor soil, salt or drought. In frosty areas overwinter cuttings under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer from non-flowering shoots",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly and tidy in spring. No pruning required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews and Verticillium wilt",
+            "link_names": [
+                "Downy mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Osteospermum White ('Sakost8330'PBR) (Cape Daisy Series)",
+    "display_name": ""
 }

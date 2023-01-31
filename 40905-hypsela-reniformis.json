@@ -90,17 +90,55 @@
         "plant_range": "South America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in gritty, humus-rich, moist but well-drained soil in sun or shade",
-        "propagation": "Propagate by seed or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "Spreads freely in moist soils, keep contained by removing unwanted growth",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in gritty, humus-rich, moist but well-drained soil in sun or shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Spreads freely in moist soils, keep contained by removing unwanted growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hypsela reniformis",
+    "display_name": ""
 }

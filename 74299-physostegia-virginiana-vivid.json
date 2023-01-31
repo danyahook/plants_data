@@ -85,16 +85,44 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist soil in full sun or partial shade",
-        "propagation": "Propagate by division in winter or early spring before new growth starts",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back to the base in winter",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to rots if rhizomes damaged"
+        "cultivation": {
+            "text": "Grow in fertile, moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in winter or early spring before new growth starts",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to rots if rhizomes damaged",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Physostegia_virginiana__Vivid_.html",
@@ -127,5 +155,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Physostegia virginiana 'Vivid'",
+    "display_name": "Obedient plant 'vivid'"
 }

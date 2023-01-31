@@ -84,19 +84,58 @@
         "plant_range": "C Asia, Afghanistan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, sandy, well-drained loam in full sun, with shelter from wind. Mulch with garden compost in autumn, but avoid covering the crown. Young spring growth can be protected with a dry mulch",
-        "propagation": "Propagate by seed by sowing in containers in a cold frame in autumn or at 15°C (59°F) in late winter. Can also be propagated by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Prairie planting",
-            "Mediterranean climate plants",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "Slugs may cause damage",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grow in fertile, sandy, well-drained loam in full sun, with shelter from wind. Mulch with garden compost in autumn, but avoid covering the crown. Young spring growth can be protected with a dry mulch",
+            "link_names": [
+                "Mulch",
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed by sowing in containers in a cold frame in autumn or at 15°C (59°F) in late winter. Can also be propagated by division after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Prairie planting",
+                "Mediterranean climate plants",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs may cause damage",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Eremurus_robustus.html",
@@ -143,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Eremurus robustus",
+    "display_name": "Giant desert candle"
 }

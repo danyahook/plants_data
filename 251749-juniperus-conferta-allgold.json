@@ -94,20 +94,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil, including dry, chalky or sandy soils. Prefers full sun but will tolerate partial shade",
-        "propagation": "Propagate by semi-hardwood cuttings in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, scale insects and webber moth caterpillars",
-        "diseases": "May be susceptible to pestalotiopsis on conifers, phytophthora and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil, including dry, chalky or sandy soils. Prefers full sun but will tolerate partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in early autumn",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and webber moth caterpillars",
+            "link_names": [
+                "Aphids",
+                "Scale insects"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pestalotiopsis on conifers, phytophthora and honey fungus",
+            "link_names": [
+                "Pestalotiopsis on conifers",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "pestalotiopsis_on_conifers": "https://www.rhs.org.uk/disease/conifers-pestalotiopsis-disease",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Juniperus conferta 'Allgold'",
+    "display_name": ""
 }

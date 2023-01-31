@@ -77,16 +77,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in full sun and moist but well-drained soil that is not wet in winter. Plants can be short lived in heavy soils",
-        "propagation": "Propagate by seed or division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to encourage fresh foliage and a longer flowering season",
-        "pests": "Generally trouble free but young growth may be damaged by slugs and snails",
-        "diseases": "Generally trouble free but may be affected by rust diseases"
-    }
+        "cultivation": {
+            "text": "Best grown in full sun and moist but well-drained soil that is not wet in winter. Plants can be short lived in heavy soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage fresh foliage and a longer flowering season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage on young growth but generally pest free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to rust diseases but generally disease free",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Sidalcea 'Party Girl'",
+    "display_name": "Prairie mallow 'party girl'"
 }

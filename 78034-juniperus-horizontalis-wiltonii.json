@@ -95,19 +95,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites. Good ground cover",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by juniper aphid, juniper scale, juniper webber moth, conifer red spider mite and conifer shoot moth",
-        "diseases": "May be affected by pestalotiopsis on conifers, phytophthora and tree rusts"
+        "cultivation": {
+            "text": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites. Good ground cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, conifer red spider mite and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora, canker and honey fungus. See also Conifers: brown patches",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Conifers: brown patches"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "conifers:_brown_patches": "https://www.rhs.org.uk/problems/conifers-brown-patches"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Juniperus_horizontalis__Wiltonii_.html",
@@ -140,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Juniperus horizontalis 'Wiltonii'",
+    "display_name": "Creeping juniper 'wiltonii'"
 }

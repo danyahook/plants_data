@@ -90,17 +90,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, humus-rich, moist but well-drained soil in full sun or partial shade; the strong stems mean support is not necessary, but it may be helpful; for more advice, see herbaceous peony cultivation",
-        "propagation": "Propagate by division in autumn or early spring, or by root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required except deadheading",
-        "pests": "May be susceptible to leaf and bud eelworm and soil-dwelling swift moth larvae",
-        "diseases": "May be susceptible to virus diseases, honey fungus and peony wilt"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, humus-rich, moist but well-drained soil in full sun or partial shade; the strong stems mean support is not necessary, but it may be helpful; for more advice, see herbaceous peony cultivation",
+            "link_names": [
+                "Herbaceous peony cultivation"
+            ],
+            "related_links": {
+                "herbaceous_peony_cultivation": "https://www.rhs.org.uk/plants/peony/herbaceous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or early spring, or by root cuttings in winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required except deadheading",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm and soil-dwelling swift moth larvae",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Swift moth larvae"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "swift_moth_larvae": "https://www.rhs.org.uk/biodiversity/swift-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus, honey fungus, Verticillium wilt, peony leaf blotch and peony wilt",
+            "link_names": [
+                "A virus",
+                "Honey fungus",
+                "Verticillium wilt",
+                "Peony wilt"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "peony_wilt": "https://www.rhs.org.uk/disease/peony-wilt"
+            }
+        }
+    },
+    "main_name_original": "Paeonia 'Mother's Choice'",
+    "display_name": "Peony 'mother's choice'"
 }

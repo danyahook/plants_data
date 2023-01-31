@@ -91,14 +91,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with dry winter mulch",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer. Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour. Then cut back to base in early spring",
-        "pests": "May be attacked by slugs, snails, glasshouse red spider mite, and leaf and bud eelworms",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer. Propagate by division in spring",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour. Then cut back to base in early spring",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, glasshouse red spider mite, and leaf and bud eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Penstemon 'Stapleford Gem'",
+    "display_name": "Penstemon 'stapleford gem'"
 }

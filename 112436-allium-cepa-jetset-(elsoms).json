@@ -77,10 +77,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile soil in a sunny spot. This cultivar is suitable for short storage periods. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
-        "propagation": "May be grown from seed but often more reliable grown from onion sets",
-        "pruning": "No pruning required, foliage will yellow and topple over when ready to harvest",
-        "pests": "May be susceptible to onion fly, allium leaf miner, leek moth and stem and bulb eelworm",
-        "diseases": "May be susceptible to onion white rot, leek rust and onion downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile soil in a sunny spot. This cultivar is suitable for short storage periods. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "May be grown from seed but often more reliable grown from onion sets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, foliage will yellow and topple over when ready to harvest",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to onion fly, allium leaf miner, leek moth and stem and bulb eelworm",
+            "link_names": [
+                "Onion fly",
+                "Allium leaf miner",
+                "Leek moth",
+                "Stem and bulb eelworm"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly",
+                "allium_leaf_miner": "https://www.rhs.org.uk/biodiversity/allium-leaf-miner",
+                "leek_moth": "https://www.rhs.org.uk/biodiversity/leek-moth",
+                "stem_and_bulb_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to onion white rot, leek rust and onion downy mildew",
+            "link_names": [
+                "Onion white rot",
+                "Leek rust",
+                "Onion downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust",
+                "onion_downy_mildew": "https://www.rhs.org.uk/disease/onion-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Allium cepa 'Jetset' (Elsoms)",
+    "display_name": "Onion 'jetset'"
 }

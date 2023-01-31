@@ -85,18 +85,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, moderately fertile soil in full sun with shelter; protect with a dry winter mulch in frost-prone areas",
-        "propagation": "Propagate by stem tip cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Gravel garden",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required. Cut back after flowering",
-        "pests": "May be attacked by slugs, leafhoppers, thrips and aphids",
-        "diseases": "May be subject to powdery mildews"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, moderately fertile soil in full sun with shelter; protect with a dry winter mulch in frost-prone areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by stem tip cuttings in late summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Gravel garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, leafhoppers, thrips and aphids",
+            "link_names": [
+                "Slugs",
+                "Thrips",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Verbena_rigida__Santos_.html",
@@ -129,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Verbena rigida 'Santos'",
+    "display_name": "Slender vervain 'santos'"
 }

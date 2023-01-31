@@ -88,18 +88,52 @@
         "plant_range": "Japan, Korea, Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, neutral to slightly acidic, moist but well-drained soil in full sun or dappled shade, and with shelter from cold, drying winds, for example in a woodland garden",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn, or by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required or Pruning group 1 (little or no pruning of trees and shrubs)",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in fertile, neutral to slightly acidic, moist but well-drained soil in full sun or dappled shade, and with shelter from cold, drying winds, for example in a woodland garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn, or by semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required or Pruning group 1 (little or no pruning of trees and shrubs)",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Trochodendron_aralioides.html",
@@ -148,5 +182,7 @@
         "diseases_data": [
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Trochodendron aralioides",
+    "display_name": "Wheel tree"
 }

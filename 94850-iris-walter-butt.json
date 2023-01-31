@@ -91,20 +91,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained or sharply drained, neutral or slightly alkaline soil. Ideal at the base of a sunny wall",
-        "propagation": "Propagate by division from midsummer to early autumn, replanting immediately in flowering positions",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Cut flowers",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to bacterial soft rot, grey moulds and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained or sharply drained, neutral or slightly alkaline soil. Ideal at the base of a sunny wall",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division from midsummer to early autumn, replanting immediately in flowering positions",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Cut flowers",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to bacterial soft rot, grey moulds and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Iris 'Walter Butt'",
+    "display_name": "Algerian iris 'walter butt'"
 }

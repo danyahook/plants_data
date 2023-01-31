@@ -85,18 +85,58 @@
         "plant_range": "C & S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich soil in partial shade",
-        "propagation": "Propagate by division in early autumn or propagate by seed in containers in a cold frame in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead flowers for a second flush of blooms",
-        "pests": "Generally pest free but leaf and bud eelworm may be troublesome",
-        "diseases": "May be affected by a leaf spot, root rot and powdery mildews"
+        "cultivation": {
+            "text": "Grow in moist, humus-rich soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early autumn or propagate by seed in containers in a cold frame in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead flowers for a second flush of blooms",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but leaf and bud eelworm may be troublesome",
+            "link_names": [
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a leaf spot, root rot and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Doronicum_austriacum.html",
@@ -149,5 +189,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Doronicum austriacum",
+    "display_name": "Austrian leopard's bane"
 }

@@ -90,21 +90,61 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sheltered, warm location in free-draining humus-rich soil in dappled sunlight. Protect from frost and cold winds. If growing as a houseplant, place a layer of gravel or pebbles at the base of the pot to encourage free-draining. Reduce watering in winter. Feed regularly with a balanced liquid fertiliser during the growing season. See houseplant cultivation for further advice",
-        "propagation": "Propagate by division of offsets at the base of the plant",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and caterpillars",
-        "diseases": "May be susceptible to fungal rots or root rots and oedema, particularly if over-watering occurs"
+        "cultivation": {
+            "text": "Grow in a sheltered, warm location in free-draining humus-rich soil in dappled sunlight. Protect from frost and cold winds. If growing as a houseplant, place a layer of gravel or pebbles at the base of the pot to encourage free-draining. Reduce watering in winter. Feed regularly with a balanced liquid fertiliser during the growing season. See houseplant cultivation for further advice",
+            "link_names": [
+                "Houseplant cultivation"
+            ],
+            "related_links": {
+                "houseplant_cultivation": "https://www.rhs.org.uk/plants/types/houseplants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of offsets at the base of the plant",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and caterpillars",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal rots or root rots and oedema, particularly if over-watering occurs",
+            "link_names": [
+                "Oedema"
+            ],
+            "related_links": {
+                "oedema": "https://www.rhs.org.uk/problems/oedema"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Alocasia_brisbanensis.html",
@@ -147,5 +187,7 @@
             "Yellow spot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Alocasia brisbanensis",
+    "display_name": ""
 }

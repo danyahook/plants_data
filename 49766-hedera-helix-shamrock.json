@@ -92,17 +92,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow preferably in an alkaline, moist but well-drained soil in sun or part shade with shelter from cold winds. Although it will tolerate a wide range of soil conditions. Under glass grow loam-based compost such as John Innes No.3 in bright indirect light",
-        "propagation": "Propagate by softwood cuttings or layering at any time. Root semi-ripe or hardwood cuttings from summer to winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 11, at any time. Renovate in early spring before the growth starts",
-        "pests": "May be damaged by scale insects, aphids and glasshouse red spider mite; vine weevil may be a problem when grown in containers.",
-        "diseases": "May be affected by fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow preferably in an alkaline, moist but well-drained soil in sun or part shade with shelter from cold winds. Although it will tolerate a wide range of soil conditions. Under glass grow loam-based compost such as John Innes No.3 in bright indirect light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or layering at any time. Root semi-ripe or hardwood cuttings from summer to winter",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11, at any time. Renovate in early spring before the growth starts",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, scale insects, vine weevil and aphids",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a leaf spot",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hedera helix 'Shamrock'",
+    "display_name": "Ivy 'shamrock'"
 }

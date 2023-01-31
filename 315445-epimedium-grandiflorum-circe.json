@@ -84,18 +84,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in partial or dappled shade, with shelter from cold, drying winds. Protect with winter mulch in colder areas. Ideal woodland plant",
-        "propagation": "Propagate by seed sown as soon as ripe, by division in autumn, or by root cuttings. Cuttings of rhizomes should be rooted under glass in winter and planted out in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Clip back old stems in late winter before new growth begins",
-        "pests": "May be susceptible to vine weevil",
-        "diseases": "May be susceptible to mosaic virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in partial or dappled shade, with shelter from cold, drying winds. Protect with winter mulch in colder areas. Ideal woodland plant",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe, by division in autumn, or by root cuttings. Cuttings of rhizomes should be rooted under glass in winter and planted out in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Clip back old stems in late winter before new growth begins",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to mosaic virus diseases",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Epimedium grandiflorum 'Circe'",
+    "display_name": "Barrenwort 'circe'"
 }

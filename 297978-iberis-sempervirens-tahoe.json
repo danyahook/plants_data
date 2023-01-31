@@ -82,17 +82,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, neutral to alkaline soil in full sun. Will not tolerate waterlogging",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "Trim lightly after flowering to maintain compact shape",
-        "pests": "May be susceptible to slugs, snails and sometimes caterpillars",
-        "diseases": "May be susceptible to clubroot"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, neutral to alkaline soil in full sun. Will not tolerate waterlogging",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim lightly after flowering to maintain compact shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and sometimes caterpillars",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to clubroot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Iberis sempervirens 'Tahoe'",
+    "display_name": ""
 }

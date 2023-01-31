@@ -83,13 +83,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately-fertile, moist but well-drained soil in full sun or part shade. Sow sucessionally for a constant supply of edible leaves and can also be grown as a cut-and-come-again crop. For more information see rocket cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to flea beetles, slugs and snails",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately-fertile, moist but well-drained soil in full sun or part shade. Sow sucessionally for a constant supply of edible leaves and can also be grown as a cut-and-come-again crop. For more information see rocket cultivation",
+            "link_names": [
+                "Rocket cultivation"
+            ],
+            "related_links": {
+                "rocket_cultivation": "https://www.rhs.org.uk/vegetables/rocket/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to flea beetles, slugs and snails",
+            "link_names": [
+                "Flea beetles",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Diplotaxis erucoides 'Wasabi'PBR",
+    "display_name": "Rocket 'wasabi'"
 }

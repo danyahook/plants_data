@@ -82,16 +82,44 @@
         "plant_range": "Australasia, Polynesia"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in an open, humus-rich compost such as one part each of loam, medium-grade bark and charcoal, two parts sharp sand and three parts leaf mould, in bright, filtered light. Outdoors grow in moist, acid soil in sheltered, partial shade and protect from frost",
-        "propagation": "Propagate from spores, or by division in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Patio and container plants"
-        ],
-        "pruning": "Remove dead or damaged fronds as required",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Under glass grow in an open, humus-rich compost such as one part each of loam, medium-grade bark and charcoal, two parts sharp sand and three parts leaf mould, in bright, filtered light. Outdoors grow in moist, acid soil in sheltered, partial shade and protect from frost",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from spores, or by division in late spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead or damaged fronds as required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Doodia_media.html",
@@ -140,5 +168,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Doodia media",
+    "display_name": "Common rasp-fern"
 }

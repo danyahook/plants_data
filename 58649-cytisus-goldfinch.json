@@ -83,17 +83,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in poor, well-drained, acid soils but tolerates some lime. Plant out when young; brooms resent transplanting",
-        "propagation": "Propagate by semi-ripe cuttings in late summer or early autumn, or by hardwood cuttings in midwinter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 3, but do not cut into old wood",
-        "pests": "Broom gall mites may be a problem",
-        "diseases": "May be affected by honeyfungus and waterlogging"
-    }
+        "cultivation": {
+            "text": "Thrives in poor, well-drained, acid soils but tolerates some lime. Plant out when young; brooms resent transplanting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer or early autumn, or by hardwood cuttings in midwinter",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 3, but do not cut into old wood",
+            "link_names": [
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cytisus 'Goldfinch'",
+    "display_name": "Broom 'goldfinch'"
 }

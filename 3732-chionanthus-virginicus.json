@@ -90,16 +90,48 @@
         "plant_range": "E North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, acid, well-drained soil in full sun",
-        "propagation": "Propagate by seed in a cold frame in autumn. May take up to 18 months to germinate",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1; remove lower branches to encourage a tree-like habit",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in any fertile, slightly acidic, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in a cold frame in autumn. May take up to 18 months to germinate",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; remove lower branches to encourage a tree-like habit",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Chionanthus_virginicus.html",
@@ -194,5 +226,7 @@
             "Caterpillars",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Chionanthus virginicus",
+    "display_name": "Fringe tree"
 }

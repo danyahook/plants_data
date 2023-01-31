@@ -89,14 +89,56 @@
         "plant_range": "E Turkey, N Iran, Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, moist but well-drained soil in full sun",
-        "propagation": "Propagate by seed in containers outdoors in autumn. Remove rooted suckers in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1; remove unwanted suckers and seedlings as they appear",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, moist but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers outdoors in autumn. Remove rooted suckers in autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; remove unwanted suckers and seedlings as they appear",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pterocarya fraxinifolia",
+    "display_name": "Caucasian wingnut"
 }

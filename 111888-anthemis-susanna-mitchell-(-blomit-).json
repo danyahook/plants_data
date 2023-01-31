@@ -97,20 +97,53 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in moderately fertile, well-drained sandy or gravelly soil in full sun.",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring, or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Rock garden",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Remove faded flowers regularly to encourage long flowering",
-        "pests": "May be susceptible to aphids and slugs",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in moderately fertile, well-drained sandy or gravelly soil in full sun.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring, or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flowers regularly to encourage long flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Anthemis Susanna Mitchell ('Blomit')",
+    "display_name": "Chamomile [susanna mitchell]"
 }

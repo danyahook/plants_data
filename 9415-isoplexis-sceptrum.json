@@ -92,19 +92,69 @@
         "plant_range": "Madeira"
     },
     "how_to_grow": {
-        "cultivation": "In frost-free areas, grow in a sheltered position in a sunny to partially shaded site in well-drained soil; in frost-prone areas, grow in a cool greenhouse with minimum night temperatures of 5-10°C, in medium-fertility loam-based compost, such as John Innes No. 2, with added sand and leafmould, water plentifully in summer but moderately in winter, and keep plants well ventilated",
-        "propagation": "Propagate by seed, sown at 18-24°C in a sandy seed mixture in spring; by softwood cuttings in spring; or by semi-ripe cuttings in summer with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required except deadheading to encourage further flowering",
-        "pests": "Generally pest-free but may be affected by caterpillars, and by glasshouse red spider mite and glasshouse whitefly under glass",
-        "diseases": "May be affected by fungal leaf spots, powdery mildews, downy mildews, crown rots and root rots"
-    }
+        "cultivation": {
+            "text": "In frost-free areas, grow in a sheltered position in a sunny to partially shaded site in well-drained soil; in frost-prone areas, grow in a cool greenhouse with minimum night temperatures of 5-10°C, in medium-fertility loam-based compost, such as John Innes No. 2, with added sand and leafmould, water plentifully in summer but moderately in winter, and keep plants well ventilated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 18-24°C in a sandy seed mixture in spring; by softwood cuttings in spring; or by semi-ripe cuttings in summer with bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required except deadheading to encourage further flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars, glasshouse red spider mite and glasshouse whitefly but generally pest-free",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spots, powdery mildews, downy mildews, crown rots and root rots",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Isoplexis sceptrum",
+    "display_name": "Sceptre foxglove"
 }

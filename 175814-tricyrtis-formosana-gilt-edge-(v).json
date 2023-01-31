@@ -94,14 +94,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, acidic to neutral, humus-rich soil in deep or partial shade. Mulch in winter",
-        "propagation": "Propagate by division in spring, or by sowing seed as soon as ripe in containers in a cold frame. In cold areas overwinter young plants in a cool greenhouse for their first winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, acidic to neutral, humus-rich soil in deep or partial shade. Mulch in winter",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, or by sowing seed as soon as ripe in containers in a cold frame. In cold areas overwinter young plants in a cool greenhouse for their first winter",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Tricyrtis formosana 'Gilt Edge' (v)",
+    "display_name": "Toad lily 'gilt edge'"
 }

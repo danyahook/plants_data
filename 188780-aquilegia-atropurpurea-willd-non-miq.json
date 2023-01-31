@@ -94,17 +94,67 @@
         "plant_range": "Far East"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See aquilegia cultivation",
-        "propagation": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe or in spring. It can also be propagated by division in spring but the plant will be slow to recover",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back foliage affected by fungal diseases",
-        "pests": "May be susceptible to aphids, caterpillars, leaf miners, aquilegia gall midge and aquilegia sawfly",
-        "diseases": "May be infected by powdery mildews and aquilegia downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See aquilegia cultivation",
+            "link_names": [
+                "Aquilegia cultivation"
+            ],
+            "related_links": {
+                "aquilegia_cultivation": "https://www.rhs.org.uk/plants/aquilegia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe or in spring. It can also be propagated by division in spring but the plant will be slow to recover",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back foliage affected by fungal diseases",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf miners, aquilegia gall midge and aquilegia sawfly",
+            "link_names": [
+                "Aphids",
+                "Aquilegia gall midge",
+                "Aquilegia sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "aquilegia_gall_midge": "https://www.rhs.org.uk/biodiversity/aquilegia-gall-midge",
+                "aquilegia_sawfly": "https://www.rhs.org.uk/biodiversity/aquilegia-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by powdery mildews and aquilegia downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Aquilegia atropurpurea Willd. non Miq.",
+    "display_name": "Green-flowered columbine"
 }

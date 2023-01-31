@@ -92,16 +92,56 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a half-hardy annual in fertile, moist but well-drained soil in full sun or partial shade. Can be overwintered outdoors in southern counties or London gardens where temperatures only occasionally fall to -5°C, resprouting from rootstocks the following spring. Provide a dry winter mulch",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but cut down spent flower panicles at the end of the flowering season",
-        "pests": "Can get leafhoppers and glasshouse whitefly",
-        "diseases": "May be subject to a virus"
+        "cultivation": {
+            "text": "Grow as a half-hardy annual in fertile, moist but well-drained soil in full sun or partial shade. Can be overwintered outdoors in southern counties or London gardens where temperatures only occasionally fall to -5°C, resprouting from rootstocks the following spring. Provide a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but cut down spent flower panicles at the end of the flowering season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get leafhoppers and glasshouse whitefly",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Nicotiana_sylvestris.html",
@@ -142,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Nicotiana sylvestris",
+    "display_name": "Woodland tobacco plant"
 }

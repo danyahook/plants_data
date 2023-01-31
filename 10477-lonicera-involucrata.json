@@ -93,16 +93,62 @@
         "plant_range": "N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in sun or part shade",
-        "propagation": "Propagate by greenwood cuttings in summer or hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Generally pest-free but may be affected by aphids and thrips",
-        "diseases": "May be susceptible to powdery mildews in dry soils"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in summer or hardwood cuttings in autumn",
+            "link_names": [
+                "Greenwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews in dry soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lonicera_involucrata.html",
@@ -178,5 +224,7 @@
             "Leaf deformity",
             "Plant dried up"
         ]
-    }
+    },
+    "main_name_original": "Lonicera involucrata",
+    "display_name": "Californian honeysuckle"
 }

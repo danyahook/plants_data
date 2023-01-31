@@ -102,16 +102,60 @@
         "plant_range": "W North America"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in moist but well-drained soil. Protect from drying winds especially when young. Suitable for hedging or screening",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "None required, unless grown as a hedge",
-        "pests": "May be susceptible to scale insects and conifer aphid",
-        "diseases": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)"
+        "cultivation": {
+            "text": "Grows best in moist but well-drained soil. Protect from drying winds especially when young. Suitable for hedging or screening",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required, unless grown as a hedge",
+            "link_names": [
+                "Hedge"
+            ],
+            "related_links": {
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and conifer aphid",
+            "link_names": [
+                "Scale insects",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
+            "link_names": [
+                "Honey fungus",
+                "Thuja blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Thuja_plicata.html",
@@ -160,5 +204,7 @@
             "Dieback",
             "Branch blight"
         ]
-    }
+    },
+    "main_name_original": "Thuja plicata",
+    "display_name": "Western red cedar"
 }

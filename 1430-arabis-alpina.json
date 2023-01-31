@@ -93,15 +93,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in partial shade",
-        "propagation": "Propagate by division in autumn or spring. Propagate by basal cuttings spring or propagate by root cuttings in early autumn or winter.",
-        "suggested_planting_locations_and_garden_types": [
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by phlox eelworm",
-        "diseases": "May be affected by powdery mildews"
+        "cultivation": {
+            "text": "Grow in well drained soils. Good for ground cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer, or by division",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to arabis midge and flea beetles",
+            "link_names": [
+                "Flea beetles"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, white blister, and virus diseases",
+            "link_names": [
+                "Downy mildews",
+                "White blister",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phlox_divaricata_subsp._laphamii__Chattahoochee_.html",
@@ -133,5 +179,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Arabis alpina",
+    "display_name": "Mountain rock cress"
 }

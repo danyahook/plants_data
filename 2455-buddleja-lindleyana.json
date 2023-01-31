@@ -86,17 +86,69 @@
         "plant_range": "China, Japan"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based potting compost in full light with good ventilation. Water freely in summer and keep just moist in winter. Can be grown outdoors in a sheltered site",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "May be attacked by glasshouse whitefly and glasshouse red spider mite",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Under glass grow in loam-based potting compost in full light with good ventilation. Water freely in summer and keep just moist in winter. Can be grown outdoors in a sheltered site. See buddleja cultivation for more detailed advice",
+            "link_names": [
+                "Buddleja cultivation"
+            ],
+            "related_links": {
+                "buddleja_cultivation": "https://www.rhs.org.uk/plants/buddleja/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bugs, caterpillars, earwigs, figwort weevils, glasshouse red spider mite, leaf and bud eelworm, and mullein moth",
+            "link_names": [
+                "Aphids",
+                "Earwigs",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, fungal leaf spot, and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Buddleja_lindleyana.html",
@@ -152,5 +204,7 @@
             "Underwatering",
             "Plant dried up"
         ]
-    }
+    },
+    "main_name_original": "Buddleja lindleyana",
+    "display_name": "Lindley's butterfly bush"
 }

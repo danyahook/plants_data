@@ -88,19 +88,70 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "In mild areas, grow in well-drained soil in a sunny, sheltered position. Otherwise grow in a container and position in full sun. Water during the growing season and liquid feed monthly from spring to flowering. Overwinter the whole container in a cold greenhouse. See agapanthus cultivation",
-        "propagation": "Propagate by division every three to four years in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required. Remove faded flowers and old leaves",
-        "pests": "May be susceptible to vine weevil, sawflies/sawfly, agapanthus gall midge and slugs and snails",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "In mild areas, grow in well-drained soil in a sunny, sheltered position. Otherwise grow in a container and position in full sun. Water during the growing season and liquid feed monthly from spring to flowering. Overwinter the whole container in a cold greenhouse. See agapanthus cultivation",
+            "link_names": [
+                "Container",
+                "Container",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division every three to four years in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Remove faded flowers and old leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, sawflies/sawfly, agapanthus gall midge and slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Agapanthus gall midge",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Agapanthus 'Wp001'",
+    "display_name": "African lily [ever white]"
 }

@@ -98,15 +98,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Can be grown as a climber or allowed to scramble over banks and slopes. It copes with sun or partial shade in fertile well-drained soil. See sweetpea cultivation for further information",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Banks and slopes",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back to ground level in autumn",
-        "pests": "May be attacked by aphids, slugs and snails",
-        "diseases": "May be affected by powdery mildews, Fusarium wilt and sweet pea viruses"
+        "cultivation": {
+            "text": "Can be grown as a climber or allowed to scramble over banks and slopes. It copes with sun or partial shade in fertile well-drained soil. See sweetpea cultivation for further information",
+            "link_names": [
+                "Sweetpea cultivation"
+            ],
+            "related_links": {
+                "sweetpea_cultivation": "https://www.rhs.org.uk/plants/lathyrus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Banks and slopes",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to ground level in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, Fusarium wilt and sweet pea viruses",
+            "link_names": [
+                "Powdery mildews",
+                "Fusarium wilt",
+                "Sweet pea viruses"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts",
+                "sweet_pea_viruses": "https://www.rhs.org.uk/disease/sweet-pea-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lathyrus_latifolius__Rosa_Perle_.html",
@@ -141,5 +189,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lathyrus latifolius 'Rosa Perle'",
+    "display_name": "Everlasting pea 'rosa perle'"
 }

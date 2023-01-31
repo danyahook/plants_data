@@ -95,18 +95,66 @@
         "plant_range": "C Europe to Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a very well-drained, slightly alkaline soil",
-        "propagation": "Propagate by seed or by division of rhizomes after flowering, from midsummer to late summer; for more advice, see dividing irises",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down old flower stems after flowering, and remove any dying foliage in autumn",
-        "pests": "May be affected by iris sawfly, aphids, leaf miners, slugs, snails, and wireworms",
-        "diseases": "May be affected by iris rhizome rot, iris leaf spot, scorch, a rust, and virus diseases; for more advice see iris diseases"
+        "cultivation": {
+            "text": "Grows best in a very well-drained, slightly alkaline soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division of rhizomes after flowering, from midsummer to late summer; for more advice, see dividing irises",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Dividing irises"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "dividing_irises": "https://www.rhs.org.uk/plants/iris/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down old flower stems after flowering, and remove any dying foliage in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to iris sawfly, aphids, leaf miners, slugs, snails, and wireworms",
+            "link_names": [
+                "Iris sawfly",
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "iris_sawfly": "https://www.rhs.org.uk/biodiversity/iris-sawfly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to iris rhizome rot, iris leaf spot, scorch, a rust, and virus diseases; for more advice see iris diseases",
+            "link_names": [
+                "A rust",
+                "Iris diseases"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "iris_diseases": "https://www.rhs.org.uk/disease/iris-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_pumila.html",
@@ -151,5 +199,7 @@
             "Leaf scorch",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Iris pumila",
+    "display_name": "Dwarf bearded iris"
 }

@@ -97,16 +97,62 @@
         "plant_range": "Europe, W Asia"
     },
     "how_to_grow": {
-        "cultivation": "An easy to grow fast-growing tree for sun or partial shade. Often pollarded or coppiced",
-        "propagation": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or pollarding every 3-4 years",
-        "pests": "Can get aphids, caterpillars, leaf beetles and sawflies",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "An easy to grow fast-growing tree for sun or partial shade. Often pollarded or coppiced",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pollarding every 3-4 years",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
+            "link_names": [
+                "Willow anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Salix amygdalina vitellina",
+    "display_name": "Golden willow"
 }

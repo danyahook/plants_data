@@ -88,19 +88,60 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained, humus-rich soil in full sun or partial shade. Can also be grown in pots in an alpine house",
-        "propagation": "Propagate by detaching offsets in autumn or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead after flowering",
-        "pests": "May be attacked by aphids, glasshouse red spider mite, slugs, leafhoppers and vineweevils",
-        "diseases": "May be subject to a virus, primula brown core and grey moulds"
-    }
+        "cultivation": {
+            "text": "Will grow well in poor soils, but requires full sun and shelter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 7",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cistus ladanifer misapplied",
+    "display_name": "Common gum cistus"
 }

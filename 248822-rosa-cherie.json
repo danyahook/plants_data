@@ -96,16 +96,96 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile, humus-rich, moist but well-drained soil in a sunny, open position. Mulch in late winter and, to improve flowering, apply a balanced fertiliser in late winter or early spring and again in early summer. See rose cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in late summer or hardwood cuttings in autumn, or by chip budding in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 16 (roses)",
-        "pests": "Aphids, including rose aphid, are the most common rose pest. Can also be affected by rose leafhopper, glasshouse red spider mite, scale insects, caterpillars, large rose sawfly, rose leaf-rolling sawfly and leaf-cutter bees. Deer and rabbits can also cause damage",
-        "diseases": "Rose black spot, rose rust and rose powdery mildew are the most common rose diseases. Can also be affected by rose dieback, replant disease, a canker, honey fungus and a virus"
-    }
+        "cultivation": {
+            "text": "Grows best in fertile, humus-rich, moist but well-drained soil in a sunny, open position. Mulch in late winter and, to improve flowering, apply a balanced fertiliser in late winter or early spring and again in early summer. See rose cultivation",
+            "link_names": [
+                "Mulch",
+                "Rose cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "rose_cultivation": "https://www.rhs.org.uk/plants/roses/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer or hardwood cuttings in autumn, or by chip budding in summer",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood",
+                "Chip budding"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 16 (roses)",
+            "link_names": [
+                "Pruning group 16"
+            ],
+            "related_links": {
+                "pruning_group_16": "https://www.rhs.org.uk/plants/roses/modern-bush/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, including rose aphid, which are the most common rose pest. Can also be affected by rose leafhopper, glasshouse red spider mite, scale insects, caterpillars, large rose sawfly, rose leaf-rolling sawfly and leaf-cutter bees. Deer and rabbits can also cause damage",
+            "link_names": [
+                "Aphids",
+                "Rose aphid",
+                "Rose leafhopper",
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Large rose sawfly",
+                "Leaf-cutter bees",
+                "Deer",
+                "Rabbits"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "rose_aphid": "https://www.rhs.org.uk/biodiversity/rose-aphids",
+                "rose_leafhopper": "https://www.rhs.org.uk/biodiversity/rose-leafhopper",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "large_rose_sawfly": "https://www.rhs.org.uk/biodiversity/large-rose-sawfly",
+                "leaf-cutter_bees": "https://www.rhs.org.uk/biodiversity/leaf-cutting-bees",
+                "deer": "https://www.rhs.org.uk/biodiversity/deer",
+                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rose black spot, rose rust, replant disease, rose dieback, and rose powdery mildews. May also be susceptible to disorders rose blindness and flower balling and sometimes honey fungus",
+            "link_names": [
+                "Rose black spot",
+                "Rose rust",
+                "Replant disease",
+                "Rose dieback",
+                "Powdery mildews",
+                "Rose blindness",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "rose_black_spot": "https://www.rhs.org.uk/disease/rose-black-spot",
+                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
+                "replant_disease": "https://www.rhs.org.uk/prevention-protection/replant-disease",
+                "rose_dieback": "https://www.rhs.org.uk/problems/rose-dieback",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rose_blindness": "https://www.rhs.org.uk/problems/rose-blindness",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Rosa Cherie",
+    "display_name": "Rose [red abundance]"
 }

@@ -85,15 +85,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, moist but well-drained soil in full sun, and support if necessary",
-        "propagation": "Propagate by root cuttings in late autumn or early winter, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back dead flowering stems and dead leaves",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to pedicel necrosis, verticillium wilt, and by downy mildews in damp conditions"
-    }
+        "cultivation": {
+            "text": "Grow in deep, moist but well-drained soil in full sun, and support if necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by root cuttings in late autumn or early winter, or by division in spring",
+            "link_names": [
+                "Root cuttings",
+                "Division"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back dead flowering stems and dead leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pedicel necrosis, verticillium wilt, and by downy mildews in damp conditions",
+            "link_names": [
+                "Verticillium wilt",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Papaver (Oriental Group) 'Indian Chief'",
+    "display_name": "Oriental poppy 'indian chief'"
 }

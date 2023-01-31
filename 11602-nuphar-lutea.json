@@ -83,14 +83,42 @@
         "plant_range": "E USA, W Indies, N Africa, Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Prefers sun or partial shade and thrives in still or slow-running fresh water to a depth of 2-5m",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Prefers sun or partial shade and thrives in still or slow-running fresh water to a depth of 2-5m",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Nuphar_lutea.html",
@@ -164,5 +192,7 @@
             "Plant dried up",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Nuphar lutea",
+    "display_name": "Yellow waterlily"
 }

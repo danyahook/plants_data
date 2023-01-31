@@ -82,16 +82,60 @@
         "plant_range": "SW Europe"
     },
     "how_to_grow": {
-        "cultivation": "Plant at one and a half to two times its own depth in autumn. Will tolerate most soils but prefers moderately fertile, well-drained soil that is constantly moist during the growing season. See daffodil cultivation for further advice",
-        "propagation": "Propagate by removing offsets as the leaves fade in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down or remove leaves when they have turned yellow approximately 6 weeks after flowering",
-        "pests": "May be affected by narcissus bulb fly, narcissus eelworm and slugs",
-        "diseases": "May be affected by narcissus basal rot, narcissus yellowstripe virus or other virus diseases"
-    }
+        "cultivation": {
+            "text": "Plant at one and a half to two times its own depth in autumn. Will tolerate most soils but prefers moderately fertile, well-drained soil that is constantly moist during the growing season. See daffodil cultivation for further advice",
+            "link_names": [
+                "Daffodil cultivation"
+            ],
+            "related_links": {
+                "daffodil_cultivation": "https://www.rhs.org.uk/plants/daffodils/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by removing offsets as the leaves fade in early summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down or remove leaves when they have turned yellow approximately 6 weeks after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by narcissus bulb fly, narcissus eelworm and slugs",
+            "link_names": [
+                "Narcissus bulb fly",
+                "Narcissus eelworm",
+                "Slugs"
+            ],
+            "related_links": {
+                "narcissus_bulb_fly": "https://www.rhs.org.uk/biodiversity/narcissus-bulb-fly",
+                "narcissus_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by narcissus basal rot, narcissus yellowstripe virus or other virus diseases",
+            "link_names": [
+                "Narcissus basal rot",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "narcissus_basal_rot": "https://www.rhs.org.uk/disease/narcissus-basal-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Narcissus rupicola subsp. rupicola (13)",
+    "display_name": "Cliff narcissus"
 }

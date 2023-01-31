@@ -93,17 +93,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun. May suffer foliage damage and stem dieback in harsh winters in cold gardens. Saplings should flower in three years.",
-        "propagation": "Root semi-ripe cuttings with bottom heat in summer. Propagate by seed: collect seeds from pea-like pods and soften their coats in very hot water, leave to cool for 24 hours and sow. After germination transplant into root trainers to avoid disturbing tap roots.",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Minimal pruning required. Pruning group 1 or pruning group 13 if wall-trained. Prune wayward or crossing branches to maintain a healthy framework when dormant.",
-        "pests": "Generally pest-free. May be susceptible to red spider mite and glasshouse whitefly if grown under glass.",
-        "diseases": "May be susceptible to wilt diseases such as verticillium wilt."
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. May suffer foliage damage and stem dieback in harsh winters in cold gardens. Saplings should flower in three years.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Root semi-ripe cuttings with bottom heat in summer. Propagate by seed: collect seeds from pea-like pods and soften their coats in very hot water, leave to cool for 24 hours and sow. After germination transplant into root trainers to avoid disturbing tap roots.",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required. Pruning group 1 or pruning group 13 if wall-trained. Prune wayward or crossing branches to maintain a healthy framework when dormant.",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to red spider mite and glasshouse whitefly if grown under glass.",
+            "link_names": [
+                "Red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Albizia julibrissin Ombrella ('Boubri'PBR)",
+    "display_name": "Silk tree [ombrella]"
 }

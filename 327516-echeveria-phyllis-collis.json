@@ -83,16 +83,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in a porous potting mix in the ground or a container avoiding waterlogging.",
-        "propagation": "Propage from leaf cuttings, stem cuttings and seed.",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs",
-        "diseases": "May be susceptible to fungal diseases"
-    }
+        "cultivation": {
+            "text": "Will grow well in a porous potting mix in the ground or a container avoiding waterlogging.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propage from leaf cuttings, stem cuttings and seed.",
+            "link_names": [
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs",
+            "link_names": [
+                "Mealybugs"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Echeveria 'Phyllis Collis'",
+    "display_name": "Echeveria 'phyllis collis'"
 }

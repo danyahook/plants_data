@@ -94,15 +94,63 @@
         "plant_range": "Australia (New South Wales)"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or indoors in a loam-based potting compost in full light. When in growth water freely and apply a balanced liquid fertiliser monthly. Water sparingly in winter, keeping barely moist. Can be grown outdoors in warmer climates",
-        "propagation": "Propagate by seed at a minimum of 18°C in spring or root semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8 or pruning group 13 for wall-trained specimens",
-        "pests": "May be attacked by glasshouse red spider mite under glass",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass or indoors in a loam-based potting compost in full light. When in growth water freely and apply a balanced liquid fertiliser monthly. Water sparingly in winter, keeping barely moist. Can be grown outdoors in warmer climates",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at a minimum of 18°C in spring or root semi-hardwood cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 13 for wall-trained specimens",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Acacia_baileyana.html",
@@ -156,5 +204,7 @@
             "Leaf beetles",
             "Leaf deformity"
         ]
-    }
+    },
+    "main_name_original": "Acacia baileyana",
+    "display_name": "Cootamundra wattle"
 }

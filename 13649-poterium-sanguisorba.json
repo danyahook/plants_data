@@ -99,19 +99,49 @@
         "plant_range": "S.W.C. Eurpoe, N. Africa, Canary Is. SW & C. Asia"
     },
     "how_to_grow": {
-        "cultivation": "A native of chalk grassland but will tolerate most soils",
-        "propagation": "Propagate by seed. Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "No pruning is required",
-        "pests": "Generally trouble-free",
-        "diseases": "Generally trouble-free"
+        "cultivation": {
+            "text": "A native of chalk grassland but will tolerate most soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed. Propagate by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning is required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Poterium_sanguisorba.html",
@@ -154,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Poterium sanguisorba",
+    "display_name": "Salad burnet"
 }

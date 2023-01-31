@@ -85,15 +85,83 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for all trained forms. Prefers a deep, fertile, moist but well-drained, neutral soil in a sheltered, warm, sunny position. Will not thrive on very acid soils, shallow chalk soils or with shade for more than half the day",
-        "propagation": "Propagate by grafting or budding onto a rootstock for fruit. Quince rootstocks are usually used. Fruit grown from pips will not resemble the parent",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Regular pruning required; a spur bearer. Prune according to form: cordons, espaliers and pruning established fans. Can also be grown as standards or spindlebushes. For further guidance see: pruning new pear trees, summer pear pruning, winter pear pruning, renovating pear trees",
-        "pests": "May be affected by aphids, caterpillars, codling moth and pear blister mite",
-        "diseases": "May be affected by pear scab, blossom wilt, brown rot, fireblight and pear rust"
-    }
+        "cultivation": {
+            "text": "Suitable for all trained forms. Prefers a deep, fertile, moist but well-drained, neutral soil in a sheltered, warm, sunny position. Will not thrive on very acid soils, shallow chalk soils or with shade for more than half the day",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting or budding onto a rootstock for fruit. Quince rootstocks are usually used. Fruit grown from pips will not resemble the parent",
+            "link_names": [
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular pruning required; a spur bearer. Prune according to form: cordons, espaliers and pruning established fans. Can also be grown as standards or spindlebushes. For further guidance see: pruning new pear trees, summer pear pruning, winter pear pruning, renovating pear trees",
+            "link_names": [
+                "Espaliers",
+                "Pruning established fans",
+                "Pruning new pear trees",
+                "Summer pear pruning",
+                "Winter pear pruning",
+                "Renovating pear trees"
+            ],
+            "related_links": {
+                "espaliers": "https://www.rhs.org.uk/plants/types/trees/training-espalier",
+                "pruning_established_fans": "https://www.rhs.org.uk/fruit/fruit-trees/pruning-established-fan-trained",
+                "pruning_new_pear_trees": "https://www.rhs.org.uk/fruit/apples/pruning-new-trees",
+                "summer_pear_pruning": "https://www.rhs.org.uk/fruit/apples/summer-pruning",
+                "winter_pear_pruning": "https://www.rhs.org.uk/fruit/apples/winter-pruning",
+                "renovating_pear_trees": "https://www.rhs.org.uk/fruit/apples/renovating-old-trees"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, codling moth, pear blister mite, pear midge and pear and cherry slugworm",
+            "link_names": [
+                "Aphids",
+                "Pear blister mite",
+                "Pear midge",
+                "Pear and cherry slugworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "pear_blister_mite": "https://www.rhs.org.uk/biodiversity/pear-blister-mite",
+                "pear_midge": "https://www.rhs.org.uk/biodiversity/pear-midge",
+                "pear_and_cherry_slugworm": "https://www.rhs.org.uk/biodiversity/pear-and-cherry-slugworm"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to blossom wilt, brown rot, fireblight, pear scab, European pear rust and honey fungus (rarely)",
+            "link_names": [
+                "Brown rot",
+                "Fireblight",
+                "Pear scab",
+                "European pear rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "pear_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "european_pear_rust": "https://www.rhs.org.uk/disease/pear-rust",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pyrus communis 'Merton Pride' (D)",
+    "display_name": "Pear 'merton pride'"
 }

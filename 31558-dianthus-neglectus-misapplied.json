@@ -98,20 +98,64 @@
         "plant_range": "SW Alps"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained neutral to acid soil in full sun",
-        "propagation": "Propagate by seed in containers in a cold frame from autumn to early spring. Take semi-ripe cuttings of non-flowering shoots in summer but these can usually be rooted any time of the year",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Rock garden",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Aphids and slugs may weaken garden plants",
-        "diseases": "Occasional problems with powdery mildew, a virus and Fusarium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained neutral to acid soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame from autumn to early spring. Take semi-ripe cuttings of non-flowering shoots in summer but these can usually be rooted any time of the year",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Rock garden",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids and slugs may weaken garden plants",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Occasional problems with powdery mildew, a virus and Fusarium wilt",
+            "link_names": [
+                "A virus",
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
+    },
+    "main_name_original": "Dianthus neglectus misapplied",
+    "display_name": "Grass rose pink"
 }

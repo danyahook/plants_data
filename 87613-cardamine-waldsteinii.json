@@ -81,16 +81,58 @@
         "plant_range": "Austria & Slovenia"
     },
     "how_to_grow": {
-        "cultivation": "Grow on moisture retentive soils rich in organic matter in part or full shade.",
-        "propagation": "Propagate by division after flowering, or propagate by seed sown in spring or autumn in a cold frame or sheltered place outdoors.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to flea beetles and aphids.",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow on moisture retentive soils rich in organic matter in part or full shade.",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering, or propagate by seed sown in spring or autumn in a cold frame or sheltered place outdoors.",
+            "link_names": [
+                "Division",
+                "Outdoors"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to flea beetles and aphids.",
+            "link_names": [
+                "Flea beetles",
+                "Aphids"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Cardamine waldsteinii",
+    "display_name": ""
 }

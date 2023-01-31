@@ -91,13 +91,49 @@
         "plant_range": "C America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sheltered spot with some shade, in milder areas of the country. For more information see tree cultivation",
-        "propagation": "propagate from seed (tree/shrub, or from semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a sheltered spot with some shade, in milder areas of the country. For more information see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "propagate from seed (tree/shrub, or from semi-ripe cuttings",
+            "link_names": [
+                "Propagate from seed (tree/shrub",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Podocarpus reichei",
+    "display_name": "Matuda podocarp"
 }

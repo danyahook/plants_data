@@ -95,16 +95,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Requires a sheltered position in moist, well drained fertile soil in full sun",
-        "propagation": "Divide clumps in spring, although they may be slow to re-establish, or take root cuttings in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Architectural",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old flowering stems after they have finished",
-        "pests": "Prone to damage from slugs and snails",
-        "diseases": "Susceptible to phytophthora root rot and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Requires a sheltered position in moist, well drained fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide clumps in spring, although they may be slow to re-establish, or take root cuttings in late winter",
+            "link_names": [
+                "Divide",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Architectural",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old flowering stems after they have finished",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to damage from slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to phytophthora root rot and powdery mildews",
+            "link_names": [
+                "Phytophthora",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Eryngium pandanifolium purple",
+    "display_name": "Eryngo 'physic purple'"
 }

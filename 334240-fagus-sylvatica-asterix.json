@@ -85,19 +85,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for any small garden situation. Extremely slow-growing. Grow in any deep fertile soil in good light. For more information see shrub cultivation.",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Bedding"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids and beech bark scale",
-        "diseases": "May be susceptible to coral spot and heart and root rot in mature trees"
-    }
+        "cultivation": {
+            "text": "Tolerant of a range of soils including chalk, grow in full sun or partial shade. For more information see beech cultivation",
+            "link_names": [
+                "Beech cultivation"
+            ],
+            "related_links": {
+                "beech_cultivation": "https://www.rhs.org.uk/plants/beech/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and beech bark scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to beech bark disease, fungi (particulary bracket fungi) and powdery mildews. Sometimes susceptible to honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Fagus sylvatica 'Asterix'",
+    "display_name": "Beech 'asterix'"
 }

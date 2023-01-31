@@ -90,18 +90,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade or sun in humus-rich, moisture-retentive soil",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required, but cutting back flowered stems and old leaves may encourage the growth of fresh leaves and flowers",
-        "pests": "Generally pest-free, but may be affected by capsid bug, geranium sawfly, vine weevil, slugs and snails",
-        "diseases": "Generally disease-free, but may be affected by a rust, a downy mildew, leafy gall, and virus diseases; may also be affected by powdery mildews in dry conditions"
-    }
+        "cultivation": {
+            "text": "Grow in partial shade or sun in humus-rich, moisture-retentive soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but cutting back flowered stems and old leaves may encourage the growth of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bug, geranium sawfly, vine weevil, slugs and snails but generally pest-free",
+            "link_names": [
+                "Capsid bug",
+                "Geranium sawfly",
+                "Vine weevil",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, a downy mildew, leafy gall, and virus diseases; may also be affected by powdery mildews in dry conditions. Generally disease-free",
+            "link_names": [
+                "A rust",
+                "A downy mildew",
+                "Leafy gall",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium maculatum 'Spring Purple'",
+    "display_name": "Spotted cranesbill 'spring purple'"
 }

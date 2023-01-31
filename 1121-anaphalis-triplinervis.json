@@ -91,15 +91,43 @@
         "plant_range": "Afghanistan to China"
     },
     "how_to_grow": {
-        "cultivation": "Grows in any moderately fertile, moist but well-drained soil in full sun, although it can also tolerate partial shade. It thrives in moist soils but dislikes winter wet",
-        "propagation": "Propagate by seed sown in pots in a cold frame in spring. Alternatively propagate by division in early spring or root softwood cuttings in spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows in any moderately fertile, moist but well-drained soil in full sun, although it can also tolerate partial shade. It thrives in moist soils but dislikes winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in spring. Alternatively propagate by division in early spring or root softwood cuttings in spring or early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anaphalis_triplinervis.html",
@@ -145,5 +173,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Anaphalis triplinervis",
+    "display_name": "Triple-nerved pearly everlasting"
 }

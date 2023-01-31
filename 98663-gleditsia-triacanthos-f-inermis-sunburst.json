@@ -88,14 +88,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a specimen tree in any well-drained soil in full sun",
-        "propagation": "Propagate by seed or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Foliage is often damaged by gall midge",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow as a specimen tree in any well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to gall midge",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gleditsia_triacanthos_f._inermis__Sunburst_.html",
@@ -131,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Gleditsia triacanthos f. inermis 'Sunburst'",
+    "display_name": "Honey locust 'sunburst'"
 }

@@ -84,18 +84,72 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil. Best in full sun but can tolerate light partial shade. Usually needs some support - see staking perennials",
-        "propagation": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-ripe cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9 in spring",
-        "pests": "May be susceptible to glasshouse red spider mite, glasshouse whitefly and aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil. Best in full sun but can tolerate light partial shade. Usually needs some support - see staking perennials",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-ripe cuttings in late summer or autumn with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, glasshouse whitefly and aphids",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salvia_mexicana.html",
@@ -159,5 +213,7 @@
             "Wilting after blooming",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Salvia mexicana",
+    "display_name": "Mexican sage"
 }

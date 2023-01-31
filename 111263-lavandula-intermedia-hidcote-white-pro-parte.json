@@ -102,22 +102,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a well-drained, neutral to alkaline soil but tolerates acidic conditions. In heavy soil improve drainage as lavender does not tolerate waterlogging. Potash will encourage flowering but high nitrogen fertilisers and manure will result in floppy plants. See lavender cultivation for further advice",
-        "propagation": "Propagate by semi-hardwood cuttings, may not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Pruning group 10, after flowering",
-        "pests": "Leafhoppers may be a problem",
-        "diseases": "May be susceptible to grey moulds"
-    }
+        "cultivation": {
+            "text": "Prefers a well-drained, neutral to alkaline soil but tolerates acidic conditions. In heavy soil improve drainage as lavender does not tolerate waterlogging. Potash will encourage flowering but high nitrogen fertilisers and manure will result in floppy plants. See lavender cultivation for further advice",
+            "link_names": [
+                "Lavender cultivation"
+            ],
+            "related_links": {
+                "lavender_cultivation": "https://www.rhs.org.uk/plants/lavender/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings, may not come true from seed",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10, after flowering",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to rosemary beetle and cuckoo spit (froghoppers)",
+            "link_names": [
+                "Rosemary beetle",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lavandula × intermedia 'Hidcote White' pro parte",
+    "display_name": "Lavender 'edelweiss'"
 }

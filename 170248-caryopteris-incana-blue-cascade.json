@@ -88,16 +88,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, light, well-drained soil in full sun. Best positioned near a warm, sunny wall",
-        "propagation": "Root softwood cuttings from spring to midsummer, semi-ripe cuttings from mid to late summer or hardwood cuttings from late autumn to midwinter",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Capsid bug may cause leaf distortion",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, light, well-drained soil in full sun. Best positioned near a warm, sunny wall",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Root softwood cuttings from spring to midsummer, semi-ripe cuttings from mid to late summer or hardwood cuttings from late autumn to midwinter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Capsid bug may cause leaf distortion",
+            "link_names": [
+                "Capsid bug"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Caryopteris incana 'Blue Cascade'",
+    "display_name": "Bluebeard 'blue cascade'"
 }

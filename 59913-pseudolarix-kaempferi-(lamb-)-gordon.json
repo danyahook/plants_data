@@ -91,13 +91,57 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any deep, well drained soil in full sun",
-        "propagation": "PRopagate by seed, sown from late winter to spring. Chilling the seeds for three weeks may aid germination. Propagate by softwood or semi-ripe cuttings in summer. Graft in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Adelgids may be a problem",
-        "diseases": "Can suffer from honey fungus and phytophthora. Canker may cause dieback"
-    }
+        "cultivation": {
+            "text": "Grow in any deep, well drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown from late winter to spring. Chilling the seeds for three weeks may aid germination. Propagate by softwood or semi-ripe cuttings in summer. Graft in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Adelgids may be a problem",
+            "link_names": [
+                "Adelgids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
+            }
+        },
+        "diseases": {
+            "text": "Can suffer from honey fungus and phytophthora. Canker may cause dieback",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Pseudolarix kaempferi (Lamb.) Gordon",
+    "display_name": "Japanese larch"
 }

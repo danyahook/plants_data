@@ -91,18 +91,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in well-drained soil in sun or partial shade",
-        "propagation": "Propagate by semi-hardwood cuttings in late summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Architectural",
-            "Low Maintenance",
-            "Garden edging",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to downy mildew"
-    }
+        "cultivation": {
+            "text": "Easy to grow in well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in late summer or early autumn",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Architectural",
+                "Low Maintenance",
+                "Garden edging",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Veronica odora 'New Zealand Gold' (H)",
+    "display_name": "Hebe 'new zealand gold'"
 }

@@ -88,17 +88,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Sow at the front of a sunny border or in a container in moisture retentive, but well drained soil in full sun. May need support.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn. Divide in spring every three years to maintain vigour.",
-        "pests": "May be susceptible to aphids leaf and bud eelworms, michaelmas daisy mite, slugs, snails and tarsonemid mites",
-        "diseases": "May be susceptible to fusarium wilt, grey moulds, leaf spot and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Sow at the front of a sunny border or in a container in moisture retentive, but well drained soil in full sun. May need support.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn. Divide in spring every three years to maintain vigour.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids leaf and bud eelworms, michaelmas daisy mite, slugs, snails and tarsonemid mites",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworms",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fusarium wilt, grey moulds, leaf spot and powdery mildew",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster 'Dwarf Barbados'",
+    "display_name": ""
 }

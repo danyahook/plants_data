@@ -86,15 +86,47 @@
         "plant_range": "California"
     },
     "how_to_grow": {
-        "cultivation": "Can be trained to climb a trellis or structure. Requires shade and ideally a frost-free environment",
-        "propagation": "Propagate by seed or by softwood or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse",
-            "Climber and wall shrubs"
-        ],
-        "pruning": "No pruning required. If pruning is necessary to restrict to allocated space, then prune in winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Can be trained to climb a trellis or structure. Requires shade and ideally a frost-free environment",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by softwood or semi-ripe cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse",
+                "Climber and wall shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. If pruning is necessary to restrict to allocated space, then prune in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aristolochia_californica.html",
@@ -140,5 +172,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aristolochia californica",
+    "display_name": ""
 }

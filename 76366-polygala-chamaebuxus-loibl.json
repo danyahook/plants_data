@@ -93,20 +93,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, sharpley-drained soil in full sun or partial shade. Can also be grown in an alpine house",
-        "propagation": "Propagate by seed sown in an open cold frame in autumn. Propagate by softwood cuttings in early summer, or semi-ripe cuttings in mid to late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning necessary",
-        "pests": "Aphids and glasshouse whitefly may be a problem under glass",
-        "diseases": "Disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, sharpley-drained soil in full sun or partial shade. Can also be grown in an alpine house",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in an open cold frame in autumn. Propagate by softwood cuttings in early summer, or semi-ripe cuttings in mid to late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids and glasshouse whitefly may be a problem under glass",
+            "link_names": [
+                "Aphids",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Polygala chamaebuxus 'Loibl'",
+    "display_name": "Box-leaved milkwort 'loibl'"
 }

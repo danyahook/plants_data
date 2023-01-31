@@ -87,18 +87,56 @@
         "plant_range": "S America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun; good for a sunny bank or border, or a container on a hot patio. Needs winter protection in cold areas",
-        "propagation": "Propagate by seed in spring or by softwood cuttings in late spring or summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Trim back in spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun; good for a sunny bank or border, or a container on a hot patio. Needs winter protection in cold areas",
+            "link_names": [
+                "Container",
+                "Winter protection"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or by softwood cuttings in late spring or summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Malvastrum lateritium",
+    "display_name": ""
 }

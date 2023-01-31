@@ -85,16 +85,58 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grows in most moist soils except those that are alkaline. A position in full sun is ideal",
-        "propagation": "Propagate by greenwood cuttings or by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids and caterpillars",
-        "diseases": "May be susceptible to willow anthracnose, scab, canker and rust"
+        "cultivation": {
+            "text": "Grows in most moist soils except those that are alkaline. A position in full sun is ideal",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings or by hardwood cuttings in winter",
+            "link_names": [
+                "Greenwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and caterpillars",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, scab, canker and rust",
+            "link_names": [
+                "Willow anthracnose"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salix_viminalis.html",
@@ -167,5 +209,7 @@
             "Leaf rot",
             "Leaf miners"
         ]
-    }
+    },
+    "main_name_original": "Salix viminalis",
+    "display_name": "Common osier"
 }

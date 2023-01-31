@@ -92,22 +92,72 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained soil in sun or partial shade. Allow this plant to layer to encourage new growth. Resents transplanting",
-        "propagation": "Propagate by seed, softwood cuttings, semi-hardwood cuttings, grafting or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Wall side borders",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to a virus and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in a well-drained soil in sun or partial shade. Allow this plant to layer to encourage new growth. Resents transplanting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings, semi-hardwood cuttings, grafting or layering",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood",
+                "Grafting",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Wall side borders",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Daphne blagayana",
+    "display_name": "Blagay's daphne"
 }

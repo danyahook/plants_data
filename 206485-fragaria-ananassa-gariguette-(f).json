@@ -79,17 +79,65 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "See strawberry cultivation",
-        "propagation": "Remove and transplant runners",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Edible fruit"
-        ],
-        "pruning": "Remove excess runners",
-        "pests": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
-        "diseases": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds"
-    }
+        "cultivation": {
+            "text": "See strawberry cultivation",
+            "link_names": [
+                "Strawberry cultivation"
+            ],
+            "related_links": {
+                "strawberry_cultivation": "https://www.rhs.org.uk/fruit/strawberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Remove and transplant runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Fragaria × ananassa 'Gariguette' (F)",
+    "display_name": "Strawberry 'gariguette'"
 }

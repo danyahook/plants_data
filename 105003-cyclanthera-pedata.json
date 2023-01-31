@@ -96,18 +96,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a glasshouse in medium humidity and bright, filtered light, or outdoors after all risk of frost has passed, in a warm sheltered position, in sun or light shade, in humus-rich, water-retentive, gritty, free-draining compost or soil, and provide support such as trellis or netting",
-        "propagation": "Propagate by seed sown in spring, and plant seedlings out when all danger of frost has passed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free but may be affected by glasshouse red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in a glasshouse in medium humidity and bright, filtered light, or outdoors after all risk of frost has passed, in a warm sheltered position, in sun or light shade, in humus-rich, water-retentive, gritty, free-draining compost or soil, and provide support such as trellis or netting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, and plant seedlings out when all danger of frost has passed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cyclanthera_pedata.html",
@@ -189,5 +221,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cyclanthera pedata",
+    "display_name": "Stuffing gourd"
 }

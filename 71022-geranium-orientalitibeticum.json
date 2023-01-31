@@ -90,18 +90,66 @@
         "plant_range": "SW China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile, well-drained soil in partial shade. The plant can tolerate full shade, but flowering may be reduced.",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildlife gardens",
-            "Patio and container plants",
-            "Ground cover",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to encourage the production of fresh leaves and flowers. Remove old dead foliage in spring before growth commences",
-        "pests": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews, downy mildews and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile, well-drained soil in partial shade. The plant can tolerate full shade, but flowering may be reduced.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildlife gardens",
+                "Patio and container plants",
+                "Ground cover",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage the production of fresh leaves and flowers. Remove old dead foliage in spring before growth commences",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Geranium sawfly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, downy mildews and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium orientalitibeticum",
+    "display_name": "Tibetan cranesbill"
 }

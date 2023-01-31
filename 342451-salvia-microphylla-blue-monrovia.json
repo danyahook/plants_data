@@ -89,19 +89,73 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moist but well-drained soil in full sun with shelter from cold winds; may need protection from excessive winter wet",
-        "propagation": "Propagate by basal or softwood cuttings in spring or early summer or semi-ripe cuttings late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be susceptible to slugs and snails, capsid bug, leafhoppers or rosemary beetle",
-        "diseases": "Generally disease-free in well-drained soil"
-    }
+        "cultivation": {
+            "text": "Grow in light, moist but well-drained soil in full sun with shelter from cold winds; may need protection from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal or softwood cuttings in spring or early summer or semi-ripe cuttings late summer or autumn with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, capsid bug, leafhoppers or rosemary beetle",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Capsid bug",
+                "Rosemary beetle"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia microphylla 'Blue Monrovia'",
+    "display_name": ""
 }

@@ -96,16 +96,72 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a greenhouse border or large container, in loam-based potting compost, in full light with shade from hot sun. In frost free areas, grow outdoors in moderately fertile, moist but well-drained soil in full sun or partial shade, with shelter from cold, drying winds",
-        "propagation": "Propagate by seed, by semi-hardwood cuttings in summer, or by layering in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 or 12, if necessary, in early spring",
-        "pests": "May be susceptible to red spider mites, glasshouse whitefly, mealybugs and scale insects under glass",
-        "diseases": "May be susceptible to virus diseases, including cucumber mosaic virus"
-    }
+        "cultivation": {
+            "text": "Grow under glass in a greenhouse border or large container, in loam-based potting compost, in full light with shade from hot sun. In frost free areas, grow outdoors in moderately fertile, moist but well-drained soil in full sun or partial shade, with shelter from cold, drying winds",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, by semi-hardwood cuttings in summer, or by layering in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 or 12, if necessary, in early spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mites, glasshouse whitefly, mealybugs and scale insects under glass",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases, including cucumber mosaic virus",
+            "link_names": [
+                "Virus diseases",
+                "Cucumber mosaic virus"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus"
+            }
+        }
+    },
+    "main_name_original": "Passiflora 'Hil Pas Eden'",
+    "display_name": "Passion flower [eden]"
 }

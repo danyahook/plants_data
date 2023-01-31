@@ -89,21 +89,57 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich well-drained soil in deep or partial shade; protect the crowns from excessive winter wet and provide a mulch around the crown to prevent crown drying out",
-        "propagation": "Propagate by spores, sow spores at 15-16°C (59-61°F) when ripe. Divide rhizomes in spring or detach fronds bearing bulbils in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove dead fronds before new ones unfurl",
-        "pests": "Generally trouble free",
-        "diseases": "Dense plantings may be affected by grey moulds (botrytis) or the fungal disease Taphrina wettsteiniana"
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich well-drained soil in deep or partial shade; protect the crowns from excessive winter wet and provide a mulch around the crown to prevent crown drying out",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by spores, sow spores at 15-16°C (59-61°F) when ripe. Divide rhizomes in spring or detach fronds bearing bulbils in autumn",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead fronds before new ones unfurl",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Dense plantings may be affected by grey moulds (botrytis) or the fungal disease Taphrina wettsteiniana",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polystichum_aculeatum.html",
@@ -199,5 +235,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Polystichum aculeatum",
+    "display_name": "Hard shield fern"
 }

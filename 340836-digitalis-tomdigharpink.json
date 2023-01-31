@@ -104,16 +104,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in almost any soil or situation except very wet or very dry; ideal site is humus-rich soil in partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back the main flower spike as it fades to encourage the growth of flowering side shoots",
-        "pests": "Can get aphids and leaf and bud eelworm",
-        "diseases": "May be affected by leaf spots and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow in almost any soil or situation except very wet or very dry; ideal site is humus-rich soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back the main flower spike as it fades to encourage the growth of flowering side shoots",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and leaf and bud eelworm",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by leaf spots and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Digitalis 'Tomdigharpink'",
+    "display_name": ""
 }

@@ -82,19 +82,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in full sun and moist but well-drained soil that is not wet in winter. Plants can be short lived in heavy soils",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back after flowering to encourage fresh foliage and promote a long flowering season",
-        "pests": "Generally pest-free, but young growth may be damaged by slugs and snails",
-        "diseases": "May be susceptible to rust diseases"
-    }
+        "cultivation": {
+            "text": "Best grown in full sun and moist but well-drained soil that is not wet in winter. Plants can be short lived in heavy soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage fresh foliage and promote a long flowering season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage on young growth but generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to rust diseases",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Sidalcea 'Sussex Beauty'",
+    "display_name": ""
 }

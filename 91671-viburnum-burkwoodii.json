@@ -89,17 +89,73 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most moderately fertile, humus-rich, well-drained soils",
-        "propagation": "Propagate by softwood cuttings in summer, semi-ripe cuttings from midsummer to autumn or hardwood cuttings in winter. Layering can be carried out in spring and grafting in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Can be hard pruned successfully in late spring, if required",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by leaf spot and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grows well in most moderately fertile, humus-rich, well-drained soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer, semi-ripe cuttings from midsummer to autumn or hardwood cuttings in winter. Layering can be carried out in spring and grafting in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood",
+                "Layering",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Can be hard pruned successfully in late spring, if required",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and viburnum beetle",
+            "link_names": [
+                "Aphids",
+                "Viburnum beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Viburnum × burkwoodii",
+    "display_name": "Burkwood viburnum"
 }

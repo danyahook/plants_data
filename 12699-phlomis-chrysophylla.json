@@ -88,16 +88,60 @@
         "plant_range": "SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in any well-drained fertile soil in full sun. Seed heads can be left over winter for their effect",
-        "propagation": "Propagate by softwood cuttings in summer or division in the spring. Propagate by seed in late spring under cover",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 or pruning group 9",
-        "pests": "Leafhoppers may be a problem",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Easy to grow in any well-drained fertile soil in full sun. Seed heads can be left over winter for their effect",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or division in the spring. Propagate by seed in late spring under cover",
+            "link_names": [
+                "Softwood",
+                "Division",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 9",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leafhoppers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phlomis chrysophylla",
+    "display_name": "Golden-leaved jerusalem sage"
 }

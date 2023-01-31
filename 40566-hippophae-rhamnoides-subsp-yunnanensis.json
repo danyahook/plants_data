@@ -103,15 +103,57 @@
         "plant_range": "China, Mongolia"
     },
     "how_to_grow": {
-        "cultivation": "Grow on any moisture-retentive soil. Fixes nitrogen into soil. Has male and female plants, so both sexes needed for berries to form. For more information see tree cultivation.",
-        "propagation": "Propagate from seed (it may benefit from 3 months cold storage first) or semi-ripe cutting in summer. For more advice see our information on how to propagate from seed (tree/shrub",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Edible fruit",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 but can be pruned to an informal hedge",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow on any moisture-retentive soil. Fixes nitrogen into soil. Has male and female plants, so both sexes needed for berries to form. For more information see tree cultivation.",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from seed (it may benefit from 3 months cold storage first) or semi-ripe cutting in summer. For more advice see our information on how to propagate from seed (tree/shrub",
+            "link_names": [
+                "Semi-ripe",
+                "Propagate from seed (tree/shrub"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Edible fruit",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 but can be pruned to an informal hedge",
+            "link_names": [
+                "Pruning group 1",
+                "Hedge"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hippophae rhamnoides subsp. yunnanensis",
+    "display_name": ""
 }

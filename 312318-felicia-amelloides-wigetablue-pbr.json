@@ -92,22 +92,62 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun, suited to patio containers",
-        "propagation": "Propagate by stem-tip softwood cuttings in late summer and overwinter in a greenhouse",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Garden edging",
-            "Wall side borders"
-        ],
-        "pruning": "Pinch back young shoots to encourage bushiness, remove spent flowers to prolong flowering",
-        "pests": "May be susceptible to aphids and glasshouse red spider mite under glass",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun, suited to patio containers",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by stem-tip softwood cuttings in late summer and overwinter in a greenhouse",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Garden edging",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch back young shoots to encourage bushiness, remove spent flowers to prolong flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite under glass",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Felicia amelloides 'Wigetablue'PBR",
+    "display_name": ""
 }

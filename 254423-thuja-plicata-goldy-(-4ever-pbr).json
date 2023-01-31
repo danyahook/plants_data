@@ -96,15 +96,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, well drained soil in full sun or semi-shade",
-        "propagation": "Propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Architectural",
-            "Hedging and screens"
-        ],
-        "pruning": "Prune hedge by trimming if necessary in spring and then again in summer to maintain a good shape",
-        "pests": "May be susceptible to scale insects and aphids",
-        "diseases": "May be susceptible to Coryneum canker"
-    }
+        "cultivation": {
+            "text": "Grow in moist, well drained soil in full sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Architectural",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune hedge by trimming if necessary in spring and then again in summer to maintain a good shape",
+            "link_names": [
+                "Hedge"
+            ],
+            "related_links": {
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and aphids",
+            "link_names": [
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
+            "link_names": [
+                "Honey fungus",
+                "Thuja blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
+            }
+        }
+    },
+    "main_name_original": "Thuja plicata Goldy ('4ever'PBR)",
+    "display_name": "Western red cedar [goldy]"
 }

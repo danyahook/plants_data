@@ -83,16 +83,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil that does not dry out in summer, in full sun. Ideal for seaside locations",
-        "propagation": "Propagate by division or from basal softwood cuttings in the spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage further flowering. Cut back to ground level in autumn to maintain neat growth",
-        "pests": "Slugs may attack new growth",
-        "diseases": "Powdery mildew may be troublesome in dry soils"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil that does not dry out in summer, in full sun. Ideal for seaside locations",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or from basal softwood cuttings in the spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage further flowering. Cut back to ground level in autumn to maintain neat growth",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slug attack on new growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew in dry soils",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Erigeron glaucus 'Four Winds'",
+    "display_name": "Fleabane 'four winds'"
 }

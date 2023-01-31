@@ -97,19 +97,55 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in milder areas, in well-drained soil in full sun, and protect from cold winds. In colder areas grow against a warm wall, in a cool greenhouse, or in a large container that can be moved indoors over winter. If kept frost-free it will be evergreen; with mild frosts the plant is deciduous, and in colder areas it may die back to ground level then reshoot from the roots.",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn, or by division, removing suckers in spring or summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Sub-tropical",
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "Remove dead or damaged leaves as necessary. Remove suckers if you want to prevent the spread of established clumps",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow outdoors in milder areas, in well-drained soil in full sun, and protect from cold winds. In colder areas grow against a warm wall, in a cool greenhouse, or in a large container that can be moved indoors over winter. If kept frost-free it will be evergreen; with mild frosts the plant is deciduous, and in colder areas it may die back to ground level then reshoot from the roots.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn, or by division, removing suckers in spring or summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Sub-tropical",
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead or damaged leaves as necessary. Remove suckers if you want to prevent the spread of established clumps",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tetrapanax_papyrifer.html",
@@ -163,5 +199,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Tetrapanax papyrifer",
+    "display_name": "Chinese rice-paper plant"
 }

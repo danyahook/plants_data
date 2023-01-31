@@ -92,16 +92,56 @@
         "plant_range": "Europe, N Africa, W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grows in any moderately fertile, moist but well-drained soil in full sun, although it can also tolerate partial shade. It thrives in moist soils but dislikes winter wet. May need staking",
-        "propagation": "Propagate by seed, root cuttings or by softwood cuttings from the base of young shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage a second flush of flowers. Cut back top growth after flowering to encourage overwintering rosettes of foliage",
-        "pests": "Can get leaf-mining flies",
-        "diseases": "May be infected by powdery mildews"
+        "cultivation": {
+            "text": "Grows in any moderately fertile, moist but well-drained soil in full sun, although it can also tolerate partial shade. It thrives in moist soils but dislikes winter wet. May need staking",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, root cuttings or by softwood cuttings from the base of young shoots",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage a second flush of flowers. Cut back top growth after flowering to encourage overwintering rosettes of foliage",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get leaf-mining flies",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be infected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anchusa_azurea.html",
@@ -183,5 +223,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Anchusa azurea",
+    "display_name": "Garden anchusa"
 }

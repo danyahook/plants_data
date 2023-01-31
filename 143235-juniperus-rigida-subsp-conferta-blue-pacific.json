@@ -97,17 +97,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, juniper scale and caterpillars",
-        "diseases": "May be susceptible to a canker and European pear rust"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, juniper scale and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Juniper scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "juniper_scale": "https://www.rhs.org.uk/biodiversity/juniper-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora, canker and honey fungus. See also Conifers: brown patches",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Conifers: brown patches"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "conifers:_brown_patches": "https://www.rhs.org.uk/problems/conifers-brown-patches"
+            }
+        }
+    },
+    "main_name_original": "Juniperus rigida subsp. conferta 'Blue Pacific'",
+    "display_name": ""
 }

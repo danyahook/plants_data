@@ -90,15 +90,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moist but well-drained fertile soils in sun or partial shade",
-        "propagation": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in midsummer or hardwood cuttings in late autumn and winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2 in midsummer after flowering. Responds well to pruning, renovate in early spring",
-        "pests": "May be susceptible to leaf and bud eelworms, capsid bug and brown scale",
-        "diseases": "May be susceptible to honey fungus"
-    }
+        "cultivation": {
+            "text": "Easy to grow in moist but well-drained fertile soils in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in midsummer or hardwood cuttings in late autumn and winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2 in midsummer after flowering. Responds well to pruning, renovate in early spring",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, capsid bug and brown scale",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Capsid bug",
+                "Brown scale"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Weigela florida 'Verweig 3'PBR",
+    "display_name": ""
 }

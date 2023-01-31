@@ -88,16 +88,48 @@
         "plant_range": "France Spain"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a moist, humus-rich soil in partial shade. Naturalizes well in grass",
-        "propagation": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble free but corms may be eaten by mice, voles and squirrels",
-        "diseases": "Generally trouble free bit may be affected by rots and moulds when stored"
+        "cultivation": {
+            "text": "Grows best in a moist, humus-rich soil in partial shade. Naturalizes well in grass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free but corms may be eaten by mice, voles and squirrels",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free bit may be affected by rots and moulds when stored",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Crocus_nudiflorus.html",
@@ -144,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Crocus nudiflorus",
+    "display_name": "Autumn crocus"
 }

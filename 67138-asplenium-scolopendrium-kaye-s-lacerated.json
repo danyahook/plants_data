@@ -87,19 +87,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in humus-rich, moist but well-drained soil. Bright mid-day sun can cause damage. May be sensitive to fungicides. Tolerant of dry shade, but water regularly during the first season and mulch well",
-        "propagation": "Propagate by sowing spores in mid to late summer or by division in spring. Peeled leaf bases can be taken off from where the stem joins with the root. Old leaf bases that are green at the base are incubated in a plastic bag of loam based media. Green swellings can be found and potted to raise new plants",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes"
-        ],
-        "pruning": "Dead or damaged fronds may be removed as necessary",
-        "pests": "Generally pest free outdoors",
-        "diseases": "May be infected by a rust in mild, damp winters"
+        "cultivation": {
+            "text": "Grows well in humus-rich, moist but well-drained soil. Bright mid-day sun can cause damage. May be sensitive to fungicides. Tolerant of dry shade, but water regularly during the first season and mulch well",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by sowing spores in mid to late summer or by division in spring. Peeled leaf bases can be taken off from where the stem joins with the root. Old leaf bases that are green at the base are incubated in a plastic bag of loam based media. Green swellings can be found and potted to raise new plants",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead or damaged fronds may be removed as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Asplenium_scolopendrium__Kaye_s_Lacerated_.html",
@@ -124,5 +168,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Asplenium scolopendrium 'Kaye's Lacerated'",
+    "display_name": "Hart's tongue fern 'kaye's lacerated'"
 }

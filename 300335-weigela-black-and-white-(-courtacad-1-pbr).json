@@ -93,16 +93,62 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Prefers slightly acidic or neutral soil but will easily tolerate most moist but well-drained, fertile soil in sun or part shade.",
-        "propagation": "Propagate from cuttings, softwood, semi-ripe or hardwood.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Pruning after flowering will help improve autumn colour and next springs flowering",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Prefers slightly acidic or neutral soil but will easily tolerate most moist but well-drained, fertile soil in sun or part shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from cuttings, softwood, semi-ripe or hardwood.",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning after flowering will help improve autumn colour and next springs flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, capsid bug and brown scale",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Capsid bug",
+                "Brown scale"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Weigela Black and White ('Courtacad 1'PBR)",
+    "display_name": "Weigela [black and white]"
 }

@@ -95,15 +95,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich soil. Tolerant of atmospheric pollution; ideal specimen tree in small garden",
-        "propagation": "Propagate by softwood cuttings in early summer, chip budding in summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be attacked by aphids, blister mites and sawflies",
-        "diseases": "May be affected by apple canker and honey fungus. Shows resistance to fireblight"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich soil. Tolerant of atmospheric pollution; ideal specimen tree in small garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, chip budding in summer or grafting in winter",
+            "link_names": [
+                "Softwood",
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, blister mites, scale insects, glasshouse red spider mite and sawflies",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, apple canker, silver leaf and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Apple canker",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Sorbus 'Lombarts Golden Wonder'",
+    "display_name": "Mountain ash 'lombarts golden wonder'"
 }

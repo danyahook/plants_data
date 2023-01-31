@@ -86,16 +86,54 @@
         "plant_range": "N China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun, mulch with well-rotted organic matter and use a general fertiliser such as Growmore or Vitax Q4 in early spring",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6 - cut back old shoots in early spring",
-        "pests": "Generally trouble-free",
-        "diseases": "Generally trouble-free"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun, mulch with well-rotted organic matter and use a general fertiliser such as Growmore or Vitax Q4 in early spring",
+            "link_names": [
+                "Mulch",
+                "Organic matter"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6 - cut back old shoots in early spring",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Elsholtzia_stauntonii.html",
@@ -134,5 +172,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Elsholtzia stauntonii",
+    "display_name": "Mint bush"
 }

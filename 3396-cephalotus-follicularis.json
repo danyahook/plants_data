@@ -89,15 +89,57 @@
         "plant_range": "W Australia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a nutrient-poor, acidic substrate and maintain temperatures between 5 and 32oC. See carnivorous plant cultivation for more information",
-        "propagation": "Propagate by seed, from root cuttings or leaf cuttings or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "None required",
-        "pests": "Susceptible to scale insects",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in a nutrient-poor, acidic substrate and maintain temperatures between 5 and 32oC. See carnivorous plant cultivation for more information",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, from root cuttings or leaf cuttings or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Leaf cuttings",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cephalotus_follicularis.html",
@@ -143,5 +185,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cephalotus follicularis",
+    "display_name": "Australian pitcher plant"
 }

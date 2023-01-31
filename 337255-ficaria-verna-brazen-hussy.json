@@ -81,19 +81,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial or full shade in moist, humus-rich soil",
-        "propagation": "Divide, or detach basal bulbils in spring or autumn. Propagate by seed as soon as it is ripe, in a cold frame; cultivars will not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "None required",
-        "pests": "Slugs, snails and aphids can be problematic",
-        "diseases": "Powdery mildew can be a problem if the plants become stressed"
-    }
+        "cultivation": {
+            "text": "Grow in partial or full shade in moist, humus-rich soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide, or detach basal bulbils in spring or autumn. Propagate by seed as soon as it is ripe, in a cold frame; cultivars will not come true from seed",
+            "link_names": [
+                "Divide",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails and aphids can be problematic",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildew can be a problem if the plants become stressed",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Ficaria verna 'Brazen Hussy'",
+    "display_name": "Lesser celandine 'brazen hussy'"
 }

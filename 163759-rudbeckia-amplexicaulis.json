@@ -92,20 +92,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile heavy, moist but well-drained soil that does not dry out, in full sun or partial shade",
-        "propagation": "Propagate by seed sown at 16-18°C in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "City and courtyard gardens",
-            "Coastal",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Slugs may damage young growth",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile heavy, moist but well-drained soil that does not dry out, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 16-18°C in early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "City and courtyard gardens",
+                "Coastal",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs may damage young growth",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rudbeckia_amplexicaulis.html",
@@ -150,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rudbeckia amplexicaulis",
+    "display_name": "Clasping coneflower"
 }

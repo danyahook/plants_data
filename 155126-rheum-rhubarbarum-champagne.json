@@ -98,14 +98,68 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, moist, humus-rich soil. Mulch with manure in spring; avoid covering the crown. Keep watered in dry summers and divide every five years to maintain vigour. See rhubarb cultivation for more detailed advice",
-        "propagation": "Propagate by division of established crowns in late autumn or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "Harvest sparingly in the first year. Remove any flowerheads that may develop. Allow the foliage to die back naturally in autumn then cut away the old leaves to expose the growing points to winter cold",
-        "pests": "May be susceptible to stem and bulb eelworm, swift moth caterpillar, and to slugs and snails on young growth",
-        "diseases": "May be susceptible to honey fungus, downy mildews, grey mould, crown rot and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in deep, moist, humus-rich soil. Mulch with manure in spring; avoid covering the crown. Keep watered in dry summers and divide every five years to maintain vigour. See rhubarb cultivation for more detailed advice",
+            "link_names": [
+                "Mulch",
+                "Rhubarb cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "rhubarb_cultivation": "https://www.rhs.org.uk/vegetables/rhubarb/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of established crowns in late autumn or early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Harvest sparingly in the first year. Remove any flowerheads that may develop. Allow the foliage to die back naturally in autumn then cut away the old leaves to expose the growing points to winter cold",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to stem and bulb eelworm, swift moth caterpillar, and to slugs and snails on young growth",
+            "link_names": [
+                "Stem and bulb eelworm",
+                "Swift moth caterpillar",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "stem_and_bulb_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode",
+                "swift_moth_caterpillar": "https://www.rhs.org.uk/biodiversity/swift-moth-caterpillars",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, downy mildews, grey mould, crown rot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Downy mildews",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Rheum rhubarbarum 'Champagne'",
+    "display_name": "Rhubarb 'champagne'"
 }

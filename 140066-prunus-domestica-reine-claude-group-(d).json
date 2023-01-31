@@ -87,15 +87,81 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of a range of soils as long as well drained, but prefers loamy, ideally slightly acidic soils pH of 6 to 6.5. Plant in a sunny, sheltered site. Flowers may be susceptible to spring frosts damage. Thin fruit if necessary. See How to grow: gages for further cultivation details",
-        "propagation": "Propagate by chip budding or grafting onto a rootstock for fruit. The rootstock will largely determine the vigour of the tree. Seed raised trees are of variable fruit quality and tree size",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Edible fruit",
-            "Wall side borders"
-        ],
-        "pruning": "Prune regularly depending on how the tree is trained – see pruning plums. Train fan-trained trees in spring. Pruning established fans is carried out in early summer and after harvest",
-        "pests": "May be susceptible to plum aphid, red spider mite and winter moth caterpillar. The fruit can be damaged by plum moth caterpillars, wasps and birds",
-        "diseases": "May be susceptible to silver leaf, bacterial canker and blossom wilt. The fruit can be affected by brown rot. Protect flowers against late frost damage"
-    }
+        "cultivation": {
+            "text": "Tolerant of a range of soils as long as well drained, but prefers loamy, ideally slightly acidic soils pH of 6 to 6.5. Plant in a sunny, sheltered site. Flowers may be susceptible to spring frosts damage. Thin fruit if necessary. See How to grow: gages for further cultivation details",
+            "link_names": [
+                "Thin fruit"
+            ],
+            "related_links": {
+                "thin_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/thinning"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting onto a rootstock for fruit. The rootstock will largely determine the vigour of the tree. Seed raised trees are of variable fruit quality and tree size",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Edible fruit",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune regularly depending on how the tree is trained – see pruning plums. Train fan-trained trees in spring. Pruning established fans is carried out in early summer and after harvest",
+            "link_names": [
+                "Pruning plums",
+                "Train fan-trained"
+            ],
+            "related_links": {
+                "pruning_plums": "https://www.rhs.org.uk/fruit/plums/pruning",
+                "train_fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to plum aphid, red spider mite and winter moth caterpillar. The fruit can be damaged by plum moth caterpillars, wasps and birds",
+            "link_names": [
+                "Plum aphid",
+                "Red spider mite",
+                "Winter moth",
+                "Plum moth",
+                "Birds"
+            ],
+            "related_links": {
+                "plum_aphid": "https://www.rhs.org.uk/biodiversity/plum-aphids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "winter_moth": "https://www.rhs.org.uk/biodiversity/winter-moth-caterpillars",
+                "plum_moth": "https://www.rhs.org.uk/biodiversity/plum-moth",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus domestica Reine-Claude Group (D)",
+    "display_name": ""
 }

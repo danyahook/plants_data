@@ -93,16 +93,56 @@
         "plant_range": "Peru Ecuador."
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a well-drained soil in full sun; mulch in autumn to protect from frosts. Best grown as an annual in cool areas",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by aphids, caterpillars and flea beetles",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grows best in a well-drained soil in full sun; mulch in autumn to protect from frosts. Best grown as an annual in cool areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars and flea beetles",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Tropaeolum canariense misapplied",
+    "display_name": "Canary creeper"
 }

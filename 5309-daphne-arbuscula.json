@@ -87,17 +87,73 @@
         "plant_range": "Czech Rep. Hungary Slovakia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich well-drained but not dry soil. Mulch to keep roots cool. Prefers slightly acid to slightly alkaline soil in full sun. Resents transplanting",
-        "propagation": "Propagate by seed in containers in a cold frame as soon as ripe. Insert softwood cuttings in early to mid-summer, and semi-ripe and evergreen cuttings in mid or late summer. Graft in winter or layer in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 8, keep pruning to a minimum",
-        "pests": "Young growth may be affected by aphids",
-        "diseases": "For leaf spot problems see leaf damage on woody plants; grey moulds and virus diseases may be troublesome"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich well-drained but not dry soil. Mulch to keep roots cool. Prefers slightly acid to slightly alkaline soil in full sun. Resents transplanting",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame as soon as ripe. Insert softwood cuttings in early to mid-summer, and semi-ripe and evergreen cuttings in mid or late summer. Graft in winter or layer in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 8, keep pruning to a minimum",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Daphne arbuscula",
+    "display_name": "Shrubby daphne"
 }

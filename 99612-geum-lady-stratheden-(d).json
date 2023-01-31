@@ -86,14 +86,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for the rock garden or front of borders. Avoid soil that is waterlogged",
-        "propagation": "Propagate by seed in pots in a cold frame in winter or propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back the old stems after flowering",
-        "pests": "Can get glasshouse red spider mite, aphids and sawflies",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Suitable for the rock garden or front of borders. Avoid soil that is waterlogged",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in winter or propagate by division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back the old stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get glasshouse red spider mite, aphids and sawflies",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Geum 'Lady Stratheden' (d)",
+    "display_name": "Avens 'lady stratheden'"
 }

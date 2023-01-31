@@ -98,15 +98,49 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow at pond margins in water up to 30cm deep. Deadhead regularly in order to prevent problems from self-seeding",
-        "propagation": "Propagate by seed sown as soon as ripe or by rhizome division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Deadhead regularly in order to prevent problems from self-seeding",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow at pond margins in water up to 30cm deep. Deadhead regularly in order to prevent problems from self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe or by rhizome division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly in order to prevent problems from self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Alisma_plantago-aquatica.html",
@@ -168,5 +202,7 @@
             "Nutrient deficiencies",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Alisma plantago-aquatica",
+    "display_name": "Water plantain"
 }

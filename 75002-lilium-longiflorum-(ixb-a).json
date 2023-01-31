@@ -87,16 +87,72 @@
         "plant_range": "Japan to Philippines"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter in full sun with the base of the plant in shade. In containers or under glass grow in loam-based potting compost (JI No.2) with added grit and leaf mould in full light with shade from hot sun",
-        "propagation": "Propagate by seed as soon as ripe in containers in a cold frame. Bulb propagation: detach bulblets from parent bulb as plants become dormant and pot on; remove bulbils from leaf axils before plants die down and pot on; propagate with scales from healthy bulbs",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down flower stems when flowering is completed",
-        "pests": "lily beetle can be a problem. May also be affected by slugs, thrips, leatherjackets, wireworms and aphids. Small mammals such as rabbits and voles may damage plants",
-        "diseases": "Various fungi can affect lilies both above and below ground: grey moulds is sometimes a problem and a virus can affect lilies although some cultivars are virus-tolerant and grow well"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter in full sun with the base of the plant in shade. In containers or under glass grow in loam-based potting compost (JI No.2) with added grit and leaf mould in full light with shade from hot sun",
+            "link_names": [
+                "Organic matter",
+                "Containers"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed as soon as ripe in containers in a cold frame. Bulb propagation: detach bulblets from parent bulb as plants become dormant and pot on; remove bulbils from leaf axils before plants die down and pot on; propagate with scales from healthy bulbs",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down flower stems when flowering is completed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "lily beetle can be a problem. May also be affected by slugs, thrips, leatherjackets, wireworms and aphids. Small mammals such as rabbits and voles may damage plants",
+            "link_names": [
+                "Lily beetle",
+                "Slugs",
+                "Thrips",
+                "Leatherjackets",
+                "Aphids",
+                "Rabbits"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "leatherjackets": "https://www.rhs.org.uk/biodiversity/leatherjackets",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits"
+            }
+        },
+        "diseases": {
+            "text": "Various fungi can affect lilies both above and below ground: grey moulds is sometimes a problem and a virus can affect lilies although some cultivars are virus-tolerant and grow well",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lilium longiflorum (IXb/a)",
+    "display_name": "Trumpet lily"
 }

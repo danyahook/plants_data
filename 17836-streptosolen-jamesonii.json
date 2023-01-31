@@ -95,16 +95,64 @@
         "plant_range": "Colombia"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-based potting compost in full light with shade from hot sun. Grow outdoors in fertile moist but well-drained soil in full sun in a frost-free area. Grow against a wall or among other shrubs",
-        "propagation": "Propagate by softwood or semi-hardwood cuttings or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 or pruning group 9 in late winter or pruning group 13 in spring",
-        "pests": "May be attacked by glasshouse whitefly, aphids and glasshouse red spider mite",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in loam-based potting compost in full light with shade from hot sun. Grow outdoors in fertile moist but well-drained soil in full sun in a frost-free area. Grow against a wall or among other shrubs",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-hardwood cuttings or layering",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 9 in late winter or pruning group 13 in spring",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 9",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse whitefly, aphids and glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Streptosolen_jamesonii.html",
@@ -155,5 +203,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Streptosolen jamesonii",
+    "display_name": "Marmalade bush"
 }

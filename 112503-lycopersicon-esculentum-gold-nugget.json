@@ -85,17 +85,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant outdoors or in containers when the danger of frost has passed in fertile, moist but well-drained soil, in full sun. Prefers not to be pinched out. Remove growing tip only if the plant grows to become larger than desired.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Conservatory and greenhouse",
-            "Edible fruit"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to red spider mite, tomato hornworms",
-        "diseases": "May be susceptible to blights, leafspot, bacterial wilt"
-    }
+        "cultivation": {
+            "text": "Plant outdoors or in containers when the danger of frost has passed in fertile, moist but well-drained soil, in full sun. Prefers not to be pinched out. Remove growing tip only if the plant grows to become larger than desired.",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Conservatory and greenhouse",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mite, tomato hornworms",
+            "link_names": [
+                "Red spider mite"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to blights, leafspot, bacterial wilt",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Lycopersicon esculentum 'Gold Nugget'",
+    "display_name": "Tomato (cherry) 'gold nugget'"
 }

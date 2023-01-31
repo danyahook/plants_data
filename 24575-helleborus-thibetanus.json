@@ -84,17 +84,59 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in woodland gardens in moist, fertile and humus-rich soils in partial shade. Protect from excessive wet from late summer to early spring when the plant is dormant. Can also be grown in an alpine house",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "None required",
-        "pests": "Prone to hellebore aphid and damage from slugs and snails",
-        "diseases": "May be affected by hellebore leaf spot and a virus"
+        "cultivation": {
+            "text": "Best grown in woodland gardens in moist, fertile and humus-rich soils in partial shade. Protect from excessive wet from late summer to early spring when the plant is dormant. Can also be grown in an alpine house",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to hellebore aphid and damage from slugs and snails",
+            "link_names": [
+                "Hellebore aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "hellebore_aphid": "https://www.rhs.org.uk/biodiversity/hellebore-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by hellebore leaf spot and a virus",
+            "link_names": [
+                "Hellebore leaf spot",
+                "A virus"
+            ],
+            "related_links": {
+                "hellebore_leaf_spot": "https://www.rhs.org.uk/disease/hellebore-leaf-spot",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Helleborus_thibetanus.html",
@@ -135,5 +177,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Helleborus thibetanus",
+    "display_name": "Tibetan hellebore"
 }

@@ -94,16 +94,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for rock garden, wall crevices or the front of a mixed border",
-        "propagation": "Propagate by seed and greenwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Trim lightly after flowering to maintain compactness",
-        "pests": "Can get aphids and flea beetles",
-        "diseases": "May be infected by White blister and a downy mildew"
-    }
+        "cultivation": {
+            "text": "Suitable for rock garden, wall crevices or the front of a mixed border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed and greenwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Greenwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim lightly after flowering to maintain compactness",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and flea beetles",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by White blister and a downy mildew",
+            "link_names": [
+                "White blister",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Alyssum spinosum 'Roseum'",
+    "display_name": "Spiny madwort 'roseum'"
 }

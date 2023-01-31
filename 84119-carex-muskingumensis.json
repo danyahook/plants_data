@@ -86,19 +86,51 @@
         "plant_range": "N America"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in any soil that does not become dry, even shallow water. Partial shade is ideal, although sun is tolerated too",
-        "propagation": "Propagate by division or by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut out dead foliage as required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Thrives in any soil that does not become dry, even shallow water. Partial shade is ideal, although sun is tolerated too",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out dead foliage as required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carex_muskingumensis.html",
@@ -151,5 +183,7 @@
             "Leaf rot",
             "Fruit withering"
         ]
-    }
+    },
+    "main_name_original": "Carex muskingumensis",
+    "display_name": ""
 }

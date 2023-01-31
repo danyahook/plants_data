@@ -94,17 +94,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in a sunny position. Will suffer in heavy, poorly-drained soil",
-        "propagation": "Propagate by softwood cuttings in spring/early summer or semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6 - to keep the plant compact, prune in mid to late spring to where new growth can been seen emerging near the base, or pruning group 9 - a lighter trim in mid to late spring if you want to allow the plant to reach full size",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to rust diseases, but generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in a sunny position. Will suffer in heavy, poorly-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring/early summer or semi-ripe cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6 - to keep the plant compact, prune in mid to late spring to where new growth can been seen emerging near the base, or pruning group 9 - a lighter trim in mid to late spring if you want to allow the plant to reach full size",
+            "link_names": [
+                "Pruning group 6",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Artemisia 'Faith Raven'",
+    "display_name": ""
 }

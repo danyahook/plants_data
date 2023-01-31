@@ -77,10 +77,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained but moisture retentive soil in full sun. Incorporate plenty of organic matter. Sow indoors in March and transplant plant out in May. See celery cultivation",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to carrot fly, celery leaf-mining fly, slugs and snails",
-        "diseases": "May be susceptible to celery leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained but moisture retentive soil in full sun. Incorporate plenty of organic matter. Sow indoors in March and transplant plant out in May. See celery cultivation",
+            "link_names": [
+                "Organic matter",
+                "Celery cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "celery_cultivation": "https://www.rhs.org.uk/vegetables/celery/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to carrot fly, celery leaf-mining fly, slugs and snails",
+            "link_names": [
+                "Carrot fly",
+                "Celery leaf-mining fly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "carrot_fly": "https://www.rhs.org.uk/biodiversity/carrot-fly",
+                "celery_leaf-mining_fly": "https://www.rhs.org.uk/biodiversity/celery-leaf-mining-fly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to celery leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Apium graveolens var. rapaceum 'Ibis'",
+    "display_name": "Celeriac 'ibis'"
 }

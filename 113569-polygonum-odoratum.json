@@ -109,17 +109,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow outside in summer in rich, moisture-retentive but well-drained soil in full sun in a sheltered position, and in a container under glass the rest of the year",
-        "propagation": "Propagate by seed in autumn or spring; by division in autumn or spring; or by semi-ripe cuttings in summer, which root easily in soil or water",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow outside in summer in rich, moisture-retentive but well-drained soil in full sun in a sheltered position, and in a container under glass the rest of the year",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in autumn or spring; by division in autumn or spring; or by semi-ripe cuttings in summer, which root easily in soil or water",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Polygonum odoratum",
+    "display_name": "Vietnamese coriander"
 }

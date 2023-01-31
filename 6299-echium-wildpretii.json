@@ -91,18 +91,56 @@
         "plant_range": "Canary Islands"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in a loam-based potting compost (John Innes Number 3) in full light. Water freely when in growth, sparingly in winter. Outdoors, grow in moderately fertile, well-drained soil in full sun. Protect from winter frost in situ with horticultural fleece",
-        "propagation": "Propagate by seed at 13-16°C (55-61°F) in summer, overwintering seedlings at 5-7°C (41-45°F)",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Outdoors slugs may be a problem; indoors glasshouse whitefly and glasshouse red spider mite can be troublesome. vine weevils may also be found",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Under glass, grow in a loam-based potting compost (John Innes Number 3) in full light. Water freely when in growth, sparingly in winter. Outdoors, grow in moderately fertile, well-drained soil in full sun. Protect from winter frost in situ with horticultural fleece",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at 13-16°C (55-61°F) in summer, overwintering seedlings at 5-7°C (41-45°F)",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Outdoors slugs may be a problem; indoors glasshouse whitefly and glasshouse red spider mite can be troublesome. vine weevils may also be found",
+            "link_names": [
+                "Slugs",
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Echium_wildpretii.html",
@@ -138,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Echium wildpretii",
+    "display_name": "Tower of jewels"
 }

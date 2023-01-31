@@ -89,14 +89,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a heated greenhouse or indoors in bright light, with shade from hot sun. In growth, apply a low-nitrogen fertiliser monthly. Water sparingly in winter",
-        "propagation": "Propagate by semi-ripe cuttings in summer, propagate by layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 11",
-        "pests": "Aphids and mealybugs may be problematic",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grow in a heated greenhouse or indoors in bright light, with shade from hot sun. In growth, apply a low-nitrogen fertiliser monthly. Water sparingly in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer, propagate by layering in autumn",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and mealybugs and glasshouse red spider mite under glass",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Mealybugs",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Jasminum_sambac.html",
@@ -214,5 +262,7 @@
             "Scars",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Jasminum sambac",
+    "display_name": "Arabian jasmine"
 }

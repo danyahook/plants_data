@@ -84,16 +84,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun or partial shade. Cut down to near ground level in early autumn and mulch well",
-        "propagation": "Propagate by seed; sow seeds in a cold frame in autumn or spring and select dark-leaved seedlings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prevent prolific self-seeding",
-        "pests": "Slugs, snails and caterpillars can damage young growth",
-        "diseases": "Powdery mildews may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun or partial shade. Cut down to near ground level in early autumn and mulch well",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed; sow seeds in a cold frame in autumn or spring and select dark-leaved seedlings",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prevent prolific self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slug, snail and caterpillar damage on young growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Anthriscus sylvestris 'Ravenswing'",
+    "display_name": "Cow parsley 'ravenswing'"
 }

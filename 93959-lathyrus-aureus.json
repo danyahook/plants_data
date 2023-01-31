@@ -95,17 +95,71 @@
         "plant_range": "Greece"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in fertile, humus-rich, well-drained soil in full sun or partial shade; as a calcifuge, avoid attempting to grow it in chalky soils. See sweetpea cultivation for further information",
-        "propagation": "Propagate by division in early spring or propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead regularly then cut stems down to the ground in autumn",
-        "pests": "May be attacked by aphids, slugs, snails and thrips",
-        "diseases": "May be affected by powdery mildews, Fusarium wilt and sweet pea viruses"
+        "cultivation": {
+            "text": "Best grown in fertile, humus-rich, well-drained soil in full sun or partial shade; as a calcifuge, avoid attempting to grow it in chalky soils. See sweetpea cultivation for further information",
+            "link_names": [
+                "Sweetpea cultivation"
+            ],
+            "related_links": {
+                "sweetpea_cultivation": "https://www.rhs.org.uk/plants/lathyrus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or propagate by seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly then cut stems down to the ground in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids, slugs, snails and thrips",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Thrips"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, Fusarium wilt and sweet pea viruses",
+            "link_names": [
+                "Powdery mildews",
+                "Fusarium wilt",
+                "Sweet pea viruses"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts",
+                "sweet_pea_viruses": "https://www.rhs.org.uk/disease/sweet-pea-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lathyrus_aureus.html",
@@ -150,5 +204,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lathyrus aureus",
+    "display_name": "Perennial golden pea"
 }

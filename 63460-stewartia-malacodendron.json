@@ -84,15 +84,53 @@
         "plant_range": "SE USA"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in woodland conditions, favouring a moist, humus-rich, lime-free soil in partial shade. The roots must be fully shaded from hot sun and they resent disturbance or transplanting",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in late-summer. Propagate by seed sown in containers in a cold-frame in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "City and courtyard gardens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grows well in woodland conditions, favouring a moist, humus-rich, lime-free soil in partial shade. The roots must be fully shaded from hot sun and they resent disturbance or transplanting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in late-summer. Propagate by seed sown in containers in a cold-frame in autumn",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "City and courtyard gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Stewartia malacodendron",
+    "display_name": "Silky camellia"
 }

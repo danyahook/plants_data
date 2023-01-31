@@ -89,20 +89,62 @@
         "plant_range": "E C South America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, well-drained soil in full sun. Grows best in light or disturbed, acid soils. Can also be grown in a container in an alpine house",
-        "propagation": "Propagate by division in spring; small sections of rhizome root easily with bottom heat or from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails outdoors",
-        "diseases": "May be suceptible to rust diseases"
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, well-drained soil in full sun. Grows best in light or disturbed, acid soils. Can also be grown in a container in an alpine house",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring; small sections of rhizome root easily with bottom heat or from seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails outdoors",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rust diseases",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Oxalis_articulata.html",
@@ -149,5 +191,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Oxalis articulata",
+    "display_name": "Pink sorrel"
 }

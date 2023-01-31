@@ -80,14 +80,48 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in still, alkaline water in full sun. Water must be deep enough to prevent bottom freezing to protect overwintering buds",
-        "propagation": "Propagate by seed or division of stolons",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Leaves may be eaten by water snails, liable to attack by the larvae of the brown china-mark moth",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in still, alkaline water in full sun. Water must be deep enough to prevent bottom freezing to protect overwintering buds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division of stolons",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Leaves may be eaten by water snails, liable to attack by the larvae of the brown china-mark moth",
+            "link_names": [
+                "Snails"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrocharis_morsus-ranae.html",
@@ -141,5 +175,7 @@
             "Brown spot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Hydrocharis morsus-ranae",
+    "display_name": "Frogbit"
 }

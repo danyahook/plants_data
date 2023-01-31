@@ -84,15 +84,49 @@
         "plant_range": "Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in light, fertile, well-drained, loamy soil, but tolerates a range of conditions. Usually long-lived, with tough roots that resent disturbance",
-        "propagation": "Propagate by seed sown in spring, moving seedlings into their final position as young as possible",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down in autumn",
-        "pests": "Slugs and aphids may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows best in light, fertile, well-drained, loamy soil, but tolerates a range of conditions. Usually long-lived, with tough roots that resent disturbance",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, moving seedlings into their final position as young as possible",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and aphids may be a problem",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Thermopsis_lanceolata.html",
@@ -136,5 +170,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Thermopsis lanceolata",
+    "display_name": "Tapered false lupin"
 }

@@ -86,16 +86,60 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist soil in full sun",
-        "propagation": "Propagate by division in autumn or spring, by basal cuttings in spring or by root cuttings in early autumn or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Deadhead to prolong flowering then cut down to the ground in late autumn",
-        "pests": "May be affected by stem eelworm",
-        "diseases": "May be affected by powdery mildews, grey moulds and leafy gall"
-    }
+        "cultivation": {
+            "text": "Grow in moist soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring, by basal cuttings in spring or by root cuttings in early autumn or winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering then cut down to the ground in late autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to stem eelworm",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, grey moulds and leafy gall",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
+    },
+    "main_name_original": "Phlox paniculata Famous Purple ('Appotwpu'PBR) (Famous Series)",
+    "display_name": "Perennial phlox [famous purple]"
 }

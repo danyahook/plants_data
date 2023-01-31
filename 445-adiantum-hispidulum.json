@@ -92,19 +92,47 @@
         "plant_range": "Tropics & Subtropics"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil that does not dry out, or become waterlogged, in full or partial shade",
-        "propagation": "Propagate by spores or division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove damaged fronds in spring",
-        "pests": "Pest-free outdoors; scale insect may be a problem under glass",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile soil that does not dry out, or become waterlogged, in full or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by spores or division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove damaged fronds in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Pest-free outdoors; scale insect may be a problem under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Adiantum_hispidulum.html",
@@ -177,5 +205,7 @@
             "Leaf scorch",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Adiantum hispidulum",
+    "display_name": "Rough maidenhair fern"
 }

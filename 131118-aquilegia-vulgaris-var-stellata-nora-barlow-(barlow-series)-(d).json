@@ -91,16 +91,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe or in spring. It can also be propagated by division in spring but the plant will be slow to recover",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back foliage affected by fungal diseases",
-        "pests": "Prone to aphids, leaf miners, sawflies and caterpillars",
-        "diseases": "May be infected by powdery mildews and aquilegia downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe or in spring. It can also be propagated by division in spring but the plant will be slow to recover",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back foliage affected by fungal diseases",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to aphids, leaf miners, sawflies and caterpillars",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by powdery mildews and aquilegia downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Aquilegia vulgaris var. stellata 'Nora Barlow' (Barlow Series) (d)",
+    "display_name": "Columbine 'nora barlow'"
 }

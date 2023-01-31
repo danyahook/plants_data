@@ -92,19 +92,57 @@
         "plant_range": "Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor alkaline well-drained soil. Grow on its side in a wall crevice, or in a gravel or scree bed",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by caterpillars and figwort weevil",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in poor alkaline well-drained soil. Grow on its side in a wall crevice, or in a gravel or scree bed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by caterpillars and figwort weevil",
+            "link_names": [
+                "Figwort weevil"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Verbascum dumulosum",
+    "display_name": "Shrubby mullein"
 }

@@ -93,17 +93,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a reasonably fertile, free draining but moisture retentive soil in sun or partial shade.",
-        "propagation": "Propagate by semi-ripe and hardwood cuttings. Seed may not come true to cultivar type.",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Best flowers and berries appear on 2nd year wood so prune to allow for future flowering and fruit production. Prune out unwanted growth and proportion of older wood post flowering.",
-        "pests": "Generally pest-free, but berries may be eaten by birds",
-        "diseases": "May be susceptible to pyracantha scab"
-    }
+        "cultivation": {
+            "text": "Grow in a reasonably fertile, free draining but moisture retentive soil in sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe and hardwood cuttings. Seed may not come true to cultivar type.",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Best flowers and berries appear on 2nd year wood so prune to allow for future flowering and fruit production. Prune out unwanted growth and proportion of older wood post flowering.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, caterpillars, brown scale and leaf-mining moths",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Brown scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pyracantha scab and honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pyracantha 'Golden Glow'",
+    "display_name": ""
 }

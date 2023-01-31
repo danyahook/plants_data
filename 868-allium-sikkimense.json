@@ -86,20 +86,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any, moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best but shade is tolerated",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Low Maintenance",
-            "Ground cover",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May get vine weevil, capsid bug and sawflies",
-        "diseases": "May be affected by a downy mildew and powdery mildews"
+        "cultivation": {
+            "text": "Grow in reasonably fertile well-drained soil with full sun at the front of the border. Further allium cultivation advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Divide clumps in early spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Gravel garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by onion fly",
+            "link_names": [
+                "Onion fly"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by onion white rot and downy mildews and occasionally leek rust",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews",
+                "Leek rust"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Geranium_sanguineum__Album_.html",
@@ -135,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Allium sikkimense",
+    "display_name": "Himalayan allium"
 }

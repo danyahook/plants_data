@@ -100,18 +100,60 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in any reasonable, moist but well-drained soil in partial shade. Avoid excessive winter wet",
-        "propagation": "Propagate by division in early spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems after flowering has finished",
-        "pests": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
-        "diseases": "May be susceptible to anemone smuts and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows well in any reasonable, moist but well-drained soil in partial shade. Avoid excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems after flowering has finished",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Slugs"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to anemone smuts and powdery mildews",
+            "link_names": [
+                "Smuts",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "smuts": "https://www.rhs.org.uk/disease/smuts",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Anemone hupehensis",
+    "display_name": "Chinese anemone"
 }

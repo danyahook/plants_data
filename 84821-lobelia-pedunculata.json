@@ -93,18 +93,46 @@
         "plant_range": "Australia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, loamy, moist to well-drained soil in partial or deep shade",
-        "propagation": "Propagate by division at any time of year, keeping the divisions well watered until they are established",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "None required",
-        "pests": "Prone to damage by slugs and snails",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grow in fertile, loamy, moist to well-drained soil in partial or deep shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division at any time of year, keeping the divisions well watered until they are established",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to damage by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lobelia_pedunculata.html",
@@ -137,5 +165,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lobelia pedunculata",
+    "display_name": "Blue star creeper"
 }

@@ -94,17 +94,51 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well drained loamy soil in full sun or partial shade. It is a fast growing and prolific self seeder so remove flower heads to prevent it spreading. Prune back in Autumn to encourage healthy, vigorous growth the following Spring",
-        "propagation": "Propagate by seed with a period of cold stratification or by division of the rhizome in Spring or Autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune back growth to 5-10cm above ground level in Autumn. Remove flower heads to prevent self-seeding",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in a moist but well drained loamy soil in full sun or partial shade. It is a fast growing and prolific self seeder so remove flower heads to prevent it spreading. Prune back in Autumn to encourage healthy, vigorous growth the following Spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed with a period of cold stratification or by division of the rhizome in Spring or Autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune back growth to 5-10cm above ground level in Autumn. Remove flower heads to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Artemisia_vulgaris.html",
@@ -162,5 +196,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Artemisia vulgaris",
+    "display_name": "Mugwort"
 }

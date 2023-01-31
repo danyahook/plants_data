@@ -82,19 +82,59 @@
         "plant_range": "Old World Trop. & Sub-Trop."
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil with plenty of added leaf-mould or in a container under glass with added limestone chips in high humidity",
-        "propagation": "Propagate by sowing spores as soon as ripe or division of rhizomes in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Dead or damaged fronds may be removed as necessary",
-        "pests": "Generally pest free outdoors but under glass may be susceptible to scale insects and eelworms",
-        "diseases": "Sooty mould may be a problem"
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil with plenty of added leaf-mould or in a container under glass with added limestone chips in high humidity",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by sowing spores as soon as ripe or division of rhizomes in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead or damaged fronds may be removed as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free outdoors but under glass may be susceptible to scale insects and eelworms",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Sooty mould may be a problem",
+            "link_names": [
+                "Sooty mould"
+            ],
+            "related_links": {
+                "sooty_mould": "https://www.rhs.org.uk/biodiversity/sooty-moulds"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pteris_cretica.html",
@@ -141,5 +181,7 @@
             "Leaf rot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Pteris cretica",
+    "display_name": "Cretan brake"
 }

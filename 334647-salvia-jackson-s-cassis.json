@@ -86,19 +86,75 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil in full sun with shelter from cold, drying winds; in frost-free areas in winter, protect from excessive wet, while in frost-prone areas protect plants with fleece, move plants under cover, or take cuttings to provide next year's plants.",
-        "propagation": "Propagate by division in spring, by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9 (late-flowering evergreen shrubs): no pruning required, but plants may be shaped if necessary in spring once new growth has started",
-        "pests": "Generally pest-free but may be affected by capsid bug, leafhoppers, slugs and snails; under glass, may be affected by aphids, glasshouse red spider mite, and whiteflies",
-        "diseases": "Generally disease-free but may be affected by powdery mildews and verticillium wilt; under glass, may be affected by foot and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil in full sun with shelter from cold, drying winds; in frost-free areas in winter, protect from excessive wet, while in frost-prone areas protect plants with fleece, move plants under cover, or take cuttings to provide next year's plants.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 (late-flowering evergreen shrubs): no pruning required, but plants may be shaped if necessary in spring once new growth has started",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to capsid bug, leafhoppers, slugs and snails; under glass, may be susceptible to aphids, glasshouse red spider mite, and whiteflies",
+            "link_names": [
+                "Capsid bug",
+                "Slugs",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Jackson's Cassis'",
+    "display_name": "Sage 'jackson's cassis'"
 }

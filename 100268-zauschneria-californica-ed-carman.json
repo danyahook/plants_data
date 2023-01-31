@@ -102,20 +102,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in sheltered, well-drained beds, especially raised beds and in walls, where there is full sun all day",
-        "propagation": "Propagate by softwood cuttings or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning not normally needed; cut back to rootstock in spring to renovate",
-        "pests": "Slugs may damage young leaves",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Easy to grow in sheltered, well-drained beds, especially raised beds and in walls, where there is full sun all day",
+            "link_names": [
+                "Raised beds"
+            ],
+            "related_links": {
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or division",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning not normally needed; cut back to rootstock in spring to renovate",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slug damage on young leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Zauschneria californica 'Ed Carman'",
+    "display_name": "California fuchsia 'ed carman'"
 }

@@ -91,15 +91,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, neutral to acid soil, with shade from hot midday sun and shelter from cold winds. Late frosts may damage flower buds. See magnolia cultivation for more advice",
-        "propagation": "Propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 1",
-        "pests": "May be susceptible to capsid bug damage",
-        "diseases": "May be susceptible to Phytophthora, honey fungus, coral spot and grey moulds, and to chlorosis in alkaline soils"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, neutral to acid soil, with shade from hot midday sun and shelter from cold winds. Late frosts may damage flower buds. See magnolia cultivation for more advice",
+            "link_names": [
+                "Magnolia cultivation"
+            ],
+            "related_links": {
+                "magnolia_cultivation": "https://www.rhs.org.uk/plants/magnolia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, horse chestnut scale and capsid bug",
+            "link_names": [
+                "Scale insects",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot, phytophthora, grey moulds, honey fungus, a virus or fungal leaf spot",
+            "link_names": [
+                "Coral spot",
+                "Phytophthora",
+                "Grey moulds",
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Magnolia dianica 'Summer Snowflake'",
+    "display_name": ""
 }

@@ -91,17 +91,68 @@
         "plant_range": "China (Yunnan)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun or partial shade; tolerant of dry conditions once established",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe in autumn, or by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to brown scale, cotoneaster webber caterpillar and aphids including woolly aphid",
-        "diseases": "May be susceptible to fireblight, honey fungus, leaf spot, silver leaf and virus diseases"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun or partial shade; tolerant of dry conditions once established",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe in autumn, or by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale, cotoneaster webber caterpillar and aphids including woolly aphid",
+            "link_names": [
+                "Brown scale",
+                "Cotoneaster webber caterpillar",
+                "Aphids",
+                "Woolly aphid"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cotoneaster_coriaceus.html",
@@ -151,5 +202,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Cotoneaster coriaceus",
+    "display_name": ""
 }

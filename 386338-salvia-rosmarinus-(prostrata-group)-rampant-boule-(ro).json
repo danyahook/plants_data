@@ -93,22 +93,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers poor, well-drained soil in a sunny position. Good for trailing out of containers, or down walls. See Rosemary cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Ground cover",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No regular pruning required",
-        "pests": "May be susceptible to brown scale and rosemary beetle",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Prefers poor, well-drained soil in a sunny position. Good for trailing out of containers, or down walls. See rosemary cultivation for further advice",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Ground cover",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No regular pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale and rosemary beetle",
+            "link_names": [
+                "Brown scale",
+                "Rosemary beetle"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia rosmarinus (Prostrata Group) 'Rampant Boule' (Ro)",
+    "display_name": "Rosemary 'rampant boule'"
 }

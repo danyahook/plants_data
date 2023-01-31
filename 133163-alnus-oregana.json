@@ -97,16 +97,58 @@
         "plant_range": "Alaska to California"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in moderately fertile, moist but well drained soil in full sun",
-        "propagation": "Propagate by seed in a seedbed as soon as ripe. Root hardwood cuttings in winter and softwood cuttings in summer. Bud grafting can be performed in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Requires minimal pruning",
-        "pests": "Generally trouble free",
-        "diseases": "Prone to Phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "This genus is noted for its ability to thrive in poor, wet conditions and is widely used in land reclamation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in a seedbed as soon as ripe. Root hardwood cuttings in winter and softwood cuttings in summer. Bud grafting can be performed in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Hardwood",
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Requires minimal pruning",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Alnus oregana",
+    "display_name": "Red alder"
 }

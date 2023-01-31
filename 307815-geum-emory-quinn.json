@@ -86,17 +86,61 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by division in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required, but deadheading regularly will encourage flowering into autumn",
-        "pests": "Generally pest-free but may be affected by geum sawfly and aphids",
-        "diseases": "Generally disease-free but may be affected by downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading regularly will encourage flowering into autumn",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by geum sawfly and aphids",
+            "link_names": [
+                "Geum sawfly",
+                "Aphids"
+            ],
+            "related_links": {
+                "geum_sawfly": "https://www.rhs.org.uk/biodiversity/geum-sawflies",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be affected by downy mildews",
+            "link_names": [
+                "Downy mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geum 'Emory Quinn'",
+    "display_name": "Avens 'emory quinn'"
 }

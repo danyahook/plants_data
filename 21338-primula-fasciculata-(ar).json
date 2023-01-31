@@ -78,14 +78,58 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade in permanently moist, humus-rich, acid to neutral soil. Suitable for an alpine trough, but tends to be short-lived",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Prone to aphids, leafhoppers and slugs",
-        "diseases": "May be affected by a virus, primula brown core or grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in partial shade in permanently moist, humus-rich, acid to neutral soil. Suitable for an alpine trough, but tends to be short-lived",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to aphids, leafhoppers and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a virus, primula brown core or grey moulds",
+            "link_names": [
+                "A virus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Primula fasciculata (Ar)",
+    "display_name": ""
 }

@@ -88,14 +88,64 @@
         "plant_range": "China, Mongolia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in full sun or partial shade; prefers alkaline to neutral soil but tolerant of acid conditions. Avoid very dry conditions and exposure to strong winds",
-        "propagation": "Propagate by seed, layering, grafting or chip-budding onto a suitable rootstock",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1; sucker removal in winter",
-        "pests": "Aphids, horse chestnut scale, caterpillars, sawflies and gall mites may be a problem",
-        "diseases": "May be affected by phytophthora root diseases and honey fungus"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in full sun or partial shade; prefers alkaline to neutral soil but tolerant of acid conditions. Avoid very dry conditions and exposure to strong winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, layering, grafting or chip-budding onto a suitable rootstock",
+            "link_names": [
+                "Propagate by seed",
+                "Layering",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; sucker removal in winter",
+            "link_names": [
+                "Pruning group 1",
+                "Sucker removal"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "sucker_removal": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, horse chestnut scale, caterpillars, sawflies and gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora root diseases and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tilia_mongolica.html",
@@ -133,5 +183,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Tilia mongolica",
+    "display_name": "Mongolian lime"
 }

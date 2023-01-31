@@ -86,17 +86,77 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile acid or neutral soils in a part shady situation sheltered from cold winds, early morning sun and late frosts. For container cultivation use a lime-free medium. See camellia cultivation",
-        "propagation": "Propagate by semi-ripe cuttings of the current years growth from late summer to late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Can get aphids, cushion scale and vine weevil",
-        "diseases": "May be affected by honey fungus, phytophthora root rot, camellia gall, camellia yellow mottle virus and the flowers may be infected by camellia petal blight"
+        "cultivation": {
+            "text": "Grow in fertile acid or neutral soils in a part shady situation sheltered from cold winds, early morning sun and late frosts. For container cultivation use a lime-free medium. See camellia cultivation",
+            "link_names": [
+                "Container",
+                "Camellia cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "camellia_cultivation": "https://www.rhs.org.uk/plants/camellia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings of the current years growth from late summer to late winter",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, camellia gall, camellia leaf blight, camellia yellow mottle virus and flowers and camellia petal blight",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Camellia gall",
+                "Camellia leaf blight",
+                "Camellia yellow mottle virus",
+                "Camellia petal blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "camellia_gall": "https://www.rhs.org.uk/disease/camellia-gall",
+                "camellia_leaf_blight": "https://www.rhs.org.uk/disease/camellia-leaf-blight",
+                "camellia_yellow_mottle_virus": "https://www.rhs.org.uk/disease/camellia-viruses",
+                "camellia_petal_blight": "https://www.rhs.org.uk/disease/camellia-flower-blight"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Camellia_japonica__Adolphe_Audusson_.html",
@@ -127,5 +187,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Camellia japonica 'Adolphe Audusson'",
+    "display_name": "Camellia 'adolphe audusson'"
 }

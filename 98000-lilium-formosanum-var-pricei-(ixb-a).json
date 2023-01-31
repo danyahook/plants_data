@@ -76,16 +76,70 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, acid soil, planting bulbs to at least three times their own depth as they are stem rooting. Needs a sunny, sheltered position in a mild area. Otherwise grow in containers and take undercover in winter",
-        "propagation": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering and allow foliage to die down naturally",
-        "pests": "Can get lily beetle, aphids and slugs; plants in pots can get vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in moist, acid soil, planting bulbs to at least three times their own depth as they are stem rooting. Needs a sunny, sheltered position in a mild area. Otherwise grow in containers and take undercover in winter",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering and allow foliage to die down naturally",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get lily beetle, aphids and slugs; plants in pots can get vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Grey moulds and a virus may cause problems. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium formosanum var. pricei (IXb/a)",
+    "display_name": "Dwarf formosa lily"
 }

@@ -93,17 +93,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives without much attention in poor, well-drained soil in a sunny, sheltered position. Suitable for use as a low, formal or informal hedge",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 9. Prune lightly and regularly to prevent the plant from becoming woody. If used as a hedge, trim lightly after flowering.",
-        "pests": "Brown scale , Rosemary leaf beetle",
-        "diseases": "Generally disease-free."
-    }
+        "cultivation": {
+            "text": "Thrives without much attention in poor, well-drained soil in a sunny, sheltered position. Suitable for use as a low, formal or informal hedge. See rosemary cultivation for further advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9. Prune lightly and regularly to prevent the plant from becoming woody. If used as a hedge, trim lightly after flowering.",
+            "link_names": [
+                "Pruning group 9",
+                "Hedge"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale and rosemary leaf beetle",
+            "link_names": [
+                "Brown scale"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia rosmarinus 'Roman Beauty'PBR (Ro)",
+    "display_name": ""
 }

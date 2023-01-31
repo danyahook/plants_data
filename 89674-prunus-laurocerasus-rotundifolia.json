@@ -95,17 +95,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained or moist but well-drained soil in sun or part shade, excellent for hedging but may become chlorotic in shallow chalk soil",
-        "propagation": "Propagate by semi-ripe cuttings from late summer to autumn or hardwood cuttings from late autumn to late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal",
-            "Cottage and informal garden",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8, prune evergreen hedges in late spring or early summer",
-        "pests": "Leaves may be damaged by vine weevil and leaf mining moths",
-        "diseases": "May be susceptible to honey fungus and laurel leaf diseases"
+        "cultivation": {
+            "text": "Grow in any well-drained or moist but well-drained soil in sun or part shade, excellent for hedging but may become chlorotic in shallow chalk soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings from late summer to autumn or hardwood cuttings from late autumn to late winter",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal",
+                "Cottage and informal garden",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8, prune evergreen hedges in late spring or early summer",
+            "link_names": [
+                "Pruning group 8",
+                "Hedges"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Leaves may be damaged by vine weevil and leaf mining moths",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and laurel leaf diseases",
+            "link_names": [
+                "Honey fungus",
+                "Laurel leaf diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "laurel_leaf_diseases": "https://www.rhs.org.uk/disease/laurel-leaf-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Prunus_laurocerasus__Rotundifolia_.html",
@@ -143,5 +189,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Prunus laurocerasus 'Rotundifolia'",
+    "display_name": "Cherry laurel 'rotundifolia'"
 }

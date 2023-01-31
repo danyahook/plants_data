@@ -95,20 +95,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in any moisture-retentive soil with good drainage in sun or part shade",
-        "propagation": "Propagate by seed, sown in containers in a cold frame in spring or by division in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Gravel garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Comb, rake out or cut back any dead leaves and flowers in spring",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to a rust"
-    }
+        "cultivation": {
+            "text": "Easy to grow in any moisture-retentive soil with good drainage in sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in containers in a cold frame in spring or by division in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Gravel garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Comb, rake out or cut back any dead leaves and flowers in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Carex oshimensis 'Everoro' (EverColor Series) (v)",
+    "display_name": "Japanese sedge 'everoro'"
 }

@@ -95,16 +95,54 @@
         "plant_range": "Europe, Asia, America"
     },
     "how_to_grow": {
-        "cultivation": "A moisture-loving perennial that will tolerate most soils, rich in organic matter, in sun or even a certain amount of shade. Divide every few years to avoid congestion",
-        "propagation": "Propagate by seed in pots in a cold frame in winter or propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back the old stems after flowering",
-        "pests": "Can suffer from leaf miners and sawflies",
-        "diseases": "Occasionally suffers from powdery mildews"
+        "cultivation": {
+            "text": "A moisture-loving perennial that will tolerate most soils, rich in organic matter, in sun or even a certain amount of shade. Divide every few years to avoid congestion",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in winter or propagate by division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back the old stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can suffer from leaf miners and sawflies",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Occasionally suffers from powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Geum_rivale.html",
@@ -201,5 +239,7 @@
             "Leaf miners",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Geum rivale",
+    "display_name": "Water avens"
 }

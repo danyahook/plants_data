@@ -83,14 +83,52 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "propagation": "Propagate from seed or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "May be susceptible to aphids, glasshouse red spider mite, leaf mining moths, thrips and whitefly",
-        "diseases": "Generally disease free"
-    }
+        "propagation": {
+            "text": "Propagate from seed or semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse red spider mite, leaf mining moths, thrips and whitefly",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Thrips"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Pericallis × hybrida Senetti Magenta Bicolor ('Sunsenereba'PBR) (Senetti Series)",
+    "display_name": "Cineraria [senetti magenta bicolor]"
 }

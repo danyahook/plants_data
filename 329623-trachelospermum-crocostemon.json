@@ -97,18 +97,64 @@
         "plant_range": "Japan, Korea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in full sun or partial shade with shelter from cold winds; for conservatory cultivation can be grown in a container in a loam-based potting compost (JI No.3) in full light with shade from hot sun",
-        "propagation": "Propagate by layering or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 in early spring",
-        "pests": "Susceptible to cushion scale; may be affected by mealybugs and glasshouse red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in full sun or partial shade with shelter from cold winds; for conservatory cultivation can be grown in a container in a loam-based potting compost (JI No.3) in full light with shade from hot sun",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering or semi-hardwood cuttings",
+            "link_names": [
+                "Layering",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 in early spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Susceptible to cushion scale; may be affected by mealybugs and glasshouse red spider mite",
+            "link_names": [
+                "Mealybugs",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Trachelospermum crocostemon",
+    "display_name": "Asiatic jasmine"
 }

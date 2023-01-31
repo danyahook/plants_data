@@ -89,15 +89,67 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun, tolerant of dry soil and coastal winds but may become chlorotic on shallow chalky soils. See shrub cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings or remove rooted suckers in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Wildlife gardens",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1; sucker removal if necessary, in autumn",
-        "pests": "Generally pest-free but may be susceptible to elaeagnus sucker",
-        "diseases": "May be susceptible to coral spot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun, tolerant of dry soil and coastal winds but may become chlorotic on shallow chalky soils. See shrub cultivation",
+            "link_names": [
+                "Shrub cultivation"
+            ],
+            "related_links": {
+                "shrub_cultivation": "https://www.rhs.org.uk/plants/types/shrubs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or remove rooted suckers in autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Wildlife gardens",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; sucker removal if necessary, in autumn",
+            "link_names": [
+                "Pruning group 1",
+                "Sucker removal"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "sucker_removal": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to elaeagnus sucker",
+            "link_names": [
+                "Elaeagnus sucker"
+            ],
+            "related_links": {
+                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot and honey fungus",
+            "link_names": [
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Elaeagnus commutata 'Zempin'",
+    "display_name": ""
 }

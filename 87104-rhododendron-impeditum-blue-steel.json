@@ -93,20 +93,84 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus rich, acidic soil, in full sun or part shade. Choose a site away from frost pockets. See rhododendron cultivation for more detailed advice",
-        "propagation": "Propagate by semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 8 (evergreens)",
-        "pests": "May be susceptible to vine weevil, whitefly, rhododendron leafhopper, lacebugs, scale insects, caterpillars and aphids",
-        "diseases": "May be susceptible to rhododendron diseases including rhododendron bud blast and rhododendron petal blight, as well as powdery mildews, honey fungus, rust, leafy gall, silver leaf and Phytophthora root and shoot rots"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus rich, acidic soil, in full sun or part shade. Choose a site away from frost pockets. See rhododendron cultivation for more detailed advice",
+            "link_names": [
+                "Rhododendron cultivation"
+            ],
+            "related_links": {
+                "rhododendron_cultivation": "https://www.rhs.org.uk/plants/rhododendron/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 (evergreens)",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, whitefly, rhododendron leafhopper, lacebugs, scale insects, caterpillars and aphids",
+            "link_names": [
+                "Vine weevil",
+                "Rhododendron leafhopper",
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "rhododendron_leafhopper": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rhododendron diseases including rhododendron bud blast and rhododendron petal blight, as well as powdery mildews, honey fungus, rust, leafy gall, silver leaf and Phytophthora root and shoot rots",
+            "link_names": [
+                "Rhododendron bud blast",
+                "Rhododendron petal blight",
+                "Powdery mildews",
+                "Honey fungus",
+                "Leafy gall",
+                "Silver leaf",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "rhododendron_bud_blast": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "rhododendron_petal_blight": "https://www.rhs.org.uk/disease/rhododendron-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Rhododendron impeditum 'Blue Steel'",
+    "display_name": "Rhododendron 'blue steel'"
 }

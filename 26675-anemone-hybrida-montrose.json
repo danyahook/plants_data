@@ -93,17 +93,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in any garden soil but avoid excessive winter wet, dislikes being moved around. Can spread rapidly once established.",
-        "propagation": "Propagate by division or root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be susceptible to caterpillars and slugs",
-        "diseases": "May be susceptible to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Will grow in any garden soil but avoid excessive winter wet, dislikes being moved around. Can spread rapidly once established.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars and slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Anemone × hybrida 'Montrose'",
+    "display_name": "Japanese anemone 'montrose'"
 }

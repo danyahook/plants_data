@@ -92,21 +92,59 @@
         "plant_range": "Guadalupe"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-based potting compost in full light. Sow seed at 23-27°C (73-81°F) in spring. In growth water moderately and apply a balanced liquid fertiliser monthly; water sparingly in winter. Pot on or topdress in spring. See: palm cultivation indoors. Outdoors, grow in well-drained soil in full sun; will tolerate poor dry soil. Tolerates average winter temperatures in southern, urban and coastal regions of UK once mature.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Sub-tropical",
-            "Patio and container plants",
-            "Coastal",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Edible fruit"
-        ],
-        "pruning": "No pruning required. Remove the lowest withered leaves (fronds) to improve appearances and leave a clear trunk.",
-        "pests": "May be susceptible to glasshouse red spider mite and scale insects.",
-        "diseases": "Generally disease-free."
+        "cultivation": {
+            "text": "Grow under glass in loam-based potting compost in full light. Sow seed at 23-27°C (73-81°F) in spring. In growth water moderately and apply a balanced liquid fertiliser monthly; water sparingly in winter. Pot on or topdress in spring. See: palm cultivation indoors. Outdoors, grow in well-drained soil in full sun; will tolerate poor dry soil. Tolerates average winter temperatures in southern, urban and coastal regions of UK once mature.",
+            "link_names": [
+                "Palm cultivation indoors"
+            ],
+            "related_links": {
+                "palm_cultivation_indoors": "https://www.rhs.org.uk/plants/types/trees/indoor-palms"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Sub-tropical",
+                "Patio and container plants",
+                "Coastal",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Remove the lowest withered leaves (fronds) to improve appearances and leave a clear trunk.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and scale insects.",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free.",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Brahea_edulis.html",
@@ -134,5 +172,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Brahea edulis",
+    "display_name": "Guadalupe palm"
 }

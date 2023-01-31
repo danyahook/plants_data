@@ -90,14 +90,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates.",
-        "propagation": "Propagate by grafting.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free, but may be affected by conifer aphid and adelgids.",
-        "diseases": "Generally disease-free, but may be affected by honey fungus."
-    }
+        "cultivation": {
+            "text": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting.",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids and aphids",
+            "link_names": [
+                "Adelgids",
+                "Aphids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, but may be affected by honey fungus.",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Abies koreana 'Blauer Eskimo'",
+    "display_name": "Korean fir 'blauer eskimo'"
 }

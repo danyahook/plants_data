@@ -88,18 +88,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun. In frost-prone areas, provide a deep, dry mulch in winter",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Architectural",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead in autumn to prevent winter rocking which can damage the plant",
-        "pests": "May be attacked by mealybugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun. In frost-prone areas, provide a deep, dry mulch in winter",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Architectural",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead in autumn to prevent winter rocking which can damage the plant",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to phormium mealybug",
+            "link_names": [
+                "Phormium mealybug"
+            ],
+            "related_links": {
+                "phormium_mealybug": "https://www.rhs.org.uk/biodiversity/phormium-mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phormium_tenax__Variegatum_.html",
@@ -132,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Phormium tenax 'Variegatum' (v)",
+    "display_name": "Variegated new zealand flax"
 }

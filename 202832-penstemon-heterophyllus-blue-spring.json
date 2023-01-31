@@ -87,19 +87,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile sharply-drained soil in full sun in a sheltered situation. May need a dry winter mulch in frost prone areas",
-        "propagation": "Take softwood cuttings in early summer or semi-ripe cuttings in midsummer or propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Prune any winter-damaged stems back hard to encourage fresh new growth from the base. After flowering, shorten flowered stems by half (unless seed is required) to encourage further flowering",
-        "pests": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
-        "diseases": "May be affected by grey mould, powdery mildew and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile sharply-drained soil in full sun in a sheltered situation. May need a dry winter mulch in frost prone areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Take softwood cuttings in early summer or semi-ripe cuttings in midsummer or propagate by division",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune any winter-damaged stems back hard to encourage fresh new growth from the base. After flowering, shorten flowered stems by half (unless seed is required) to encourage further flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey mould, powdery mildew and fungal leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Penstemon heterophyllus 'Blue Spring'",
+    "display_name": "Penstemon 'blue spring'"
 }

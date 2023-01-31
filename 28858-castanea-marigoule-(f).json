@@ -84,14 +84,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a fertile, well-drained soil in full sun",
-        "propagation": "Propagate by budding in summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally trouble free",
-        "diseases": "A canker caused by Phytophthora and a leaf spot can be a problem. Susceptible to Chestnut blight"
-    }
+        "cultivation": {
+            "text": "Grows best in a fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by budding in summer or grafting in winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora, leaf spot, chestnut blight and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Chestnut blight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "chestnut_blight": "https://www.rhs.org.uk/disease/chestnut-blight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Castanea 'Marigoule' (F)",
+    "display_name": "Sweet chestnut 'marigoule'"
 }

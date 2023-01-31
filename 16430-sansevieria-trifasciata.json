@@ -92,15 +92,51 @@
         "plant_range": "Nigeria"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in bright filtered light, avoiding full summer sun. Grow outdoors, in a sheltered, frost-free environment, in full sun. Pot on only when pot bound. Tolerant of neglect. Protect from winter wet",
-        "propagation": "Propagate by leaf cuttings, suckers or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by vine weevil",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in bright filtered light, avoiding full summer sun. Grow outdoors, in a sheltered, frost-free environment, in full sun. Pot on only when pot bound. Tolerant of neglect. Protect from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by leaf cuttings, suckers or division",
+            "link_names": [
+                "Leaf cuttings",
+                "Suckers",
+                "Division"
+            ],
+            "related_links": {
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sansevieria_trifasciata.html",
@@ -170,5 +206,7 @@
             "Leaf rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Sansevieria trifasciata",
+    "display_name": "Mother-in-law's tongue"
 }

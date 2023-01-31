@@ -78,14 +78,80 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained loamy to clay soil in full sun. Plums will tolerate a range of soils as long as they are well-drained and have a neutral to acid pH. Suitable for all training forms, including fan-trained. Keep a weed-free area of at least 60cm radius around trunk. Thin fruit if necessary. Irrigate in dry periods. Flowers early, so at risk from spring frosts",
-        "propagation": "Propagate by chip budding or grafting onto a rootstock for fruit. The rootstock used will largely determine the size of the tree",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Regular pruning required according to tree form: pruning plums or pruning established fans",
-        "pests": "Can be susceptible to aphids, caterpillars, fruit tree red spider mite, brown scale, plum moth and bullfinches",
-        "diseases": "May be affected by silver leaf, bacterial canker, blossom wilt and fruit by brown rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained loamy to clay soil in full sun. Plums will tolerate a range of soils as long as they are well-drained and have a neutral to acid pH. Suitable for all training forms, including fan-trained. Keep a weed-free area of at least 60cm radius around trunk. Thin fruit if necessary. Irrigate in dry periods. Flowers early, so at risk from spring frosts",
+            "link_names": [
+                "Fan-trained",
+                "Thin fruit"
+            ],
+            "related_links": {
+                "fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "thin_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/thinning"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting onto a rootstock for fruit. The rootstock used will largely determine the size of the tree",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular pruning required according to tree form: pruning plums or pruning established fans",
+            "link_names": [
+                "Pruning plums",
+                "Pruning established fans"
+            ],
+            "related_links": {
+                "pruning_plums": "https://www.rhs.org.uk/fruit/plums/pruning",
+                "pruning_established_fans": "https://www.rhs.org.uk/fruit/fruit-trees/pruning-established-fan-trained"
+            }
+        },
+        "pests": {
+            "text": "Can be susceptible to aphids, caterpillars, fruit tree red spider mite, brown scale, plum moth and bullfinches",
+            "link_names": [
+                "Aphids",
+                "Red spider mite",
+                "Brown scale",
+                "Plum moth"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "plum_moth": "https://www.rhs.org.uk/biodiversity/plum-moth"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus domestica 'Mallard' (D)",
+    "display_name": "Plum 'mallard'"
 }

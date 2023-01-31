@@ -91,20 +91,56 @@
         "plant_range": "China to temp E Asia"
     },
     "how_to_grow": {
-        "cultivation": "Ideal for naturalising in grass or a gravel garden in full sun and a well-drained soil. Plant bulbs two to three times their depth. Please see bulb cultivation page",
-        "propagation": "Propagate by seed, sown in pots in a cold frame when ripe, keep shaded and do not allow to dry out. Alternatively remove offsets in summer. See bulb propagation",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Ideal for naturalising in grass or a gravel garden in full sun and a well-drained soil. Plant bulbs two to three times their depth. Please see bulb cultivation page",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a cold frame when ripe, keep shaded and do not allow to dry out. Alternatively remove offsets in summer. See bulb propagation",
+            "link_names": [
+                "Propagate by seed",
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Scilla japonica",
+    "display_name": "Chinese squill"
 }

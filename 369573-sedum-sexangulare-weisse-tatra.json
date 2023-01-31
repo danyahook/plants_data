@@ -83,17 +83,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, neutral to slightly alkaline soil in full sun",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Ground cover"
-        ],
-        "pruning": "Trim back after flowering to maintain shape",
-        "pests": "May be susceptible to vine weevil larvae",
-        "diseases": "May be susceptible to fungal and bacterial crown and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, neutral to slightly alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering to maintain shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil larvae",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal and bacterial crown and root rots",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum sexangulare 'Weisse Tatra'",
+    "display_name": ""
 }

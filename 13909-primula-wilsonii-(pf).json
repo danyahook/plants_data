@@ -87,14 +87,64 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade, in deep, humus-rich, moist, neutral to acid loam soil, or peaty soil",
-        "propagation": "Propagate by seed sown in containers in an open frame, as soon as ripe or in late winter or early spring. Divide between autumn and early spring. Root basal cutting or offsets in autumn or early spring. Take root cuttings when dormant in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "Prone to aphids, glasshouse red spider mite, leaf hoppers, vine weevil, slugs",
-        "diseases": "May suffer from a virus, grey moulds or primula brown core"
-    }
+        "cultivation": {
+            "text": "Grow in partial shade, in deep, humus-rich, moist, neutral to acid loam soil, or peaty soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in an open frame, as soon as ripe or in late winter or early spring. Divide between autumn and early spring. Root basal cutting or offsets in autumn or early spring. Take root cuttings when dormant in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Divide",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to aphids, glasshouse red spider mite, leaf hoppers, vine weevil, slugs",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Vine weevil",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May suffer from a virus, grey moulds or primula brown core",
+            "link_names": [
+                "A virus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Primula wilsonii (Pf)",
+    "display_name": "Wilson's primrose"
 }

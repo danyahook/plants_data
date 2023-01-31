@@ -97,16 +97,54 @@
         "plant_range": "Temp N Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow in acidic, moist but well drained soil in partial shade, such as a woodland edge. May be susceptible to frost damage in colder climates. See blueberry cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings in mid-late summer or layer in mid-summer. Alternatively sow seed in containers in a cold frame in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Edible fruit"
-        ],
-        "pruning": "Pruning group 8. See blueberry pruning",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to root rot"
+        "cultivation": {
+            "text": "Grow in acidic, moist but well drained soil in partial shade, such as a woodland edge. May be susceptible to frost damage in colder climates. See blueberry cultivation",
+            "link_names": [
+                "Blueberry cultivation"
+            ],
+            "related_links": {
+                "blueberry_cultivation": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in mid-late summer or layer in mid-summer. Alternatively sow seed in containers in a cold frame in autumn",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8. See blueberry pruning",
+            "link_names": [
+                "Pruning group 8",
+                "Blueberry pruning"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "blueberry_pruning": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Vaccinium_vitis-idaea.html",
@@ -157,5 +195,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Vaccinium vitis-idaea",
+    "display_name": "Cowberry"
 }

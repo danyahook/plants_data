@@ -97,14 +97,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of a range of soils from dry to wet in sun or shade. Can be prone to extensive spreading, especially in wet soils, by underground stems; ideal for containers where its spread can be restricted",
-        "propagation": "Propagate by seed or division in spring or take semi-ripe cuttings of young basal shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Ground cover"
-        ],
-        "pruning": "Divide regularly to limit spread",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Tolerant of a range of soils from dry to wet in sun or shade. Can be prone to extensive spreading, especially in wet soils, by underground stems; ideal for containers where its spread can be restricted",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring or take semi-ripe cuttings of young basal shoots",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Divide regularly to limit spread",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Houttuynia cordata 'Boo-Boo' (v)",
+    "display_name": ""
 }

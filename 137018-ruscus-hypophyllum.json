@@ -92,19 +92,49 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in almost any garden situation, except waterlogged ground, including dry shade. Requires a sheltered position to survive outside in winter or provide protection",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover",
-            "Wall side borders"
-        ],
-        "pruning": "Cut out dead stems to the base in spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Will grow in almost any garden situation, except waterlogged ground, including dry shade. Requires a sheltered position to survive outside in winter or provide protection",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out dead stems to the base in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ruscus_hypophyllum.html",
@@ -165,5 +195,7 @@
             "Yellow spot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Ruscus hypophyllum",
+    "display_name": "Thick-leaved butcher's broom"
 }

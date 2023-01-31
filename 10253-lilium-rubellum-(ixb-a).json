@@ -80,16 +80,70 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter",
-        "propagation": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Deadhead after flowering and allow foliage to die down naturally",
-        "pests": "May be affected by lily beetle, aphids and slugs; plants in pots can get vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering and allow foliage to die down naturally",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lily beetle, aphids and slugs; plants in pots can get vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds and a virus. See lily diseases for further information",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium rubellum (IXb/a)",
+    "display_name": "Maiden lily"
 }

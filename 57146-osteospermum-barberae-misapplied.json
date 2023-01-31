@@ -93,15 +93,55 @@
         "plant_range": "Southern Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter cuttings under glass",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to remove winter damage and maintain appearance in spring.",
-        "pests": "May be attacked by aphids",
-        "diseases": "May be subject to verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter cuttings under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to remove winter damage and maintain appearance in spring.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to verticillium wilt",
+            "link_names": [
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Osteospermum barberae misapplied",
+    "display_name": "Delightful african daisy"
 }

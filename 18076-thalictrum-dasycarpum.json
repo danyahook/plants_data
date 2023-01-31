@@ -87,18 +87,60 @@
         "plant_range": "N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich soil in partial shade; may need staking in fertile conditions. See staking perennials for further advice.",
-        "propagation": "Propagate by seed in pots in a cold frame as soon as seed is ripe or in early spring. Propagate by division in spring as new growth begins",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down stems once flowering is over",
-        "pests": "Slugs may be a problem",
-        "diseases": "Susceptible to powdery mildews in dry conditions"
+        "cultivation": {
+            "text": "Grow in moist, humus-rich soil in partial shade; may need staking in fertile conditions. See staking perennials for further advice.",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame as soon as seed is ripe or in early spring. Propagate by division in spring as new growth begins",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down stems once flowering is over",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs may be a problem",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to powdery mildews in dry conditions",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Thalictrum_dasycarpum.html",
@@ -153,5 +195,7 @@
             "Yellow spot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Thalictrum dasycarpum",
+    "display_name": "Purple meadow rue"
 }

@@ -92,17 +92,55 @@
         "plant_range": "S Europe (mts)"
     },
     "how_to_grow": {
-        "cultivation": "Grow on soils rich in organic matter that retain moisture. Sun or part-shade.",
-        "propagation": "Readily spreads via rhizomes and by self-seeding. Alternatively, collect seed to sow in autumn or spring in a cold-frame or sheltered place outdoors. Mature plants can be divided after flowering.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to flea beetles and aphids.",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow on soils rich in organic matter that retain moisture. Sun or part-shade.",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Readily spreads via rhizomes and by self-seeding. Alternatively, collect seed to sow in autumn or spring in a cold-frame or sheltered place outdoors. Mature plants can be divided after flowering.",
+            "link_names": [
+                "Outdoors"
+            ],
+            "related_links": {
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to flea beetles and aphids.",
+            "link_names": [
+                "Flea beetles",
+                "Aphids"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cardamine_raphanifolia.html",
@@ -143,5 +181,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cardamine raphanifolia",
+    "display_name": "Greater cuckoo flower"
 }

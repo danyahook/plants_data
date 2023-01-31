@@ -94,14 +94,54 @@
         "plant_range": "E North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in full light with shelter from hot sun in a humid atmosphere. Use an acidic potting medium mixed with moss and keep moist. See carnivorous plant cultivation for further information",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "None required",
-        "pests": "Aphids and mealybugs may be a problem",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow under glass in full light with shelter from hot sun in a humid atmosphere. Use an acidic potting medium mixed with moss and keep moist. See carnivorous plant cultivation for further information",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids and mealybugs may be a problem",
+            "link_names": [
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dionaea_muscipula.html",
@@ -163,5 +203,7 @@
             "Leaf rot",
             "Soil mold"
         ]
-    }
+    },
+    "main_name_original": "Dionaea muscipula",
+    "display_name": "Venus flytrap"
 }

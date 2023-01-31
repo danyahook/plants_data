@@ -96,17 +96,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based potting compost (JI No3) in bright indirect light. Water freely in growth, apply a liquid fertiliser monthly and keep just moist in winter. Outdoors grow in moist but well-drained soil in sun or part shade with shelter from cold winds",
-        "propagation": "Propagate by softwood cuttings or layering at any time. Root semi-ripe or hardwood cuttings from summer to winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 11 at any time",
-        "pests": "May be damaged by scale insects and glasshouse red spider mite",
-        "diseases": "May be affected by fungal leaf spot; frost damage may be a problem in severe winters but will usually recover in spring"
-    }
+        "cultivation": {
+            "text": "Under glass grow in loam-based potting compost (JI No3) in bright indirect light. Water freely in growth, apply a liquid fertiliser monthly and keep just moist in winter. Outdoors grow in moist but well-drained soil in sun or part shade with shelter from cold winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or layering at any time. Root semi-ripe or hardwood cuttings from summer to winter",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 at any time",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, scale insects, vine weevil and aphids",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a leaf spot",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hedera helix 'Cristata Melanie'",
+    "display_name": "Ivy 'melanie'"
 }

@@ -101,15 +101,49 @@
         "plant_range": "N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, reliably moist soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown in gentle heat as soon as ripe, or by bud cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be damaged by slugs and snails",
-        "diseases": "A leaf spot may be a problem"
+        "cultivation": {
+            "text": "Grow in deep, fertile, reliably moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in gentle heat as soon as ripe, or by bud cuttings in late summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "A leaf spot may be a problem",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lobelia_cardinalis.html",
@@ -314,5 +348,7 @@
             "Wilting after blooming",
             "Leaf miners"
         ]
-    }
+    },
+    "main_name_original": "Lobelia cardinalis",
+    "display_name": "Cardinal flower"
 }

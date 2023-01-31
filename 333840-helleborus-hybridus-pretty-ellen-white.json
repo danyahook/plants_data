@@ -87,19 +87,67 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in neutral to alkaline soils that are moist, fertile and humus-rich. Partial shade is ideal but can tolerate full sun. Provide shelter from strong, cold winds. Mulch annually in autumn. See hellebore cultivation",
-        "propagation": "Propagate by division of large clumps, after flowering in early spring, or in early autumn. Propagate by seed in containers in a cold frame as soon as ripe; plants produced from seed may be variable.",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove faded or damaged foliage as the flowers appear",
-        "pests": "Hellebore aphid and snails may be a problem",
-        "diseases": "May be subject to hellebore leaf spot and hellebore black death"
+        "cultivation": {
+            "text": "Thrives in neutral to alkaline soils that are moist, fertile and humus-rich. Partial shade is ideal but can tolerate full sun. Provide shelter from strong, cold winds. Mulch annually in autumn. See hellebore cultivation",
+            "link_names": [
+                "Mulch",
+                "Hellebore cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hellebore_cultivation": "https://www.rhs.org.uk/plants/hellebore/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of large clumps, after flowering in early spring, or in early autumn. Propagate by seed in containers in a cold frame as soon as ripe; plants produced from seed may be variable.",
+            "link_names": [
+                "Division",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded or damaged foliage as the flowers appear",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Hellebore aphid and snails may be a problem",
+            "link_names": [
+                "Hellebore aphid",
+                "Snails"
+            ],
+            "related_links": {
+                "hellebore_aphid": "https://www.rhs.org.uk/biodiversity/hellebore-aphid",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to hellebore leaf spot and hellebore black death",
+            "link_names": [
+                "Hellebore leaf spot",
+                "Hellebore black death"
+            ],
+            "related_links": {
+                "hellebore_leaf_spot": "https://www.rhs.org.uk/disease/hellebore-leaf-spot",
+                "hellebore_black_death": "https://www.rhs.org.uk/disease/hellebore-black-death"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Helleborus_×_hybridus__Pretty_Ellen_White_.html",
@@ -134,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Helleborus × hybridus 'Pretty Ellen White'",
+    "display_name": "Hellebore 'pretty ellen white'"
 }

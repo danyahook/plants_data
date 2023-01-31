@@ -94,20 +94,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position, but usually overwinters if given full sun and good drainage. Drought resistant and attractive to pollinating insects",
-        "propagation": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-hardwood cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9 in spring, deadhead to prolong flowering",
-        "pests": "May get slugs, snails and leafhoppers",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position, but usually overwinters if given full sun and good drainage. Drought resistant and attractive to pollinating insects",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-hardwood cuttings in late summer or autumn with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring, deadhead to prolong flowering",
+            "link_names": [
+                "Pruning group 9",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May get slugs, snails and leafhoppers",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia microphylla 'Raspberry Royale'",
+    "display_name": "Sage 'raspberry royale'"
 }

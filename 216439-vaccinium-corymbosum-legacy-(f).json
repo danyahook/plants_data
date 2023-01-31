@@ -84,18 +84,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant a sheltered site in well-drained, moisture-retentive, acidic soil, (pH 4.5-5.5) in sun or part shade. Alternatively grow in containers or raised beds filled with ericaceous compost. Pot-grown plants benefit from winter protection. For optimal pollination and yield plant three different cultivars. For further cultivation details see blueberry cultivation",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Edible fruit"
-        ],
-        "pruning": "More mature plants benefit from regular pruning, see Pruning blueberries",
-        "pests": "May be susceptible to vine weevil, especially in containers",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Plant a sheltered site in well-drained, moisture-retentive, acidic soil, (pH 4.5-5.5) in sun or part shade. Alternatively grow in containers or raised beds filled with ericaceous compost. Pot-grown plants benefit from winter protection. For optimal pollination and yield plant three different cultivars. For further cultivation details see blueberry cultivation",
+            "link_names": [
+                "Containers",
+                "Raised beds",
+                "Winter protection",
+                "Blueberry cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds",
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "blueberry_cultivation": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in early summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "More mature plants benefit from regular pruning, see Pruning blueberries",
+            "link_names": [
+                "Pruning blueberries"
+            ],
+            "related_links": {
+                "pruning_blueberries": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, especially in containers",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Vaccinium corymbosum 'Legacy' (F)",
+    "display_name": "Blueberry 'legacy'"
 }

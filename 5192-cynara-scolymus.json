@@ -98,21 +98,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun; shelter from strong winds. In very cold winters apply a dry mulch",
-        "propagation": "Propagate by seed sown in a seedbed, or by separating rooted offsets, in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Cut flowers",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down in autumn when cropping is over",
-        "pests": "Can be damaged by snails, slugs and blackfly (black aphid)",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun; shelter from strong winds. In very cold winters apply a dry mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a seedbed, or by separating rooted offsets, in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Cut flowers",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down in autumn when cropping is over",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can be damaged by snails, slugs and blackfly (black aphid)",
+            "link_names": [
+                "Snails",
+                "Slugs",
+                "Blackfly (black aphid)"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cynara_scolymus.html",
@@ -168,5 +208,7 @@
             "Sap-sucking insects",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Cynara scolymus",
+    "display_name": "Globe artichoke"
 }

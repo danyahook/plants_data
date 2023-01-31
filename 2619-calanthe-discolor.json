@@ -87,15 +87,47 @@
         "plant_range": "Japan, Korea, China"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in terrestrial orchid compost in bright, filtered light with high humidity. Outdoors grow in coarse, well-drained, humus-rich soil in a sheltered site in partial shade",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Under glass prone to mealybugs, orchid scale insect, glasshouse red spider mite and aphids; outdoors protect from slugs and snails",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Under glass grow in terrestrial orchid compost in bright, filtered light with high humidity. Outdoors grow in coarse, well-drained, humus-rich soil in a sheltered site in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Under glass prone to mealybugs, orchid scale insect, glasshouse red spider mite and aphids; outdoors protect from slugs and snails",
+            "link_names": [
+                "Mealybugs",
+                "Orchid scale insect",
+                "Glasshouse red spider mite",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "orchid_scale_insect": "https://www.rhs.org.uk/biodiversity/orchid-and-other-diaspid-scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Calanthe_discolor.html",
@@ -138,5 +170,7 @@
             "Scars",
             "Assassin bugs"
         ]
-    }
+    },
+    "main_name_original": "Calanthe discolor",
+    "display_name": "Two-coloured calanthe"
 }

@@ -96,15 +96,49 @@
         "plant_range": "E Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich soil in light dappled shade",
-        "propagation": "Propagate by seed sown in pots in a cold frame as soon as ripe or in spring. Propagate by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowering shoots to ground level in late summer or autumn",
-        "pests": "Generally pest-free",
-        "diseases": "May be subject to grey moulds"
+        "cultivation": {
+            "text": "Grow in moist, humus-rich soil in light dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame as soon as ripe or in spring. Propagate by division in early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowering shoots to ground level in late summer or autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Euphorbia_sikkimensis.html",
@@ -148,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Euphorbia sikkimensis",
+    "display_name": "Sikkim spurge"
 }

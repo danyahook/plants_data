@@ -97,15 +97,49 @@
         "plant_range": "Argentina, Bolivia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, well-drained soil in full sun. Frost tender",
-        "propagation": "Propagate from seed or by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Sub-tropical",
-            "Low Maintenance"
-        ],
-        "pruning": "Light pruning see pruning group 1",
-        "pests": "Trouble free",
-        "diseases": "Trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, well-drained soil in full sun. Frost tender",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed or by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Sub-tropical",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Light pruning see pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Jacaranda ovalifolium",
+    "display_name": "Green ebony tree"
 }

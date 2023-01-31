@@ -91,16 +91,50 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or in a frost-free enviroment. Pot on only when pot bound. Tolerant of neglect. Protect from winter wet",
-        "propagation": "Propagate by suckers or division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by vine weevil",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass or in a frost-free enviroment. Pot on only when pot bound. Tolerant of neglect. Protect from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by suckers or division",
+            "link_names": [
+                "Suckers",
+                "Division"
+            ],
+            "related_links": {
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sansevieria_trifasciata__Golden_Hahnii_.html",
@@ -132,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Sansevieria trifasciata 'Golden Hahnii' (v)",
+    "display_name": "Mother-in-law's tongue 'golden hahnii'"
 }

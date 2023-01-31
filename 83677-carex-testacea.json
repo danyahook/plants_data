@@ -89,22 +89,56 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most well-drained fertile soils. Will not tolerate excessive winter wet and avoid extremes of wet and dry",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring or by division in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "In summer cut out any dead leaves",
-        "pests": "Susceptible to damage from aphids",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Easy to grow in most well-drained fertile soils. Will not tolerate excessive winter wet and avoid extremes of wet and dry",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring or by division in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "In summer cut out any dead leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to damage from aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carex_testacea.html",
@@ -146,5 +180,7 @@
             "Leaf tips withering",
             "Leaf rot"
         ]
-    }
+    },
+    "main_name_original": "Carex testacea",
+    "display_name": "Orange new zealand sedge"
 }

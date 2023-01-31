@@ -86,21 +86,77 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed, sown in containers in a cold frame as soon as ripe or in spring, or by division in spring or autumn, or by stem-tip softwood cuttings in spring or late summer; it will also self-seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by slugs, snails, aphids, glasshouse red spider mite, and violet gall midge",
-        "diseases": "May be affected by pansy leaf spot, pansy downy mildew, mosaic virus diseases, rust diseases, and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in containers in a cold frame as soon as ripe or in spring, or by division in spring or autumn, or by stem-tip softwood cuttings in spring or late summer; it will also self-seed",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by slugs, snails, aphids, glasshouse red spider mite, and violet gall midge",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by pansy leaf spot, pansy downy mildew, mosaic virus diseases, rust diseases, and powdery mildews",
+            "link_names": [
+                "Pansy leaf spot",
+                "Pansy downy mildew",
+                "Virus diseases",
+                "Rust diseases",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "pansy_leaf_spot": "https://www.rhs.org.uk/disease/pansy-leaf-spots",
+                "pansy_downy_mildew": "https://www.rhs.org.uk/disease/pansy-downy-mildew",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Viola corsica",
+    "display_name": "Corsican violet"
 }

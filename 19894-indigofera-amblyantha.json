@@ -89,19 +89,63 @@
         "plant_range": "W China"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most moist but well-drained moderately fertile soil in full sun",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn or root softwood cuttings in late spring, semi-hardwood in early to mid-summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 or pruning group 13 if wall-trained. Pruning group 6 or pruning group 7 in areas with hard winters",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most moist but well-drained moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn or root softwood cuttings in late spring, semi-hardwood in early to mid-summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 13 if wall-trained. Pruning group 6 or pruning group 7 in areas with hard winters",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13",
+                "Pruning group 6",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide",
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Indigofera amblyantha",
+    "display_name": "Pink-flowered indigo"
 }

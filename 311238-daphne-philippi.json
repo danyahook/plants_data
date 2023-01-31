@@ -100,17 +100,77 @@
         "plant_range": "Pyrenees"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained but not dry soil in sun or part shade. Mulch to keep roots cool. Tolerant of deep shade. Will not tolerate root disturbance and so resents transplanting. Further daphne cultivation advice",
-        "propagation": "Propagate by seed in containers in a cold frame as soon as ripe. Take greenwood cuttings from late spring to early summer and semi-ripe cuttings in summer. Layering from late spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or Pruning group 8 if necessary. Pruning is best kept to a minimum",
-        "pests": "Aphids may be troublesome",
-        "diseases": "Vulnerable to grey moulds (Botrytis) and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained but not dry soil in sun or part shade. Mulch to keep roots cool. Tolerant of deep shade. Will not tolerate root disturbance and so resents transplanting. Further daphne cultivation advice",
+            "link_names": [
+                "Mulch",
+                "Daphne cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "daphne_cultivation": "https://www.rhs.org.uk/plants/daphne/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame as soon as ripe. Take greenwood cuttings from late spring to early summer and semi-ripe cuttings in summer. Layering from late spring to early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Greenwood",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or Pruning group 8 if necessary. Pruning is best kept to a minimum",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Daphne philippi",
+    "display_name": "Dwarf spurge laurel"
 }

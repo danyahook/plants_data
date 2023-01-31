@@ -104,18 +104,56 @@
         "plant_range": "Europe to W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for growing in a sunny situation in the in the wild garden or rock garden. Good for cutting and drying",
-        "propagation": "Propagate by seed or by division in the spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Prairie planting",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Cottage and informal garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get aphids",
-        "diseases": "May suffer from powdery mildews"
+        "cultivation": {
+            "text": "Suitable for growing in a sunny situation in the in the wild garden or rock garden. Good for cutting and drying",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in the spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Prairie planting",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May suffer from powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Achillea_millefolium.html",
@@ -180,5 +218,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Achillea millefolium",
+    "display_name": "Common yarrow"
 }

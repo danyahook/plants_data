@@ -84,14 +84,58 @@
         "plant_range": "SW China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a shallow container filled with orchid compost, indoors in a cool place. Only water when new growth appears",
-        "propagation": "Propagate by division of pseudobulbs",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Aphids, glasshouse red spider mite, slugs and mealybugs may be a problem",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a shallow container filled with orchid compost, indoors in a cool place. Only water when new growth appears",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of pseudobulbs",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids, glasshouse red spider mite, slugs and mealybugs may be a problem",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Slugs",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Pleione bulbocodioides var. limprichtii",
+    "display_name": "Hardy chinese orchid"
 }

@@ -91,17 +91,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile, humus-rich alkaline to neutral soil in full sun",
-        "propagation": "Propagate by softwood cuttings or layering in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to lilac leaf-mining moth, willow scale and thrips",
-        "diseases": "May be susceptible to lilac blight, honey fungus, phytophthora, powdery mildews and bacterial canker (Pseudomonas Syringae)"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, fertile, humus-rich alkaline to neutral soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or layering in early summer",
+            "link_names": [
+                "Softwood",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lilac leaf-mining moth, willow scale and thrips",
+            "link_names": [
+                "Lilac leaf-mining moth",
+                "Thrips"
+            ],
+            "related_links": {
+                "lilac_leaf-mining_moth": "https://www.rhs.org.uk/biodiversity/lilac-leaf-mining-moth",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus, phytophthora, powdery mildews and bacterial canker (Pseudomonas Syringae)",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Powdery mildews",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Syringa 'Pink Pixie'",
+    "display_name": "Lilac 'red pixie'"
 }

@@ -85,15 +85,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Usually fan-trained. Mulch with well rotted compost or manure",
-        "propagation": "Propagate by tip layering or from cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Hedging and screens",
-            "Banks and slopes"
-        ],
-        "pruning": "Cut out old canes following fruiting and tie in new canes",
-        "pests": "Generally pest-free",
-        "diseases": "May be affected by some cane diseases"
-    }
+        "cultivation": {
+            "text": "Usually fan-trained. Mulch with well rotted compost or manure",
+            "link_names": [
+                "Fan-trained",
+                "Mulch"
+            ],
+            "related_links": {
+                "fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by tip layering or from cuttings",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Hedging and screens",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out old canes following fruiting and tie in new canes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by some cane diseases",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus × loganobaccus 'Ly 59' (F)",
+    "display_name": "Loganberry 'ly 59'"
 }

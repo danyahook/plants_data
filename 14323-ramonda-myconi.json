@@ -96,15 +96,51 @@
         "plant_range": "Pyrenees to NE Spain"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, moist but well-drained soil in partial shade. Plants grow best on their sides to avoid accumulations of moisture in the rosettes, which may cause rotting in winter",
-        "propagation": "Propagate by seed or root leaf cuttings in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, moist but well-drained soil in partial shade. Plants grow best on their sides to avoid accumulations of moisture in the rosettes, which may cause rotting in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or root leaf cuttings in early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ramonda_myconi.html",
@@ -154,5 +190,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ramonda myconi",
+    "display_name": "Pyrenean violet"
 }

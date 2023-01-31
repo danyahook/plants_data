@@ -102,18 +102,50 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will tolerate any soil so long as there is some moisture, best in partial shade to prevent foliage scorching, but can also tolerate shade",
-        "propagation": "Propagate by division, separating rooted stems",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "May suffer from powdery mildews"
+        "cultivation": {
+            "text": "Will tolerate any soil so long as there is some moisture, best in partial shade to prevent foliage scorching, but can also tolerate shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, separating rooted stems",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May suffer from powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ajuga_reptans__Burgundy_Glow_.html",
@@ -146,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ajuga reptans 'Burgundy Glow' (v)",
+    "display_name": "Bugle 'burgundy glow'"
 }

@@ -95,18 +95,56 @@
         "plant_range": "W China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun",
-        "propagation": "Propagate by rooting softwood cuttings in spring or propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Wall side borders",
-            "Banks and slopes"
-        ],
-        "pruning": "Cut back to ground level any shoots that get frost damaged",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by rooting softwood cuttings in spring or propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Wall side borders",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to ground level any shoots that get frost damaged",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Plumbago larpentiae",
+    "display_name": "Hardy blue-flowered leadwort"
 }

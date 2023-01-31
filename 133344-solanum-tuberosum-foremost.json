@@ -80,15 +80,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in a sheltered spot, in moist but well-drained fertil soil where potatoes haven't been grown for two years.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, capsid bug, potato cyst eelworm, rosy rustic moth, wireworms",
-        "diseases": "May be susceptible to potato blight, dry rot, potato mosaic virus, potato scab"
-    }
+        "cultivation": {
+            "text": "Will grow well in a sheltered spot, in moist but well-drained fertil soil where potatoes haven't been grown for two years.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug, potato cyst eelworm, rosy rustic moth, wireworms",
+            "link_names": [
+                "Aphids",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to potato blight, dry rot, potato mosaic virus, potato scab",
+            "link_names": [
+                "Potato blight",
+                "Potato scab"
+            ],
+            "related_links": {
+                "potato_blight": "https://www.rhs.org.uk/disease/potato-and-tomato-blight",
+                "potato_scab": "https://www.rhs.org.uk/disease/potato-scabs"
+            }
+        }
+    },
+    "main_name_original": "Solanum tuberosum 'Foremost'",
+    "display_name": "Potato 'foremost'"
 }

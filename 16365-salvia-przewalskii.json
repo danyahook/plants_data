@@ -82,19 +82,79 @@
         "plant_range": "Tibet to C China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an open sunny situation in well-drained soil; mulch to help tubers overwinter or lift and store as for dahlia cultivation",
-        "propagation": "Propagate by seed in containers in a cold frame in spring. Propagate by softwood cuttings in spring or early summer and by semi-ripe cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead flowers after they have faded",
-        "pests": "May be prone to slugs and snails, capsid bug, rosemary beetle and leafhoppers",
-        "diseases": "May be affected by powdery mildews and foot and root rots"
+        "cultivation": {
+            "text": "Grow in an open sunny situation in well-drained soil; mulch to help tubers overwinter or lift and store as for dahlia cultivation",
+            "link_names": [
+                "Mulch",
+                "Dahlia cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "dahlia_cultivation": "https://www.rhs.org.uk/plants/dahlia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring. Propagate by softwood cuttings in spring or early summer and by semi-ripe cuttings in late summer or autumn with bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead flowers after they have faded",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be prone to slugs and snails, capsid bug, rosemary beetle and leafhoppers",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Capsid bug",
+                "Rosemary beetle"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salvia_przewalskii.html",
@@ -148,5 +208,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Salvia przewalskii",
+    "display_name": "Red sage"
 }

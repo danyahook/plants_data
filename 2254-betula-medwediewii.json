@@ -107,16 +107,66 @@
         "plant_range": "Black Sea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade but tolerant of a range of soil conditions",
-        "propagation": "Propagate by seed sown in a seed bed in autumn or take softwood cuttings in summer or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1; birches bleed heavily, prune only when fully dormant from late summer to before mid-winter",
-        "pests": "May be affected by aphids, leaf miners and a sawfly",
-        "diseases": "Powdery mildews, a rust and honey fungus may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade but tolerant of a range of soil conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a seed bed in autumn or take softwood cuttings in summer or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; birches bleed heavily, prune only when fully dormant from late summer to before mid-winter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Tree rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Betula medwediewii",
+    "display_name": "Transcaucasian birch"
 }

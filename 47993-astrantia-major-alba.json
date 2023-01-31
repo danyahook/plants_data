@@ -88,18 +88,58 @@
         "name_status": "Not established"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in moist fertile humus-rich soil. Sun will improve the foliage colour.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering for fresh new foliage and second flowering. Deadhead before seed ripens to prevent self-seeding",
-        "pests": "This plant is resistant to slugs and snails",
-        "diseases": "May be susceptible to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Thrives in moist fertile humus-rich soil. Sun will improve the foliage colour.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering for fresh new foliage and second flowering. Deadhead before seed ripens to prevent self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "This plant is resistant to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Astrantia major alba",
+    "display_name": "Masterwort 'alba'"
 }

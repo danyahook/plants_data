@@ -86,20 +86,70 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained neutral to alkaline soils in full sun",
-        "propagation": "Propagate by seed in early spring or propagate by softwood cuttings from non-flowering shoots in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Bedding",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead after flowers fade to prolong flowering",
-        "pests": "May be susceptible to aphids, slugs and caterpillars",
-        "diseases": "May be susceptible to a rust, virus diseases and Fusarium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained neutral to alkaline soils in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring or propagate by softwood cuttings from non-flowering shoots in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Bedding",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowers fade to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, virus diseases and Fusarium wilt",
+            "link_names": [
+                "A rust",
+                "Virus diseases",
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
+    },
+    "main_name_original": "Dianthus 'Ideal Select Whitefire' (Ideal Select Series)",
+    "display_name": "Sweet william 'ideal select whitefire'"
 }

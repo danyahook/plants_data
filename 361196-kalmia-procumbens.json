@@ -90,17 +90,51 @@
         "plant_range": "Europe, NE America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moisture-retentive, humus-rich, acid soil in part shade, or in sun if soil remains reliably moist. Mulch anually with leaf mould or composted pine needles",
-        "propagation": "Propagate by semi-ripe cuttings in midsummer or by layering in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moisture-retentive, humus-rich, acid soil in part shade, or in sun if soil remains reliably moist. Mulch anually with leaf mould or composted pine needles",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in midsummer or by layering in late summer",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Kalmia_procumbens.html",
@@ -153,5 +187,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Kalmia procumbens",
+    "display_name": "Alpine azalea"
 }

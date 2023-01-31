@@ -78,16 +78,58 @@
         "plant_range": "USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, moist but well-drained, humus-rich, preferably acid to neutral soil in deep or partial shade. Mulch with leaf mould",
-        "propagation": "Propagate by seed in pots in a shady cold frame as soon as it is ripe. May take two seasons to geminate and several years to reach flowering size. Propagate by division after flowering or by removing small segments of rhizomes, potting up and nurturing",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in deep, moist but well-drained, humus-rich, preferably acid to neutral soil in deep or partial shade. Mulch with leaf mould. See trillium cultivation",
+            "link_names": [
+                "Mulch",
+                "Trillium cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "trillium_cultivation": "https://www.rhs.org.uk/plants/trillium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a shady cold frame as soon as it is ripe. May take two seasons to geminate and several years to reach flowering size. Propagate by division after flowering or by removing small segments of rhizomes, potting up and nurturing",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Trillium_albidum.html",
@@ -125,5 +167,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Trillium albidum",
+    "display_name": "Giant white wake robin"
 }

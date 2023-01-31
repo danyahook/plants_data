@@ -90,16 +90,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs well-drained soil and will not tolerate winter wet. In cold areas grow in containers and protect over winter. See snowdrop cultivation",
-        "propagation": "Propagate by division when foliage dies back",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get narcissus bulb fly and slugs",
-        "diseases": "May be affected by snowdrop grey mould"
-    }
+        "cultivation": {
+            "text": "Needs well-drained soil and will not tolerate winter wet. In cold areas grow in containers and protect over winter. See snowdrop cultivation",
+            "link_names": [
+                "Containers",
+                "Snowdrop cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "snowdrop_cultivation": "https://www.rhs.org.uk/plants/snowdrops/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division when foliage dies back",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get narcissus bulb fly and slugs",
+            "link_names": [
+                "Narcissus bulb fly",
+                "Slugs"
+            ],
+            "related_links": {
+                "narcissus_bulb_fly": "https://www.rhs.org.uk/biodiversity/narcissus-bulb-fly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by snowdrop grey mould",
+            "link_names": [
+                "Snowdrop grey mould"
+            ],
+            "related_links": {
+                "snowdrop_grey_mould": "https://www.rhs.org.uk/disease/snowdrop-grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Galanthus 'Rachelae'",
+    "display_name": "Snowdrop 'rachelae'"
 }

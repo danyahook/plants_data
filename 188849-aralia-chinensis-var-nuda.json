@@ -95,14 +95,58 @@
         "plant_range": "E Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in partial shade. Shelter from strong winds that may damage the leaves",
-        "propagation": "Propagate by seed when ripe or root cuttings and suckers. Variegated cultivars must be grafted",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Flower stems susceptible to damage by aphids;foliage to thrips and glasshouse red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in partial shade. Shelter from strong winds that may damage the leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed when ripe or root cuttings and suckers. Variegated cultivars must be grafted",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Flower stems susceptible to damage by aphids;foliage to thrips and glasshouse red spider mite",
+            "link_names": [
+                "Thrips",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aralia chinensis var. nuda",
+    "display_name": "Angelica tree"
 }

@@ -85,18 +85,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile moist but well-drained soil or wet soil in full sun or part shade. Tolerant of dry soils, suitable for ground cover. See ornamental grasses cultivation and bog gardening",
-        "propagation": "Propagate by division in mid spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Cut out any dead leaves on evergreen species in summer",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile moist but well-drained soil or wet soil in full sun or part shade. Tolerant of dry soils, suitable for ground cover. See ornamental grasses cultivation and bog gardening",
+            "link_names": [
+                "Ornamental grasses cultivation",
+                "Bog gardening"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental",
+                "bog_gardening": "https://www.rhs.org.uk/garden-design/bog-gardens"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in mid spring to early summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out any dead leaves on evergreen species in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Carex muskingumensis 'Little Midge'",
+    "display_name": "Sedge 'little midge'"
 }

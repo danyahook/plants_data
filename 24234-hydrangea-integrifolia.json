@@ -90,16 +90,62 @@
         "plant_range": "Taiwan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in partial shade or sun if the soil remains reliably moist and the roots are shaded. May take 5-7 years to flower and flowering will be reduced in heavy shade. See climbing hydrangea cultivation for more advice",
-        "propagation": "Propagate by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Minimal pruning requred",
-        "pests": "May be susceptible to aphids, capsid bug and hydrangea scale",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in partial shade or sun if the soil remains reliably moist and the roots are shaded. May take 5-7 years to flower and flowering will be reduced in heavy shade. See climbing hydrangea cultivation for more advice",
+            "link_names": [
+                "Climbing hydrangea cultivation"
+            ],
+            "related_links": {
+                "climbing_hydrangea_cultivation": "https://www.rhs.org.uk/plants/hydrangea/climbing/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning requred",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug and hydrangea scale",
+            "link_names": [
+                "Aphids",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrangea_integrifolia.html",
@@ -147,5 +193,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hydrangea integrifolia",
+    "display_name": "Entire-leaved hydrangea"
 }

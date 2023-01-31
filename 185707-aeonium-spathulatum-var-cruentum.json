@@ -99,15 +99,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, not at all when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season; for more advice see houseplant cacti and succulent cultivation",
-        "propagation": "Propagate by seed or take rosette stem-tip softwood cuttings in early summer; wait until calluses have formed, then insert in sandy compost and in moderate light at 18°C, and keep just moist until rooted. See houseplant cacti and succulent cultivation for further advice",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, not at all when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season; for more advice see houseplant cacti and succulent cultivation",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or take rosette stem-tip softwood cuttings in early summer; wait until calluses have formed, then insert in sandy compost and in moderate light at 18°C, and keep just moist until rooted. See houseplant cacti and succulent cultivation for further advice",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and mealybugs",
+            "link_names": [
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aeonium spathulatum var. cruentum",
+    "display_name": "Spoon-leaved aeonium"
 }

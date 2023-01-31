@@ -91,15 +91,45 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich moist but well-drained acid to slightly alkaline soil in full sun or part shade, with shelter from cold, drying winds; very shade tolerant",
-        "propagation": "Propagate by seed in containers in a cold frame in spring; root semi-ripe cuttings in late summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to butt and root rot fungus"
+        "cultivation": {
+            "text": "Grow in humus-rich moist but well-drained acid to slightly alkaline soil in full sun or part shade, with shelter from cold, drying winds; very shade tolerant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring; root semi-ripe cuttings in late summer or early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to butt and root rot fungus",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tsuga_canadensis.html",
@@ -166,5 +196,7 @@
             "Branch blight",
             "Fruit withering"
         ]
-    }
+    },
+    "main_name_original": "Tsuga canadensis",
+    "display_name": "Eastern hemlock"
 }

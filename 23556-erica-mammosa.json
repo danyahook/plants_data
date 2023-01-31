@@ -96,14 +96,52 @@
         "plant_range": "South Africa (Cape)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in particularly mild areas in well-drained acidic soil in full sun in a very sheltered position. Elsewhere grow under glass in frost-free conditions",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by Phytophthora root diseases"
+        "cultivation": {
+            "text": "Grow in particularly mild areas in well-drained acidic soil in full sun in a very sheltered position. Elsewhere grow under glass in frost-free conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases, including honey fungus (rarely), and Phytophthora root rot, in wet conditions",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Erica_mammosa.html",
@@ -165,5 +203,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Erica mammosa",
+    "display_name": "Ninepin heath"
 }

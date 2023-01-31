@@ -105,19 +105,51 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun. Suited to coastal areas for stabilising sand dunes. Spread is indefinite so may be difficult to contain, so not suited to small gardens. See ornamental grasses cultivation",
-        "propagation": "Propagate by division from mid spring to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Prairie planting",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "Cut down dead growth in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun. Suited to coastal areas for stabilising sand dunes. Spread is indefinite so may be difficult to contain, so not suited to small gardens. See ornamental grasses cultivation",
+            "link_names": [
+                "Ornamental grasses cultivation"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division from mid spring to early autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Prairie planting",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down dead growth in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Leymus_arenarius.html",
@@ -171,5 +203,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Leymus arenarius",
+    "display_name": "Lyme grass"
 }

@@ -89,16 +89,50 @@
         "plant_range": "N Asia"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in moderately fertile, moist but well-drained soil. Remove suckers to prevent plants spreading widely and forming thickets",
-        "propagation": "Propagate by semi-hardwood cuttings or by seed. Rooted suckers can be transplanted in winter or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6. Remove unwanted suckers in winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Best grown in moderately fertile, moist but well-drained soil. Remove suckers to prevent plants spreading widely and forming thickets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or by seed. Rooted suckers can be transplanted in winter or autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6. Remove unwanted suckers in winter",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sorbaria_sorbifolia.html",
@@ -169,5 +203,7 @@
             "Leaf scorch",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sorbaria sorbifolia",
+    "display_name": ""
 }

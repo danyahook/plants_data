@@ -85,16 +85,62 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile well-drained soil in full sun",
-        "propagation": "Propagate by division in spring or root cuttings in winter You can propagate by seed, but the seedlings will not be identical to the parent plant",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead regularly and cut back after flowering to 15cm to encourage new buds to form at the base",
-        "pests": "May be susceptible to slugs, especially in spring",
-        "diseases": "May be susceptible to a downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or root cuttings in winter You can propagate by seed, but the seedlings will not be identical to the parent plant",
+            "link_names": [
+                "Division",
+                "Root cuttings",
+                "Propagate by seed,"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "propagate_by_seed,": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly and cut back after flowering to 15cm to encourage new buds to form at the base",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, especially in spring",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew",
+            "link_names": [
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Gaillardia × grandiflora 'Sunset Cutie' (Sunset Dwarf Series)",
+    "display_name": ""
 }

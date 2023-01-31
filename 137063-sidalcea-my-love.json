@@ -79,17 +79,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in light, sandy soil that is neutral to slightly acid and humus rich. Plants can be short-lived in heavy soils",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn or spring, or by division of large clumps in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut stems back hard after flowering",
-        "pests": "May be susceptible to slugs",
-        "diseases": "May be susceptible to hollyhock rust"
-    }
+        "cultivation": {
+            "text": "Grows best in light, sandy soil that is neutral to slightly acid and humus rich. Plants can be short-lived in heavy soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn or spring, or by division of large clumps in autumn or spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut stems back hard after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to hollyhock rust",
+            "link_names": [
+                "Hollyhock rust"
+            ],
+            "related_links": {
+                "hollyhock_rust": "https://www.rhs.org.uk/disease/hollyhock-rust"
+            }
+        }
+    },
+    "main_name_original": "Sidalcea 'My Love'",
+    "display_name": "Prairie mallow 'my love'"
 }

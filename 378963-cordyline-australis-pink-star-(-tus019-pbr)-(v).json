@@ -98,21 +98,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in a sheltered position in full sun or partial shade. See cordyline cultivation",
-        "propagation": "Propagate by removing well-rooted suckers in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Gravel garden",
-            "Architectural",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning needed. Old, dead leaves can be pulled away from the base",
-        "pests": "May be affected by scale insects and glasshouse red spider mite",
-        "diseases": "May be affected by cordyline slime flux"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in a sheltered position in full sun or partial shade. See cordyline cultivation",
+            "link_names": [
+                "Cordyline cultivation"
+            ],
+            "related_links": {
+                "cordyline_cultivation": "https://www.rhs.org.uk/plants/cordyline/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by removing well-rooted suckers in spring",
+            "link_names": [
+                "Suckers"
+            ],
+            "related_links": {
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Gravel garden",
+                "Architectural",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed. Old, dead leaves can be pulled away from the base",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and scale insects",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to cordyline slime flux and honey fungus (rarely)",
+            "link_names": [
+                "Cordyline slime flux",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cordyline_slime_flux": "https://www.rhs.org.uk/disease/cordyline-slime-flux",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cordyline australis Pink Star ('Tus019'PBR) (v)",
+    "display_name": "Cabbage palm 'pink star'"
 }

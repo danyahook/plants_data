@@ -83,16 +83,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in well-drained soil preferably in full sun to partial shade. Avoid wet winter conditions. Easy to grow in containers.",
-        "propagation": "Propagate by division in spring or autumn and by basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to promote extended blooms",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to a rust, powdery mildews and leaf spot"
-    }
+        "cultivation": {
+            "text": "Will grow well in well-drained soil preferably in full sun to partial shade. Avoid wet winter conditions. Easy to grow in containers.",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn and by basal cuttings in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to promote extended blooms",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, powdery mildews and leaf spot",
+            "link_names": [
+                "A rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Campanula 'Blue Moon'",
+    "display_name": ""
 }

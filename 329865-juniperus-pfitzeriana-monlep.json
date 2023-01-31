@@ -90,16 +90,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil including dry, chalky or sandy soils in full sun or in light shade",
-        "propagation": "Propagate by semi-ripe cuttings in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to juniper scale, conifer aphid, webber moth caterpillars and conifer red spider mite",
-        "diseases": "May be susceptible to pear rust, honey fungus, Pestalotiopsis on conifers and shoot blight"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil including dry, chalky or sandy soils in full sun or in light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in early autumn",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, conifer red spider mite and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pear rust, honey fungus, Pestalotiopsis on conifers and shoot blight",
+            "link_names": [
+                "Pear rust",
+                "Honey fungus",
+                "Pestalotiopsis on conifers"
+            ],
+            "related_links": {
+                "pear_rust": "https://www.rhs.org.uk/disease/pear-rust",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "pestalotiopsis_on_conifers": "https://www.rhs.org.uk/disease/conifers-pestalotiopsis-disease"
+            }
+        }
+    },
+    "main_name_original": "Juniperus × pfitzeriana 'Monlep'",
+    "display_name": "Juniper 'mint julep'"
 }

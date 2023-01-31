@@ -90,17 +90,61 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, well-drained soil in full sun or partial shade.",
-        "propagation": "Propagate by softwood cuttings in early summer, semi-hardwood cuttings in midsummer, or hardwood cuttings in autumn and winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2, after flowering",
-        "pests": "May be susceptible to leaf and bud eelworm",
-        "diseases": "May be susceptible to honey fungus"
+        "cultivation": {
+            "text": "Grow in any fertile, well-drained soil in full sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, semi-hardwood cuttings in midsummer, or hardwood cuttings in autumn and winter",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2, after flowering",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm",
+            "link_names": [
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Weigela_coraeensis.html",
@@ -152,5 +196,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Weigela coraeensis",
+    "display_name": "Japanese weigela"
 }

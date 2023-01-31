@@ -84,14 +84,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most moderately fertile, well-drained soils. Requires plenty of water in summer but protect from excessive wetness in winter",
-        "propagation": "Propagate by seed sown in autumn or divide offsets in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "None required",
-        "pests": "May be prone to damage from slugs and lily beetles",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grows well in most moderately fertile, well-drained soils. Requires plenty of water in summer but protect from excessive wetness in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn or divide offsets in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be prone to damage from slugs and lily beetles",
+            "link_names": [
+                "Slugs",
+                "Lily beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetles": "https://www.rhs.org.uk/biodiversity/lily-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Fritillaria davidii",
+    "display_name": "David's frittilary"
 }

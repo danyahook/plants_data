@@ -95,18 +95,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will tolerate hot, dry conditions and poor, infertile soils",
-        "propagation": "Propagate by seed or by softwood cuttings, or by division in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Trim back after flowering to maintain compactness",
-        "pests": "May get aphids, gall midge and flea beetles",
-        "diseases": "May be infected by a downy mildew and white blister"
-    }
+        "cultivation": {
+            "text": "Will tolerate hot, dry conditions and poor, infertile soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by softwood cuttings, or by division in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering to maintain compactness",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May get aphids, gall midge and flea beetles",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by a downy mildew and white blister",
+            "link_names": [
+                "A downy mildew",
+                "White blister"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot"
+            }
+        }
+    },
+    "main_name_original": "Arabis ferdinandi-coburgi 'Old Gold' (v)",
+    "display_name": "Rock cress 'old gold'"
 }

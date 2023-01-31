@@ -121,18 +121,54 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by division in spring or autumn, or by softwood cuttings in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Ground cover",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Prune as required to keep under control",
-        "pests": "slugs and snails may be a nuisance",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn, or by softwood cuttings in late spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Ground cover",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune as required to keep under control",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "slugs and snails may be a nuisance",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Glechoma_hederacea.html",
@@ -262,5 +298,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Glechoma hederacea",
+    "display_name": "Ground ivy"
 }

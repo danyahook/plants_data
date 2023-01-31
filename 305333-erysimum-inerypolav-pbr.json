@@ -91,17 +91,59 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil, ideally alkaline, in full sun",
-        "propagation": "Propagate by semi-ripe cuttings, using shoots without flower buds",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back by half after flowering to prevent plants getting leggy",
-        "pests": "May be susceptible to slugs, snails and flea beetles",
-        "diseases": "May be susceptible to downy mildew, club root, leaf spot, root rot and mosaic virus"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil, ideally alkaline, in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings, using shoots without flower buds",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back by half after flowering to prevent plants getting leggy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and flea beetles",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildew, club root, leaf spot, root rot and mosaic virus",
+            "link_names": [
+                "Club root"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root"
+            }
+        }
+    },
+    "main_name_original": "Erysimum 'Inerypolav'PBR",
+    "display_name": ""
 }

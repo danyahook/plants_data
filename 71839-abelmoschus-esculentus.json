@@ -88,17 +88,63 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best grown under glass or in a polytunnel but can be planted outside in a warm, sunny, sheltered position in a container or in the ground when soil temperature has risen to 15°C",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Sub-tropical",
-            "Edible fruit",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs, snails, glasshouse red spider mite and glasshouse whitefly",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Best grown under glass or in a polytunnel but can be planted outside in a warm, sunny, sheltered position in a container or in the ground when soil temperature has risen to 15°C",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Sub-tropical",
+                "Edible fruit",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails, glasshouse red spider mite and glasshouse whitefly",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Abelmoschus_esculentus.html",
@@ -178,5 +224,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Abelmoschus esculentus",
+    "display_name": "Okra"
 }

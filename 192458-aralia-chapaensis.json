@@ -89,13 +89,49 @@
         "plant_range": "Vietnam"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any good soil which drains effectively. Allow enough space for impressive leaves to display. For more information see shrub cultivation.",
-        "propagation": "Propagate by division on spring or seed. For more advice see our information on how to propagate from seed (tree/shrub",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "Tidy up in spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any good soil which drains effectively. Allow enough space for impressive leaves to display. For more information see shrub cultivation.",
+            "link_names": [
+                "Shrub cultivation"
+            ],
+            "related_links": {
+                "shrub_cultivation": "https://www.rhs.org.uk/plants/types/shrubs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division on spring or seed. For more advice see our information on how to propagate from seed (tree/shrub",
+            "link_names": [
+                "Division",
+                "Propagate from seed (tree/shrub"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy up in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aralia chapaensis",
+    "display_name": ""
 }

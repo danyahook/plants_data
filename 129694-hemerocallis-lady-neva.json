@@ -85,19 +85,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in fertile, moist but well-drained soil in full sun for best performance.",
-        "propagation": "Propagate by division.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Remove spent flower heads to lengthen flowering period",
-        "pests": "May be susceptible to red spider mite, aphids, slugs, snails, thrips",
-        "diseases": "May be susceptible to leaf and stem rot"
-    }
+        "cultivation": {
+            "text": "Will grow well in fertile, moist but well-drained soil in full sun for best performance.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flower heads to lengthen flowering period",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mite, aphids, slugs, snails, thrips",
+            "link_names": [
+                "Red spider mite",
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Thrips"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf and stem rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hemerocallis 'Lady Neva'",
+    "display_name": "Daylily 'lady neva'"
 }

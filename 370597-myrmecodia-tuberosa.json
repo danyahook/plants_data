@@ -81,14 +81,50 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an open, free draining medium such as orchid bark, or mounted on cork; plants are prone to root rot in poor drainage. Position in bright filtered light with protection from hot sun and maintain high humidity; may benefit from occasional misting with rainwater",
-        "propagation": "Propagate by seed sown as soon as ripe",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to scale insects, mealybugs and red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in an open, free draining medium such as orchid bark, or mounted on cork; plants are prone to root rot in poor drainage. Position in bright filtered light with protection from hot sun and maintain high humidity; may benefit from occasional misting with rainwater",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, mealybugs and red spider mite",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Myrmecodia_tuberosa.html",
@@ -167,5 +203,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Myrmecodia tuberosa",
+    "display_name": ""
 }

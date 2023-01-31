@@ -81,10 +81,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile soil enriched with lots of organic matter, and firm in well when transplanting. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed",
-        "pruning": "To harvest, cut the whole plant off at the base while the heads are firm",
-        "pests": "May be susceptible to mealy cabbage aphids, cabbage whitefly, cabbage root fly and cabbage caterpillars; birds can damage seedlings and young leaves",
-        "diseases": "May be susceptible to club root"
-    }
+        "cultivation": {
+            "text": "Grow in fertile soil enriched with lots of organic matter, and firm in well when transplanting. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "To harvest, cut the whole plant off at the base while the heads are firm",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealy cabbage aphids, cabbage whitefly, cabbage root fly and cabbage caterpillars; birds can damage seedlings and young leaves",
+            "link_names": [
+                "Mealy cabbage aphids",
+                "Cabbage whitefly",
+                "Cabbage root fly",
+                "Birds"
+            ],
+            "related_links": {
+                "mealy_cabbage_aphids": "https://www.rhs.org.uk/biodiversity/mealy-cabbage-aphid",
+                "cabbage_whitefly": "https://www.rhs.org.uk/biodiversity/cabbage-whitefly",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to club root",
+            "link_names": [
+                "Club root"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root"
+            }
+        }
+    },
+    "main_name_original": "Brassica oleracea (Botrytis Group) 'Veronica'",
+    "display_name": "Cauliflower 'veronica'"
 }

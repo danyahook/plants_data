@@ -117,21 +117,61 @@
         "plant_range": "E N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist soils in shade or partial shade",
-        "propagation": "Propagate by seed or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Easy to grow in mild areas in fertile well-drained soil. Add grit when grown in clay soils to improve drainage. Alternatively grow in a container and protect over winter. See allium cultivation",
+            "link_names": [
+                "Container",
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division of clumps in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Onion white rot and a downy mildew may occur",
+            "link_names": [
+                "Onion white rot",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gaultheria_procumbens.html",
@@ -186,5 +226,7 @@
             "Anthracnose",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Allium neapolitanum Cowanii Group",
+    "display_name": "Neapolitan garlic cowanii group"
 }

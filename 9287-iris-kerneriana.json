@@ -85,15 +85,59 @@
         "plant_range": "Northern Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, neutral to slightly acid loam in full sun or partial shade",
-        "propagation": "Propagate by seed sown in pots in a cold frame in autumn or spring. Propagate by division of rhizomes from midsummer to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering. Tall varieties can have their leaf fans trimmed to one third of the total height to reduce wind rock while the plants are establishing",
-        "pests": "Prone to slugs, snails and thrips",
-        "diseases": "May be affected by grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, neutral to slightly acid loam in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in autumn or spring. Propagate by division of rhizomes from midsummer to early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering. Tall varieties can have their leaf fans trimmed to one third of the total height to reduce wind rock while the plants are establishing",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs, snails and thrips",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Thrips"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Iris kerneriana",
+    "display_name": "Kerner iris"
 }

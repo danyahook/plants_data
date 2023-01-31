@@ -93,16 +93,72 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, deep, moist, loamy soil in a sunny position; will tolerate partial shade",
-        "propagation": "Propagate by sowing seed in a seedbed in autumn, by chip budding in late summer or grafting in midwinter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1. Requires minimal pruning in late winter or spring to remove dead, damaged or diseased wood",
-        "pests": "May be susceptible to aphids, woolly aphid, fruit tree red spider mite and caterpillars may be a problem",
-        "diseases": "May be susceptible to apple scab, apple canker, fireblight, powdery mildews and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, deep, moist, loamy soil in a sunny position; will tolerate partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in a seedbed in autumn, by chip budding in late summer or grafting in midwinter",
+            "link_names": [
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Requires minimal pruning in late winter or spring to remove dead, damaged or diseased wood",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, fruit tree red spider mite and caterpillars may be a problem",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to apple scab, apple canker, fireblight, powdery mildews and honey fungus",
+            "link_names": [
+                "Apple scab",
+                "Apple canker",
+                "Fireblight",
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Malus Scarlet Brandywine ('Scbrazam')",
+    "display_name": "Crab apple [scarlet brandywine]"
 }

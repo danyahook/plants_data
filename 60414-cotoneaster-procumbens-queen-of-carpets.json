@@ -93,19 +93,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade in any soil that is well-drained. An excellent plant for groundcover",
-        "propagation": "Propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 8 - usually no pruning required",
-        "pests": "May be affected by scale insects, cotoneaster webber caterpillar, aphids, brown scale, mussel scale, and woolly aphid",
-        "diseases": "May be affected by fireblight, honey fungus, leaf spot, silver leaf, and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in full sun or partial shade in any soil that is well-drained. An excellent plant for groundcover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 - usually no pruning required",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, cotoneaster webber caterpillar, aphids including woolly aphid",
+            "link_names": [
+                "Scale insects",
+                "Cotoneaster webber caterpillar",
+                "Aphids",
+                "Woolly aphid"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, honey fungus, leaf spot, silver leaf, and virus diseases",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Silver leaf",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Cotoneaster procumbens 'Queen of Carpets'",
+    "display_name": "Creeping cotoneaster 'queen of carpets'"
 }

@@ -110,15 +110,59 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Does best in a sunny, sheltered position with fertile, moist but well drained soil, though most soils will produce an adequate crop. In milder areas, hardier varieties may be sown in autumn to crop in late spring. Otherwise sow successionally from mid-spring to crop from early summer to early autumn. Tall varieties may need staking, dwarf ones can be grown in containers. See broad bean cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Picking off the tips of the shoots can reduce and delay infestation by black bean aphid, and also improve the yield of beans",
-        "pests": "Likely to be affected by pea and bean weevil and blackfly (black aphid)",
-        "diseases": "May be affected by Broad bean rust and Broad bean chocolate spot"
+        "cultivation": {
+            "text": "Does best in a sunny, sheltered position with fertile, moist but well drained soil, though most soils will produce an adequate crop. In milder areas, hardier varieties may be sown in autumn to crop in late spring. Otherwise sow successionally from mid-spring to crop from early summer to early autumn. Tall varieties may need staking, dwarf ones can be grown in containers. See broad bean cultivation",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Picking off the tips of the shoots can reduce and delay infestation by black bean aphid, and also improve the yield of beans",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Likely to be affected by pea and bean weevil and blackfly (black aphid)",
+            "link_names": [
+                "Pea and bean weevil",
+                "Blackfly (black aphid)"
+            ],
+            "related_links": {
+                "pea_and_bean_weevil": "https://www.rhs.org.uk/biodiversity/pea-and-bean-weevils",
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by Broad bean rust and Broad bean chocolate spot",
+            "link_names": [
+                "Broad bean rust",
+                "Broad bean chocolate spot"
+            ],
+            "related_links": {
+                "broad_bean_rust": "https://www.rhs.org.uk/disease/broad-bean-rust",
+                "broad_bean_chocolate_spot": "https://www.rhs.org.uk/disease/broad-bean-chocolate-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Vicia_faba.html",
@@ -192,5 +236,7 @@
             "Fruit withering",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Vicia faba",
+    "display_name": "Broad bean"
 }

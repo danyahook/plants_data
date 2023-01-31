@@ -88,17 +88,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a moist, acidic, organic, loamy soil and has a good tolerance of poorly-drained soils so useful for boggy areas. Male and female flowers produced on separate plants so both need to be planted nearby to obtain berries on a female. One male plant can pollinate several female plants. The plant label should indicate if you are buying male or female plants",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained neutral to acid soil in full sun or part shade. Not suited to chalky soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; trim hedges in early spring",
+            "link_names": [
+                "Pruning group 1",
+                "Trim hedges"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
+            "link_names": [
+                "Scale insects",
+                "Holly leaf miner",
+                "Aphids"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "holly_leaf_miner": "https://www.rhs.org.uk/biodiversity/holly-leaf-miner",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to holly leaf blight, Phytophthora root rot and sometimes honey fungus",
+            "link_names": [
+                "Holly leaf blight",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "holly_leaf_blight": "https://www.rhs.org.uk/disease/holly-leaf-blight",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ilex_verticillata__Winter_Red_.html",
@@ -132,5 +185,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ilex verticillata 'Winter Red' (f)",
+    "display_name": "Winterberry 'winter red'"
 }

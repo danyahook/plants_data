@@ -105,19 +105,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained soil in full sun or partial shade. Tolerant of full shade, dry soils and coastal winds but may become chlorotic on shallow chalky soils",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be vulnerable to elaeagnus sucker but generally pest free",
-        "diseases": "May be affected by coral spot or a leaf spot (fungal) see leaf damage on woody plants"
+        "cultivation": {
+            "text": "Grows best in well-drained soil in full sun or partial shade. Tolerant of full shade, dry soils and coastal winds but may become chlorotic on shallow chalky soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to elaeagnus sucker but generally pest-free",
+            "link_names": [
+                "Elaeagnus sucker"
+            ],
+            "related_links": {
+                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, coral spot or leaf spot (fungal) see leaf damage on woody plants",
+            "link_names": [
+                "Honey fungus",
+                "Coral spot"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Elaeagnus_×_ebbingei__Gilt_Edge_.html",
@@ -152,5 +194,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Elaeagnus × ebbingei 'Gilt Edge'",
+    "display_name": "Oleaster 'gilt edge'"
 }

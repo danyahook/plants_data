@@ -85,16 +85,74 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "The ideal position for sweet cherries is deep, fertile, well-drained, slightly acid soil in full sun. See sweet cherry cultivation",
-        "propagation": "Propagate by chip budding or grafting on clonal rootstock for fruit. Named cultivars will not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Edible fruit"
-        ],
-        "pruning": "Little or no pruning required as naturally dwarf, but can be carried out when harvesting the fruits in summer",
-        "pests": "May be susceptible to bird damage, cherry blackfly and other aphids, leaf-mining moths, pear and cherry slugworm, winter moth and other caterpillars. Spotted-wing drosophila, a fruit fly, is likely to become an increasing problem",
-        "diseases": "May be susceptible to cherry leaf scorch and leaf spot, silver leaf, bacterial canker, blossom wilt and brown rot"
-    }
+        "cultivation": {
+            "text": "The ideal position for sweet cherries is deep, fertile, well-drained, slightly acid soil in full sun. See sweet cherry cultivation",
+            "link_names": [
+                "Sweet cherry cultivation"
+            ],
+            "related_links": {
+                "sweet_cherry_cultivation": "https://www.rhs.org.uk/fruit/cherries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting on clonal rootstock for fruit. Named cultivars will not come true from seed",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Little or no pruning required as naturally dwarf, but can be carried out when harvesting the fruits in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to bird damage, cherry blackfly and other aphids, leaf-mining moths, pear and cherry slugworm, winter moth and other caterpillars. Spotted-wing drosophila, a fruit fly, is likely to become an increasing problem",
+            "link_names": [
+                "Cherry blackfly",
+                "Aphids",
+                "Pear and cherry slugworm",
+                "Winter moth"
+            ],
+            "related_links": {
+                "cherry_blackfly": "https://www.rhs.org.uk/biodiversity/cherry-blackfly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "pear_and_cherry_slugworm": "https://www.rhs.org.uk/biodiversity/pear-and-cherry-slugworm",
+                "winter_moth": "https://www.rhs.org.uk/biodiversity/winter-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus avium 'Sylvia' (F)",
+    "display_name": "Cherry (sweet) 'sylvia'"
 }

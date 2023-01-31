@@ -95,15 +95,63 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in cooler climates and moist soil; suitable for stream banks, moist woodland and bog gardens",
-        "propagation": "Propagate by seed or by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to a leaf spot, powdery mildews, honey fungus and coral spot"
+        "cultivation": {
+            "text": "Thrives in cooler climates and moist soil; suitable for stream banks, moist woodland and bog gardens",
+            "link_names": [
+                "Bog gardens"
+            ],
+            "related_links": {
+                "bog_gardens": "https://www.rhs.org.uk/garden-design/bog-gardens"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by hardwood cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, honey fungus and coral spot",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus",
+                "Coral spot"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ribes_bracteosum.html",
@@ -142,5 +190,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ribes bracteosum",
+    "display_name": "Californian blackcurrant"
 }

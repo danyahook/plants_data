@@ -86,18 +86,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well drained soils. Good for ground cover",
-        "propagation": "Propagate by softwood cuttings in summer, or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Ground cover",
-            "Banks and slopes"
-        ],
-        "pruning": "Trim back after flowering",
-        "pests": "May be susceptible to arabis midge and flea beetles",
-        "diseases": "May be susceptible to a downy mildew, white blister, and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in well drained soils. Good for ground cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer, or by division",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Ground cover",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to arabis midge and flea beetles",
+            "link_names": [
+                "Flea beetles"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew, white blister, and virus diseases",
+            "link_names": [
+                "A downy mildew",
+                "White blister",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Arabis alpina subsp. caucasica 'Lotti Deep Rose'",
+    "display_name": ""
 }

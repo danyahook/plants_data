@@ -95,14 +95,54 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow on plants in a potting mix of 4 parts loam-based compost and 1 part each grit and leaf mould. Position in bright, filtered light in a cool room and mist plants daily",
-        "propagation": "Propagate by seed sown in summer for flowering plants the following winter. Surface sow onto moist, well-drained seed compost.",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Deadhead to extend flowering",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to grey moulds (botrytis)"
+        "cultivation": {
+            "text": "Grow on plants in a potting mix of 4 parts loam-based compost and 1 part each grit and leaf mould. Position in bright, filtered light in a cool room and mist plants daily",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in summer for flowering plants the following winter. Surface sow onto moist, well-drained seed compost.",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to extend flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds (botrytis)",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Primula_malacoides.html",
@@ -160,5 +200,7 @@
             "Leaf rot",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Primula malacoides (Mo)",
+    "display_name": "Baby primrose"
 }

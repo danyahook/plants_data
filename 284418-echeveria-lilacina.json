@@ -89,16 +89,56 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a free-draining potting mix suitable for cacti and succulents. Water moderately when in growth and do not allow to sit in water; no need to water at all during the winter dormant season. To keep this plant over winter it must be protected from frost. See houseplant cacti and succulent cultivation for further information",
-        "propagation": "Propagate by seed sown as soon as ripe or by root, stem or leaf cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Remove dead leaves from the bottom of the plant as it grows",
-        "pests": "May be susceptible to mealybugs and vine weevil",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow under glass in a free-draining potting mix suitable for cacti and succulents. Water moderately when in growth and do not allow to sit in water; no need to water at all during the winter dormant season. To keep this plant over winter it must be protected from frost. See houseplant cacti and succulent cultivation for further information",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe or by root, stem or leaf cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead leaves from the bottom of the plant as it grows",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs and vine weevil",
+            "link_names": [
+                "Mealybugs",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Echeveria_lilacina.html",
@@ -146,5 +186,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Echeveria lilacina",
+    "display_name": "Ghost echeveria"
 }

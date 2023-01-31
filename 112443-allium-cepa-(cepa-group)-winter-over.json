@@ -80,10 +80,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moisture retentive, but well-drained soil in full sun. Consider liming if the soil is acid, pH below 6.5. See how to grow: salad onions for further advice",
-        "propagation": "Propagate by seed sown in July to late August for overwintering. Alternatively sow in spring for summer harvest",
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to onion white rot, onion downy mildew and leek rust"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moisture retentive, but well-drained soil in full sun. Consider liming if the soil is acid, pH below 6.5. See how to grow: salad onions for further advice",
+            "link_names": [
+                "How to grow: salad onions"
+            ],
+            "related_links": {
+                "how_to_grow:_salad_onions": "https://www.rhs.org.uk/vegetables/salad-onions/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in July to late August for overwintering. Alternatively sow in spring for summer harvest",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to onion white rot, onion downy mildew and leek rust",
+            "link_names": [
+                "Onion white rot",
+                "Onion downy mildew",
+                "Leek rust"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "onion_downy_mildew": "https://www.rhs.org.uk/disease/onion-downy-mildew",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust"
+            }
+        }
+    },
+    "main_name_original": "Allium cepa (Cepa Group) 'Winter-Over'",
+    "display_name": "Onion (salad) 'winter over'"
 }

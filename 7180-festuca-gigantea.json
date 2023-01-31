@@ -87,14 +87,54 @@
         "plant_range": "Europe, N Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grows in any well-drained soil in sun or shade; see also ornamental grasses cultivation",
-        "propagation": "Propagate by seed sown in pots in a cold frame in spring or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Banks and slopes"
-        ],
-        "pruning": "Comb out dead foliage in early spring",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by a rust"
-    }
+        "cultivation": {
+            "text": "Grows in any well-drained soil in sun or shade; see also ornamental grasses cultivation",
+            "link_names": [
+                "Ornamental grasses cultivation"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in spring or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Comb out dead foliage in early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Festuca gigantea",
+    "display_name": "Giant fescue"
 }

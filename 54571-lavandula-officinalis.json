@@ -105,21 +105,75 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a well-drained neutral to alkaline soil but tolerates acidic conditions. In heavy soil improve drainage as it does not tolerate waterlogging. Potash will encourage flowering but high nitrogen fertilisers and manure will result in \"\"floppy\"\" plants. See lavender cultivation for further advice",
-        "propagation": "Propagate by seed sown in a cold frame in spring, or by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Garden edging",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10, after flowering",
-        "pests": "Cuckoo spit (froghoppers) and rosemary beetle may be a problem",
-        "diseases": "May be susceptible to grey moulds. High Risk Host for Xylella fastidiosa"
-    }
+        "cultivation": {
+            "text": "Prefers a well-drained neutral to alkaline soil but tolerates acidic conditions. In heavy soil improve drainage as it does not tolerate waterlogging. Potash will encourage flowering but high nitrogen fertilisers and manure will result in \"\"floppy\"\" plants. See lavender cultivation for further advice",
+            "link_names": [
+                "Lavender cultivation"
+            ],
+            "related_links": {
+                "lavender_cultivation": "https://www.rhs.org.uk/plants/lavender/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame in spring, or by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Garden edging",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10, after flowering",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to rosemary beetle and cuckoo spit (froghoppers)",
+            "link_names": [
+                "Rosemary beetle",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lavandula officinalis",
+    "display_name": "English lavender"
 }

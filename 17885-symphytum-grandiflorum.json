@@ -93,20 +93,53 @@
         "plant_range": "Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist soil in sun or partial shade",
-        "propagation": "Propagate by division of fleshy roots in spring. Propagate by root cuttings in early winter. Propagate by seed sown in pots in a cold frame in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering to encourage neat, young foliage",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist soil in sun or partial shade. Be aware the plant growth can be vigorous once established and has the potential to become a nuisance, so will require appropriate management",
+            "link_names": [
+                "Potential to become a nuisance"
+            ],
+            "related_links": {
+                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of fleshy roots in spring. Propagate by root cuttings in early winter. Propagate by seed sown in pots in a cold frame in autumn or spring",
+            "link_names": [
+                "Division",
+                "Root cuttings",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage neat, young foliage",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Symphytum_grandiflorum.html",
@@ -151,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Symphytum grandiflorum",
+    "display_name": "Creeping comfrey"
 }

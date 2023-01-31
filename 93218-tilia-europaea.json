@@ -100,14 +100,66 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for parks and very large gardens. Grow in fertile soil in full sun. Highly prone to suckering at the base of the trunk. For more advice see tree cultivation",
-        "propagation": "Propagate by seed. For more advice see propagate from seed (tree/shrub)",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Wildlife gardens"
-        ],
-        "pruning": "Pruning group 1 or is a suitable tree for pleaching",
-        "pests": "May be susceptible to aphids, horse chestnut scale, caterpillars, sawflies and gall mites",
-        "diseases": "May be susceptible to sooty mould and phytophthora root disease"
-    }
+        "cultivation": {
+            "text": "Suitable for parks and very large gardens. Grow in fertile soil in full sun. Highly prone to suckering at the base of the trunk. For more advice see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed. For more advice see propagate from seed (tree/shrub)",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or is a suitable tree for pleaching",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, horse chestnut scale, caterpillars, sawflies and gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to sooty mould, phytophthora root disease and honey fungus",
+            "link_names": [
+                "Sooty mould",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "sooty_mould": "https://www.rhs.org.uk/biodiversity/sooty-moulds",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Tilia × europaea",
+    "display_name": "Common lime"
 }

@@ -91,14 +91,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained soil",
-        "propagation": "Propagate by chip budding or grafting, although softwood cuttings in early summer with bottom heat can be successful",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Prune in summer to avoid silver leaf",
-        "pests": "May be attacked by aphids, caterpillars and leaf-mining moths",
-        "diseases": "May be subject to silver leaf,blossom wilt and bacteria canker"
-    }
+        "cultivation": {
+            "text": "Grow in any moist but well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting, although softwood cuttings in early summer with bottom heat can be successful",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in summer to avoid silver leaf",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids, caterpillars and leaf-mining moths",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to silver leaf,blossom wilt and bacteria canker",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Prunus × subhirtella 'Stellata'",
+    "display_name": "Weeping cherry 'stellata'"
 }

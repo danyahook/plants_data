@@ -88,17 +88,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in sunny sheltered border. Grow under glass in loam-based compost in full light",
-        "propagation": "Propagate by seed, or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 , pruning group 6 or pruning group 9",
-        "pests": "Can get glasshouse whitefly, glasshouse red spider mite, aphids, mealybug and scale insects",
-        "diseases": "May suffer from a virus"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in sunny sheltered border. Grow under glass in loam-based compost in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 , pruning group 6 or pruning group 9",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 6",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, mealybugs and scale insects",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) or a virus",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Abutilon 'Kentish Belle'",
+    "display_name": "Abutilon 'kentish belle'"
 }

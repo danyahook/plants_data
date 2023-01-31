@@ -94,16 +94,56 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile soil in good light",
-        "propagation": "Propagate from semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to scale insects and conifer",
-        "diseases": "May be susceptible to coryneum canker (see Conifers: brown patches)"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile soil in good light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and conifer",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
+            "link_names": [
+                "Honey fungus",
+                "Thuja blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
+            }
+        }
+    },
+    "main_name_original": "Thuja occidentalis 'Miky'",
+    "display_name": ""
 }

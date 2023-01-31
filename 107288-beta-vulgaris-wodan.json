@@ -80,10 +80,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well drained soil in full sun. Sow direct between March and July into drills 2.5cm deep and lighly rake over with soil. Thin out seedlings to 10cm spacings. See vegetable cultivation",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, flea beetle, Mangold fly (beet leaf miner)",
-        "diseases": "May be susceptible to beetroot heart rot, black leg, leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well drained soil in full sun. Sow direct between March and July into drills 2.5cm deep and lighly rake over with soil. Thin out seedlings to 10cm spacings. See vegetable cultivation",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, flea beetle, Mangold fly (beet leaf miner)",
+            "link_names": [
+                "Aphids",
+                "Flea beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetle": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to beetroot heart rot, black leg, leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Beta vulgaris 'Wodan'",
+    "display_name": "Beetroot 'wodan'"
 }

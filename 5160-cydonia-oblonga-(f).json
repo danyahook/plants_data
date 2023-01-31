@@ -99,15 +99,69 @@
         "plant_range": "W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, moist but well-drained soil in a warm, sheltered spot. See quince cultivation",
-        "propagation": "Propagate the species by seed sown in autumn. Species and cultivars may be propagated from semi-ripe cuttings in summer and hardwood cuttings in autumn or early winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can occasionally be affected by caterpillars and aphids",
-        "diseases": "Can suffer from quince leaf blight, brown rot, fireblight and powdery mildews"
+        "cultivation": {
+            "text": "Grow in deep, fertile, moist but well-drained soil in a warm, sheltered spot. See quince cultivation",
+            "link_names": [
+                "Quince cultivation"
+            ],
+            "related_links": {
+                "quince_cultivation": "https://www.rhs.org.uk/fruit/quince/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate the species by seed sown in autumn. Species and cultivars may be propagated from semi-ripe cuttings in summer and hardwood cuttings in autumn or early winter",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Can occasionally be affected by caterpillars and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to quince leaf blight, brown rot, fireblight, powdery mildews and honey fungus",
+            "link_names": [
+                "Quince leaf blight",
+                "Brown rot",
+                "Fireblight",
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "quince_leaf_blight": "https://www.rhs.org.uk/disease/quince-leaf-blight",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cydonia_oblonga.html",
@@ -195,5 +249,7 @@
             "Fruit rot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Cydonia oblonga (F)",
+    "display_name": "Quince"
 }

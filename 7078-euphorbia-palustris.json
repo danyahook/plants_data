@@ -84,15 +84,49 @@
         "plant_range": "Europe to Xinjiang"
     },
     "how_to_grow": {
-        "cultivation": "Prefers permanently moist soil in full sun",
-        "propagation": "Propagate by seed sown in containers in spring. Propagate by division in early spring or take basal cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Prefers permanently moist soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in spring. Propagate by division in early spring or take basal cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Euphorbia_palustris.html",
@@ -155,5 +189,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Euphorbia palustris",
+    "display_name": "Marsh spurge"
 }

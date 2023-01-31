@@ -90,17 +90,61 @@
         "plant_range": "Greece"
     },
     "how_to_grow": {
-        "cultivation": "Grow in alkaline, poor, well-drained soil in full sun; drought-tolerant plant. In fertile soils, it grows large and needs support - see staking perennials",
-        "propagation": "Propagate by seed in pots in a cold frame in late spring to early summer. Propagate by division in early spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove faded flower spikes",
-        "pests": "May be attacked by caterpillars and figwort weevil",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in alkaline, poor, well-drained soil in full sun; drought-tolerant plant. In fertile soils, it grows large and needs support - see staking perennials",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in late spring to early summer. Propagate by division in early spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by caterpillars and figwort weevil",
+            "link_names": [
+                "Figwort weevil"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Verbascum epixanthinum",
+    "display_name": "Yellow mullein"
 }

@@ -92,18 +92,70 @@
         "plant_range": "Russia"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moist but well-drained soil, reasonably fertile soil in full sun or light shade. See allium cultivation for further advice",
-        "propagation": "Propagate by seed, or division at any time",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering",
-        "pests": "Susceptible to slugs and snails",
-        "diseases": "Onion white rot and downy mildews may occur"
-    }
+        "cultivation": {
+            "text": "Easy to grow in moist but well-drained soil, reasonably fertile soil in full sun or light shade. See allium cultivation for further advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, or division at any time",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Onion white rot and downy mildews may occur",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium nutans",
+    "display_name": "Flat-stalked garlic"
 }

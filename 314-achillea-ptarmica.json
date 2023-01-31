@@ -95,19 +95,61 @@
         "plant_range": "Europe, N of Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in semi-shade in a moist soil",
-        "propagation": "Propagate by seed or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required, but deadheading will prolong the flowering season",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grows best in semi-shade in a moist soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading will prolong the flowering season",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Achillea_ptarmica.html",
@@ -162,5 +204,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Achillea ptarmica",
+    "display_name": "Sneezewort"
 }

@@ -95,20 +95,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade in moist but well-drained soil; excellent for ground-cover",
-        "propagation": "Propagate by division or softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required, but cutting back flowered stems and old leaves may encourage the growth of fresh leaves and flowers",
-        "pests": "May be affected by capsid bug, geranium sawfly, and vine weevil",
-        "diseases": "May be affected by a rust, a downy mildew, leafy gall, and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in full sun or partial shade in moist but well-drained soil; excellent for ground-cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or softwood cuttings in spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but cutting back flowered stems and old leaves may encourage the growth of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by capsid bug, geranium sawfly, and vine weevil",
+            "link_names": [
+                "Capsid bug",
+                "Geranium sawfly",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a rust, a downy mildew, leafy gall, and powdery mildews",
+            "link_names": [
+                "A rust",
+                "A downy mildew",
+                "Leafy gall",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium 'Ushguli Grijs'",
+    "display_name": "Cranesbill 'ushguli grijs'"
 }

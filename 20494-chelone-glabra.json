@@ -102,15 +102,53 @@
         "plant_range": "USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist to wet soil in part-shade to shade. More sun can be tolerated if the soil is wetter",
-        "propagation": "Propagate by seed or by division in spring. Stem-tip cuttings can be taken in spring (see softwood cuttings)",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, other than cutting back at the end of the season",
-        "pests": "Generally pest free",
-        "diseases": "Powdery mildews, rust diseases and a fungal leaf spot are sometimes problems"
+        "cultivation": {
+            "text": "Grow in moist to wet soil in part-shade to shade. More sun can be tolerated if the soil is wetter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in spring. Stem-tip cuttings can be taken in spring (see softwood cuttings)",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, other than cutting back at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews, rust diseases and a fungal leaf spot are sometimes problems",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Chelone_glabra.html",
@@ -181,5 +219,7 @@
             "Petal blight",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Chelone glabra",
+    "display_name": "Balmony"
 }

@@ -92,17 +92,63 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil, in full sun or partial shade, and protect from drying winds",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Little or no pruning required: Pruning group 1",
-        "pests": "May be affected by aphids and juniper scale insects",
-        "diseases": "May be affected by honey fungus, thuja blight, and Conifers: brown patches"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil, in full sun or partial shade, and protect from drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Little or no pruning required: Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and conifer aphid",
+            "link_names": [
+                "Scale insects",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
+            "link_names": [
+                "Honey fungus",
+                "Thuja blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
+            }
+        }
+    },
+    "main_name_original": "Thuja occidentalis 'Golden Tuffet'",
+    "display_name": "White cedar 'golden tuffet'"
 }

@@ -87,17 +87,45 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in in any fertile well-drained but moist soil in full sun or partial shade",
-        "propagation": "Sow seeds in containers in a cold frame in autumn or spring or divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to base in autumn",
-        "pests": "Generally disease-free",
-        "diseases": "May be susceptible to powdery mildew"
+        "cultivation": {
+            "text": "Grow in in any fertile well-drained but moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Sow seeds in containers in a cold frame in autumn or spring or divide in spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to base in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polemonium_caeruleum__Bambino_Blue_.html",
@@ -129,5 +157,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Polemonium caeruleum 'Bambino Blue'",
+    "display_name": ""
 }

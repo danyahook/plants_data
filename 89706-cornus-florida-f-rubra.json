@@ -89,14 +89,60 @@
         "plant_range": "E North America, E Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained, neutral to acid soil in sun or partial shade. Keep roots cool with a mulch in summer. Shelter in exposed locations. For more advice, see flowering dogwood cultivation",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest free but can get horse chestnut scale",
-        "diseases": "May suffer from cornus anthracnose diseases"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained, neutral to acid soil in sun or partial shade. Keep roots cool with a mulch in summer. Shelter in exposed locations. For more advice, see flowering dogwood cultivation",
+            "link_names": [
+                "Mulch",
+                "Flowering dogwood cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to cornus anthracnose and honey fungus",
+            "link_names": [
+                "Cornus anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cornus florida f. rubra",
+    "display_name": "Flowering dogwood red-form"
 }

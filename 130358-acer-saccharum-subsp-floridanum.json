@@ -95,14 +95,70 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in sun or partial shade. See tree cultivation for further advice",
-        "propagation": "Propagate by seed (trees and shrubs), layering in autumn, grafting in late winter or softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Pruning group 1, if necessary, from late autumn to midwinter only",
-        "pests": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-        "diseases": "May be susceptible to coral spot, Verticillium wilt, leaf scorch and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in sun or partial shade. See tree cultivation for further advice",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed (trees and shrubs), layering in autumn, grafting in late winter or softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Layering",
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, if necessary, from late autumn to midwinter only",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer saccharum subsp. floridanum",
+    "display_name": "Florida sugar maple"
 }

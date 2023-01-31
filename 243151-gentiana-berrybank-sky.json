@@ -88,17 +88,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in partial shade. Suitable for rock garden or peat terrace",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Gravel garden",
-            "Rock garden",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs, snails and aphids may be a nuisance",
-        "diseases": "Prone to root rot"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in partial shade. Suitable for rock garden or peat terrace",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Gravel garden",
+                "Rock garden",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails and aphids may be a nuisance",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Prone to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Gentiana 'Berrybank Sky'",
+    "display_name": "Gentian 'berrybank sky'"
 }

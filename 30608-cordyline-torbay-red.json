@@ -96,17 +96,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in a sheltered position in full sun or partial shade",
-        "propagation": "Propagate from suckers",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Not usually pruned",
-        "pests": "May be attacked by scale insects and glasshouse red spider mite",
-        "diseases": "May be affected by Cordyline slime flux"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in a sheltered position in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from suckers",
+            "link_names": [
+                "Suckers"
+            ],
+            "related_links": {
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Not usually pruned",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by scale insects and glasshouse red spider mite",
+            "link_names": [
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by Cordyline slime flux",
+            "link_names": [
+                "Cordyline slime flux"
+            ],
+            "related_links": {
+                "cordyline_slime_flux": "https://www.rhs.org.uk/disease/cordyline-slime-flux"
+            }
+        }
+    },
+    "main_name_original": "Cordyline 'Torbay Red'",
+    "display_name": "Cabbage palm 'torbay red'"
 }

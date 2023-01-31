@@ -99,17 +99,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Sow seed from autumn to spring, and grow in full sun in any well-drained moderately fertile soil; on exposed sites, support by staking",
-        "propagation": "Propagate by seed in autumn at 18-20°C or in early spring ('Madame Butterfly' are F1 hybrids which will not themselves set seed) or by semi-ripe cuttings in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but deadheading will prolong the flowering season",
-        "pests": "May be affected by aphids",
-        "diseases": "May be affected by antirrhinum rust, downy mildews, Fusarium wilt, leaf spot, powdery mildews, sclerotinia diseases, shot-hole, and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Sow seed from autumn to spring, and grow in full sun in any well-drained moderately fertile soil; on exposed sites, support by staking",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in autumn at 18-20°C or in early spring ('Madame Butterfly' are F1 hybrids which will not themselves set seed) or by semi-ripe cuttings in early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading will prolong the flowering season",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be affected by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by antirrhinum rust, downy mildews, Fusarium wilt, leaf spot, powdery mildews, sclerotinia diseases, shot-hole, and verticillium wilt",
+            "link_names": [
+                "Antirrhinum rust",
+                "Downy mildews",
+                "Fusarium wilt",
+                "Powdery mildews",
+                "Sclerotinia diseases",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "antirrhinum_rust": "https://www.rhs.org.uk/disease/antirrhinum-rust",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "sclerotinia_diseases": "https://www.rhs.org.uk/disease/sclerotinia-disease",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum majus 'Madame Butterfly' (mixed) (d)",
+    "display_name": "Snapdragon 'madame butterfly'"
 }

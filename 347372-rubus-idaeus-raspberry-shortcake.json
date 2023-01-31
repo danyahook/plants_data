@@ -95,16 +95,71 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "The short stature makes this cultivar ideal for the smaller garden and for containers. Grow in a sunny position, and best in slightly acidic well-drained soil. See Raspberry cultivation",
-        "propagation": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune back canes after fruiting",
-        "pests": "Raspberry beetle, raspberry leaf and bud mite, red berry mite or fruit red spider mite in sheltered places may be a problem",
-        "diseases": "May be affected by grey moulds, raspberry cane spot, a fungal leaf spot, raspberry cane blight or a virus"
-    }
+        "cultivation": {
+            "text": "The short stature makes this cultivar ideal for the smaller garden and for containers. Grow in a sunny position, and best in slightly acidic well-drained soil. See Raspberry cultivation",
+            "link_names": [
+                "Containers",
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Edible fruit",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune back canes after fruiting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Raspberry beetle, raspberry leaf and bud mite, red berry mite or fruit red spider mite in sheltered places may be a problem",
+            "link_names": [
+                "Raspberry beetle",
+                "Raspberry leaf and bud mite",
+                "Red berry mite",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "raspberry_leaf_and_bud_mite": "https://www.rhs.org.uk/biodiversity/raspberry-leaf-and-bud-mite",
+                "red_berry_mite": "https://www.rhs.org.uk/biodiversity/red-berry-mite",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds, raspberry cane spot, a fungal leaf spot, raspberry cane blight or a virus",
+            "link_names": [
+                "Grey moulds",
+                "Raspberry cane blight",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "raspberry_cane_blight": "https://www.rhs.org.uk/disease/raspberry-cane-blight",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Rubus idaeus Raspberry Shortcake",
+    "display_name": "Raspberry [ruby beauty]"
 }

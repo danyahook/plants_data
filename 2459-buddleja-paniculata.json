@@ -91,15 +91,72 @@
         "plant_range": "S Bolivia"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a standard cactus compost, in full light. Provide low humidity. Water freely when in growth and keep completely dry at other times. Apply a dilute low nitrogen fertilizer fortnightly during late spring and summer",
-        "propagation": "Propagate by seed or stem cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can be attacked by mealybugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. See buddleja cultivation for more detailed advice",
+            "link_names": [
+                "Buddleja cultivation"
+            ],
+            "related_links": {
+                "buddleja_cultivation": "https://www.rhs.org.uk/plants/buddleja/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn, or by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Hardwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bugs, caterpillars, earwigs, figwort weevils, glasshouse red spider mite, leaf and bud eelworm, and mullein moth",
+            "link_names": [
+                "Aphids",
+                "Earwigs",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, fungal leaf spot, and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cleistocactus_strausii.html",
@@ -139,5 +196,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Buddleja paniculata",
+    "display_name": "Paniculate butterfly bush"
 }

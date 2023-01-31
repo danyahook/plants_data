@@ -79,18 +79,60 @@
         "name_status": "Not established"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well drained soil in full sun or light shade. See allium cultivation for more details",
-        "propagation": "Propagate by seed sown as soon as ripe and keep trays outdoors. The seed needs a chilling period to germinate",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Remove spent flower stems",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to onion white rot and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well drained soil in full sun or light shade. See allium cultivation for more details",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe and keep trays outdoors. The seed needs a chilling period to germinate",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flower stems",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to onion white rot and downy mildews",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium acuminatum 'Album'",
+    "display_name": ""
 }

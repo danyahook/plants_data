@@ -98,18 +98,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 5cm deep in moderately fertile, humus-rich, well-drained soil. Avoid excessive summer moisture and mulch well when leaves wither. See hardy cyclamen cultivation for further advice",
-        "propagation": "Propagate by seed sown in darkness as soon as ripe. Can be beneficial to soak seed for 10 hours prior to sowing",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Mice and squirrels may be a problem",
-        "diseases": "Generally disease free except under glass"
-    }
+        "cultivation": {
+            "text": "Plant 5cm deep in moderately fertile, humus-rich, well-drained soil. Avoid excessive summer moisture and mulch well when leaves wither. See hardy cyclamen cultivation for further advice",
+            "link_names": [
+                "Mulch",
+                "Hardy cyclamen cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hardy_cyclamen_cultivation": "https://www.rhs.org.uk/plants/cyclamen/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe; exclude light. Can be beneficial to soak seed for 10 hours prior to sowing",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Mice and squirrels may be a problem",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free except under glass",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Cyclamen coum subsp. coum f. coum Pewter Group",
+    "display_name": "Cyclamen pewter group"
 }

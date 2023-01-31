@@ -79,18 +79,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in reliably moist but well-drained, humus-rich, acid or neutral soil. Site in sun only where summers are cool and damp, otherwise site in partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs, snails, glasshouse red spider mite and aphids may be a problem",
-        "diseases": "Prone to a rust and soil fungal diseases"
-    }
+        "cultivation": {
+            "text": "Grow in reliably moist but well-drained, humus-rich, acid or neutral soil. Site in sun only where summers are cool and damp, otherwise site in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails, glasshouse red spider mite and aphids may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Prone to a rust and soil fungal diseases",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Gentiana 'Strathmore'",
+    "display_name": "Gentian 'strathmore'"
 }

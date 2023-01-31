@@ -99,15 +99,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, humus-rich, moist but well-drained soil in full sun, partial shade or shade",
-        "propagation": "Propagate by division in spring taking care not to damage young brittle shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to the base in late autumn",
-        "pests": "May be attacked by slugs and sawflies",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, humus-rich, moist but well-drained soil in full sun, partial shade or shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring taking care not to damage young brittle shoots",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and sawflies",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Polygonatum odoratum var. pluriflorum 'Variegatum' (v)",
+    "display_name": "Angular solomon's seal 'variegatum'"
 }

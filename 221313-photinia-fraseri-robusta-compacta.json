@@ -88,15 +88,61 @@
         "name_status": "Not established"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See photinia cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1. Prune in spring after frosts. If growing as a hedge prune again in summer. See pruning evergreen shrubs for further advice",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to fireblight, leaf spot and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or partial shade. See photinia cultivation",
+            "link_names": [
+                "Photinia cultivation"
+            ],
+            "related_links": {
+                "photinia_cultivation": "https://www.rhs.org.uk/plants/photinia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Most cultivars may be pruned hard in spring to regenerate if necessary. If growing as a hedge trim two or three times during the growing season to main shape and encourage new red foliage. See pruning everygreen shrubs for further advice",
+            "link_names": [
+                "Hedge"
+            ],
+            "related_links": {
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, a leaf spot, honey fungus and powdery mildews",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Photinia × fraseri 'Robusta Compacta'",
+    "display_name": "Christmas berry 'robusta compacta'"
 }

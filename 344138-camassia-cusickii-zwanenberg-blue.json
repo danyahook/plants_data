@@ -84,19 +84,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in sun or partial shade. Avoid waterlogged ground. Mulch in winter where prolonged hard frosts occur.",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe. Bulb propagation by removing offsetts when dormant in summer.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required. Remove withered flower stalks and leaves.",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in sun or partial shade. Avoid waterlogged ground. Mulch in winter where prolonged hard frosts occur.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe. Bulb propagation by removing offsetts when dormant in summer.",
+            "link_names": [
+                "Propagate by seed",
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Coastal",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Remove withered flower stalks and leaves.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Camassia cusickii 'Zwanenberg Blue'",
+    "display_name": ""
 }

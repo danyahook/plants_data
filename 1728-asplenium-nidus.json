@@ -80,14 +80,48 @@
         "plant_range": "Old World Tropics"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil with added grit in frost-free areas. Under glass in a mix of equal parts loam, course leaf mould or peat substitute, and charcoal. Provide bright filtered light",
-        "propagation": "Propagate by spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get scale insects and leaf and bud eelworms",
-        "diseases": "May be infected by a rust in mild, damp winters"
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil with added grit in frost-free areas. Under glass in a mix of equal parts loam, course leaf mould or peat substitute, and charcoal. Provide bright filtered light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by spores",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get scale insects and leaf and bud eelworms",
+            "link_names": [
+                "Scale insects",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by a rust in mild, damp winters",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Asplenium_nidus.html",
@@ -179,5 +213,7 @@
             "Plant dried up",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Asplenium nidus",
+    "display_name": "Bird's nest fern"
 }

@@ -94,14 +94,64 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun or part shade. Suitable for hedging but requires regular trimming to keep under control. Fast growing and it has the potential to become a nuisance",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Hedging and screens"
-        ],
-        "pruning": "Regular trimming of young, green shoots will keep hedges neat and growth in check; trim two to three times in growing season. If old wood is pruned, regrowth will not occur",
-        "pests": "May be affected by conifer aphids and scale insects",
-        "diseases": "May be affected by a canker and honey fungus; see Conifers: brown patches"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun or part shade. Suitable for hedging but requires regular trimming to keep under control. Fast growing and it has the potential to become a nuisance",
+            "link_names": [
+                "Potential to become a nuisance"
+            ],
+            "related_links": {
+                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular trimming of young, green shoots will keep hedges neat and growth in check; trim two to three times in growing season. If old wood is pruned, regrowth will not occur",
+            "link_names": [
+                "Hedges"
+            ],
+            "related_links": {
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to conifer aphid and scale insects",
+            "link_names": [
+                "Conifer aphid",
+                "Scale insects"
+            ],
+            "related_links": {
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a bacterial canker and honey fungus; see Conifers: brown patches",
+            "link_names": [
+                "Bacterial canker",
+                "Conifers: brown patches"
+            ],
+            "related_links": {
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "conifers:_brown_patches": "https://www.rhs.org.uk/problems/conifers-brown-patches"
+            }
+        }
+    },
+    "main_name_original": "× Hesperotropsis leylandii",
+    "display_name": "Leyland cypress"
 }

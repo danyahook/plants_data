@@ -121,13 +121,33 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows naturally in open and cultivated ground, hedgerows and scrub and can be a weed in gardens",
-        "propagation": "Spreads readily by seed and can be invasive in most soil conditions",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows naturally in open and cultivated ground, hedgerows and scrub and can be a weed in gardens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Spreads readily by seed and can be invasive in most soil conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Galium_aparine.html",
@@ -269,5 +289,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Galium aparine",
+    "display_name": "Cleavers"
 }

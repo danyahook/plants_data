@@ -86,19 +86,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained or moisture-retentive well-drained soil in full sun or part shade with shelter from cold winds. Ideal for wall training",
-        "propagation": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in late summer and hardwood cuttings from late autumn to winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Generally trouble free but may be affected by brown scale insect",
-        "diseases": "Generally trouble free but may suffer from escallonia leaf spot or a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained or moisture-retentive well-drained soil in full sun or part shade with shelter from cold winds. Ideal for wall training",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in late summer and hardwood cuttings from late autumn to winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale insect but generally pest- free",
+            "link_names": [
+                "Brown scale"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to escallonia leaf spot and honey fungus but generally disease-free",
+            "link_names": [
+                "Escallonia leaf spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "escallonia_leaf_spot": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Escallonia 'C.F. Ball'",
+    "display_name": "Escallonia 'c.f. ball'"
 }
