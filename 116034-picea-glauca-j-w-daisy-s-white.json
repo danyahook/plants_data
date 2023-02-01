@@ -91,18 +91,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Cultivate in moist but well drained soil ideally neutral to acid. Place in a sunny position but shaded from the afternoon sun",
-        "propagation": "Propagate by semi-hardwood cuttings in late summer or by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Maybe susceptible to red spider mite and aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Cultivate in moist but well drained soil ideally neutral to acid. Place in a sunny position but shaded from the afternoon sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in late summer or by grafting",
+            "link_names": [
+                "Semi-hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, red spider mite and conifer aphid",
+            "link_names": [
+                "Adelgids",
+                "Red spider mite",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Picea glauca 'J.W. Daisy's White'",
+    "display_name": "Alberta spruce 'j.w. daisy's white'"
 }
