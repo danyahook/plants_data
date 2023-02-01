@@ -96,19 +96,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well-drained, humus-rich soil, in a sheltered position in full sun. May benefit from some light afternoon shade in hot summers. Mulch in autumn; may be deciduous in cold winters",
-        "propagation": "Propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 9 if necessary",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to virus diseases, which can cause distorted leaf growth"
-    }
+        "cultivation": {
+            "text": "Grow in a moist but well-drained, humus-rich soil, in a sheltered position in full sun. May benefit from some light afternoon shade in hot summers. Mulch in autumn; may be deciduous in cold winters",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 9 if necessary",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a virus",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Nandina domestica 'Monfar'",
+    "display_name": "Heavenly bamboo [sienna sunrise]"
 }

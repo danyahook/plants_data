@@ -107,19 +107,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun. Suited to lawns and turf and spread is indefinite so may be difficult to contain unless regularly maintained or used in a wild garden",
-        "propagation": "Propagate by seed in early spring or autumn, or by division from mid spring to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Cut down dead growth in autumn",
-        "pests": "May be susceptible to chafer grubs in lawns",
-        "diseases": "May be susceptible to a rust"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun. Suited to lawns and turf and spread is indefinite so may be difficult to contain unless regularly maintained or used in a wild garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring or autumn, or by division from mid spring to early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down dead growth in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to chafer grubs in lawns",
+            "link_names": [
+                "Chafer grubs"
+            ],
+            "related_links": {
+                "chafer_grubs": "https://www.rhs.org.uk/biodiversity/chafer-grubs-in-garden-borders"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lolium_perenne.html",
@@ -277,5 +315,7 @@
             "Flower withering",
             "Fire ants"
         ]
-    }
+    },
+    "main_name_original": "Lolium perenne",
+    "display_name": "Crappe"
 }

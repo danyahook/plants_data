@@ -94,17 +94,47 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun. Can die back in heavy, poorly-drained soil",
-        "propagation": "Propagate by seed, sown in pots in a cold frame in spring or propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Gravel garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Although you can cut back flower stems after flowering the seedheads are attractive so can be left",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun. Can die back in heavy, poorly-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a cold frame in spring or propagate by division after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Gravel garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Although you can cut back flower stems after flowering the seedheads are attractive so can be left",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Asphodelus_macrocarpus.html",
@@ -129,5 +159,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Asphodelus macrocarpus",
+    "display_name": "White asphodel"
 }

@@ -99,15 +99,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most fertile soils but will require protection from cold, drying winds. In colder climes provide a deep winter mulch",
-        "propagation": "Propagate by seed sown in containers in a cold frame in winter or spring or by division in spring. May not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "slugs and snails may cause problems",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grows well in most fertile soils but will require protection from cold, drying winds. In colder climes provide a deep winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in winter or spring or by division in spring. May not come true from seed",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "slugs and snails may cause problems",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Ligularia 'Leopard'",
+    "display_name": "Gold-spotted japanese farfugium"
 }

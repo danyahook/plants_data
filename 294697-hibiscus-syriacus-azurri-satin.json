@@ -90,17 +90,75 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral, humus-rich, moist but well-drained soil, in full sun, in a warm position such as a south-facing or west-facing wall to encourage flowering, and protect roots in winter with an organic mulch",
-        "propagation": "Propagate by softwood cuttings in late spring, by semi-ripe cuttings in summer, or by layering in spring or autumn; propagation for resale is prohibited without a licence",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 (little or no pruning of trees and shrubs)",
-        "pests": "May be affected by aphids, scale insects, mealybugs, and whiteflies",
-        "diseases": "May be affected by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in neutral, humus-rich, moist but well-drained soil, in full sun, in a warm position such as a south-facing or west-facing wall to encourage flowering, and protect roots in winter with an organic mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring, by semi-ripe cuttings in summer, or by layering in spring or autumn; propagation for resale is prohibited without a licence",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 (little or no pruning of trees and shrubs)",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, mealybugs and glasshouse whitefly when grown under glass",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Mealybugs",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Hibiscus syriacus Azurri Satin",
+    "display_name": "Rose of sharon [azurri blue satin]"
 }

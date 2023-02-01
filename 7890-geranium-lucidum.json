@@ -89,15 +89,43 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows naturally in well-drained, alkaline soils in full sun or partial shade and often found on limestone rocks and walls; also grows on verges, banks, in gardens and on uncultivated land",
-        "propagation": "Spreads readily by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grows naturally in well-drained, alkaline soils in full sun or partial shade and often found on limestone rocks and walls; also grows on verges, banks, in gardens and on uncultivated land",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Spreads readily by seed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Geranium_lucidum.html",
@@ -154,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Geranium lucidum",
+    "display_name": "Shining cranesbill"
 }

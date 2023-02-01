@@ -94,20 +94,68 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in sun in well-drained but moisture-retentive soil in full sun, and in colder areas provide winter protection with a dry mulch; for more advice, see Agapanthus cultivation",
-        "propagation": "Propagate by division between spring and early summer, or in early autumn after plants have finished flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required: allow flowering stems to remain, because the seedheads look attractive over winter",
-        "pests": "May be affected by slugs or snails and Agapanthus gall midge",
-        "diseases": "May be affected by a virus"
-    }
+        "cultivation": {
+            "text": "Grow in sun in well-drained but moisture-retentive soil in full sun, and in colder areas provide winter protection with a dry mulch; for more advice, see Agapanthus cultivation",
+            "link_names": [
+                "Winter protection",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division between spring and early summer, or in early autumn after plants have finished flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required: allow flowering stems to remain, because the seedheads look attractive over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by slugs or snails and Agapanthus gall midge",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Agapanthus gall midge"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Agapanthus 'Silver Moon'",
+    "display_name": "African lily [silver moon]"
 }

@@ -89,18 +89,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or part shade, good for chalky soils",
-        "propagation": "Propagate by softwood cuttings in early summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 but prune only from late autumn to midwinter",
-        "pests": "May be susceptible to aphids, caterpillars and horse chestnut scale and mites may cause the production of galls",
-        "diseases": "May be susceptible to Verticillium wilt, leaf scorch, tar spot and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or part shade, good for chalky soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or grafting in winter",
+            "link_names": [
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 but prune only from late autumn to midwinter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, leaf scorch, tar spot and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Tar spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "tar_spot": "https://www.rhs.org.uk/disease/tar-spot-of-maple",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer campestre 'Ruby Glow'",
+    "display_name": "Field maple 'ruby glow'"
 }

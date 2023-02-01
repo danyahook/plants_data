@@ -92,17 +92,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well-drained, fertile soil in a sunny position; will tolerate a heavy clay soil. Shelter from strong winds as these may shred the large leaves. Protect from late spring frosts when young",
-        "propagation": "Propagate by seed, softwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Can be pollarded or coppiced in late winter or early spring to produce larger leaves",
-        "pests": "Generally pest-free",
-        "diseases": "Susceptible to verticillium wilt"
+        "cultivation": {
+            "text": "Grow in a moist but well-drained, fertile soil in a sunny position; will tolerate a heavy clay soil. Shelter from strong winds as these may shred the large leaves. Protect from late spring frosts when young",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Can be pollarded or coppiced in late winter or early spring to produce larger leaves",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and rarely, honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Catalpa_bignonioides__Aurea_.html",
@@ -135,5 +177,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Catalpa bignonioides 'Aurea'",
+    "display_name": "Golden indian bean tree"
 }

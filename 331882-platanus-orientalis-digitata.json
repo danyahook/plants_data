@@ -92,13 +92,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil in full sun. This is suited only to very large gardens and parkland. It can be hard-pruned or pleached. For more advice see tree cultivation",
-        "propagation": "Propagate from hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1 or cn be hard pruned in winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any soil in full sun. This is suited only to very large gardens and parkland. It can be hard-pruned or pleached. For more advice see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or cn be hard pruned in winter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lace bugs",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to plane anthracnose and honey fungus",
+            "link_names": [
+                "Plane anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "plane_anthracnose": "https://www.rhs.org.uk/disease/plane-anthracnose",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Platanus orientalis 'Digitata'",
+    "display_name": "Oriental plane"
 }

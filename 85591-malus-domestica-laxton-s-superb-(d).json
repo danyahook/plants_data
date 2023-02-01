@@ -90,15 +90,84 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a deep, fertile, moist but well-drained, neutral soil in a sheltered, sunny position. Will not thrive on very acid soils, shallow chalk soils or with shade for more than half the day - apple cultivation. Thin fruit in late spring or early summer to improve fruit size and quality. Tree size will depend on rootstock and training method selection. See apple cultivation",
-        "propagation": "Propagate by grafting in midwinter or chip budding in late summer on clonal rootstock for fruit. The rootstock will largely determine the vigour of the tree",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Prune according to chosen training method, often twice a year. See apple pruning",
-        "pests": "May be affected by aphids, woolly aphid, rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
-        "diseases": "Average resistance to common apple diseases: apple canker, apple scab, and powdery mildews. Apples are also susceptible to brown rot, honey fungus and blossom wilt"
-    }
+        "cultivation": {
+            "text": "Prefers a deep, fertile, moist but well-drained, neutral soil in a sheltered, sunny position. Will not thrive on very acid soils, shallow chalk soils or with shade for more than half the day - apple cultivation. Thin fruit in late spring or early summer to improve fruit size and quality. Tree size will depend on rootstock and training method selection. See apple cultivation",
+            "link_names": [
+                "Apple cultivation",
+                "Thin fruit",
+                "Apple cultivation"
+            ],
+            "related_links": {
+                "apple_cultivation": "https://www.rhs.org.uk/fruit/apples/grow-your-own",
+                "thin_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/thinning"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting in midwinter or chip budding in late summer on clonal rootstock for fruit. The rootstock will largely determine the vigour of the tree",
+            "link_names": [
+                "Grafting",
+                "Chip budding",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune according to chosen training method, often twice a year. See apple pruning",
+            "link_names": [
+                "Apple pruning"
+            ],
+            "related_links": {
+                "apple_pruning": "https://www.rhs.org.uk/fruit/apples/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, including woolly aphid and rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Rosy apple aphid",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "rosy_apple_aphid": "https://www.rhs.org.uk/biodiversity/rosy-apple-aphid",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to apple canker, apple scab, blossom wilt, brown rot, fireblight, honey fungus and powdery mildews",
+            "link_names": [
+                "Apple canker",
+                "Apple scab",
+                "Brown rot",
+                "Fireblight",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Malus domestica 'Laxton's Superb' (D)",
+    "display_name": "Apple 'laxton's superb'"
 }

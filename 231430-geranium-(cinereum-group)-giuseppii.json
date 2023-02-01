@@ -103,19 +103,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, sharply drained soil in full sun",
-        "propagation": "Propagate by division in early spring, late summer or autumn; propagate by root cuttings in autumn or semi-ripe basal stem cuttings in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be damaged by vine weevil larvae, sawfly larvae, slugs and snails",
-        "diseases": "A virus and downy mildews may be troublesome; in dry conditions powdery mildews may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in humus-rich, sharply drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring, late summer or autumn; propagate by root cuttings in autumn or semi-ripe basal stem cuttings in late spring",
+            "link_names": [
+                "Division",
+                "Root cuttings",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by vine weevil larvae, sawfly larvae, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "A virus and downy mildews may be troublesome; in dry conditions powdery mildews may be a problem",
+            "link_names": [
+                "A virus",
+                "Downy mildews",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium (Cinereum Group) 'Giuseppii'",
+    "display_name": "Grey cranesbill 'giuseppii'"
 }

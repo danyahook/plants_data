@@ -89,17 +89,77 @@
         "plant_range": "China, N. Vietnam"
     },
     "how_to_grow": {
-        "cultivation": "Not suited to cold gardens and will need to be overwintered in a frost free place such as a conservatory or greenhouse but attention to watering is needed in dry spells during the growing season. In mild, frost-free areas, grow in moisture-retentive, well-drained soil with sun or partial shade. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See tree cultivation and container cultivation",
-        "propagation": "Propagate by seed (trees and shrubs), layering in autumn, grafting in late winter or softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 1, if necessary, from late autumn to midwinter only",
-        "pests": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-        "diseases": "May be susceptible to coral spot, Verticillium wilt, leaf scorch and honey fungus"
-    }
+        "cultivation": {
+            "text": "Not suited to cold gardens and will need to be overwintered in a frost free place such as a conservatory or greenhouse but attention to watering is needed in dry spells during the growing season. In mild, frost-free areas, grow in moisture-retentive, well-drained soil with sun or partial shade. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See tree cultivation and container cultivation",
+            "link_names": [
+                "Leaf scorch",
+                "Tree cultivation",
+                "Container"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed (trees and shrubs), layering in autumn, grafting in late winter or softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Layering",
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, if necessary, from late autumn to midwinter only",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer tonkinense subsp. liquidambarifolium",
+    "display_name": "Liquidambar-leaved tonkin maple"
 }

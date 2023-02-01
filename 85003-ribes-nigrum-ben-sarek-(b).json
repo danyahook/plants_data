@@ -83,13 +83,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a stooled bush. Mulch with well rotted manure or compost. Add a general fertilizer and additional nitrogen if necessary",
-        "propagation": "Propagate by hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden"
-        ],
-        "pruning": "Renewal pruning in the dormant season",
-        "pests": "Can get gall mites, gall midges and aphids and reversion",
-        "diseases": "Resistant to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow as a stooled bush. Mulch with well rotted manure or compost. Add a general fertilizer and additional nitrogen if necessary",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Renewal pruning in the dormant season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, coral spot and sometimes honey fungus. Resistant to powdery mildews",
+            "link_names": [
+                "Coral spot",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Ribes nigrum 'Ben Sarek' (B)",
+    "display_name": "Blackcurrant 'ben sarek'"
 }

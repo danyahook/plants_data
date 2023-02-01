@@ -99,15 +99,53 @@
         "plant_range": "W California to Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well drained soil in full sun. See Trees: buying and planting specimens",
-        "propagation": "Propagate by seed sown in containers in a cold frame in late winter. Retain in pots for at least two years",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal"
-        ],
-        "pruning": "Generally no pruning required. Remove competing leaders and, on older trees, crown lift by removing some of the lower branches",
-        "pests": "Pine adelgid and sawfly may occur",
-        "diseases": "May be affected by honey fungus, various needle cast diseases and tree rust"
+        "cultivation": {
+            "text": "Grow in any well drained soil in full sun. See Trees: buying and planting specimens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in late winter. Retain in pots for at least two years",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Generally no pruning required. Remove competing leaders and, on older trees, crown lift by removing some of the lower branches",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pinus_coulteri.html",
@@ -146,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pinus coulteri",
+    "display_name": "Big-cone pine"
 }

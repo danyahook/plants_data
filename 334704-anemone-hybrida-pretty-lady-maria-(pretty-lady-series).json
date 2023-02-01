@@ -80,18 +80,58 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in any garden soil but avoid excessive winter wet. Prefers full sun or dappled shade.",
-        "propagation": "Propagate by division in early spring or autumn, or by root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn, after flowering",
-        "pests": "May be attacked by slugs and caterpillars",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow in any garden soil but avoid excessive winter wet. Prefers full sun or dappled shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or autumn, or by root cuttings in winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn, after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and caterpillars",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Anemone × hybrida 'Pretty Lady Maria' (Pretty Lady Series)",
+    "display_name": "Japanese anemone 'pretty lady maria'"
 }

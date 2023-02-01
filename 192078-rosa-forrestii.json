@@ -118,15 +118,75 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in moderately fertile humus-rich soil; see rose cultivation for more advice",
-        "propagation": "Propagate by hardwood cuttings in autumn or by T-budding and grafting in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 21 (shrub roses); to retain hips, delay pruning until late winter",
-        "pests": "May be susceptible to rose aphids, rose leafhoppers, scale insects, caterpillars, rose leaf-rolling sawfly, leaf-cutting bees, rabbits and deer but generally pest free",
-        "diseases": "May be susceptible to black spot, rose rust and rose powdery mildew but generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in moderately fertile humus-rich soil; see rose cultivation for more advice",
+            "link_names": [
+                "Rose cultivation"
+            ],
+            "related_links": {
+                "rose_cultivation": "https://www.rhs.org.uk/plants/roses/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn or by T-budding and grafting in summer",
+            "link_names": [
+                "Hardwood",
+                "T-budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "t-budding": "https://www.rhs.org.uk/propagation/t-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 21 (shrub roses); to retain hips, delay pruning until late winter",
+            "link_names": [
+                "Pruning group 21"
+            ],
+            "related_links": {
+                "pruning_group_21": "https://www.rhs.org.uk/plants/roses/shrub/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to rose aphids, rose leafhoppers, scale insects, caterpillars, rose leaf-rolling sawfly, leaf-cutting bees, rabbits and deer but generally pest free",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Leaf-cutting bees",
+                "Rabbits",
+                "Deer"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "leaf-cutting_bees": "https://www.rhs.org.uk/biodiversity/leaf-cutting-bees",
+                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits",
+                "deer": "https://www.rhs.org.uk/biodiversity/deer"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to black spot, rose rust and rose powdery mildew but generally disease free",
+            "link_names": [
+                "Rose rust",
+                "Rose powdery mildew"
+            ],
+            "related_links": {
+                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
+                "rose_powdery_mildew": "https://www.rhs.org.uk/disease/rose-powdery-mildew"
+            }
+        }
+    },
+    "main_name_original": "Rosa forrestii",
+    "display_name": "Burr rose"
 }

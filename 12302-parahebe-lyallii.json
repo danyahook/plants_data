@@ -90,22 +90,66 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, well-drained soil, in a sunny position with shelter from cold, drying winds. May need protection in cold winters",
-        "propagation": "Propagate by seed, or by semi-ripe cuttings in early or midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, well-drained soil, in a sunny position with shelter from cold, drying winds. May need protection in cold winters",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by semi-ripe cuttings in early or midsummer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Parahebe lyallii",
+    "display_name": "Lyall’s parahebe"
 }

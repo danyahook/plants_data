@@ -87,19 +87,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile sharply-drained soil in full sun in a sheltered situation. May need a dry winter mulch in frost prone areas",
-        "propagation": "Take softwood cuttings in early summer or semi-ripe cuttings in midsummer. Divide in spring or propagate by seed in late winter or spring; cultivars will not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Best habit is encouraged by cutting back each year. Prune any winter damaged stems back hard to encourage fresh new growth from the base. After flowering, shorten flowered stems by half (unless seed is required) to encourage further flowering",
-        "pests": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
-        "diseases": "May be affected by grey mould, powdery mildew and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile sharply-drained soil in full sun in a sheltered situation. May need a dry winter mulch in frost prone areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Take softwood cuttings in early summer or semi-ripe cuttings in midsummer. Divide in spring or propagate by seed in late winter or spring; cultivars will not come true from seed",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Divide"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Best habit is encouraged by cutting back each year. Prune any winter damaged stems back hard to encourage fresh new growth from the base. After flowering, shorten flowered stems by half (unless seed is required) to encourage further flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey mould, powdery mildew and fungal leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Penstemon heterophyllus 'Catherine de la Mare'",
+    "display_name": "Penstemon 'catherine de la mare'"
 }

@@ -98,19 +98,59 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained soil and a position in full sun or partial shade",
-        "propagation": "Propagate by basal cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be susceptible to vine weevil, capsid bug and sawflies",
-        "diseases": "May be susceptible to downy mildews and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in well-drained soil and a position in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, capsid bug and geranium sawfly",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug",
+                "Geranium sawfly"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews and powdery mildews",
+            "link_names": [
+                "Downy mildews",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium 'Noortlil'PBR",
+    "display_name": ""
 }

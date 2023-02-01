@@ -92,14 +92,48 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, well-drained soil in good light",
-        "propagation": "Propagate by seed, or from softwood or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Garden edging"
-        ],
-        "pruning": "Prune with shears in spring, before new growth begins, to maintian shape",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in light, well-drained soil in good light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or from softwood or semi-ripe cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune with shears in spring, before new growth begins, to maintian shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Teucrium chamaedrys f. albiflora",
+    "display_name": ""
 }

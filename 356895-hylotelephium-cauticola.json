@@ -95,19 +95,63 @@
         "plant_range": "Japan (Hokkaido)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained neutral to alkaline soil in full sun or partial shade. Suitable for rock garden, container or the front of a border",
-        "propagation": "Propagate by seed or softwood cuttings of non-flowering stems",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden",
-            "Garden edging",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be damaged by slugs, snails and vine weevil",
-        "diseases": "May be subject to root rot"
-    }
+        "cultivation": {
+            "text": "Grow in a well-drained neutral to alkaline soil in full sun or partial shade. Suitable for rock garden, container or the front of a border",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings of non-flowering stems",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden",
+                "Garden edging",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by slugs, snails and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Hylotelephium cauticola",
+    "display_name": "Cliff-dwelling stonecrop"
 }

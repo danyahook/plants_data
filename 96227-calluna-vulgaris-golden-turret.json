@@ -95,20 +95,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, acidic soil in full sun. See Hardy heathers for more detailed advice",
-        "propagation": "Propagate by semi-hardwood cuttings in midsummer, or by layering in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 10, in spring",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to fungal diseases, including grey moulds and Phytophthora root rot, in warm wet conditions"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, acidic soil in full sun. See Hardy heathers for more detailed advice",
+            "link_names": [
+                "Hardy heathers"
+            ],
+            "related_links": {
+                "hardy_heathers": "https://www.rhs.org.uk/plants/types/heathers/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in midsummer, or by layering in spring",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10, in spring",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and other fungal diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Calluna vulgaris 'Golden Turret'",
+    "display_name": "Heather 'gold turret'"
 }

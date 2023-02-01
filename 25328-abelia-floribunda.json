@@ -91,15 +91,51 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun; dislikes cold drying winds",
-        "propagation": "Propagate by greenwood cuttings in early summer or by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun; dislikes cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in early summer or by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Greenwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Abelia floribunda",
+    "display_name": "Freely-flowering vesalea"
 }

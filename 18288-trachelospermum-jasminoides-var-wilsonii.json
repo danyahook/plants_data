@@ -94,18 +94,66 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in full sun or partial shade with shelter from cold winds; for conservatory or greenhouse cultivation grow in a container in loam-based potting compost (JI No.3) in full light with shade from hot sun. See trachelospermum cultivation",
-        "propagation": "Propagate by layering or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 in early spring",
-        "pests": "May be susceptible to cushion scale; may be susceptible to mealybugs and glasshouse red spider mite under glass",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in full sun or partial shade with shelter from cold winds; for conservatory or greenhouse cultivation grow in a container in loam-based potting compost (JI No.3) in full light with shade from hot sun. See trachelospermum cultivation",
+            "link_names": [
+                "Container",
+                "Trachelospermum cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "trachelospermum_cultivation": "https://www.rhs.org.uk/plants/jasmine/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering or semi-ripe cuttings",
+            "link_names": [
+                "Layering",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 in early spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to cushion scale; may be susceptible to mealybugs and glasshouse red spider mite under glass",
+            "link_names": [
+                "Mealybugs",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Trachelospermum jasminoides var. wilsonii",
+    "display_name": "Star jasmine 'wilsonii'"
 }

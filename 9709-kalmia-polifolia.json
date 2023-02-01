@@ -97,17 +97,57 @@
         "plant_range": "N North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, acidic soil enriched with acidic organic matter such as leaf mould, in part shade. Sun is tolerated if the soil is kept moist in summer",
-        "propagation": "Propagate by greenwood cuttings in summer, hardwood cuttings in midwinter, by seed in winter to early spring or by layering in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moist, acidic soil enriched with acidic organic matter such as leaf mould, in part shade. Sun is tolerated if the soil is kept moist in summer",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in summer, hardwood cuttings in midwinter, by seed in winter to early spring or by layering in spring",
+            "link_names": [
+                "Greenwood",
+                "Hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Kalmia_polifolia.html",
@@ -164,5 +204,7 @@
             "Leaf Weevils",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Kalmia polifolia",
+    "display_name": "Bog kalmia"
 }

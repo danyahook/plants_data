@@ -93,14 +93,58 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil in full sun or partial shade",
-        "propagation": "Propagate by cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Caterpillars, aphids and gall midges may be found",
-        "diseases": "Fireblight, powdery mildews, honey fungus and rust diseases can occur"
-    }
+        "cultivation": {
+            "text": "Grow in any soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by cuttings",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Caterpillars, aphids and gall midges may be found",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Fireblight, powdery mildews, honey fungus and rust diseases can occur",
+            "link_names": [
+                "Fireblight",
+                "Powdery mildews",
+                "Honey fungus",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "+ Crataegomespilus grandiflora",
+    "display_name": ""
 }

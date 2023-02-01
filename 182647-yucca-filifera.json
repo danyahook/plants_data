@@ -88,19 +88,53 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in very well-drained soil in full sun in a sheltered position, or grow under glass in gritty compost. Needs to be kept almost dry over winter",
-        "propagation": "Propagate by seed or remove rooted suckers",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required, but dead leaves can be removed to improve appearance. Overlarge plants can be cut back in late spring and will reshoot from the trunk",
-        "pests": "Flower spikes may be attacked by aphids",
-        "diseases": "May be subject to a leaf spot"
+        "cultivation": {
+            "text": "Grow in very well-drained soil in full sun in a sheltered position, or grow under glass in gritty compost. Needs to be kept almost dry over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or remove rooted suckers",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but dead leaves can be removed to improve appearance. Overlarge plants can be cut back in late spring and will reshoot from the trunk",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Flower spikes may be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Yucca_filifera.html",
@@ -141,5 +175,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Yucca filifera",
+    "display_name": "St. peter's palm"
 }

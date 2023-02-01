@@ -82,17 +82,69 @@
         "plant_range": "SW China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moisture-retentive, well-drained soil in full sun or part shade; mulch in spring with well-rotted organic matter particularly in drier soils",
-        "propagation": "Propagate by seed in autumn or spring, propagate by division in summer or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
-        "pests": "Slugs and snails may damage leaves and rhizomes, aphids and thrips may damage leaves",
-        "diseases": "May be affected by grey moulds, leaf spot (fungal) or a virus"
+        "cultivation": {
+            "text": "Grow in moisture-retentive, well-drained soil in full sun or part shade; mulch in spring with well-rotted organic matter particularly in drier soils",
+            "link_names": [
+                "Mulch",
+                "Organic matter"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in autumn or spring, propagate by division in summer or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may damage leaves and rhizomes, aphids and thrips may damage leaves",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Thrips"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds, leaf spot (fungal) or a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_forrestii.html",
@@ -130,5 +182,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Iris forrestii",
+    "display_name": "Forrest iris"
 }

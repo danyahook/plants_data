@@ -90,16 +90,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, acid soil in full sun. Shelter from strong winds to avoid broken branches. See hardy heathers for more advice",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10",
-        "pests": "Generally pest free",
-        "diseases": "May suffer from phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, acid soil in full sun. Shelter from strong winds to avoid broken branches. See hardy heathers for more advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases, including honey fungus (rarely), and Phytophthora root rot, in wet conditions",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Calluna vulgaris 'Evan Jones'",
+    "display_name": "Irish heath 'ewan jones'"
 }

@@ -101,19 +101,63 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
-        "propagation": "Propagate by division in late summer or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Ground cover",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
-        "pests": "Plants in pots may be susceptible to vine weevil. This cultivar is said to be resistant to slugs",
-        "diseases": "May be subject to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in part shade with shelter from cold, dry winds. See hosta cultivation",
+            "link_names": [
+                "Hosta cultivation"
+            ],
+            "related_links": {
+                "hosta_cultivation": "https://www.rhs.org.uk/plants/hosta/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in late summer or early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Ground cover",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent foliage as required and clear up dead foliage when it dies back at the end of the growing season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Plants in pots may be susceptible to vine weevil. This cultivar is said to be resistant to slugs",
+            "link_names": [
+                "Vine weevil",
+                "Slugs"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hosta 'Elegans'",
+    "display_name": "Giant blue hosta"
 }

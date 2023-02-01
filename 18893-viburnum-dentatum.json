@@ -101,18 +101,64 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade",
-        "propagation": "Propagate by seed, sown in a cold frame in autumn, by semi-ripe cuttings in summer, or by grafting in late summer or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Minimal pruning required, if necessary prune immediately after flowering, though this will prevent development of berries",
-        "pests": "May be susceptible to aphids and viburnum beetle",
-        "diseases": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot"
+        "cultivation": {
+            "text": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in a cold frame in autumn, by semi-ripe cuttings in summer, or by grafting in late summer or winter",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, if necessary prune immediately after flowering, though this will prevent development of berries",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and viburnum beetle",
+            "link_names": [
+                "Aphids",
+                "Viburnum beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Viburnum_dentatum.html",
@@ -185,5 +231,7 @@
             "Leaf rot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Viburnum dentatum",
+    "display_name": "American arrow wood"
 }

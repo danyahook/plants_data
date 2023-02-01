@@ -90,17 +90,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in a moisture-retentive soil with moderate humus content; use gloves when handling",
-        "propagation": "Propagate by division in autumn using protective gloves to handle the clumps",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in autumn using protective gloves",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildews and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grows well in a moisture-retentive soil with moderate humus content; use gloves when handling",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn using protective gloves to handle the clumps",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in autumn using protective gloves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and verticillium wilt",
+            "link_names": [
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Aconitum carmichaelii 'Pink Sensation'",
+    "display_name": "Purple wolf's bane 'pink sensation'"
 }

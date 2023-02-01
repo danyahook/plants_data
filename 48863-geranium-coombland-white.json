@@ -95,19 +95,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow on any well-drained soil",
-        "propagation": "Propagate by division, or take basal cuttings in spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be damaged by vine weevil larvae, sawfly larvae, capsid bug, slugs and snails",
-        "diseases": "Occasionally affected by a virus or a downy mildew. Powdery mildews may develop in dry conditions"
-    }
+        "cultivation": {
+            "text": "Easy to grow on any well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, or take basal cuttings in spring and root with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by vine weevil larvae, sawfly larvae, capsid bug, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Occasionally affected by a virus or a downy mildew. Powdery mildews may develop in dry conditions",
+            "link_names": [
+                "A virus",
+                "A downy mildew",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium 'Coombland White'",
+    "display_name": "Cranesbill 'coombland white'"
 }

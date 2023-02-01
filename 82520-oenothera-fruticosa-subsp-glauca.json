@@ -90,19 +90,53 @@
         "plant_range": "E N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile well-drained soil in full sun",
-        "propagation": "Propagate by division in early spring or after flowering in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Leaf spot and powdery mildew may be a problem"
+        "cultivation": {
+            "text": "Grow in moderately fertile well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or after flowering in late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Leaf spot and powdery mildew may be a problem",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Oenothera_fruticosa_subsp._glauca.html",
@@ -164,5 +198,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Oenothera fruticosa subsp. glauca",
+    "display_name": "Glaucous evening primrose"
 }

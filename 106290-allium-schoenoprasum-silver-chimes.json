@@ -87,17 +87,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in fertile well-drained soil. Add grit when grown in clay soils to improve drainage. See allium cultivation for further advice",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning needed, but can be cut back after flowering to produce fresh growth",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by a rust, onion white rot and a downy mildew"
-    }
+        "cultivation": {
+            "text": "Easy to grow in fertile well-drained soil. Add grit when grown in clay soils to improve drainage. See allium cultivation for further advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed, but can be cut back after flowering to produce fresh growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by a rust, onion white rot and a downy mildew",
+            "link_names": [
+                "A rust",
+                "Onion white rot",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium schoenoprasum 'Silver Chimes'",
+    "display_name": ""
 }

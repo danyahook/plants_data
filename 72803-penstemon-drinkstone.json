@@ -90,18 +90,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained soil in full sun or partial shade. See penstemon cultivation for further information",
-        "propagation": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in midsummer or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly, or after flowering, cut back flowered stems by a half to encourage further flowering. In spring after the danger of frost has passed, cut back to just above new shoots or to the lowest healthy leaves",
-        "pests": "May be attacked by slugs, snails and eelworms",
-        "diseases": "May be affected by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained soil in full sun or partial shade. See penstemon cultivation for further information",
+            "link_names": [
+                "Penstemon cultivation"
+            ],
+            "related_links": {
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in midsummer or by division in spring",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly, or after flowering, cut back flowered stems by a half to encourage further flowering. In spring after the danger of frost has passed, cut back to just above new shoots or to the lowest healthy leaves",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Drinkstone'",
+    "display_name": ""
 }

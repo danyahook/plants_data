@@ -91,18 +91,58 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Position in full sun or partial shade, in moist but well-drained moderately fertile soil",
-        "propagation": "Propagate by division in early spring or late autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required but deadhead regularly. Cut stems to ground level when flowering has finished",
-        "pests": "May be susceptible to aphids and chrysanthemum eelworm",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Position in full sun or partial shade, in moist but well-drained moderately fertile soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or late autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required but deadhead regularly. Cut stems to ground level when flowering has finished",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and chrysanthemum eelworm",
+            "link_names": [
+                "Aphids",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Leucanthemum × superbum Real Glory ('Reglo'PBR) (Realflor Medium Series)",
+    "display_name": ""
 }

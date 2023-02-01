@@ -87,16 +87,56 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a fertile, neutral to alkaline, moist but well-drained soil, in sun or partial shade",
-        "propagation": "Propagate by division in spring or autumn or take basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to encourage a second flush of flowers",
-        "pests": "May be damaged by slugs and snails",
-        "diseases": "A rust may be a problem"
-    }
+        "cultivation": {
+            "text": "Prefers a fertile, neutral to alkaline, moist but well-drained soil, in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn or take basal cuttings in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage a second flush of flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "A rust may be a problem",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Campanula glomerata var. alba",
+    "display_name": "White clustered bellflower"
 }

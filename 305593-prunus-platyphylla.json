@@ -101,17 +101,61 @@
         "plant_range": "Europe to Russia Med."
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow native shrub or small tree, that can be used for hedging. Grows in any moist well-drained soil in full sun",
-        "propagation": "Propagate by softwood cuttings in early summer with bottom heat or propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
-        "pests": "Susceptible to damage from aphids, caterpillars and bullfinches",
-        "diseases": "May be subject to silver leaf and blossom wilt. High Risk Host for Xylella fastidiosa"
-    }
+        "cultivation": {
+            "text": "Easy to grow native shrub or small tree, that can be used for hedging. Grows in any moist well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer with bottom heat or propagate by seed",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Susceptible to damage from aphids, caterpillars and bullfinches",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to silver leaf and blossom wilt. High Risk Host for Xylella fastidiosa",
+            "link_names": [
+                "Silver leaf",
+                "High risk host for xylella fastidiosa"
+            ],
+            "related_links": {
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
+            }
+        }
+    },
+    "main_name_original": "Prunus platyphylla",
+    "display_name": "Blackthorn"
 }

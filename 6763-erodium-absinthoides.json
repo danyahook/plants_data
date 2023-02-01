@@ -96,15 +96,53 @@
         "plant_range": "SE Europe, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny spot in gritty, well-drained soil, and protect from excess winter wet. Ideal for a rockery or alpine house",
-        "propagation": "Propagate by seed, by division in spring, or by basal softwood cuttings in late spring and early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free, may be susceptible to vine weevil if grown in containers",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny spot in gritty, well-drained soil, and protect from excess winter wet. Ideal for a rockery or alpine house",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by division in spring, or by basal softwood cuttings in late spring and early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free, may be susceptible to vine weevil if grown in containers",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Erodium absinthoides",
+    "display_name": ""
 }

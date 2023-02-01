@@ -93,14 +93,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-based compost with extra grit. Water moderately during the growing period and reduce water in the winter months, keeping the soil barely moist. See hardy cacti and succulent cultivation",
-        "propagation": "Propagate by semi-ripe stem cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and glasshouse red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow under glass in loam-based compost with extra grit. Water moderately during the growing period and reduce water in the winter months, keeping the soil barely moist. See hardy cacti and succulent cultivation",
+            "link_names": [
+                "Hardy cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "hardy_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/hardy/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe stem cuttings in late summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Senecio_scaposus.html",
@@ -146,5 +184,7 @@
             "Stem rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Senecio scaposus",
+    "display_name": ""
 }

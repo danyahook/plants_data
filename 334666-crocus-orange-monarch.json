@@ -84,19 +84,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in gritty, well-drained, poor to moderately fertile soil in full sun and protect from excessive winter wet",
-        "propagation": "Propagate by division of established clumps or by separating cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to being eaten by mice, voles, squirrels and pheasants",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in gritty, well-drained, poor to moderately fertile soil in full sun and protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of established clumps or by separating cormlets when dormant",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to being eaten by mice, voles, squirrels and pheasants",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Crocus 'Orange Monarch'",
+    "display_name": "Crocus 'orange monarch'"
 }

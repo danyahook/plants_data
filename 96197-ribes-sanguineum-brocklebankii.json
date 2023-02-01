@@ -88,20 +88,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moderately fertile well-drained soil in a sunny position. It is best shaded from the hottest midday sun to prevent leaf scorch",
-        "propagation": "Propagate by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Wall side borders",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by a leaf spot, powdery mildews, honey fungus and coral spot"
-    }
+        "cultivation": {
+            "text": "Easy to grow in moderately fertile well-drained soil in a sunny position. It is best shaded from the hottest midday sun to prevent leaf scorch",
+            "link_names": [
+                "Leaf scorch"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in winter",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Wall side borders",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ribes sanguineum 'Brocklebankii'",
+    "display_name": "Flowering currant 'brocklebankii'"
 }

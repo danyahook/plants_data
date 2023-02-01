@@ -97,20 +97,54 @@
         "plant_range": "USA (Texas) to Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun with shelter from cold drying winds and in well-drained soil - it will grow well in open, rich loamy soil but tolerates poorer, sandier soil, and may withstand cold better when grown in poorer soil",
-        "propagation": "Propagate by seed, sown at 15-18°C, which may take eight weeks or more to germinate, or propagate by root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Architectural",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by blackfly (black aphids) and snails",
-        "diseases": "May be affected by yucca leaf spot"
+        "cultivation": {
+            "text": "Grow in full sun with shelter from cold drying winds and in well-drained soil - it will grow well in open, rich loamy soil but tolerates poorer, sandier soil, and may withstand cold better when grown in poorer soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 15-18°C, which may take eight weeks or more to germinate, or propagate by root cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Architectural",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by blackfly (black aphids) and snails",
+            "link_names": [
+                "Snails"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by yucca leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Yucca_rostrata.html",
@@ -158,5 +192,7 @@
             "Leaf scorch",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Yucca rostrata",
+    "display_name": "Beaked yucca"
 }

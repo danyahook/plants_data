@@ -97,18 +97,58 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained sandy soil in full sun. Protect roots with a thick layer of plant clippings/bracken/wood chip to protect from frost in winter",
-        "propagation": "Propagate by division or take basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Wall side borders",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "After flowering, plants can be cut back to prevent self-seeding",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained sandy soil in full sun. Protect roots with a thick layer of plant clippings/bracken/wood chip to protect from frost in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or take basal softwood cuttings in spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Wall side borders",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "After flowering, plants can be cut back to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum triornithophorum",
+    "display_name": "Three birds"
 }

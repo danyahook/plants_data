@@ -91,17 +91,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Buddleja perform best when grown in a sunny, well-drained situation",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Can get capsid bug, caterpillars, leaf and bud eelworms, aphids and glasshouse red spider mite",
-        "diseases": "May suffer from a virus"
+        "cultivation": {
+            "text": "Buddleja perform best when grown in a sunny, well-drained situation. See buddleja cultivation for more detailed advice",
+            "link_names": [
+                "Buddleja cultivation"
+            ],
+            "related_links": {
+                "buddleja_cultivation": "https://www.rhs.org.uk/plants/buddleja/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bugs, caterpillars, earwigs, figwort weevils, glasshouse red spider mite, leaf and bud eelworm, and mullein moth",
+            "link_names": [
+                "Aphids",
+                "Earwigs",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, fungal leaf spot, and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Buddleja_davidii__White_Profusion_.html",
@@ -134,5 +186,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Buddleja davidii 'White Profusion'",
+    "display_name": "Butterfly bush 'white profusion'"
 }

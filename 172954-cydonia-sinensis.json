@@ -93,16 +93,66 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny sheltered position, such as by a south-facing or southwest-facing wall, in fertile, moist but well-drained soil",
-        "propagation": "Propagate by seed sown in containers outdoors in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 or pruning group 13 if grown on a wall, after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny sheltered position, such as by a south-facing or southwest-facing wall, in fertile, moist but well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers outdoors in autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 13 if grown on a wall, after flowering",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to quince leaf blight, brown rot, fireblight, powdery mildews and honey fungus",
+            "link_names": [
+                "Quince leaf blight",
+                "Brown rot",
+                "Fireblight",
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "quince_leaf_blight": "https://www.rhs.org.uk/disease/quince-leaf-blight",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cydonia sinensis",
+    "display_name": ""
 }

@@ -90,11 +90,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Moist but well-drained soil, or in raised beds on light, sandy soil. Avoid frost pockets as spears are tender",
-        "propagation": "Propagate by seed or by division",
-        "pruning": "Cut down foliage in autumn, when yellowed, to 2.5cm above the soil",
-        "pests": "Asparagus beetle and slugs may be a nuisance",
-        "diseases": "Violet root rots as well as foot and root rots may occur"
+        "cultivation": {
+            "text": "Moist but well-drained soil, or in raised beds on light, sandy soil. Avoid frost pockets as spears are tender",
+            "link_names": [
+                "Raised beds"
+            ],
+            "related_links": {
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down foliage in autumn, when yellowed, to 2.5cm above the soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Asparagus beetle and slugs may be a nuisance",
+            "link_names": [
+                "Asparagus beetle",
+                "Slugs"
+            ],
+            "related_links": {
+                "asparagus_beetle": "https://www.rhs.org.uk/biodiversity/asparagus-beetle",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Violet root rots as well as foot and root rots may occur",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Asparagus_officinalis.html",
@@ -201,5 +242,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Asparagus officinalis",
+    "display_name": "Common asparagus"
 }

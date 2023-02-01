@@ -98,19 +98,57 @@
         "plant_range": "South America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained or well-drained, moderately fertile soil in full sun. In cold areas, protect with a dry winter mulch",
-        "propagation": "Propagate by seed in pots at 18-21°C in autumn to early spring or let it self-seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down in spring as new growth emerges from the base; deadhead in autumn if seed is not required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained or well-drained, moderately fertile soil in full sun. In cold areas, protect with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots at 18-21°C in autumn to early spring or let it self-seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down in spring as new growth emerges from the base; deadhead in autumn if seed is not required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Verbena bonariensis 'Buenos Aires'",
+    "display_name": "Purple top"
 }

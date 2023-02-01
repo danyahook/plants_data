@@ -97,15 +97,63 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow shrub for sun or partial shade. Works well when trained against a fence or wall.",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Easy to grow shrub for sun or partial shade. Works well when trained against a fence or wall.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ribes laurifolium Rosemoor form",
+    "display_name": "Currant rosemoor form"
 }

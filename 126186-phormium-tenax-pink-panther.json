@@ -94,21 +94,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile well-drained soil in full sun. May need the protection of a deep, dry winter mulch in northern and frost prone areas",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Dead or damaged leaves may be removed in the spring",
-        "pests": "May be susceptible to phormium mealbug",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows best in fertile well-drained soil in full sun. May need the protection of a deep, dry winter mulch in northern and frost prone areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead or damaged leaves may be removed in the spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to phormium mealbug",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phormium tenax 'Pink Panther'",
+    "display_name": "Flax lily 'pink panther'"
 }

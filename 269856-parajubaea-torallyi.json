@@ -81,16 +81,50 @@
         "plant_range": "Bolivia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in rich but well-drained soil in a sunny, sheltered spot; this species is deep rooted and not well suited to container growing, but may be planted out in the warmest regions of the UK, where protection from strong winds and from frosts will be required. May be tolerant to -3°C for short spells once established",
-        "propagation": "Propagate by seed, sown as soon as ripe, though germination can be erratic and take many months",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in rich but well-drained soil in a sunny, sheltered spot; this species is deep rooted and not well suited to container growing, but may be planted out in the warmest regions of the UK, where protection from strong winds and from frosts will be required. May be tolerant to -3°C for short spells once established",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown as soon as ripe, though germination can be erratic and take many months",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Parajubaea torallyi",
+    "display_name": ""
 }

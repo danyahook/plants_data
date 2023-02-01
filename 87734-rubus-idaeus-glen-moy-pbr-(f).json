@@ -84,13 +84,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow raspberries in rows between parallel wires for support. Mulch with acidic material such as composted bark. See Raspberry cultivation",
-        "propagation": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden"
-        ],
-        "pruning": "Prune as for summer fruiting raspberries, removing all fruited canes down to ground level in early to mid autumn. Train in new growth",
-        "pests": "Can be affected by aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites",
-        "diseases": "Raspberries can suffer from fungal leaf spots, raspberry spur blight and grey mould. Raspberry 'Glen Moy' is susceptible to midge blight and phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "Grow raspberries in rows between parallel wires for support. Mulch with acidic material such as composted bark. See Raspberry cultivation",
+            "link_names": [
+                "Mulch",
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune as for summer fruiting raspberries, removing all fruited canes down to ground level in early to mid autumn. Train in new growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Glasshouse red spider mite",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spots, raspberry spur blight and grey mould. Raspberry 'Glen Moy' is susceptible to midge blight and phytophthora root rot",
+            "link_names": [
+                "Raspberry spur blight",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "raspberry_spur_blight": "https://www.rhs.org.uk/disease/raspberry-spur-blight",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Rubus idaeus 'Glen Moy'PBR (F)",
+    "display_name": "Raspberry 'glen moy'"
 }

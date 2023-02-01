@@ -91,22 +91,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun. Good for a sheltered position",
-        "propagation": "Propagate by seed at 18°C (64°F) in spring or take softwood cuttings in late spring. Alternatively, propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "Prone to aphids",
-        "diseases": "Can be affected by verticillium wilt"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun. Good for a sheltered position",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at 18°C (64°F) in spring or take softwood cuttings in late spring. Alternatively, propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt",
+            "link_names": [
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Osteospermum_jucundum__Blackthorn_Seedling_.html",
@@ -128,5 +172,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Osteospermum jucundum 'Blackthorn Seedling'",
+    "display_name": "African daisy 'blackthorn seedling'"
 }

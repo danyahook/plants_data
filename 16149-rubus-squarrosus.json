@@ -102,16 +102,52 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Easily grown in a well-drained soil in full sun or partial shade. Unlikely to produce flowers if grown in full sun",
-        "propagation": "Propagate by seed, by semi-ripe cuttings or by tip layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 if required",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Easily grown in a well-drained soil in full sun or partial shade. Unlikely to produce flowers if grown in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by semi-ripe cuttings or by tip layering in autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 if required",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rubus_squarrosus.html",
@@ -150,5 +186,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rubus squarrosus",
+    "display_name": "Leafless lawyer"
 }

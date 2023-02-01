@@ -95,15 +95,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a container in peat-free potting compost, in a well-lit position that does not get direct sunlight. Water to keep the compost damp but not wet during the summer months, then cut back a little in winter. They thrive in high humidity, so either grow it in a steamy room, group with other plants, or sit the pot on a tray of dampened shingle. See houseplant cultivation",
-        "propagation": "Propagate by division in spring or by basal softwood cuttings with bottom heat in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to glasshouse red spider mite",
-        "diseases": "Generally disease-free, roots may rot if plant is overwatered"
+        "cultivation": {
+            "text": "Grow in a container in peat-free potting compost, in a well-lit position that does not get direct sunlight. Water to keep the compost damp but not wet during the summer months, then cut back a little in winter. They thrive in high humidity, so either grow it in a steamy room, group with other plants, or sit the pot on a tray of dampened shingle. See houseplant cultivation",
+            "link_names": [
+                "Container",
+                "Houseplant cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "houseplant_cultivation": "https://www.rhs.org.uk/plants/types/houseplants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or by basal softwood cuttings with bottom heat in spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, roots may rot if plant is overwatered",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Maranta_leuconeura_var._leuconeura__Fascinator_.html",
@@ -129,5 +169,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Maranta leuconeura var. leuconeura 'Fascinator'",
+    "display_name": "Prayer plant 'fascinator'"
 }

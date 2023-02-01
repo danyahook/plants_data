@@ -95,18 +95,56 @@
         "plant_range": "W North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a poor, well drained soil in full sun",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "May be affected by lupin aphid and slugs",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in a poor, well drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be affected by lupin aphid and slugs",
+            "link_names": [
+                "Lupin aphid",
+                "Slugs"
+            ],
+            "related_links": {
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lupinus_lepidus.html",
@@ -149,5 +187,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lupinus lepidus",
+    "display_name": "Pacific lupin"
 }

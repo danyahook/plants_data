@@ -86,14 +86,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with dry winter mulch - see Penstemon cultivation for further information",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour. Then cut back in spring - see Penstemon cultivation",
-        "pests": "May be attacked by slugs, snails, glasshouse red spider mite and eelworms",
-        "diseases": "Generally disease free, may be affected by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with dry winter mulch - see Penstemon cultivation for further information",
+            "link_names": [
+                "Mulch",
+                "Penstemon cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer.",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour. Then cut back in spring - see Penstemon cultivation",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, glasshouse red spider mite and eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free, may be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Purple Riding Hood'PBR (Riding Hood Series)",
+    "display_name": "Penstemon 'purple riding hood'"
 }

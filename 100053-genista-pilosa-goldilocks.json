@@ -82,17 +82,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs a sunny position and prefers well-drained, relatively poor soils",
-        "propagation": "Propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Ground cover"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 1 if necessary. Avoid cutting into old wood",
-        "pests": "May be susceptible to aphids and gall mites",
-        "diseases": "May be susceptible to a fungal disease known as broom dieback (Pleiochaeta setosa)"
-    }
+        "cultivation": {
+            "text": "Needs a sunny position and prefers well-drained, relatively poor soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 1 if necessary. Avoid cutting into old wood",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a fungal disease known as broom dieback (Pleiochaeta setosa)",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Genista pilosa 'Goldilocks'",
+    "display_name": ""
 }

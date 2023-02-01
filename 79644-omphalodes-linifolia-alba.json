@@ -93,20 +93,56 @@
         "plant_range": "SW Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, well-drained soil in full sun",
-        "propagation": "Propagate by seed sown in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Damage by slugs and snails may be a problem",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Damage by slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Omphalodes linifolia alba",
+    "display_name": "Venus's navelwort"
 }

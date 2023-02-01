@@ -98,18 +98,76 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained soil in partial shade; can be scorched by sun and strong winds in dry soils. Susceptible to a number of box problems, see box cultivation",
-        "propagation": "Propagate from semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8 in summer, renovation pruning can be carried out in late spring. Use mulch and a general fertiliser after hard pruning",
-        "pests": "May be susceptible to box tree caterpillar, box sucker, mussel scale and red spider mite",
-        "diseases": "May be susceptible to a leaf spot and box blight"
-    }
+        "cultivation": {
+            "text": "Grows best in well-drained soil in partial shade; can be scorched by sun and strong winds in dry soils. Susceptible to a number of box problems, see box cultivation",
+            "link_names": [
+                "Scorched",
+                "Box problems",
+                "Box cultivation"
+            ],
+            "related_links": {
+                "scorched": "https://www.rhs.org.uk/problems/box-problems",
+                "box_problems": "https://www.rhs.org.uk/problems/box-problems",
+                "box_cultivation": "https://www.rhs.org.uk/plants/box/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from semi-ripe cuttings in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 in summer, renovation pruning can be carried out in late spring. Use mulch and a general fertiliser after hard pruning",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to box tree caterpillar, box sucker, mussel scale and red spider mite",
+            "link_names": [
+                "Box tree caterpillar",
+                "Box sucker",
+                "Mussel scale",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "box_tree_caterpillar": "https://www.rhs.org.uk/biodiversity/box-tree-caterpillar",
+                "box_sucker": "https://www.rhs.org.uk/biodiversity/box-sucker",
+                "mussel_scale": "https://www.rhs.org.uk/biodiversity/mussel-scale",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, box blight and, rarely, honey fungus",
+            "link_names": [
+                "Box blight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "box_blight": "https://www.rhs.org.uk/disease/box-blight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Buxus sempervirens 'Nana'",
+    "display_name": "Box 'suffruticosa'"
 }

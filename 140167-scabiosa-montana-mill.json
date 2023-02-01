@@ -105,16 +105,50 @@
         "plant_range": "Europe, Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, well-drained, preferably alkaline soil in full sun. Attractive to bees",
-        "propagation": "Propagate by seed in pots in a cold frame in spring or propagate by basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Low Maintenance"
-        ],
-        "pruning": "Old flower stems can be cut down after flowering",
-        "pests": "May be attacked by aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, well-drained, preferably alkaline soil in full sun. Attractive to bees",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in spring or propagate by basal cuttings in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Scabiosa montana Mill.",
+    "display_name": "Field scabious"
 }

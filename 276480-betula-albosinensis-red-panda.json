@@ -103,15 +103,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in wide range of situations",
-        "propagation": "Propagate by softwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Sawflies, aphids and leaf miners may be a problem",
-        "diseases": "Powdery mildews and rust diseases may be a problem"
-    }
+        "cultivation": {
+            "text": "Will grow in wide range of situations",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or grafting",
+            "link_names": [
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Tree rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Betula albosinensis 'Red Panda'",
+    "display_name": "Chinese red birch 'red panda'"
 }

@@ -102,15 +102,53 @@
         "plant_range": "E Europe to Russian Far East, NW China"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates. This Fir grows best in cold, continental climate. In humid conditions the tree is more prone to fungal diseases.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free, but may be affected by conifer aphid and adelgids.",
-        "diseases": "Generally disease-free, but may be affected by honey fungus."
+        "cultivation": {
+            "text": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates. This Fir grows best in cold, continental climate. In humid conditions the tree is more prone to fungal diseases.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids and aphids",
+            "link_names": [
+                "Adelgids",
+                "Aphids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, but may be affected by honey fungus.",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Abies_sibirica.html",
@@ -138,5 +176,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Abies sibirica",
+    "display_name": "Siberian fir"
 }

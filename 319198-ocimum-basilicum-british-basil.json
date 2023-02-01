@@ -82,15 +82,59 @@
         "name_status": "Not established"
     },
     "how_to_grow": {
-        "cultivation": "Grow as an annual in moist but well drained soil in a sheltered position in full sun. Although suited to colder conditions, it may not grow well outdoors in some parts of the UK. Best grown in a container. See basil cultivation for more information",
-        "propagation": "Propagate by seed in gentle heat in spring under glass or indoors. Alternatively, sow direct in April and May",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Patio and container plants"
-        ],
-        "pruning": "Pinch out flower heads as they appear to encourage continued leaf growth. If left to flower, cut back after flowering",
-        "pests": "May be susceptible to aphids and leafhoppers",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow as an annual in moist but well drained soil in a sheltered position in full sun. Although suited to colder conditions, it may not grow well outdoors in some parts of the UK. Best grown in a container. See basil cultivation for more information",
+            "link_names": [
+                "Container",
+                "Basil cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "basil_cultivation": "https://www.rhs.org.uk/herbs/basil/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in gentle heat in spring under glass or indoors. Alternatively, sow direct in April and May",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out flower heads as they appear to encourage continued leaf growth. If left to flower, cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and leafhoppers",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Ocimum basilicum 'British Basil'",
+    "display_name": "Basil 'british basil'"
 }

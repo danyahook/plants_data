@@ -88,20 +88,56 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in partial shade. Drier conditions tolerated when dormant in summer",
-        "propagation": "Propagate by division of rhizomes after the leaves have died down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by slugs and caterpillars",
-        "diseases": "May be subject to powdery mildew, leaf spot and a rust"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in partial shade. Drier conditions tolerated when dormant in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes after the leaves have died down",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Rock garden",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and caterpillars",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildew, leaf spot and a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anemone_ranunculoides.html",
@@ -180,5 +216,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Anemone ranunculoides",
+    "display_name": "Yellow anemone"
 }

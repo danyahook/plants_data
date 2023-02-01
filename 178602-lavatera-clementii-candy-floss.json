@@ -99,14 +99,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light well-drained soil in a sheltered position in full sun",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "Grow in light well-drained soil in a sheltered position in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lavatera × clementii 'Candy Floss'",
+    "display_name": "Tree mallow 'candy floss'"
 }

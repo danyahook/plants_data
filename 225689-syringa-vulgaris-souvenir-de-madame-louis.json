@@ -90,16 +90,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of a range of conditions but grows best in moist but well-drained neutral to alkaline soil in full sun",
-        "propagation": "Propagate by softwood cuttings in late spring, layering in spring, grafting in winter or chip budding in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1; tolerant of hard renovation pruning",
-        "pests": "May be damaged by lilac leaf-mining moth and privet thrips",
-        "diseases": "May be affected by lilac blight, honey fungus, fungal leaf spot, powdery mildews and silver leaf disease"
-    }
+        "cultivation": {
+            "text": "Tolerant of a range of conditions but grows best in moist but well-drained neutral to alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring, layering in spring, grafting in winter or chip budding in summer",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Grafting",
+                "Chip budding"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; tolerant of hard renovation pruning",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lilac leaf-mining moth, willow scale and thrips",
+            "link_names": [
+                "Lilac leaf-mining moth",
+                "Thrips"
+            ],
+            "related_links": {
+                "lilac_leaf-mining_moth": "https://www.rhs.org.uk/biodiversity/lilac-leaf-mining-moth",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus, phytophthora, powdery mildews and bacterial canker (Pseudomonas Syringae)",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Powdery mildews",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Syringa vulgaris 'Souvenir de Madame Louis'",
+    "display_name": "Lilac 'andenken an ludwig späth'"
 }

@@ -83,17 +83,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun in a well-drained, alkaline soil with moisture in the spring and summer",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be affected by Tarsonemid mite",
-        "diseases": "May be affected by Verticillium wilt and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grows best in full sun in a well-drained, alkaline soil with moisture in the spring and summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by Tarsonemid mite",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by Verticillium wilt and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster thomsonii",
+    "display_name": "Thomson's aster"
 }

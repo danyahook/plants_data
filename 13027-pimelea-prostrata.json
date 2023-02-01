@@ -97,20 +97,56 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in neutral to acidic soil in a sunny, sheltered position where the temperature does not fall below -3°C. In containers under glass, use an ericaceous compost (lime-free) with added sharp sand",
-        "propagation": "Propagate by seed in containers in a cold frame in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Coastal",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "Glasshouse red spider mite may be a problem in dry glasshouse conditions",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grow outdoors in neutral to acidic soil in a sunny, sheltered position where the temperature does not fall below -3°C. In containers under glass, use an ericaceous compost (lime-free) with added sharp sand",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Coastal",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Glasshouse red spider mite may be a problem in dry glasshouse conditions",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pimelea_prostrata.html",
@@ -148,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pimelea prostrata",
+    "display_name": "Prostrate rice flower"
 }

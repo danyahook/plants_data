@@ -92,18 +92,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most fertile, moist soils",
-        "propagation": "Propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to promote flowering and cut back in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "May be subject to a downy mildew and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most fertile, moist soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to promote flowering and cut back in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to a downy mildew and a leaf spot",
+            "link_names": [
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Phlox paniculata 'Luc's Lilac'",
+    "display_name": "Phlox 'luc's lilac'"
 }

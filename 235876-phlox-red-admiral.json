@@ -91,17 +91,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile soil in full sun or partial shade",
-        "propagation": "Propagate by taking softwood cuttings of non-flowering stems in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "Generally pest free",
-        "diseases": "Susceptible to powdery mildews and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, fertile soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by taking softwood cuttings of non-flowering stems in spring",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Susceptible to powdery mildews and a leaf spot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Phlox 'Red Admiral'",
+    "display_name": "Phlox 'red admiral'"
 }

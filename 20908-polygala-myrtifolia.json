@@ -97,17 +97,59 @@
         "plant_range": "South Africa, Lesotho"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loamless potting compost in full light with shade from hot sun. Water freely through summer months. Outdoors grow in moderately fertile, humus-rich, sharply drained soil in full sun or partial shade",
-        "propagation": "Take softwood cuttings in early summer or semi-ripe cuttings in mid-late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9. Prune winter damaged shoots in spring",
-        "pests": "May be susceptible to aphids and whitefly if growing under glass",
-        "diseases": "High Risk Host for Xylella fastidiosa"
+        "cultivation": {
+            "text": "Under glass grow in loamless potting compost in full light with shade from hot sun. Water freely through summer months. Outdoors grow in moderately fertile, humus-rich, sharply drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Take softwood cuttings in early summer or semi-ripe cuttings in mid-late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9. Prune winter damaged shoots in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and whitefly if growing under glass",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa",
+            "link_names": [
+                "High risk host for xylella fastidiosa"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polygala_myrtifolia.html",
@@ -171,5 +213,7 @@
             "Leaf rot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Polygala myrtifolia",
+    "display_name": ""
 }

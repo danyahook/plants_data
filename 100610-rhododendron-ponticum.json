@@ -89,17 +89,75 @@
         "plant_range": "Europe Asia"
     },
     "how_to_grow": {
-        "cultivation": "This plant is listed on Schedule 9 of the UK Wildlife and Countryside Act as an invasive, non-native species. While this does not prevent it from being sold in the UK, or from being grown in gardens, the RHS encourages those that do grow it to take great care with managing it and with disposing of unwanted material. The RHS also encourages gardeners to find alternative plants to grow to those listed on Schedule 9. For suggested alternative plants see the Plantlife/RHS guide: Gardening without harmful invasive plants",
-        "propagation": "Spreads naturally by seed and by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be attacked by vine weevil, rhododendron leafhopper, pieris lacebug, scale insects, caterpillars and aphids",
-        "diseases": "May be affected by various rhododendron diseases including powdery mildews, rhododendron petal blight, rhododendron bud blast, silver leaf and honey fungus"
+        "cultivation": {
+            "text": "This plant is listed on Schedule 9 of the UK Wildlife and Countryside Act as an invasive, non-native species. While this does not prevent it from being sold in the UK, or from being grown in gardens, the RHS encourages those that do grow it to take great care with managing it and with disposing of unwanted material. The RHS also encourages gardeners to find alternative plants to grow to those listed on Schedule 9. For suggested alternative plants see the Plantlife/RHS guide: Gardening without harmful invasive plants",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Spreads naturally by seed and by layering",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, rhododendron and azalea whitefly, rhododendron leafhopper, pieris lacebug, scale insects, caterpillars and aphids",
+            "link_names": [
+                "Vine weevil",
+                "Rhododendron leafhopper",
+                "Pieris lacebug",
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "rhododendron_leafhopper": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "pieris_lacebug": "https://www.rhs.org.uk/biodiversity/pieris-lacebug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to various Rhododendron diseases including powdery mildews, rhododendron petal blight, rhododendron bud blast, silver leaf and honey fungus",
+            "link_names": [
+                "Rhododendron diseases",
+                "Powdery mildews",
+                "Rhododendron petal blight",
+                "Rhododendron bud blast",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "rhododendron_diseases": "https://www.rhs.org.uk/disease/rhododendron-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rhododendron_petal_blight": "https://www.rhs.org.uk/disease/rhododendron-diseases",
+                "rhododendron_bud_blast": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rhododendron_ponticum.html",
@@ -151,5 +209,7 @@
             "Petal blight",
             "Lace bugs"
         ]
-    }
+    },
+    "main_name_original": "Rhododendron ponticum",
+    "display_name": "Pontica rhododendron"
 }

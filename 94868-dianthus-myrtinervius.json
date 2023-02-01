@@ -82,20 +82,74 @@
         "plant_range": "Yugoslavia; Greece"
     },
     "how_to_grow": {
-        "cultivation": "Prefers well-drained neutral to alkaline soils in full sun and benefit from the sharp drainage of a raised bed, wall, trough or rock garden",
-        "propagation": "Propagate by seed in containers in a cold frame from autumn to spring or propagate by semi-ripe cuttings of non-flowering shoots in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead the flowers to prolong flowering",
-        "pests": "Aphids and slugs may be a problem",
-        "diseases": "May be affected by a rust, a virus or Fusarium wilt"
-    }
+        "cultivation": {
+            "text": "Prefers well-drained neutral to alkaline soils in full sun and benefit from the sharp drainage of a raised bed, wall, trough or rock garden",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame from autumn to spring or propagate by semi-ripe cuttings of non-flowering shoots in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead the flowers to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids and slugs may be a problem",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a rust, a virus or Fusarium wilt",
+            "link_names": [
+                "A rust",
+                "A virus",
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
+    },
+    "main_name_original": "Dianthus myrtinervius",
+    "display_name": "Albanian pink"
 }

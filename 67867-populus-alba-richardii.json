@@ -91,15 +91,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best in deep, fertile, well-drained soil in full sun, but tolerates both damp and dry soils",
-        "propagation": "Propagate by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1 or pruning group 7 for best foliage effect",
-        "pests": "Leaves may be eaten by leaf beetles, sawflies and caterpillars",
-        "diseases": "Susceptible to leaf spots, poplar bacterial canker, honey fungus and tree rusts"
+        "cultivation": {
+            "text": "Best in deep, fertile, well-drained soil in full sun, but tolerates both damp and dry soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in winter",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 7 for best foliage effect",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf beetles, sawflies and caterpillars",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spots, poplar bacterial canker, tree rusts and honey fungus",
+            "link_names": [
+                "Bacterial canker",
+                "Tree rusts",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "tree_rusts": "https://www.rhs.org.uk/disease/tree-rusts",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Populus_alba__Richardii_.html",
@@ -135,5 +177,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Populus alba 'Richardii'",
+    "display_name": "White poplar 'richardii'"
 }

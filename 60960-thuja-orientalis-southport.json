@@ -95,16 +95,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil. Protect from drying winds especially when young",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Rock garden",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to scale insects and conifer aphid",
-        "diseases": "May be susceptible to a canker"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil. Protect from drying winds especially when young",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Rock garden",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and conifer aphid",
+            "link_names": [
+                "Scale insects",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a canker",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Thuja orientalis 'Southport'",
+    "display_name": ""
 }

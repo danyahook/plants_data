@@ -87,17 +87,59 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in well-drained soil preferably in full sun to partial shade. Avoid wet winter conditions.",
-        "propagation": "Propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to keep a compact and neat shape",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to a rust, powdery mildews and leaf spot"
-    }
+        "cultivation": {
+            "text": "Will grow well in well-drained soil preferably in full sun to partial shade. Avoid wet winter conditions.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to keep a compact and neat shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, powdery mildews and leaf spot",
+            "link_names": [
+                "A rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Campanula poscharskyana Blue Waterfall ('Camgood')",
+    "display_name": "Trailing bellflower [blue waterfall]"
 }

@@ -85,15 +85,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained but moisture-retentive soil in good light",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained but moisture-retentive soil in good light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Silene pendula 'Celina'",
+    "display_name": ""
 }

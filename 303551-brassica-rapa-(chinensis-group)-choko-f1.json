@@ -75,13 +75,61 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well drained soil in full sun. Direct sow between May and August, harvest between June and October. See Vegetable Cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to birds, cabbage caterpillars, cabbage whitefly, cabbage root fly, cutworms, flea beetle, slugs and snails",
-        "diseases": "May be susceptible to black rot, clubroot, downy mildew, grey mould, leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well drained soil in full sun. Direct sow between May and August, harvest between June and October. See Vegetable Cultivation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds, cabbage caterpillars, cabbage whitefly, cabbage root fly, cutworms, flea beetle, slugs and snails",
+            "link_names": [
+                "Birds",
+                "Cabbage caterpillars",
+                "Cabbage whitefly",
+                "Cabbage root fly",
+                "Cutworms",
+                "Flea beetle",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "cabbage_caterpillars": "https://www.rhs.org.uk/biodiversity/cabbage-caterpillars",
+                "cabbage_whitefly": "https://www.rhs.org.uk/biodiversity/cabbage-whitefly",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly",
+                "cutworms": "https://www.rhs.org.uk/biodiversity/cutworms",
+                "flea_beetle": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to black rot, clubroot, downy mildew, grey mould, leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Brassica rapa (Chinensis Group) 'Choko F1'",
+    "display_name": "Pak choi 'choko'"
 }

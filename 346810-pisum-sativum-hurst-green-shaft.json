@@ -84,11 +84,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Sow in flat bottomed drills in fertile, well-drained soil in full sun, and provide support. See the Grow Your Own pages on vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed sown in succession from mid spring to early summer",
-        "pruning": "Pick regularly to encourage more pods to set",
-        "pests": "May be susceptible to mice, slugs and pea moths",
-        "diseases": "May be susceptible to pea wilt and powdery mildews. This cultivar has some resistance to downy mildews"
+        "cultivation": {
+            "text": "Sow in flat bottomed drills in fertile, well-drained soil in full sun, and provide support. See the Grow Your Own pages on vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in succession from mid spring to early summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pick regularly to encourage more pods to set",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mice, slugs and pea moths",
+            "link_names": [
+                "Slugs",
+                "Pea moths"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "pea_moths": "https://www.rhs.org.uk/biodiversity/pea-moth"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pea wilt and powdery mildews. This cultivar has some resistance to downy mildews",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pisum_sativum__Hurst_Green_Shaft_.html",
@@ -125,5 +170,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pisum sativum 'Hurst Green Shaft'",
+    "display_name": "Pea 'hurst green shaft'"
 }

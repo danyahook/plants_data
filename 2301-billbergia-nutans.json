@@ -89,15 +89,47 @@
         "plant_range": "Brazil to N Argentina"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors as an epiphyte or in humus-rich, sharply drained soil in frost-free location. Under glass grow as an epiphyte or in epiphytic bromeliad compost in bright indirect light. Keep the centre funnel filled with fresh water",
-        "propagation": "Propagate by seed or by removing offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get scale insects",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow outdoors as an epiphyte or in humus-rich, sharply drained soil in frost-free location. Under glass grow as an epiphyte or in epiphytic bromeliad compost in bright indirect light. Keep the centre funnel filled with fresh water",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by removing offsets",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Billbergia_nutans.html",
@@ -158,5 +190,7 @@
             "Leaf tips withering",
             "Scars"
         ]
-    }
+    },
+    "main_name_original": "Billbergia nutans",
+    "display_name": "Friendship plant"
 }

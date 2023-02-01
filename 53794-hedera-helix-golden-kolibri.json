@@ -101,17 +101,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile, humus-rich, alkaline soil but will tolerate acidic soils. Provide shelter from cold drying winds",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 11, at any time",
-        "pests": "Can get aphids, scale insects and vine weevil",
-        "diseases": "A leaf spot may be a problem"
-    }
+        "cultivation": {
+            "text": "Grows best in fertile, humus-rich, alkaline soil but will tolerate acidic soils. Provide shelter from cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11, at any time",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, scale insects, vine weevil and aphids",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a leaf spot",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hedera helix 'Golden Kolibri'",
+    "display_name": "Ivy 'midas touch'"
 }

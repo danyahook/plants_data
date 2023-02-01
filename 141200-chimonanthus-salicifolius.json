@@ -87,14 +87,54 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown as soon as ripe in a cold frame, or take greenwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Climber and wall shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "See pruning group 1",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe in a cold frame, or take greenwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Greenwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Climber and wall shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Chimonanthus salicifolius",
+    "display_name": ""
 }

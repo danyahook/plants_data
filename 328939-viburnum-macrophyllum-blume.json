@@ -95,17 +95,69 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade, with protection from cold, drying winds",
-        "propagation": "Propagate by seed, sown in a cold frame in autumn, by semi-ripe cuttings in summer, or by grafting in late summer or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 (evergreens)",
-        "pests": "May be susceptible to aphids and viburnum beetle",
-        "diseases": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade, with protection from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in a cold frame in autumn, by semi-ripe cuttings in summer, or by grafting in late summer or winter",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 (evergreens)",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and viburnum beetle",
+            "link_names": [
+                "Aphids",
+                "Viburnum beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Viburnum macrophyllum Blume",
+    "display_name": ""
 }

@@ -85,14 +85,54 @@
         "plant_range": "Thailand to Malesia"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a house or conservatory plant in a houseplant compost. Position the pot or hanging basket in bright, filtered light for best growth and flowering. Apply a balanced liquid feed monthly during the growing season. See houseplant cultivation for further information",
-        "propagation": "Propagate by softwood cuttings in spring or semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Trim back weak or overly-long shoots as necessary",
-        "pests": "May be susceptible to aphids and mealybugs",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow as a house or conservatory plant in a houseplant compost. Position the pot or hanging basket in bright, filtered light for best growth and flowering. Apply a balanced liquid feed monthly during the growing season. See houseplant cultivation for further information",
+            "link_names": [
+                "Houseplant cultivation"
+            ],
+            "related_links": {
+                "houseplant_cultivation": "https://www.rhs.org.uk/plants/types/houseplants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back weak or overly-long shoots as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and mealybugs",
+            "link_names": [
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aeschynanthus_radicans.html",
@@ -136,5 +176,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Aeschynanthus radicans",
+    "display_name": "Lipstick plant"
 }

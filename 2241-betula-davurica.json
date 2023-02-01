@@ -84,19 +84,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for woodland and acidic soils. Position in a site sheltered from cold, dry winds and early morning sun as buds and flowers may be damaged by cold winds and late frosts see camellia cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be attacked by aphids, scale insects and vine weevil",
-        "diseases": "May be affected by honey fungus, phytophthora root rot, camellia gall, camellia leaf blight, camellia yellow mottle virus and flowers may be infected by camellia petal blight"
-    }
+        "cultivation": {
+            "text": "Will grow in wide range of situations in sun or part-shade. For more information, see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Tree rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Betula davurica",
+    "display_name": "Asian black birch"
 }

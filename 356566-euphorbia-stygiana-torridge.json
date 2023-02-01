@@ -92,15 +92,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, light soil in full sun. In colder areas, this plant will require winter protection, or grow in a container and overwinter in a cool greenhouse",
-        "propagation": "Propagate by seed, or take basal softwood cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, light soil in full sun. In colder areas, this plant will require winter protection, or grow in a container and overwinter in a cool greenhouse",
+            "link_names": [
+                "Winter protection",
+                "Container"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, or take basal softwood cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Euphorbia stygiana 'Torridge'",
+    "display_name": ""
 }

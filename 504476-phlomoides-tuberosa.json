@@ -89,18 +89,54 @@
         "plant_range": "Europe to Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, reliably well-drained soil in full sun; will tolerate partial shade",
-        "propagation": "Propagate by division in spring. Propagate by seed sown at 13-18°C in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 or pruning group 9",
-        "pests": "Leafhoppers may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, reliably well-drained soil in full sun; will tolerate partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring. Propagate by seed sown at 13-18°C in spring",
+            "link_names": [
+                "Division",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 9",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Leafhoppers may be a problem",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phlomoides_tuberosa.html",
@@ -183,5 +219,7 @@
         "diseases_data": [
             "Leaf scorch"
         ]
-    }
+    },
+    "main_name_original": "Phlomoides tuberosa",
+    "display_name": "Sage-leaf mullein"
 }

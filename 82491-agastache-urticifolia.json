@@ -91,19 +91,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in fertile, moist but well-drained soil in sun or light shade",
-        "propagation": "Propagate by seed or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove spent flowering spikes as they fade",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Thrives in fertile, moist but well-drained soil in sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flowering spikes as they fade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Agastache_urticifolia.html",
@@ -153,5 +187,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Agastache urticifolia",
+    "display_name": "Nettle-leaved giant hyssop"
 }

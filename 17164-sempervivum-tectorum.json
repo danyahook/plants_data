@@ -124,20 +124,56 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile well-drained soil in full sun. Protect from excessive winter wet. Suitable for rock garden, scree bed, wall crevice, trough or alpine house",
-        "propagation": "Propagate by seed sown in spring, or root offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get vine weevil",
-        "diseases": "May be affected by a rust"
+        "cultivation": {
+            "text": "Grow in moderately fertile well-drained soil in full sun. Protect from excessive winter wet. Suitable for rock garden, scree bed, wall crevice, trough or alpine house",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, or root offsets in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sempervivum_tectorum.html",
@@ -369,5 +405,7 @@
             "Leaf rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Sempervivum tectorum",
+    "display_name": "Common houseleek"
 }

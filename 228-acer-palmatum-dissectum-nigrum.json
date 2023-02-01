@@ -103,15 +103,67 @@
         "plant_range": "Assam"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or in frost-free enviroment. Mainly grown for foliage. See Begonias: houseplants for further advice.",
-        "propagation": "Propagate by seed, leaf cuttings or sections of rhizome",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get caterpillars, mealybugs, tarsonemid mite, thrips, vine weevil and aphids",
-        "diseases": "May be infected by powdery mildews"
+        "cultivation": {
+            "text": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture, drying winds or late spring frost. See Japanese maple cultivation",
+            "link_names": [
+                "Leaf scorch",
+                "Japanese maple cultivation"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "japanese_maple_cultivation": "https://www.rhs.org.uk/plants/acer/japanese-maples/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting or softwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt and a canker",
+            "link_names": [
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Begonia_rex.html",
@@ -170,5 +222,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Acer palmatum 'Dissectum Nigrum'",
+    "display_name": "Japanese maple 'dissectum nigrum'"
 }

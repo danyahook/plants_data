@@ -84,14 +84,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "This cordon type tomato is ideal for outdoor cultivation or the greenhouse. For detailed cultivation advice see Tomatoes",
-        "propagation": "Propagate from seed. For detailed propagation advice see Tomatoes",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "For detailed pruning and training advice see Tomatoes",
-        "pests": "May be susceptible to glasshouse whitefly and tomato moth",
-        "diseases": "May be susceptible to tomato leaf mould, tomato blight and tomato viruses; see also Toamtoes: leaf problems"
-    }
+        "cultivation": {
+            "text": "This cordon type tomato is ideal for outdoor cultivation or the greenhouse. For detailed cultivation advice see Tomatoes",
+            "link_names": [
+                "Cordon",
+                "Tomatoes"
+            ],
+            "related_links": {
+                "cordon": "https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons",
+                "tomatoes": "https://www.rhs.org.uk/vegetables/tomatoes/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from seed. For detailed propagation advice see Tomatoes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "For detailed pruning and training advice see Tomatoes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and tomato moth",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to tomato leaf mould, tomato blight and tomato viruses; see also Toamtoes: leaf problems",
+            "link_names": [
+                "Tomato",
+                "Tomato",
+                "Tomato"
+            ],
+            "related_links": {
+                "tomato": "https://www.rhs.org.uk/problems/tomatoes-leaf-problems"
+            }
+        }
+    },
+    "main_name_original": "Solanum lycopersicum 'Sweet Aperitif'",
+    "display_name": "Tomato (cherry) 'sweet aperitif'"
 }

@@ -85,15 +85,59 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in a fertile, free-draining soil in full sun. Sow at fortnightly intervals from March to July for a successional harvest. See Chard section in Vegetable cultivation for detailed growing advice",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Bedding",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, flea beetles and leaf miners, birds may damage crops if not netted",
-        "diseases": "May be susceptible to downy mildew and grey mould (Botrytis)"
-    }
+        "cultivation": {
+            "text": "Best grown in a fertile, free-draining soil in full sun. Sow at fortnightly intervals from March to July for a successional harvest. See Chard section in Vegetable cultivation for detailed growing advice",
+            "link_names": [
+                "Chard",
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "chard": "https://www.rhs.org.uk/vegetables/chard/grow-your-own",
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Bedding",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, flea beetles and leaf miners, birds may damage crops if not netted",
+            "link_names": [
+                "Aphids",
+                "Flea beetles",
+                "Birds"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildew and grey mould (Botrytis)",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Beta vulgaris subsp. cicla var. flavescens 'Canary Yellow'",
+    "display_name": "Chard 'canary yellow'"
 }

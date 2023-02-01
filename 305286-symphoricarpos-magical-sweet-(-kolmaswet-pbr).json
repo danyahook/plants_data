@@ -94,16 +94,70 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Tolerates most soils and conditions, tolerant of pollution. Has potential to become a nuisance if suckering is not managed",
-        "propagation": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn, or by division, transplanting rooted offsets in autumn. As this plant is protected by Plant Breeders' Rights, any propagation should be for personal rather than commercial use",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or 2 after flowering. Remove suckers in winter",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to fungal leaf spots, powdery mildews, rust diseases and stem galls"
-    }
+        "cultivation": {
+            "text": "Tolerates most soils and conditions, tolerant of pollution. Has the potential to become a nuisance if suckering is not managed",
+            "link_names": [
+                "Potential to become a nuisance"
+            ],
+            "related_links": {
+                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn, or by division, transplanting rooted offsets in autumn. As this plant is protected by Plant Breeders' Rights, any propagation should be for personal rather than commercial use",
+            "link_names": [
+                "Softwood",
+                "Hardwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or 2 after flowering. Remove suckers in winter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spots, powdery mildews, rust diseases, stem galls and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Symphoricarpos Magical Sweet ('Kolmaswet'PBR)",
+    "display_name": ""
 }

@@ -95,17 +95,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade",
-        "propagation": "Propagate by semi-ripe cuttings in summer, or by grafting in late summer or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Minimal pruning required, if necessary prune immediately after flowering",
-        "pests": "May be susceptible to aphids and viburnum beetle",
-        "diseases": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer, or by grafting in late summer or winter",
+            "link_names": [
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, if necessary prune immediately after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and viburnum beetle",
+            "link_names": [
+                "Aphids",
+                "Viburnum beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Viburnum Shiny Dancer ('Ncvx1')",
+    "display_name": ""
 }

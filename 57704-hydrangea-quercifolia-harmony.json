@@ -84,16 +84,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in partial shade or sun if the soil remains reliably moist. See shrubby hydrangea cultivation for more detailed advice",
-        "propagation": "Propagate by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or 4",
-        "pests": "May be susceptible to aphids, capsid bug and hydrangea scale",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in partial shade or sun if the soil remains reliably moist. See shrubby hydrangea cultivation for more detailed advice",
+            "link_names": [
+                "Shrubby hydrangea cultivation"
+            ],
+            "related_links": {
+                "shrubby_hydrangea_cultivation": "https://www.rhs.org.uk/plants/hydrangea/shrubby/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or 4",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug and hydrangea scale",
+            "link_names": [
+                "Aphids",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hydrangea quercifolia 'Harmony'",
+    "display_name": "Hydrangea 'harmony'"
 }

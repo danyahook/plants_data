@@ -108,14 +108,56 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or in a sheltered frost-free enviroment. Pinch out tips to promote compact plants. Best replaced when they become leggy",
-        "propagation": "Propagate by seed, softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be attacked by glasshouse red spider mite and glasshouse whitefly",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass or in a sheltered frost-free enviroment. Pinch out tips to promote compact plants. Best replaced when they become leggy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse red spider mite and glasshouse whitefly",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Justicia_brandegeeana.html",
@@ -168,5 +210,7 @@
             "Petal blight",
             "Leaf deformity"
         ]
-    }
+    },
+    "main_name_original": "Justicia brandegeeana",
+    "display_name": "Shrimp plant"
 }

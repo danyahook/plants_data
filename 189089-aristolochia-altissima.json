@@ -98,15 +98,47 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in thin chalky conditions and is drought tolerant. Requires sun or semi-shade",
-        "propagation": "Propagate by seed in spring or propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "May be cut back to 2 or 3 nodes in spring if necessary",
-        "pests": "Generally trouble-free",
-        "diseases": "Generally trouble-free"
-    }
+        "cultivation": {
+            "text": "Will grow in thin chalky conditions and is drought tolerant. Requires sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "May be cut back to 2 or 3 nodes in spring if necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aristolochia altissima",
+    "display_name": "Birthwort"
 }

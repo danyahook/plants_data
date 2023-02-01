@@ -85,18 +85,63 @@
         "plant_range": "Greece Peloponnese"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, well-drained soil in part shade, under trees or shrubs, to avoid excessive summer moisture. Mulch annually with leaf mould as leaves wither; in areas with prolonged frost provide a deep, loose mulch",
-        "propagation": "Propagate by seed: before sowing soak seed in water for at least 10 hours and rinse thoroughly. Sow seed as soon as ripe in darkness, in a mix of equal parts seed compost and sharp grit. Water and drain then seal pots in clear plastic bags. Keep at a minimum of 16°C (61°F) in a lightly shaded place. Remove bags once germination occurs and transplant seedlings when large enough to handle",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Mice or squirrels may be a problem; prone to red spider mites, vine weevil and cyclamen mite",
-        "diseases": "Generally disease free but may suffer cyclamen grey mould (Botrytis) under glass"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, well-drained soil in part shade, under trees or shrubs, to avoid excessive summer moisture. Mulch annually with leaf mould as leaves wither; in areas with prolonged frost provide a deep, loose mulch",
+            "link_names": [
+                "Mulch",
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed: before sowing soak seed in water for at least 10 hours and rinse thoroughly. Sow seed as soon as ripe in darkness, in a mix of equal parts seed compost and sharp grit. Water and drain then seal pots in clear plastic bags. Keep at a minimum of 16°C (61°F) in a lightly shaded place. Remove bags once germination occurs and transplant seedlings when large enough to handle",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Mice or squirrels may be a problem; prone to red spider mites, vine weevil and cyclamen mite",
+            "link_names": [
+                "Squirrels",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free but may suffer cyclamen grey mould (Botrytis) under glass",
+            "link_names": [
+                "Cyclamen grey mould"
+            ],
+            "related_links": {
+                "cyclamen_grey_mould": "https://www.rhs.org.uk/disease/cyclamen-grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Cyclamen peloponnesiacum",
+    "display_name": "Peloponnesian cyclamen"
 }

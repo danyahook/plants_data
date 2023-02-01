@@ -102,18 +102,64 @@
         "plant_range": "Europe C Asia"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in any reasonable soil; can be grown as a tree or as a shrub for winter stems",
-        "propagation": "Propagate by softwood or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1 if grown as a tree, pruning group 7 if grown for winter stems",
-        "pests": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
-        "diseases": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust"
+        "cultivation": {
+            "text": "Easy to grow in any reasonable soil; can be grown as a tree or as a shrub for winter stems",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 if grown as a tree, pruning group 7 if grown for winter stems",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
+            "link_names": [
+                "Willow anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salix_daphnoides.html",
@@ -174,5 +220,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Salix daphnoides",
+    "display_name": "Violet willow"
 }

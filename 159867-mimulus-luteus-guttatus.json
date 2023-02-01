@@ -96,14 +96,56 @@
         "plant_range": "W North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, permanently moist soil in sun or semi-shade",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "May be affected by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, permanently moist soil in sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Mimulus luteus guttatus",
+    "display_name": "Common large monkey flower"
 }

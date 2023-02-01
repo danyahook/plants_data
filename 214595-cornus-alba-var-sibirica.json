@@ -103,15 +103,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation",
-        "propagation": "Propagate by hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Generally pest free",
-        "diseases": "May be susceptible to cornus anthracnose"
-    }
+        "cultivation": {
+            "text": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation or flowering dogwood cultivation",
+            "link_names": [
+                "Winter stem colour cultivation",
+                "Flowering dogwood cultivation"
+            ],
+            "related_links": {
+                "winter_stem_colour_cultivation": "https://www.rhs.org.uk/plants/cornus/for-stems/growing-guide",
+                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to cornus anthracnose and honey fungus",
+            "link_names": [
+                "Cornus anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cornus alba var. sibirica",
+    "display_name": "Siberian dogwood"
 }

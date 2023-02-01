@@ -99,15 +99,55 @@
         "plant_range": "SE Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun. See Trees: buying and planting specimens",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring. Cultivars will not come true from seed and can be grafted in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning is best avoided. If necessary, prune between late summer and midwinter to avoid bleeding",
-        "pests": "Prone to adelgids, aphids, sawfly larvae, pine shoot moth",
-        "diseases": "Susceptible to honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun. See Trees: buying and planting specimens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring. Cultivars will not come true from seed and can be grafted in late winter",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning is best avoided. If necessary, prune between late summer and midwinter to avoid bleeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pinus heldreichii var. leucodermis",
+    "display_name": "Bosnian pine"
 }

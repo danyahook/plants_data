@@ -90,18 +90,60 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in humus rich, moist but well-drained soil avoiding excessive wet conditions in winter",
-        "propagation": "Propagate by division in early spring and autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems after flowering",
-        "pests": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
-        "diseases": "May be susceptible to Powdery mildews and Anemone smuts"
-    }
+        "cultivation": {
+            "text": "Will grow well in humus rich, moist but well-drained soil avoiding excessive wet conditions in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring and autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm, caterpillars and slugs",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Slugs"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews and Anemone smuts",
+            "link_names": [
+                "Powdery mildews",
+                "Smuts"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "smuts": "https://www.rhs.org.uk/disease/smuts"
+            }
+        }
+    },
+    "main_name_original": "Anemone hupehensis Jasmine ('Ifanfj'PBR) (Fantasy Series)",
+    "display_name": "Japanese anemone [jasmine]"
 }

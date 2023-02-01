@@ -92,16 +92,56 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well drained soil. Keep container-grown plants moist",
-        "propagation": "Propagate by root semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to glasshouse red spider mite and snails",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well drained soil. Keep container-grown plants moist",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by root semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and snails",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Snails"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Choisya 'Pmoore06'PBR",
+    "display_name": "Mexican orange [royal lace]"
 }

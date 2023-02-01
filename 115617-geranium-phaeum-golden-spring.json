@@ -94,17 +94,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in sun or shade in moist but well-drained soil; good in damp shade",
-        "propagation": "Propagate by division in spring, or by basal softwood cuttings taken in spring and rooted with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back flowered stems and old leaves to encourage fresh growth",
-        "pests": "May be affected by capsid bug, geranium sawfly, vine weevil, slugs and snails",
-        "diseases": "A rust, downy mildews, leafy gall and a virus may be troublesome. Powdery mildews can be a problem in dry conditions"
-    }
+        "cultivation": {
+            "text": "Grow in sun or shade in moist but well-drained soil; good in damp shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, or by basal softwood cuttings taken in spring and rooted with bottom heat",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems and old leaves to encourage fresh growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bug, geranium sawfly, vine weevil, slugs and snails",
+            "link_names": [
+                "Capsid bug",
+                "Geranium sawfly",
+                "Vine weevil",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, downy mildews, leafy gall and a virus. Powdery mildews can be a problem in dry conditions",
+            "link_names": [
+                "A rust",
+                "Downy mildews",
+                "Leafy gall",
+                "A virus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium phaeum 'Golden Spring'",
+    "display_name": "Dusky cranesbill 'golden spring'"
 }

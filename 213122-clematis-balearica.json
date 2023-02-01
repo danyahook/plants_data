@@ -103,16 +103,74 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "A variety that requires a warm, sheltered position to flower well, though it thrives in any fertile, well-drained soil. Plant with the crown at soil level. In cold areas, grow in a container and overwinter in a greenhouse or conservatory. See clematis cultivation for further information",
-        "propagation": "Root softwood cuttings in spring, semi-ripe cuttings in early summer or propagate by layering in late winter or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning (clematis) group 1 immediately after flowering",
-        "pests": "Aphids, capsid bug, caterpillars, slugs and snails may damage young growth; earwigs may damage flower petals",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "A variety that requires a warm, sheltered position to flower well, though it thrives in any fertile, well-drained soil. Plant with the crown at soil level. In cold areas, grow in a container and overwinter in a greenhouse or conservatory. See clematis cultivation for further information",
+            "link_names": [
+                "Container",
+                "Overwinter in a greenhouse",
+                "Clematis cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "overwinter_in_a_greenhouse": "https://www.rhs.org.uk/prevention-protection/overwintering-in-conservatory",
+                "clematis_cultivation": "https://www.rhs.org.uk/plants/clematis/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Root softwood cuttings in spring, semi-ripe cuttings in early summer or propagate by layering in late winter or early spring",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning (clematis) group 1 immediately after flowering",
+            "link_names": [
+                "Pruning (clematis) group 1"
+            ],
+            "related_links": {
+                "pruning_(clematis)_group_1": "https://www.rhs.org.uk/plants/clematis/group-one-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Aphids, capsid bug, caterpillars, slugs and snails may damage young growth; earwigs may damage flower petals",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Slugs",
+                "Snails",
+                "Earwigs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Clematis balearica",
+    "display_name": "Fern-leaved clematis"
 }

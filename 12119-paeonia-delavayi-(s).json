@@ -90,17 +90,69 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained, humus-rich soil in sun or partial shade. See tree peony cultivation for further information.",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be suceptible to leaf and bud eelworm and soil-dwelling swift moth larvae",
-        "diseases": "May be susceptible to a virus, honey fungus and peony wilt"
+        "cultivation": {
+            "text": "Grow in a well-drained, humus-rich soil in sun or partial shade. See tree peony cultivation for further information.",
+            "link_names": [
+                "Tree peony cultivation"
+            ],
+            "related_links": {
+                "tree_peony_cultivation": "https://www.rhs.org.uk/plants/peony/tree/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm and soil-dwelling swift moth larvae",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Swift moth larvae"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "swift_moth_larvae": "https://www.rhs.org.uk/biodiversity/swift-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus, honey fungus, Verticillium wilt, peony leaf blotch and peony wilt",
+            "link_names": [
+                "A virus",
+                "Honey fungus",
+                "Verticillium wilt",
+                "Peony wilt"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "peony_wilt": "https://www.rhs.org.uk/disease/peony-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Paeonia_delavayi.html",
@@ -147,5 +199,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Paeonia delavayi (S)",
+    "display_name": "Delavay peony"
 }

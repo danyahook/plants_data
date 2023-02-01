@@ -88,13 +88,57 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, moist but well-drained soil in sun or partial shade with protection from cold, drying winds",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn. Take greenwood cuttings (preferably from young plants) in summer. Graft in winter. Remove rooted suckers in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "See pruning group 1",
-        "pests": "May be susceptible to horse chestnut scale",
-        "diseases": "May be susceptible to bacterial canker and Dutch elm disease"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, moist but well-drained soil in sun or partial shade with protection from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn. Take greenwood cuttings (preferably from young plants) in summer. Graft in winter. Remove rooted suckers in winter",
+            "link_names": [
+                "Greenwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to horse chestnut scale",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to bacterial canker, Dutch elm disease and honey fungus (rarely)",
+            "link_names": [
+                "Bacterial canker",
+                "Dutch elm disease",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "dutch_elm_disease": "https://www.rhs.org.uk/disease/dutch-elm-disease",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Zelkova serrata 'Flekova'",
+    "display_name": "Japanese zelkova [green vase]"
 }

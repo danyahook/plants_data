@@ -89,13 +89,49 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Favours a sheltered position in sun or partial shade with a deep, humus-rich soil",
-        "propagation": "Propagate from semi-hardwood cuttings or by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Favours a sheltered position in sun or partial shade with a deep, humus-rich soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from semi-hardwood cuttings or by layering",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Azara serrata",
+    "display_name": "Saw-toothed azara"
 }

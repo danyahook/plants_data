@@ -112,21 +112,61 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun; it makes an excellent wind-resistant hedge in seaside gardens",
-        "propagation": "Propagate by seed, by semi-ripe cuttings in summer, or by heeled hardwood cuttings of lateral shoots in a cold frame in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required or Pruning group 9 (late-flowering evergreen shrubs)",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun; it makes an excellent wind-resistant hedge in seaside gardens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by semi-ripe cuttings in summer, or by heeled hardwood cuttings of lateral shoots in a cold frame in early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required or Pruning group 9 (late-flowering evergreen shrubs)",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Olearia_paniculata.html",
@@ -170,5 +210,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Olearia paniculata",
+    "display_name": "Akiraho"
 }

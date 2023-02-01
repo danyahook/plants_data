@@ -98,17 +98,57 @@
         "plant_range": "N Pakistan to Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any normal garden soil that is moist but well-drained either in sun or in partial shade",
-        "propagation": "Propagate by seed sown in pots in a cold frame either when ripe or in spring. Propagate by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowering shoots to ground level in late summer or autumn",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be subject to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in any normal garden soil that is moist but well-drained either in sun or in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame either when ripe or in spring. Propagate by division in early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowering shoots to ground level in late summer or autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Euphorbia cornigera",
+    "display_name": "Horned spurge"
 }

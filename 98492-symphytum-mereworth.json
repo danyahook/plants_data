@@ -94,15 +94,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist soil in sun or partial shade. Be aware the plant growth can be vigorous once established and has the potential to become a nuisance, so may require appropriate management",
-        "propagation": "Propagate by division of fleshy roots in spring. Propagate by root cuttings in early winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Ground cover"
-        ],
-        "pruning": "Cut down flower stems when faded to tidy and encourage further flowers",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist soil in sun or partial shade. Be aware the plant growth can be vigorous once established and has the potential to become a nuisance, so may require appropriate management",
+            "link_names": [
+                "Potential to become a nuisance"
+            ],
+            "related_links": {
+                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of fleshy roots in spring. Propagate by root cuttings in early winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down flower stems when faded to tidy and encourage further flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Symphytum 'Mereworth'",
+    "display_name": ""
 }

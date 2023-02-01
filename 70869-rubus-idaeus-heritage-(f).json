@@ -89,14 +89,46 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Train to wires in a sheltered spot, in any fertile soil as long as it isn't too chalky. Plant in sun or partial shade. For more advice see raspberry cultivation",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Prune canes which have finished fruiting, to the ground. Tie in new ones to support",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Train to wires in a sheltered spot, in any fertile soil as long as it isn't too chalky. Plant in sun or partial shade. For more advice see raspberry cultivation",
+            "link_names": [
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune canes which have finished fruiting, to the ground. Tie in new ones to support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rubus_idaeus__Heritage_.html",
@@ -134,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rubus idaeus 'Heritage' (F)",
+    "display_name": "Raspberry 'heritage'"
 }

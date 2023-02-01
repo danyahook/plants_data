@@ -100,19 +100,53 @@
         "plant_range": "Europe, Asia, North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well drained soil in full sun. a drought tolerant plant suitable for rockeries and the front of borders",
-        "propagation": "Propagate by seed in containers in a cold frame or by division in spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering or leave seedheads over winter",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well drained soil in full sun. a drought tolerant plant suitable for rockeries and the front of borders",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame or by division in spring or early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering or leave seedheads over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rhodiola_rosea.html",
@@ -276,5 +310,7 @@
             "Brown spot",
             "Fire ants"
         ]
-    }
+    },
+    "main_name_original": "Rhodiola rosea",
+    "display_name": "Dark purple stonecrop"
 }

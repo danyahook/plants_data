@@ -89,15 +89,59 @@
         "plant_range": "USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in full light with shelter from hot sun in moist conditions. Use an acidic potting medium with added moss. In winter keep plants a little drier, cool and well ventilated. Water with rainwater. See carnivorous plant cultivation",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Scale insects, mealybugs, aphids and tortrix moth caterpillars may be troublesome",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow under glass in full light with shelter from hot sun in moist conditions. Use an acidic potting medium with added moss. In winter keep plants a little drier, cool and well ventilated. Water with rainwater. See carnivorous plant cultivation",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Scale insects, mealybugs, aphids and tortrix moth caterpillars may be troublesome",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs",
+                "Aphids",
+                "Tortrix moth"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sarracenia flava var. ornata",
+    "display_name": "Showy yellow pitcher plant"
 }

@@ -85,16 +85,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well drained soil in full sun for seed production or partial shade for leaf production. Slow to bolt. See coriander cultivation for more information",
-        "propagation": "Propagate by seed sown in situ in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants"
-        ],
-        "pruning": "Pick leaves as required and remove flower stems before flowering to encourage leaf growth",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well drained soil in full sun for seed production or partial shade for leaf production. Slow to bolt. See coriander cultivation for more information",
+            "link_names": [
+                "Coriander cultivation"
+            ],
+            "related_links": {
+                "coriander_cultivation": "https://www.rhs.org.uk/herbs/coriander/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pick leaves as required and remove flower stems before flowering to encourage leaf growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Coriandrum sativum 'Calypso'PBR",
+    "display_name": "Coriander 'calypso'"
 }

@@ -85,15 +85,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil preferably in full sun. Flowering is likely to be poor in shadier situations. Tolerant of heavy clay and poorer soils. May need watering in spring to early summer in dry conditions to ensure flowering. See Hemerocallis cultivation or daylily cultivation for details",
-        "propagation": "Propagate by division in early spring or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flower stems after flowering has finished. Remove dead foliage as required",
-        "pests": "May be susceptible to aphids, slugs, snails, hemerocallis gall midge, glasshouse red spider mite and Thrips",
-        "diseases": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil preferably in full sun. Flowering is likely to be poor in shadier situations. Tolerant of heavy clay and poorer soils. May need watering in spring to early summer in dry conditions to ensure flowering. See Hemerocallis cultivation or daylily cultivation for details",
+            "link_names": [
+                "Hemerocallis cultivation",
+                "Daylily cultivation"
+            ],
+            "related_links": {
+                "hemerocallis_cultivation": "https://www.rhs.org.uk/plants/hemerocallis/growing-guide",
+                "daylily_cultivation": "https://www.rhs.org.uk/plants/hemerocallis/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or early autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flower stems after flowering has finished. Remove dead foliage as required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs, snails, hemerocallis gall midge, glasshouse red spider mite and Thrips",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Hemerocallis gall midge",
+                "Glasshouse red spider mite",
+                "Thrips"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "hemerocallis_gall_midge": "https://www.rhs.org.uk/biodiversity/hemerocallis-gall-midge",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Hemerocallis 'Fifth Order'",
+    "display_name": ""
 }

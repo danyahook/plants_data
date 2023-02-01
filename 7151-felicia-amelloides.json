@@ -99,19 +99,55 @@
         "plant_range": "Temp S Africa"
     },
     "how_to_grow": {
-        "cultivation": "Drought-resistant; grow in poor to moderately fertile well-drained soil in full sun. Under glass grow in loam-based potting compost (JI No2) in full light with low humidity and good ventilation. Water sparingly in winter",
-        "propagation": "Propagate by seed or stem-tip softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Garden edging",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pinch back young shoots to encourage bushiness, remove spent flowers to prolong flowering",
-        "pests": "May be susceptible to aphids and glasshouse red spider mite under glass",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Drought-resistant; grow in poor to moderately fertile well-drained soil in full sun. Under glass grow in loam-based potting compost (JI No2) in full light with low humidity and good ventilation. Water sparingly in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or stem-tip softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Garden edging",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch back young shoots to encourage bushiness, remove spent flowers to prolong flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite under glass",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Felicia_amelloides.html",
@@ -170,5 +206,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Felicia amelloides",
+    "display_name": "Kingfisher daisy"
 }

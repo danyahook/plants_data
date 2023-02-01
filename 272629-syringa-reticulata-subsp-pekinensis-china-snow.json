@@ -107,18 +107,72 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile, humus-rich alkaline to neutral soils. This cultivar has some tolerance to drought",
-        "propagation": "Propagate by softwood cuttings or layering in early summer, chip budding in summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1, after flowering",
-        "pests": "May be susceptible to lilac leaf-mining moth, thrips and willow scale insects",
-        "diseases": "May be susceptible to lilac blight, honey fungus and bacterial canker"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, fertile, humus-rich alkaline to neutral soils. This cultivar has some tolerance to drought",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or layering in early summer, chip budding in summer or grafting in winter",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, after flowering",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lilac leaf-mining moth, thrips and willow scale insects",
+            "link_names": [
+                "Lilac leaf-mining moth",
+                "Thrips",
+                "Scale insects"
+            ],
+            "related_links": {
+                "lilac_leaf-mining_moth": "https://www.rhs.org.uk/biodiversity/lilac-leaf-mining-moth",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus and bacterial canker",
+            "link_names": [
+                "Honey fungus",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Syringa reticulata subsp. pekinensis 'China Snow'",
+    "display_name": "Peking lilac"
 }

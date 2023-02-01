@@ -94,14 +94,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil in full sun",
-        "propagation": "Propagate by chip budding or grafting, although softwood cuttings in early summer with bottom heat can be successful",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
-        "pests": "May get caterpillars, leaf-mining moths, bullfinches and aphids",
-        "diseases": "May be affected by silver leaf, bacterial canker and blossom wilt"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting, although softwood cuttings in early summer with bottom heat can be successful",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May get caterpillars, leaf-mining moths, bullfinches and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus 'Alborosea'",
+    "display_name": "Cherry 'fugenzō'"
 }

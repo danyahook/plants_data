@@ -99,20 +99,54 @@
         "plant_range": "SW Europe to C Italy"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, well-drained soil in a sunny location",
-        "propagation": "Propagate by seed or division in Spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Rock garden",
-            "Low Maintenance",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildew"
+        "cultivation": {
+            "text": "Grow in moist, well-drained soil in a sunny location",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in Spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Rock garden",
+                "Low Maintenance",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Achillea_tomentosa.html",
@@ -158,5 +192,7 @@
             "Underwatering",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Achillea tomentosa",
+    "display_name": "Woolly yarrow"
 }

@@ -85,16 +85,64 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny spot in well drained soil, with plenty of organic matter dug in before sowing",
-        "propagation": "Propagate by seed, sown successionally and in situ from early spring. Thin seedlings as required, but they do not like to be transplanted",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required but deadhead if seed is not required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to fungal wilts, powdery mildews and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny spot in well drained soil, with plenty of organic matter dug in before sowing",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown successionally and in situ from early spring. Thin seedlings as required, but they do not like to be transplanted",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required but deadhead if seed is not required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal wilts, powdery mildews and downy mildews",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Papaver somniferum (Paeoniiflorum Group) 'White Paeony' (d)",
+    "display_name": ""
 }

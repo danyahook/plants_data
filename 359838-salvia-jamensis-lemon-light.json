@@ -91,20 +91,76 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, well-drained soil in full sun with shelter from cold, drying winds",
-        "propagation": "Propagate by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, or pruning group 9 (late-flowering evergreen shrubs) in spring",
-        "pests": "Generally pest-free but may be affected by slugs and snails, rosemary beetle, capsid bug, and leafhoppers including sage leafhopper",
-        "diseases": "Generally disease-free but may be affected by powdery mildews, verticillium wilt, and foot and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in light, well-drained soil in full sun with shelter from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, or pruning group 9 (late-flowering evergreen shrubs) in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by slugs and snails, rosemary beetle, capsid bug, and leafhoppers including sage leafhopper",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Rosemary beetle",
+                "Capsid bug",
+                "Sage leafhopper"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "sage_leafhopper": "https://www.rhs.org.uk/biodiversity/sage-and-ligurian-leafhoppers"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia × jamensis 'Lemon Light'",
+    "display_name": "Sage 'lemon light'"
 }

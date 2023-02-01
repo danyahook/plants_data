@@ -89,13 +89,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a warm, sheltered spot in fertile, moist but well-drained soil, or in containers with 2 parts good-quality compost mixed with 1 part perlite. Plants are best replaced every one or two years. See strawberry cultivation",
-        "propagation": "Propagate by seed sown in autumn or spring or by rooting and removing runners",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pests": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
-        "diseases": "May be affected by strawberry viruses and root rot. Fruit prone to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in a warm, sheltered spot in fertile, moist but well-drained soil, or in containers with 2 parts good-quality compost mixed with 1 part perlite. Plants are best replaced every one or two years. See strawberry cultivation",
+            "link_names": [
+                "Containers",
+                "Strawberry cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "strawberry_cultivation": "https://www.rhs.org.uk/fruit/strawberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn or spring or by rooting and removing runners",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by strawberry viruses and root rot. Fruit prone to grey moulds",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Fragaria × ananassa 'Ruby Ann' (F)",
+    "display_name": "Strawberry 'ruby ann'"
 }

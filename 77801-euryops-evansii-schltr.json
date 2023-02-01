@@ -97,15 +97,53 @@
         "plant_range": "S Africa, Lesotho"
     },
     "how_to_grow": {
-        "cultivation": "Grow in sheltered shrub border, rock garden or raised bed in a well-drained soil full sun. Trim lightly after flowering to restrict growth",
-        "propagation": "Propagate by seed, softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "Trim lightly after flowering to restrict growth",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in sheltered shrub border, rock garden or raised bed in a well-drained soil full sun. Trim lightly after flowering to restrict growth",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim lightly after flowering to restrict growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Euryops evansii Schltr.",
+    "display_name": "Mountain euryops"
 }

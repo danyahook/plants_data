@@ -98,21 +98,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in moist but well-drained soil in a semi-shaded position",
-        "propagation": "Divide every 3-4 years. Separate plantlets from rooted stolons in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Ground cover",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove faded flower spikes in autumn",
-        "pests": "vine weevil can be a problem",
-        "diseases": "Can be susceptible to grey moulds and rust diseases"
-    }
+        "cultivation": {
+            "text": "Grows best in moist but well-drained soil in a semi-shaded position",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide every 3-4 years. Separate plantlets from rooted stolons in autumn",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Ground cover",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "vine weevil can be a problem",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Can be susceptible to grey moulds and rust diseases",
+            "link_names": [
+                "Grey moulds",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "× Heucherella 'Brass Lantern'PBR",
+    "display_name": "Heucherella 'brass lantern'"
 }

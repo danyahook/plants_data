@@ -101,18 +101,72 @@
         "plant_range": "Spain"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a sunny, well drained site; perfect for a rockery or alpine house. Needs protection from hard frosts and excess winter wet. See foxglove cultivation for more detailed advice",
-        "propagation": "Propagate by seed, sown in pots in a cold frame in late spring. Plants can be short-lived for perennials, so raise seedlings periodically to replace older plants",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "Deadhead to encourage more flowers (unless seeds are required)",
-        "pests": "May be susceptible to aphids, leaf and bud eelworms, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews, downy mildews and leaf spot"
-    }
+        "cultivation": {
+            "text": "Prefers a sunny, well drained site; perfect for a rockery or alpine house. Needs protection from hard frosts and excess winter wet. See foxglove cultivation for more detailed advice",
+            "link_names": [
+                "Foxglove cultivation"
+            ],
+            "related_links": {
+                "foxglove_cultivation": "https://www.rhs.org.uk/plants/foxglove/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a cold frame in late spring. Plants can be short-lived for perennials, so raise seedlings periodically to replace older plants",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage more flowers (unless seeds are required)",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leaf and bud eelworms, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworms",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, downy mildews and leaf spot",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Digitalis minor",
+    "display_name": "Dwarf spanish foxglove"
 }

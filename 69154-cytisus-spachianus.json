@@ -97,16 +97,52 @@
         "plant_range": "Tenerife"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a cool greenhouse, conservatory or as a houseplant, in John Innes No 2 compost or equivalent. Can be placed outside for the summer months",
-        "propagation": "Propagate by seed in containers in spring or take semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 3; do not cut into old wood",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in a cool greenhouse, conservatory or as a houseplant, in John Innes No 2 compost or equivalent. Can be placed outside for the summer months",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in spring or take semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 3; do not cut into old wood",
+            "link_names": [
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Cytisus × spachianus",
+    "display_name": "Easter broom"
 }

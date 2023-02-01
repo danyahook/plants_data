@@ -88,16 +88,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in sheltered, well-drained beds, where there is full sun all day",
-        "propagation": "Propagate by bud cuttings which are treated as softwood cuttings or take stem cuttings which are treated as hardwood cuttings. Root cuttings can also be used. Division of clumps is also possible",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "Pruning not normally needed, but damaged leaves and spent flower spikes can be removed as necessary in the spring",
-        "pests": "Flowers may be attacked by aphids; snails eat the foliage",
-        "diseases": "May be affected by a leaf spot"
-    }
+        "cultivation": {
+            "text": "Easy to grow in sheltered, well-drained beds, where there is full sun all day",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by bud cuttings which are treated as softwood cuttings or take stem cuttings which are treated as hardwood cuttings. Root cuttings can also be used. Division of clumps is also possible",
+            "link_names": [
+                "Softwood",
+                "Hardwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning not normally needed, but damaged leaves and spent flower spikes can be removed as necessary in the spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Flowers may be attacked by aphids; snails eat the foliage",
+            "link_names": [
+                "Snails"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Yucca flaccida 'Ivory Tower'",
+    "display_name": "Needle palm 'ivory'"
 }

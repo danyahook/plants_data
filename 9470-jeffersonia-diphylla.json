@@ -84,18 +84,54 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich, preferably limey soil in partial or full shade; top dress with leaf mould or other humus-rich material in autumn. Dislikes disturbance and may take a year or two to settle after transplanting",
-        "propagation": "Propagate by seed in containers in an open frame as soon as ripe; divide established plants in autumn, leaving two or three new buds per clump; plants will flower in two to three years",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to slugs and snails, especially in spring",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moist, humus-rich, preferably limey soil in partial or full shade; top dress with leaf mould or other humus-rich material in autumn. Dislikes disturbance and may take a year or two to settle after transplanting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in an open frame as soon as ripe; divide established plants in autumn, leaving two or three new buds per clump; plants will flower in two to three years",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs and snails, especially in spring",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Jeffersonia_diphylla.html",
@@ -145,5 +181,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Jeffersonia diphylla",
+    "display_name": "Rheumatism root"
 }

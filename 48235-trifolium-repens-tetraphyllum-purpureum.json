@@ -99,16 +99,50 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained, limy soil conditions in full sun or partial shade",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Patio and container plants",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to pea and bean weevil",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows best in well-drained, limy soil conditions in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Patio and container plants",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to pea and bean weevil",
+            "link_names": [
+                "Pea and bean weevil"
+            ],
+            "related_links": {
+                "pea_and_bean_weevil": "https://www.rhs.org.uk/biodiversity/pea-and-bean-weevils"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Trifolium repens 'Tetraphyllum Purpureum'",
+    "display_name": "White clover 'purpurascens quadrifolium'"
 }

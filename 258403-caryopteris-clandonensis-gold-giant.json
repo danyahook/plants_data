@@ -89,21 +89,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in a sunny sheltered spot; ideal against a sunny wall. Some drought tolerance once established. Will not tolerate wet, poorly drained soil",
-        "propagation": "Propagate by softwood cuttings from spring to mid-summer, semi-ripe cuttings from mid- to late summer or hardwood cuttings from late autumn to mid-winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Flowers on new growth so can be cut back hard in spring, see pruning group 6",
-        "pests": "May be susceptible to capsid bug",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in a sunny sheltered spot; ideal against a sunny wall. Some drought tolerance once established. Will not tolerate wet, poorly drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings from spring to mid-summer, semi-ripe cuttings from mid- to late summer or hardwood cuttings from late autumn to mid-winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Flowers on new growth so can be cut back hard in spring, see pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bug",
+            "link_names": [
+                "Capsid bug"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Caryopteris × clandonensis 'Gold Giant'",
+    "display_name": ""
 }

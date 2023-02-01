@@ -92,16 +92,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Will grow nicely in fertile well-drained soil in full sun and will tolerate some partial shade",
-        "propagation": "Propagate by seed or division in spring and softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune old wood in spring, see pruning group 9 or pruning group 8 for more detail",
-        "pests": "May be susceptible to leafhoppers",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Will grow nicely in fertile well-drained soil in full sun and will tolerate some partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring and softwood cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune old wood in spring, see pruning group 9 or pruning group 8 for more detail",
+            "link_names": [
+                "Pruning group 9",
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leafhoppers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phlomis anatolica",
+    "display_name": ""
 }

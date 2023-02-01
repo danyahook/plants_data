@@ -85,17 +85,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun",
-        "propagation": "Propagate by sowing seed in containers in a cold frame in autumn, or by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "Trim plants back by a half after flowering to maintain a compact shape",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in containers in a cold frame in autumn, or by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim plants back by a half after flowering to maintain a compact shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Alyssum saxatile 'Summit'",
+    "display_name": ""
 }

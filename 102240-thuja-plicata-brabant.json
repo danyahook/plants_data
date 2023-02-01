@@ -89,16 +89,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in fertile well-drained soil, avoid waterlogging.",
-        "propagation": "Propage by semi-hardwood cuttings.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Prune to maintain shape.",
-        "pests": "May be susceptible to scale insects and cypress aphid.",
-        "diseases": "May be susceptible to canker"
-    }
+        "cultivation": {
+            "text": "Grows well in fertile well-drained soil, avoid waterlogging.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propage by semi-hardwood cuttings.",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune to maintain shape.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and cypress aphid.",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
+            "link_names": [
+                "Honey fungus",
+                "Thuja blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
+            }
+        }
+    },
+    "main_name_original": "Thuja plicata 'Brabant'",
+    "display_name": "White cedar 'brabant'"
 }

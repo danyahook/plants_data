@@ -90,21 +90,59 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in any moderately fertile, well-drained, loamy soil. Protect in all but the mildest areas over winter with a deep dry mulch or bring container grown plants into an unheated greenhouse",
-        "propagation": "Propagate by seed, sown when ripe, in containers in a cold frame or division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Gravel garden",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows well in any moderately fertile, well-drained, loamy soil. Protect in all but the mildest areas over winter with a deep dry mulch or bring container grown plants into an unheated greenhouse",
+            "link_names": [
+                "Mulch",
+                "Container"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown when ripe, in containers in a cold frame or division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Gravel garden",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Tulbaghia maritima",
+    "display_name": "Sea society garlic"
 }

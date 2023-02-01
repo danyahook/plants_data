@@ -87,15 +87,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any, preferably moist soil, in full sun or partial shade. Needs staking and may spread in rich soils",
-        "propagation": "Propagate by division between late autumn and spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowered stems to prevent self-seeding",
-        "pests": "Prone to pea and bean weevil",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in any, preferably moist soil, in full sun or partial shade. Needs staking and may spread in rich soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division between late autumn and spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to pea and bean weevil",
+            "link_names": [
+                "Pea and bean weevil"
+            ],
+            "related_links": {
+                "pea_and_bean_weevil": "https://www.rhs.org.uk/biodiversity/pea-and-bean-weevils"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Galega × hartlandii 'Alba'",
+    "display_name": "Goat's rue 'alba'"
 }

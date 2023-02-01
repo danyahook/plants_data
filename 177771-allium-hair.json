@@ -90,17 +90,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in reasonably fertile well-drained soil with full sun at the front of the border. Further allium cultivation advice",
-        "propagation": "Divide clumps in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by onion fly",
-        "diseases": "May be affected by onion white rot and downy mildews and occasionally leek rust"
-    }
+        "cultivation": {
+            "text": "Grow in reasonably fertile well-drained soil with full sun at the front of the border. Further allium cultivation advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Divide clumps in early spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to onion fly",
+            "link_names": [
+                "Onion fly"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to onion white rot and downy mildews and occasionally leek rust",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews",
+                "Leek rust"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust"
+            }
+        }
+    },
+    "main_name_original": "Allium 'Hair'",
+    "display_name": "Allium 'hair'"
 }

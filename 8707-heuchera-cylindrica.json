@@ -92,21 +92,65 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, moist but well-drained, neutral soil in sun or partial shade. The woody rootstock tends to lift out of the ground so mulch annually or lift and replant",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Cut flowers",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove faded flower spikes",
-        "pests": "May be susceptible to vine weevils and mealybugs",
-        "diseases": "May be susceptible to heuchera rust"
+        "cultivation": {
+            "text": "Grow in a fertile, moist but well-drained, neutral soil in sun or partial shade. The woody rootstock tends to lift out of the ground so mulch annually or lift and replant",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Cut flowers",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevils and mealybugs",
+            "link_names": [
+                "Vine weevils",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to heuchera rust",
+            "link_names": [
+                "Heuchera rust"
+            ],
+            "related_links": {
+                "heuchera_rust": "https://www.rhs.org.uk/disease/heuchera-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Heuchera_cylindrica.html",
@@ -159,5 +203,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Heuchera cylindrica",
+    "display_name": "Roundleaf alum root"
 }

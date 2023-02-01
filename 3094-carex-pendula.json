@@ -98,16 +98,54 @@
         "plant_range": "Europe to Afghanistan, Macaronesia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist or wet soil in sun or partial shade. Will tolerate drier soils but will not grow as tall. For more information, see ornamental grasses cultivation",
-        "propagation": "Propagate by seed sown in autumn, or by division from mid-spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Low Maintenance"
-        ],
-        "pruning": "Remove flower stems to prevent seeding. Cut out any dead foliage as it appears",
-        "pests": "May be susceptible to aphids damaging stem bases",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in fertile, moist or wet soil in sun or partial shade. Will tolerate drier soils but will not grow as tall. For more information, see ornamental grasses cultivation",
+            "link_names": [
+                "Ornamental grasses cultivation"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn, or by division from mid-spring to early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flower stems to prevent seeding. Cut out any dead foliage as it appears",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids damaging stem bases",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carex_pendula.html",
@@ -176,5 +214,7 @@
             "Fruit withering",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Carex pendula",
+    "display_name": "Pendulous sedge"
 }

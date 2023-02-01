@@ -82,15 +82,55 @@
         "plant_range": "China Taiwan Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in rich, moist soil in part-shade; a more open position is tolerated if the soil is reliably moist",
-        "propagation": "Propagate by seed in containers outdoors in autumn or spring or divide in spring after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down old flower stems after flowering is finished",
-        "pests": "Slugs and snails are likely to be a problem",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in rich, moist soil in part-shade; a more open position is tolerated if the soil is reliably moist",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers outdoors in autumn or spring or divide in spring after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down old flower stems after flowering is finished",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails are likely to be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Senecio stenocephalus",
+    "display_name": "Narrow-headed leopard plant"
 }

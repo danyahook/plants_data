@@ -88,15 +88,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil in good light for more information see tree cultivation",
-        "propagation": "Propagate by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required, but remove any upward leading shoots if they occur",
-        "pests": "May be susceptible to aphid",
-        "diseases": "May be susceptible to honey fungus"
+        "cultivation": {
+            "text": "Grow in any soil in good light for more information see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but remove any upward leading shoots if they occur",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cedrus_deodara__Golden_Horizon_.html",
@@ -129,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cedrus deodara 'Golden Horizon'",
+    "display_name": "Deodar 'golden horizon'"
 }

@@ -107,18 +107,64 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most moderately fertile, humus-rich, well-drained soils. Protect from cold, drying winds",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to aphids and viburnum beetle",
-        "diseases": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot"
+        "cultivation": {
+            "text": "Grows well in most moderately fertile, humus-rich, well-drained soils. Protect from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and viburnum beetle",
+            "link_names": [
+                "Aphids",
+                "Viburnum beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Viburnum_tinus.html",
@@ -198,5 +244,7 @@
             "Leaf rot",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Viburnum tinus",
+    "display_name": "Laurustinus"
 }

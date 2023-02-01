@@ -99,17 +99,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an open, sunny position in well-drained soil",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back untidy foliage in spring; deadheading may encourage repeat flowering in the summer",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in an open, sunny position in well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back untidy foliage in spring; deadheading may encourage repeat flowering in the summer",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Achillea 'Appleblossom'",
+    "display_name": "Yarrow 'apfelblüte'"
 }

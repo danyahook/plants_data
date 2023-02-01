@@ -111,18 +111,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Coastal",
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to adelgids, aphids, pine sawfly and pine shoot moth",
-        "diseases": "May be susceptible to honey fungus, various needle cast diseases and tree rusts"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Coastal",
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, aphids, pine sawfly and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Aphids",
+                "Pine sawfly"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "pine_sawfly": "https://www.rhs.org.uk/biodiversity/pine-sawflies"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pinus sylvestris 'Chantry Blue'",
+    "display_name": "Scots pine 'chantry blue'"
 }

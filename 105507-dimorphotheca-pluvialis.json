@@ -91,19 +91,55 @@
         "plant_range": "S Africa, Namibia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, well-drained, fertile soil in a sheltered, sunny spot; flowers close in the evenings and in dull weather",
-        "propagation": "Propagate by seed, sown under cover in early spring and planted out after frosts, or sown in situ in mid spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Gravel garden",
-            "Flower borders and beds",
-            "Bedding",
-            "Wall side borders"
-        ],
-        "pruning": "Deadhead to encourage more flowers",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to grey moulds"
+        "cultivation": {
+            "text": "Grow in light, well-drained, fertile soil in a sheltered, sunny spot; flowers close in the evenings and in dull weather",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown under cover in early spring and planted out after frosts, or sown in situ in mid spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Gravel garden",
+                "Flower borders and beds",
+                "Bedding",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage more flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dimorphotheca_pluvialis.html",
@@ -179,5 +215,7 @@
             "Wilting after blooming",
             "Rust disease"
         ]
-    }
+    },
+    "main_name_original": "Dimorphotheca pluvialis",
+    "display_name": "Rain daisy"
 }

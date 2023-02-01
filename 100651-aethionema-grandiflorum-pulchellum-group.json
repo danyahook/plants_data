@@ -86,22 +86,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained, alkaline soil in full sun. Will tolerate poor, acid soils although growth will be more compact",
-        "propagation": "Propagate by seed sown in pots in a cold frame in spring. Propagate by rooting softwood cuttings in late spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden",
-            "Coastal",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and glasshouse red spider mite",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained, alkaline soil in full sun. Will tolerate poor, acid soils although growth will be more compact",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in spring. Propagate by rooting softwood cuttings in late spring or early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden",
+                "Coastal",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aethionema grandiflorum Pulchellum Group",
+    "display_name": "Persian stone cress pulchellum group"
 }

@@ -93,14 +93,50 @@
         "plant_range": "Peru"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil in a sheltered, frost-free area. Grow under glass in loam-based compost in full light with high humidity",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by glasshouse whitefly and glasshouse red spider mite under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil in a sheltered, frost-free area. Grow under glass in loam-based compost in full light with high humidity",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse whitefly and glasshouse red spider mite under glass",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Beloperone 'Super Goldy'",
+    "display_name": "Lollipop plant"
 }

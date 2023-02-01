@@ -91,18 +91,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs full sun and grows best in a well-drained soil",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Deadhead after flowering",
-        "pests": "Generally trouble free",
-        "diseases": "May be susceptible to Powdery mildews and downy mildews"
-    }
+        "cultivation": {
+            "text": "Needs full sun and grows best in a well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Veronica 'Red Fox'",
+    "display_name": "Spiked speedwell 'rotfuchs'"
 }

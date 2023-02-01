@@ -88,15 +88,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun",
-        "propagation": "Divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "Aphids may be a problem",
-        "diseases": "Powdery mildew may occur"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildew may occur",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Achillea ptarmica 'Stephanie Cohen'",
+    "display_name": "Yarrow 'stephanie cohen'"
 }

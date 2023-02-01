@@ -77,10 +77,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well drained but moisture retentive soil in full sun. Incorporate plenty of organic matter. Sow indoors in March and transplant in May. See celeriac cultivation",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to carrot fly and celery leaf-mining fly",
-        "diseases": "May be susceptible to celery leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well drained but moisture retentive soil in full sun. Incorporate plenty of organic matter. Sow indoors in March and transplant in May. See celeriac cultivation",
+            "link_names": [
+                "Organic matter",
+                "Celeriac cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "celeriac_cultivation": "https://www.rhs.org.uk/vegetables/celeriac/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to carrot fly and celery leaf-mining fly",
+            "link_names": [
+                "Carrot fly",
+                "Celery leaf-mining fly"
+            ],
+            "related_links": {
+                "carrot_fly": "https://www.rhs.org.uk/biodiversity/carrot-fly",
+                "celery_leaf-mining_fly": "https://www.rhs.org.uk/biodiversity/celery-leaf-mining-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to celery leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Apium graveolens var. rapaceum 'Monarch'",
+    "display_name": "Celeriac 'monarch'"
 }

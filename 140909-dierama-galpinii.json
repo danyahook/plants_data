@@ -88,17 +88,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, well-drained soil in a sheltered situation with full sun; see Dierama cultivation for further information",
-        "propagation": "Propagate by seed in containers in a cold frame as soon as ripe. They may resent disturbance so leave until really congested before division of clumps in spring. Do not allow the clumps to dry out. They may take 1-2 years to flower freely again",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Tidy any winter-damaged foliage by cutting to the base in spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in humus-rich, well-drained soil in a sheltered situation with full sun; see Dierama cultivation for further information",
+            "link_names": [
+                "Dierama cultivation"
+            ],
+            "related_links": {
+                "dierama_cultivation": "https://www.rhs.org.uk/plants/dierama/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame as soon as ripe. They may resent disturbance so leave until really congested before division of clumps in spring. Do not allow the clumps to dry out. They may take 1-2 years to flower freely again",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy any winter-damaged foliage by cutting to the base in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Dierama galpinii",
+    "display_name": ""
 }

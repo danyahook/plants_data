@@ -91,15 +91,55 @@
         "plant_range": "N and C China"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in well-drained moderately fertile soil in full sun",
-        "propagation": "Propagate by softwood cuttings in summer or hardwood and root cuttings in early winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Generally pest-free",
-        "diseases": "Grey moulds may be a problem"
+        "cultivation": {
+            "text": "Easy to grow in well-drained moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or hardwood and root cuttings in early winter",
+            "link_names": [
+                "Softwood",
+                "Hardwood",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Grey moulds may be a problem",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rubus_cockburnianus.html",
@@ -140,5 +180,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rubus cockburnianus (F)",
+    "display_name": "White-stemmed bramble"
 }

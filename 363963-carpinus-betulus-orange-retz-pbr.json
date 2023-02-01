@@ -88,16 +88,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by softwood cuttings or by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1. If grown as a hedge, trim annually in late summer; see trimming hedges for further information",
-        "pests": "May be susceptible to caterpillars and aphids",
-        "diseases": "May be susceptible to powdery mildews, coral spot and sometimes honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or by grafting",
+            "link_names": [
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. If grown as a hedge, trim annually in late summer; see trimming hedges for further information",
+            "link_names": [
+                "Pruning group 1",
+                "Hedge",
+                "Trimming hedges"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide",
+                "trimming_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Carpinus betulus 'Orange Retz'PBR",
+    "display_name": ""
 }

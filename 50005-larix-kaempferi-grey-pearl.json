@@ -79,13 +79,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil",
-        "propagation": "Propagate by semi-ripe cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to adelgids",
-        "diseases": "May be susceptible to honey fungus and Phytophthora"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings or grafting",
+            "link_names": [
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids",
+            "link_names": [
+                "Adelgids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and Phytophthora",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Larix kaempferi 'Grey Pearl'",
+    "display_name": ""
 }

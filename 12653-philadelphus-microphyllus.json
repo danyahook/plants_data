@@ -93,16 +93,60 @@
         "plant_range": "Mexico, USA"
     },
     "how_to_grow": {
-        "cultivation": "Plant in neutral to alkaline, moderately fertile, moist but well-drained soil in full sun. Can tolerate dryer soils once well established.",
-        "propagation": "Propagate by softwood or hardwood cuttings.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Generally pest-free, occasionally susceptible to aphids",
-        "diseases": "Generally disease free, occasionally susceptible to powdery mildew"
+        "cultivation": {
+            "text": "Plant in neutral to alkaline, moderately fertile, moist but well-drained soil in full sun. Can tolerate dryer soils once well established.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or hardwood cuttings.",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Philadelphus_microphyllus.html",
@@ -165,5 +209,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Philadelphus microphyllus",
+    "display_name": "Little-leaf mock orange"
 }

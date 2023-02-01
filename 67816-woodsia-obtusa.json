@@ -87,19 +87,47 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in sandy or rocky yet reasonably fertile, moist but sharply drained, neutral to alkaline soil in partial or full shade. Does not tolerate poorly drained soil.",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Best grown in sandy or rocky yet reasonably fertile, moist but sharply drained, neutral to alkaline soil in partial or full shade. Does not tolerate poorly drained soil.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Woodsia_obtusa.html",
@@ -136,5 +164,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Woodsia obtusa",
+    "display_name": "Blunt-lobed woodsia"
 }

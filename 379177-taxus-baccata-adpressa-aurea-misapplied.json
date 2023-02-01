@@ -96,14 +96,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of exposure and urban pollution. Grow in any well-drained soil",
-        "propagation": "Propagate by semi-hardwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "No regular pruning necessary, but can be trimmed and shaped when required",
-        "pests": "May be attacked by tortrix moth, vine weevil, gall mites and scale insects",
-        "diseases": "May be subject to phytophthora root diseases"
-    }
+        "cultivation": {
+            "text": "Tolerant of exposure and urban pollution. Grow in any well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or grafting",
+            "link_names": [
+                "Semi-hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No regular pruning necessary, but can be trimmed and shaped when required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to tortrix moth, vine weevil, gall mites and scale insects",
+            "link_names": [
+                "Tortrix moth",
+                "Vine weevil",
+                "Gall mites",
+                "Scale insects"
+            ],
+            "related_links": {
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora root diseases and honey fungus (rarely)",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Taxus baccata 'Adpressa Aurea' misapplied",
+    "display_name": "Yew 'adpressa variegata'"
 }

@@ -90,17 +90,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil and in any aspect",
-        "propagation": "Can be propagated by semi-ripe cuttings in late summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "None required, but will withstand being cut back hard. Remove one or two older branches every few years",
-        "pests": "Berberis sawfly may be a problem",
-        "diseases": "Powdery mildew may be troublesome in dry conditions"
-    }
+        "cultivation": {
+            "text": "Grow in any soil and in any aspect",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Can be propagated by semi-ripe cuttings in late summer or early autumn",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required, but will withstand being cut back hard. Remove one or two older branches every few years",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Berberis sawfly may be a problem",
+            "link_names": [
+                "Berberis sawfly"
+            ],
+            "related_links": {
+                "berberis_sawfly": "https://www.rhs.org.uk/biodiversity/berberis-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and sometimes by honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "× Mahoberberis aquisargentii",
+    "display_name": "Hybrid mahonia"
 }

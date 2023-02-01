@@ -94,18 +94,60 @@
         "plant_range": "E Siberia to Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade, in deep humus-rich, moist, neutral to acid loam soil; tolerates full sun if the soil remains moist at all times",
-        "propagation": "Propagate by division as it comes into growth or propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Tidy plant after flowering and remove diseased or damaged leaves",
-        "pests": "Prone to aphids, leafhoppers, vine weevil and slugs",
-        "diseases": "May be affected by a virus, grey mould (botrytis) or primula brown core"
-    }
+        "cultivation": {
+            "text": "Grow in partial shade, in deep humus-rich, moist, neutral to acid loam soil; tolerates full sun if the soil remains moist at all times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division as it comes into growth or propagate by seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy plant after flowering and remove diseased or damaged leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to aphids, leafhoppers, vine weevil and slugs",
+            "link_names": [
+                "Aphids",
+                "Vine weevil",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a virus, grey mould (botrytis) or primula brown core",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Primula saxatilis Pax",
+    "display_name": "Siebold primrose"
 }

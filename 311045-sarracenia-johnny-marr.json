@@ -89,14 +89,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in an unheated greenhouse and watered with collected rainwater. Allow the pots to stand in trays or saucers of rainwater during the summer. Feed with a balanced liquid fertiliser monthly throughout the growing season. See carnivorous plant cultivation for further information",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to scale insects, mealy bugs, aphids and tortrix moth caterpillars",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Best grown in an unheated greenhouse and watered with collected rainwater. Allow the pots to stand in trays or saucers of rainwater during the summer. Feed with a balanced liquid fertiliser monthly throughout the growing season. See carnivorous plant cultivation for further information",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, mealy bugs, aphids and tortrix moth caterpillars",
+            "link_names": [
+                "Scale insects",
+                "Aphids",
+                "Tortrix moth"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sarracenia 'Johnny Marr'",
+    "display_name": ""
 }

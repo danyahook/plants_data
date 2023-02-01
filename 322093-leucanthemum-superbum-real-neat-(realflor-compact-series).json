@@ -85,17 +85,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, moist, but well drained soil in full sun or partial shade.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back flowered stems to the base after flowering",
-        "pests": "Susceptible to aphids, slugs, earwigs, and chrysanthemum eelworm",
-        "diseases": "Leaf spots may occur in wet summers"
-    }
+        "cultivation": {
+            "text": "Grow in a moderately fertile, moist, but well drained soil in full sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to the base after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to aphids, slugs, earwigs, and chrysanthemum eelworm",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Earwigs",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Leaf spots may occur in wet summers",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Leucanthemum × superbum 'Real Neat' (Realflor Compact Series)",
+    "display_name": "Shasta daisy 'real neat'"
 }

@@ -87,18 +87,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun. Tolerant of partial shade. Protect from excessive winter wet.",
-        "propagation": "Propagate by basal or stem-tip, softwood cuttings in spring. Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Remove old stems and foliage as plant dies back for the winter",
-        "pests": "May be susceptible to slug and snail damage",
-        "diseases": "May be susceptible to powdery mildews and root rot in heavy wet soil"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. Tolerant of partial shade. Protect from excessive winter wet.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal or stem-tip, softwood cuttings in spring. Propagate by division in spring",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove old stems and foliage as plant dies back for the winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and root rot in heavy wet soil",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Stachys 'Summer Romance'",
+    "display_name": ""
 }

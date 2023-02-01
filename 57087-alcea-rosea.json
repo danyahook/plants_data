@@ -91,17 +91,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile soil in full sun. Stake on exposed sites",
-        "propagation": "Propagate by seed sown in gentle heat in mid-winter or in-situ in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Young growth can be attacked by slugs and caterpillars; flea beetles occasionally causes significant defoliation",
-        "diseases": "Susceptible to a rust"
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile soil in full sun. Stake on exposed sites",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in gentle heat in mid-winter or in-situ in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Young growth can be attacked by slugs and caterpillars; flea beetles occasionally causes significant defoliation",
+            "link_names": [
+                "Slugs",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Alcea_rosea.html",
@@ -189,5 +227,7 @@
             "Wilting after blooming",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Alcea rosea",
+    "display_name": "Hollyhock"
 }

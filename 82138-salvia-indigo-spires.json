@@ -85,19 +85,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, humus-rich, moist but very well-drained soil in full sun with shelter from cold, drying winds; in frost-free areas in winter, protect from excessive wet, while in frost-prone areas protect plants with fleece, move plants under cover, or take cuttings to provide next year's plants - if kept in a heated greenhouse overwinter it will remain evergreen",
-        "propagation": "Propagate by division in spring, by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by capsid bug, leafhoppers, slugs and snails; under glass, may be affected by aphids, glasshouse red spider mite, and glasshouse whitefly",
-        "diseases": "May be affected by powdery mildews and verticillium wilt; under glass, may be affected by foot and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, humus-rich, moist but very well-drained soil in full sun with shelter from cold, drying winds; in frost-free areas in winter, protect from excessive wet, while in frost-prone areas protect plants with fleece, move plants under cover, or take cuttings to provide next year's plants - if kept in a heated greenhouse overwinter it will remain evergreen",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, by basal or softwood cuttings in spring or early summer, or by semi-ripe cuttings in late summer or autumn",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to capsid bug, leafhoppers, slugs and snails; under glass, may be affected by aphids, glasshouse red spider mite, and glasshouse whitefly",
+            "link_names": [
+                "Capsid bug",
+                "Slugs",
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and Verticillium wilt; under glass, may be affected by foot and root rots",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Indigo Spires'",
+    "display_name": "Sage 'indigo spires'"
 }

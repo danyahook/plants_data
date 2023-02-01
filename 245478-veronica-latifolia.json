@@ -96,15 +96,57 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in loamy, moderately fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by division in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove spent flowers and cut back in the early autumn as foliage is lost and plants become untidy",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to leaf spot, Powdery mildew and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in loamy, moderately fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flowers and cut back in the early autumn as foliage is lost and plants become untidy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Veronica latifolia",
+    "display_name": "Saw-leaved speedwell"
 }

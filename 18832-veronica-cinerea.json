@@ -91,20 +91,64 @@
         "plant_range": "SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun. May need protection from winter wet",
-        "propagation": "Propagate by seed sown in a cold frame in autumn, or by division in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes",
-            "Ground cover",
-            "Flower borders and beds"
-        ],
-        "pruning": "Trim after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to leaf spot, Powdery mildew and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun. May need protection from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame in autumn, or by division in autumn or spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes",
+                "Ground cover",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Veronica cinerea",
+    "display_name": "Ash-coloured speedwell"
 }

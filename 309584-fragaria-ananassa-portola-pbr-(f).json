@@ -81,14 +81,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well drained soil. Most soil types suitable but thrives in alkaline soils. Tolerant of partial shade but will fruit better if grown in full sun. See strawberry cultivation",
-        "propagation": "Remove and transplant runners",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse",
-            "Edible fruit"
-        ],
-        "pruning": "Remove excess runners",
-        "pests": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
-        "diseases": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds. Shows some susceptibility to phytophthora"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well drained soil. Most soil types suitable but thrives in alkaline soils. Tolerant of partial shade but will fruit better if grown in full sun. See strawberry cultivation",
+            "link_names": [
+                "Strawberry cultivation"
+            ],
+            "related_links": {
+                "strawberry_cultivation": "https://www.rhs.org.uk/fruit/strawberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Remove and transplant runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds. Shows some susceptibility to phytophthora",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Fragaria × ananassa 'Portola'PBR (F)",
+    "display_name": "Strawberry 'portola'"
 }

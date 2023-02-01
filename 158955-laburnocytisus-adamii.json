@@ -89,15 +89,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun",
-        "propagation": "Propagate by grafting onto laburnum seedlings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1; remove suckers",
-        "pests": "Generally trouble free although occasionally leaf miners and blackfly may be troublesome",
-        "diseases": "Honey fungus may be troublesome"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting onto laburnum seedlings in winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; remove suckers",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "+ Laburnocytisus adamii",
+    "display_name": "Adam's laburnum"
 }

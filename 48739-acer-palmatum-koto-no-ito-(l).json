@@ -82,16 +82,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maple cultivation",
-        "propagation": "Propagate by grafting in late winter or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Coastal"
-        ],
-        "pruning": "Pruning group 1 from late autumn to midwinter only",
-        "pests": "Aphids and horse chestnut scale may be a problem",
-        "diseases": "May be affected by verticillium wilt, acer leaf scorch and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maple cultivation",
+            "link_names": [
+                "Leaf scorch",
+                "Container",
+                "Japanese maple cultivation"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "japanese_maple_cultivation": "https://www.rhs.org.uk/plants/acer/japanese-maples/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting in late winter or softwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Coastal"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 from late autumn to midwinter only",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer palmatum 'Koto-no-ito' (L)",
+    "display_name": "Japanese maple 'koto-no-ito'"
 }

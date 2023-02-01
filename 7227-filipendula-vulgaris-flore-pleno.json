@@ -89,16 +89,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained in full sun or partial shade; tolerant of less moisture than other species",
-        "propagation": "Propagate by seed in spring, or by division in spring or autumn; take root cuttings from late winter to early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by powdery mildews and a fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist but well-drained in full sun or partial shade; tolerant of less moisture than other species",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring, or by division in spring or autumn; take root cuttings from late winter to early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and a fungal leaf spot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Filipendula vulgaris 'Flore Pleno'",
+    "display_name": "Dropwort 'multiplex'"
 }

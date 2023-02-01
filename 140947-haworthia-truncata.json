@@ -81,15 +81,51 @@
         "plant_range": "SW Cape, S. Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a standard cactus compost, in full light. Provide low humidity. Water freely when in growth and keep just moist at other times. Apply a dilute low nitrogen fertilizer fortnightly during late spring and summer. Stand outside in summer",
-        "propagation": "Propagate by seed or offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "mealybugs may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in a standard cactus compost, in full light. Provide low humidity. Water freely when in growth and keep just moist at other times. Apply a dilute low nitrogen fertilizer fortnightly during late spring and summer. Stand outside in summer. Provide winter protection",
+            "link_names": [
+                "Winter protection"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or offsets",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs",
+            "link_names": [
+                "Mealybugs"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Haworthia_truncata.html",
@@ -138,5 +174,7 @@
             "Low light",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Haworthia truncata",
+    "display_name": "Truncate haworthia"
 }

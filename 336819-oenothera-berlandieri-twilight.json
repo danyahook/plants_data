@@ -94,19 +94,59 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, even stony soil in full sun and protect from excessive winter wet",
-        "propagation": "Propagate by division in early spring or propagate by softwood cuttings of unflowered shoots from late spring to midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Young growth may be susceptible to slugs",
-        "diseases": "May be susceptible to leaf spot, powdery mildews, and root rot on heavy wet soils"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, even stony soil in full sun and protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or propagate by softwood cuttings of unflowered shoots from late spring to midsummer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Young growth may be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot, powdery mildews, and root rot on heavy wet soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Oenothera berlandieri 'Twilight'",
+    "display_name": ""
 }

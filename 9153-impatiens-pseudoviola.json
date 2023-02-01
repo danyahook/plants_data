@@ -89,16 +89,54 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "A tender perennial species that needs warm frost free conditions.",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Sub-tropical",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free. May be susceptible to aphids, glasshouse red spider mite and vine weevil",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "A tender perennial species that needs warm frost free conditions.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Sub-tropical",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free. May be susceptible to aphids, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Impatiens pseudoviola",
+    "display_name": ""
 }

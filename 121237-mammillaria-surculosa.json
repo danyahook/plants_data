@@ -80,15 +80,53 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Requires a free draining compost with low organic content and full sun. See houseplant cacti and succulent cultivation",
-        "propagation": "Propagate by seed in spring or by potting up offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "None required",
-        "pests": "May be subject to usual glasshouse pests such as mealybugs",
-        "diseases": "Sharp drainage, reduced watering in winter and good air circulation will ward off rots"
-    }
+        "cultivation": {
+            "text": "Requires a free draining compost with low organic content and full sun. See houseplant cacti and succulent cultivation",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or by potting up offsets",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be subject to usual glasshouse pests such as mealybugs",
+            "link_names": [
+                "Mealybugs"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Sharp drainage, reduced watering in winter and good air circulation will ward off rots",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Mammillaria surculosa",
+    "display_name": "Suckering pincushion cactus"
 }

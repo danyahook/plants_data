@@ -102,14 +102,42 @@
         "plant_range": "Eurasia, N Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, or well-drained, soil in full sun or partial shade. Good for a wildlife garden",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get leafhoppers",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, or well-drained, soil in full sun or partial shade. Good for a wildlife garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get leafhoppers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ballota_nigra.html",
@@ -156,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ballota nigra",
+    "display_name": "Black horehound"
 }

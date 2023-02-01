@@ -83,16 +83,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, rich, well-drained soil, ideally in full sun but will tolerate light shade. Will not tolerate waterlogging. Flowers may need support, see staking perennials. See herbaceous peony cultivation for more detailed advice",
-        "propagation": "Propagate by division, lifting and dividing established clumps in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to ground level in autumn, to remove dead foliage and reduce the risk of disease",
-        "pests": "May be susceptible to leaf and bud eelworm and swift moth caterpillar",
-        "diseases": "May be susceptible to peony wilt, verticillium wilt, peony leaf blotch and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in deep, rich, well-drained soil, ideally in full sun but will tolerate light shade. Will not tolerate waterlogging. Flowers may need support, see staking perennials. See herbaceous peony cultivation for more detailed advice",
+            "link_names": [
+                "Staking perennials",
+                "Herbaceous peony cultivation"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking",
+                "herbaceous_peony_cultivation": "https://www.rhs.org.uk/plants/peony/herbaceous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division, lifting and dividing established clumps in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to ground level in autumn, to remove dead foliage and reduce the risk of disease",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm and swift moth caterpillar",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Swift moth caterpillar"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "swift_moth_caterpillar": "https://www.rhs.org.uk/biodiversity/swift-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus, honey fungus, Verticillium wilt, peony leaf blotch and peony wilt",
+            "link_names": [
+                "A virus",
+                "Honey fungus",
+                "Verticillium wilt",
+                "Peony wilt"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "peony_wilt": "https://www.rhs.org.uk/disease/peony-wilt"
+            }
+        }
+    },
+    "main_name_original": "Paeonia lactiflora 'Krinkled White'",
+    "display_name": ""
 }

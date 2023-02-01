@@ -102,18 +102,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in almost any soil or situation except waterlogged or deeply shaded",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be attacked by caterpillars and scale insects notably euonymus scale; foliage may be damaged by adult vine weevil",
-        "diseases": "May be affected by powdery mildews and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Will grow in almost any soil or situation except waterlogged or deeply shaded",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
+            "link_names": [
+                "Vine weevil",
+                "Euonymus scale"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, a leaf spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Euonymus japonicus 'Francien' (v)",
+    "display_name": "Japanese spindle 'francien'"
 }

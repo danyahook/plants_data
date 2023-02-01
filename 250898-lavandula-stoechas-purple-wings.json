@@ -96,17 +96,71 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in well-drained soil. May need winter protection in areas prone to heavy frosts. For more advice, see lavender cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10; deadhead after flowering and trim foliage in spring. Avoid cutting back into old wood",
-        "pests": "May be susceptible to rosemary beetle and cuckoo spit (froghoppers)",
-        "diseases": "May be susceptible to honey fungus and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in well-drained soil. May need winter protection in areas prone to heavy frosts. For more advice, see lavender cultivation",
+            "link_names": [
+                "Winter protection",
+                "Lavender cultivation"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "lavender_cultivation": "https://www.rhs.org.uk/plants/lavender/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10; deadhead after flowering and trim foliage in spring. Avoid cutting back into old wood",
+            "link_names": [
+                "Pruning group 10",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to rosemary beetle and cuckoo spit (froghoppers)",
+            "link_names": [
+                "Rosemary beetle",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lavandula stoechas 'Purple Wings'",
+    "display_name": ""
 }

@@ -96,18 +96,58 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or semi-shade",
-        "propagation": "Remove and transplant runners",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs",
-            "Banks and slopes"
-        ],
-        "pruning": "Remove excess runners and cut back old foliage and flower stems at the end of the season",
-        "pests": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
-        "diseases": "May be affected by strawberry viruses and root rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Remove and transplant runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners and cut back old foliage and flower stems at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by strawberry viruses and root rot",
+            "link_names": [
+                "Strawberry viruses"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses"
+            }
+        }
+    },
+    "main_name_original": "Fragaria 'Lipstick'",
+    "display_name": "Strawberry 'lipstick'"
 }

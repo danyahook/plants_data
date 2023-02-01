@@ -96,13 +96,63 @@
         "plant_range": "Pantropical"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam-based potting compost, in full light with shade from hot sun. Water freely when in growth and apply a balanced liquid fertilizer every two or three weeks. Water sparingly in winter. If grown in a container it can be put outside in summer",
-        "propagation": "Propagate by seed sown singly at 18°C in spring. Chip or soak for 24 hours to aid germination. Take softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 11 in spring",
-        "pests": "Glasshouse whitefly and glasshouse red spider mite may be a problem",
-        "diseases": "Powdery mildews may be a problem under glass"
-    }
+        "cultivation": {
+            "text": "Grow under glass in a loam-based potting compost, in full light with shade from hot sun. Water freely when in growth and apply a balanced liquid fertilizer every two or three weeks. Water sparingly in winter. If grown in a container it can be put outside in summer",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown singly at 18°C in spring. Chip or soak for 24 hours to aid germination. Take softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 in spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Glasshouse whitefly and glasshouse red spider mite may be a problem",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem under glass",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Ipomoea acuminata",
+    "display_name": "Blue dawn flower"
 }

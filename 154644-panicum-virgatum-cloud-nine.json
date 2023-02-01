@@ -89,20 +89,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile, well-drained soil in full sun. See Ornamental grasses cultivation",
-        "propagation": "Propagate by division in mid-spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Prairie planting",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove dead foliage and old flowered stems in spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in any moderately fertile, well-drained soil in full sun. See Ornamental grasses cultivation",
+            "link_names": [
+                "Ornamental grasses cultivation"
+            ],
+            "related_links": {
+                "ornamental_grasses_cultivation": "https://www.rhs.org.uk/plants/types/grasses/ornamental"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in mid-spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Prairie planting",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead foliage and old flowered stems in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Panicum_virgatum__Cloud_Nine_.html",
@@ -143,5 +175,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Panicum virgatum 'Cloud Nine'",
+    "display_name": "Switch grass 'cloud nine'"
 }

@@ -102,21 +102,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile well-drained soil in full sun. Protect from excessive winter wet. Can be used in carpet bedding schemes",
-        "propagation": "Propagate by seed or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by glasshouse whitefly, aphids and glasshouse red spider mite",
-        "diseases": "May be subject to rusts"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile well-drained soil in full sun. Protect from excessive winter wet. Can be used in carpet bedding schemes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse whitefly, aphids and glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to rusts",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum spathulifolium Cape Blanco form",
+    "display_name": "Spoon-leaved stonecrop 'cape blanco'"
 }

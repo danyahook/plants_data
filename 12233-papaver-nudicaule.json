@@ -95,17 +95,55 @@
         "plant_range": "N America, E Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a deep, fertile, well-drained soil in full sun. The photo shows Wonderland Series",
-        "propagation": "Propagate by seed sown in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be attacked by aphids",
-        "diseases": "May be subject to Verticillium wilt and a downy mildew"
+        "cultivation": {
+            "text": "Grow in a deep, fertile, well-drained soil in full sun. The photo shows Wonderland Series",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to Verticillium wilt and a downy mildew",
+            "link_names": [
+                "Verticillium wilt",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Papaver_nudicaule.html",
@@ -156,5 +194,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Papaver nudicaule",
+    "display_name": "Icelandic poppy"
 }

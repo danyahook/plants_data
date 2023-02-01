@@ -95,17 +95,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "For best results grow in moist but well-drained soil, in partial shade.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove any old faded leaves after flowering if required.",
-        "pests": "May be susceptible to slugs and snails early in the season.",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "For best results grow in moist but well-drained soil, in partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any old faded leaves after flowering if required.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails early in the season.",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Pulmonaria officinalis Cambridge Blue Group",
+    "display_name": "Lungwort cambridge blue group"
 }

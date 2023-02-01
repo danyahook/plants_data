@@ -95,20 +95,56 @@
         "plant_range": "Argentina"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sheltered site in moist but well-drained soil in full sun",
-        "propagation": "Propagate by sowing seed in autumn for spring flowering, or in spring for summer flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in a sheltered site in moist but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in autumn for spring flowering, or in spring for summer flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Nierembergia linariifolia",
+    "display_name": "Narrow-leaved cupflower"
 }

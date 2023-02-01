@@ -96,14 +96,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, moist but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by seed or by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, moist but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
+            "link_names": [
+                "Vine weevil",
+                "Euonymus scale"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, a leaf spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Euonymus carnosus 'Red Wine'",
+    "display_name": "Fleshy-flowered spindle tree 'red wine'"
 }

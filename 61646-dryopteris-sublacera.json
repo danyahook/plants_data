@@ -86,16 +86,64 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most cool, moist, lightly shaded sites. May require some winter protection during cold winters. For more information see our advice page on how to grow ferns.",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required. Can remove any faded fronds if required.",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most cool, moist, lightly shaded sites. May require some winter protection during cold winters. For more information see our advice page on how to grow ferns.",
+            "link_names": [
+                "Winter protection",
+                "How to grow ferns"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "how_to_grow_ferns": "https://www.rhs.org.uk/plants/types/ferns/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Can remove any faded fronds if required.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Dryopteris sublacera",
+    "display_name": "Torn wood fern"
 }

@@ -95,13 +95,37 @@
         "plant_range": "E.N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in sun or semi-shade in humus-rich, well-drained soil, such as a woodland garden",
-        "propagation": "Propagate by division in autumn or spring or by propagate by seed in autumn; germination can be erratic over the following 2 years",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden"
-        ],
-        "pests": "Generally trouble-free",
-        "diseases": "Generally trouble-free"
+        "cultivation": {
+            "text": "Grow in sun or semi-shade in humus-rich, well-drained soil, such as a woodland garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring or by propagate by seed in autumn; germination can be erratic over the following 2 years",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sanguinaria_canadensis.html",
@@ -176,5 +200,7 @@
             "Leaf beetles",
             "Plant dried up"
         ]
-    }
+    },
+    "main_name_original": "Sanguinaria canadensis",
+    "display_name": "Canada puccoon"
 }

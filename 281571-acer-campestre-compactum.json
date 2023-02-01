@@ -90,17 +90,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, moist but well-drained soil in full sun or part shade",
-        "propagation": "Propagate by seed in mid to late autumn, or by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Minimal pruning required; see pruning group 1. Prune from late autumn to mid-winter only",
-        "pests": "May be susceptible to aphids, gall mites and scale insects",
-        "diseases": "May be susceptible to coral spot, tar spot, Phytophthora root rot and Verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, moist but well-drained soil in full sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in mid to late autumn, or by softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required; see pruning group 1. Prune from late autumn to mid-winter only",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer campestre 'Compactum'",
+    "display_name": ""
 }

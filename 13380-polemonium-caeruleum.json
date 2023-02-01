@@ -93,19 +93,53 @@
         "plant_range": "N Temperate"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown in containers, in a cold frame in autumn or spring, or divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required except cutting back foliage to ground level at the end of the season",
-        "pests": "Usually trouble free",
-        "diseases": "Powdery mildews can sometimes be a problem"
+        "cultivation": {
+            "text": "Grow in any fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers, in a cold frame in autumn or spring, or divide in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required except cutting back foliage to ground level at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews can sometimes be a problem",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polemonium_caeruleum.html",
@@ -155,5 +189,7 @@
             "Leaf miners",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Polemonium caeruleum",
+    "display_name": "Jacob's ladder"
 }

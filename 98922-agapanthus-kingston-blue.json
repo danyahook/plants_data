@@ -83,16 +83,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun. In cold areas mulch in winter. In containers, grow in a loam-based compost (JI No.3). May need winter protection. See agapanthus cultivation",
-        "propagation": "Sow seed when ripe or in spring, keep in cold frame whilst small and protect in winter. Divide clumps in Spring every two-three years",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in autumn as foliage goes brown. Cut back flower spikes as they go over, unless you want to keep seedheads for winter interest",
-        "pests": "May be susceptible to agapanthus gall midge, slugs and snails",
-        "diseases": "May be susceptible to virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun. In cold areas mulch in winter. In containers, grow in a loam-based compost (JI No.3). May need winter protection. See agapanthus cultivation",
+            "link_names": [
+                "Mulch",
+                "Containers",
+                "Winter protection",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Sow seed when ripe or in spring, keep in cold frame whilst small and protect in winter. Divide clumps in Spring every two-three years",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in autumn as foliage goes brown. Cut back flower spikes as they go over, unless you want to keep seedheads for winter interest",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to agapanthus gall midge, slugs and snails",
+            "link_names": [
+                "Agapanthus gall midge",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Agapanthus 'Kingston Blue'",
+    "display_name": "African lily 'kingston blue'"
 }

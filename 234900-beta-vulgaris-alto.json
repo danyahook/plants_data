@@ -88,14 +88,48 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Keep the plants well watered as this will make them less likely to bolt. Harvest as soon as they are big enough to use. See Beetroot cultivation for further information",
-        "propagation": "Sow seed outdoors from March to July. Make successional sowings to ensure a steady supply",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Keep the plants well watered as this will make them less likely to bolt. Harvest as soon as they are big enough to use. See Beetroot cultivation for further information",
+            "link_names": [
+                "Beetroot cultivation"
+            ],
+            "related_links": {
+                "beetroot_cultivation": "https://www.rhs.org.uk/vegetables/beetroot/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Sow seed outdoors from March to July. Make successional sowings to ensure a steady supply",
+            "link_names": [
+                "Outdoors"
+            ],
+            "related_links": {
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Beta vulgaris 'Alto'",
+    "display_name": "Beetroot 'alto'"
 }

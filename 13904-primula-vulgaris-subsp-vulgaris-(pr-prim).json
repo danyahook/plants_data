@@ -89,21 +89,67 @@
         "plant_range": "Europe, N Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade or full sun but only if moist at all times. Good in open woodland or banks",
-        "propagation": "Propagate by seed or division in autumn and early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids, glasshouse red spider mite, leafhoppers, vine weevil and slugs",
-        "diseases": "May be subject to primula brown core and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in partial shade or full sun but only if moist at all times. Good in open woodland or banks",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in autumn and early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids, glasshouse red spider mite, leafhoppers, vine weevil and slugs",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Vine weevil",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to primula brown core and grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Primula vulgaris subsp. vulgaris (Pr/Prim)",
+    "display_name": "Common primrose"
 }

@@ -89,16 +89,44 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Prefers humus-rich, moist but well-drained soil, though will tolerate some dryness. Full or partial shade",
-        "propagation": "Propagate by seed, which may need chilling, and may be slow to germinate",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Prefers humus-rich, moist but well-drained soil, though will tolerate some dryness. Full or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, which may need chilling, and may be slow to germinate",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Saruma_henryi.html",
@@ -136,5 +164,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Saruma henryi",
+    "display_name": "Upright wild ginger"
 }

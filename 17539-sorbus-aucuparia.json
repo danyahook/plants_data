@@ -99,15 +99,69 @@
         "plant_range": "Europe Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich soil. Tolerant of atmospheric pollution; ideal specimen tree in small garden, wild or woodland garden",
-        "propagation": "Propagate by seed, softwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be attacked by aphids, blister mites and sawflies",
-        "diseases": "May be affected by a canker, silver leaf and fireblight"
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich soil. Tolerant of atmospheric pollution; ideal specimen tree in small garden, wild or woodland garden",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, blister mites, scale insects, glasshouse red spider mite and sawflies",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, apple canker, silver leaf and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Apple canker",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sorbus_aucuparia.html",
@@ -173,5 +227,7 @@
             "Nutrient deficiencies",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sorbus aucuparia",
+    "display_name": "Rowan"
 }

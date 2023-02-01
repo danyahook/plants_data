@@ -89,22 +89,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "A lime-tolerant heather, prefers well-drained neutral to acid soil in full sun but tolerant of alkaline soils in some shade. See Hardy heathers for further advice",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Garden edging",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 10 after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be affected by Phytophthora root diseases"
+        "cultivation": {
+            "text": "A lime-tolerant heather, prefers well-drained neutral to acid soil in full sun but tolerant of alkaline soils in some shade. See Hardy heathers for further advice",
+            "link_names": [
+                "Hardy heathers"
+            ],
+            "related_links": {
+                "hardy_heathers": "https://www.rhs.org.uk/plants/types/heathers/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Garden edging",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10 after flowering",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases, including honey fungus (rarely), and Phytophthora root rot, in wet conditions",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Erica_carnea__Myretoun_Ruby_.html",
@@ -137,5 +179,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Erica carnea 'Myretoun Ruby'",
+    "display_name": "Heather 'myretoun ruby'"
 }

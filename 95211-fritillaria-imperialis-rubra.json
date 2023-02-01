@@ -82,15 +82,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most fertile, well-drained soils. Handle the fragile bulbs carefully and plant at four times own depth. See crown imperial cultivation",
-        "propagation": "Propagate by removing offsets in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to slugs and lily beetle",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows well in most fertile, well-drained soils. Handle the fragile bulbs carefully and plant at four times own depth. See crown imperial cultivation",
+            "link_names": [
+                "Crown imperial cultivation"
+            ],
+            "related_links": {
+                "crown_imperial_cultivation": "https://www.rhs.org.uk/plants/crown-imperial/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by removing offsets in late summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs and lily beetle",
+            "link_names": [
+                "Slugs",
+                "Lily beetle"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fritillaria_imperialis__Rubra_.html",
@@ -124,5 +158,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Fritillaria imperialis 'Rubra'",
+    "display_name": "Crown imperial 'rubra'"
 }

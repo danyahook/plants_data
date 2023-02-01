@@ -92,19 +92,51 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a humus-rich, moisture retentive soil in partial shade. Plants will however tolerate drier positions in shade, and full sun in moist soils. Plants may self-seed if seedheads are not removed",
-        "propagation": "Will freely self-sow. Alternatively propagate by seed in containers as soon as the seed is ripe and place in a cold frame to overwinter. Divide mature plants in the spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Rock garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Old flower stems may be cut back once flowering has finished",
-        "pests": "Leaves may be attacked by slugs",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Prefers a humus-rich, moisture retentive soil in partial shade. Plants will however tolerate drier positions in shade, and full sun in moist soils. Plants may self-seed if seedheads are not removed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Will freely self-sow. Alternatively propagate by seed in containers as soon as the seed is ripe and place in a cold frame to overwinter. Divide mature plants in the spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Rock garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Old flower stems may be cut back once flowering has finished",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Leaves may be attacked by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tellima_grandiflora.html",
@@ -161,5 +193,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Tellima grandiflora",
+    "display_name": "Fringe cups"
 }

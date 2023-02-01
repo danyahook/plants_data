@@ -90,16 +90,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best in a deep, fertile, humus-rich soil that is moist but well-drained in a sheltered position in full sun or partial shade. See herbaceous peony cultivation for further information.",
-        "propagation": "Propagate by division in autumn or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove dead flowers as they fade, then cut back plant after the foliage has died down in autumn",
-        "pests": "Can be affected by leaf and bud eelworm and soil-dwelling swift moth larvae",
-        "diseases": "May be subject to a virus, honey fungus and peony wilt"
-    }
+        "cultivation": {
+            "text": "Best in a deep, fertile, humus-rich soil that is moist but well-drained in a sheltered position in full sun or partial shade. See herbaceous peony cultivation for further information.",
+            "link_names": [
+                "Herbaceous peony cultivation"
+            ],
+            "related_links": {
+                "herbaceous_peony_cultivation": "https://www.rhs.org.uk/plants/peony/herbaceous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead flowers as they fade, then cut back plant after the foliage has died down in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm and soil-dwelling swift moth larvae",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Swift moth larvae"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "swift_moth_larvae": "https://www.rhs.org.uk/biodiversity/swift-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus, honey fungus, Verticillium wilt, peony leaf blotch and peony wilt",
+            "link_names": [
+                "A virus",
+                "Honey fungus",
+                "Verticillium wilt",
+                "Peony wilt"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "peony_wilt": "https://www.rhs.org.uk/disease/peony-wilt"
+            }
+        }
+    },
+    "main_name_original": "Paeonia 'Buckeye Belle' (d)",
+    "display_name": "Peony 'buckeye belle'"
 }

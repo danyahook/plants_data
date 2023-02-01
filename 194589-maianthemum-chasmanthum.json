@@ -89,17 +89,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in humus-rich, moist but well drained, neutral to acid soil, in light or deep shade. Ideal for a woodland garden or shady border",
-        "propagation": "Propagate by seed, sown as soon as ripe, or by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails on young growth",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Thrives in humus-rich, moist but well drained, neutral to acid soil, in light or deep shade. Ideal for a woodland garden or shady border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown as soon as ripe, or by division in early spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails on young growth",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Maianthemum chasmanthum",
+    "display_name": "Kamchatka two-leaved false lily of the valley"
 }

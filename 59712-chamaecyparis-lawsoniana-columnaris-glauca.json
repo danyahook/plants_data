@@ -97,14 +97,60 @@
         "name_status": "Not established"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in neutral to slightly acid soil, though will tolerate chalky soils.",
-        "propagation": "Propagate by semi-hardwood cuttings in late summer, or by grafting in late winter or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required, but shaped subjects, including hedges, will need trimming twice a year.",
-        "pests": "May be susceptible to conifer aphids. See Conifers: brown patches for advice on potential problems",
-        "diseases": "May be susceptible to phytophthora root rot, honey fungus and Coryneum canker"
-    }
+        "cultivation": {
+            "text": "Grows best in neutral to slightly acid soil, though will tolerate chalky soils.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in late summer, or by grafting in late winter or spring",
+            "link_names": [
+                "Semi-hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but shaped subjects, including hedges, will need trimming twice a year.",
+            "link_names": [
+                "Hedges"
+            ],
+            "related_links": {
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to conifer aphids. See Conifers: brown patches for advice on potential problems",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and Phytophthora root diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Chamaecyparis lawsoniana 'Columnaris Glauca'",
+    "display_name": "Lawson's cypress 'columnaris glauca'"
 }

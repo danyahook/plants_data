@@ -80,17 +80,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in slightly fertile well-drained soil in full sun. Staking might be necessary in exposed areas",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back dead foliage after flowering or pull out and discard",
-        "pests": "May be susceptible to slugs and flea beetles",
-        "diseases": "May be susceptible to rust"
-    }
+        "cultivation": {
+            "text": "Will grow well in slightly fertile well-drained soil in full sun. Staking might be necessary in exposed areas",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back dead foliage after flowering or pull out and discard",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and flea beetles",
+            "link_names": [
+                "Slugs",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rust",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Alcea rosea 'Crème de Cassis'",
+    "display_name": "Hollyhock 'crème de cassis'"
 }

@@ -93,13 +93,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil in good light for more information see tree cultivation",
-        "propagation": "Propagate by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphid",
-        "diseases": "May be susceptible to honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any soil in good light for more information see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cedrus deodara 'Karl Fuchs'",
+    "display_name": "Deodar 'karl fuchs'"
 }

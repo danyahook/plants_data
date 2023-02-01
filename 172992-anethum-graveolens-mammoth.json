@@ -88,17 +88,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun. Sow direct in 1cm deep rows and lightly cover with soil, thin to 15cm apart when large enough to handle. The roots don't like disturbance so don't transplant. See cultivating herbs.",
-        "propagation": "Propagate by seed.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Gravel garden",
-            "Cut flowers",
-            "Wall side borders"
-        ],
-        "pruning": "Deadhead to prevent self-seeding.",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free."
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun. Sow direct in 1cm deep rows and lightly cover with soil, thin to 15cm apart when large enough to handle. The roots don't like disturbance so don't transplant. See cultivating herbs.",
+            "link_names": [
+                "Cultivating herbs"
+            ],
+            "related_links": {
+                "cultivating_herbs": "https://www.rhs.org.uk/herbs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed.",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Gravel garden",
+                "Cut flowers",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prevent self-seeding.",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free.",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Anethum graveolens 'Mammoth'",
+    "display_name": "Dill 'mammoth'"
 }

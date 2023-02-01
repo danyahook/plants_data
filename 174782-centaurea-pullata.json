@@ -81,21 +81,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in almost any well-drained soil in full sun. Thrives in poor soils but will not tolerate waterlogging",
-        "propagation": "Propagate by seed, sown outdoors in early spring. Sow successionally rather than all at once for a longer show of flowers",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildflower meadow",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to downy mildews, powdery mildews and rust diseases"
+        "cultivation": {
+            "text": "Grow in almost any well-drained soil in full sun. Thrives in poor soils but will not tolerate waterlogging",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed (sown outdoors) in early spring. Sow successionally rather than all at once for a longer show of flowers",
+            "link_names": [
+                "Propagate by seed (sown outdoors)"
+            ],
+            "related_links": {
+                "propagate_by_seed_(sown_outdoors)": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildflower meadow",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, powdery mildews and rust diseases",
+            "link_names": [
+                "Downy mildews",
+                "Powdery mildews",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Centaurea_pullata.html",
@@ -129,5 +165,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Centaurea pullata",
+    "display_name": ""
 }

@@ -93,14 +93,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well drained soil in an open, sunny position for the best foliage colour. Shelter from harsh winds and frost.",
-        "propagation": "Propagate by grafting or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to phytophthora and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well drained soil in an open, sunny position for the best foliage colour. Shelter from harsh winds and frost.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting or semi-hardwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, juniper scale and shoot-boring moths",
+            "link_names": [
+                "Aphids",
+                "Juniper scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "juniper_scale": "https://www.rhs.org.uk/biodiversity/juniper-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and Phytophthora root diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Chamaecyparis obtusa 'Mariesii' (v)",
+    "display_name": ""
 }

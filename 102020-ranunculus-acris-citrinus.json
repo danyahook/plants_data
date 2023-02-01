@@ -90,17 +90,51 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, fertile, moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "May be subject to powdery mildews in dry conditions"
-    }
+        "cultivation": {
+            "text": "Grow in humus-rich, fertile, moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews in dry conditions",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Ranunculus acris citrinus",
+    "display_name": ""
 }

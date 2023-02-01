@@ -81,10 +81,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moisture retentive soil for more information see lettuce cultivation",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to birds, slugs and snails and lettuce root aphid",
-        "diseases": "May be susceptible to grey moulds and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in any moisture retentive soil for more information see lettuce cultivation",
+            "link_names": [
+                "Lettuce cultivation"
+            ],
+            "related_links": {
+                "lettuce_cultivation": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds, slugs and snails and lettuce root aphid",
+            "link_names": [
+                "Birds",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds and downy mildews",
+            "link_names": [
+                "Grey moulds",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Lactuca sativa 'Frillice'PBR",
+    "display_name": "Lettuce 'frillice'"
 }

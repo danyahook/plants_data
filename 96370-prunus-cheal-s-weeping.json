@@ -85,16 +85,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained, moderately fertile soil in full sun",
-        "propagation": "Propagate by budding or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "See pruning group 1",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to cherry leaf scorch, leaf spot and silver leaf"
-    }
+        "cultivation": {
+            "text": "Grow in any moist but well-drained, moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by budding or grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus 'Cheal's Weeping'",
+    "display_name": ""
 }

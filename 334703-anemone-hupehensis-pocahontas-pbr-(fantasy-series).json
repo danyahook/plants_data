@@ -87,18 +87,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in fertile, humus rich soil, but can grown in any cultivated soil, in semi-shade or full sun. Spreads rapidly once established. Avoid winter wet, dislikes being moved around.",
-        "propagation": "Propagate by division or root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be attacked by caterpillars and slugs. Deer and rabbit resistant.",
-        "diseases": "May be subject to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Thrives in fertile, humus rich soil, but can grown in any cultivated soil, in semi-shade or full sun. Spreads rapidly once established. Avoid winter wet, dislikes being moved around.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by caterpillars and slugs. Deer and rabbit resistant.",
+            "link_names": [
+                "Slugs",
+                "Deer",
+                "Rabbit"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "deer": "https://www.rhs.org.uk/biodiversity/deer",
+                "rabbit": "https://www.rhs.org.uk/biodiversity/rabbits"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Anemone hupehensis 'Pocahontas'PBR (Fantasy Series)",
+    "display_name": "Japanese anemone 'pocahontas'"
 }

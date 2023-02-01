@@ -99,15 +99,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, neutral to acid soil",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to adelgids, aphids and conifer red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, neutral to acid soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, aphids and conifer red spider mite",
+            "link_names": [
+                "Adelgids",
+                "Aphids",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Picea_pungens.html",
@@ -175,5 +215,7 @@
             "Branch blight",
             "Dieback"
         ]
-    }
+    },
+    "main_name_original": "Picea pungens",
+    "display_name": "Colorado spruce"
 }

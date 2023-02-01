@@ -87,18 +87,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, neutral to alkaline, moist but well-drained soil in full sun. Water in dry periods",
-        "propagation": "Propagate by seed sown in gentle heat in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Can get aphids and cutworms",
-        "diseases": "May be affected by Fusarium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, neutral to alkaline, moist but well-drained soil in full sun. Water in dry periods",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in gentle heat in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and cutworms",
+            "link_names": [
+                "Aphids",
+                "Cutworms"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "cutworms": "https://www.rhs.org.uk/biodiversity/cutworms"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by Fusarium wilt",
+            "link_names": [
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
+    },
+    "main_name_original": "Callistephus chinensis Milady Series",
+    "display_name": "China aster milady series"
 }

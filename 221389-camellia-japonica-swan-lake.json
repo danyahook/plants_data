@@ -94,17 +94,65 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Choose a shady, sheltered site with acid soil that is fertile, moist, but well-drained. Buds and flowers should be protected from cold dry winds. Fertilise mid-spring and early summer. If grown in a container, use ericaceous compost.",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required, but remove dead, damaged, or diseased branches in May",
-        "pests": "May be susceptible to aphids, scale insects, vine weevil",
-        "diseases": "Ma be susceptible to camellia gall and camellia petal blight"
-    }
+        "cultivation": {
+            "text": "Choose a shady, sheltered site with acid soil that is fertile, moist, but well-drained. Buds and flowers should be protected from cold dry winds. Fertilise mid-spring and early summer. If grown in a container, use ericaceous compost.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but remove dead, damaged, or diseased branches in May",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, vine weevil",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Ma be susceptible to camellia gall and camellia petal blight",
+            "link_names": [
+                "Camellia gall",
+                "Camellia petal blight"
+            ],
+            "related_links": {
+                "camellia_gall": "https://www.rhs.org.uk/disease/camellia-gall",
+                "camellia_petal_blight": "https://www.rhs.org.uk/disease/camellia-flower-blight"
+            }
+        }
+    },
+    "main_name_original": "Camellia japonica 'Swan Lake'",
+    "display_name": ""
 }

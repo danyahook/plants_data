@@ -87,20 +87,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in poor, moderately fertile, well-drained soil in full sun avoiding wet winter conditions",
-        "propagation": "Propagate by seed, by root cuttings in late winter and by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Gravel garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back any dead foliage throughout the season and but leave spent flowers for winter interest. Cut flowers before they open for floristry purposes",
-        "pests": "May be susceptible to leaf and bud eelworms, and slugs and snails",
-        "diseases": "May be susceptible to root rot and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow well in poor, moderately fertile, well-drained soil in full sun avoiding wet winter conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by root cuttings in late winter and by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Gravel garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back any dead foliage throughout the season and but leave spent flowers for winter interest. Cut flowers before they open for floristry purposes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, and slugs and snails",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Eryngium × zabelii 'Violetta'",
+    "display_name": ""
 }

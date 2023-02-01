@@ -95,19 +95,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow as an indoor or conservatory plant or outside as summer bedding in a sheltered position",
-        "propagation": "Propagate by seed in spring at 15ºC to 18ºC, or by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Bedding",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, aphids, mealybugs and scale insects",
-        "diseases": "May be susceptible to a virus"
+        "cultivation": {
+            "text": "Grow as an indoor or conservatory plant or outside as summer bedding in a sheltered position",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring at 15ºC to 18ºC, or by softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Bedding",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, aphids, mealybugs and scale insects",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Aphids",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) or a virus",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Abutilon_megapotamicum__Variegatum_.html",
@@ -143,5 +195,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Abutilon megapotamicum 'Variegatum' (v)",
+    "display_name": "Trailing abutilon 'variegatum'"
 }

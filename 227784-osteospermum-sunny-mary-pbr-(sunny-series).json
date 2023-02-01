@@ -93,19 +93,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter as cuttings under glass",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "May be attacked by aphids",
-        "diseases": "May be subject to a downy mildew and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter as cuttings under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a downy mildew and verticillium wilt",
+            "link_names": [
+                "A downy mildew",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Osteospermum 'Sunny Mary'PBR (Sunny Series)",
+    "display_name": "African daisy 'sunny mary'"
 }

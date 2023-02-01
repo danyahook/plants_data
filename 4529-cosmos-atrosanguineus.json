@@ -92,17 +92,53 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, moist but well-drained soil in full sun. Mulch in autumn; in cold areas lift tubers before first frosts and keep frost-free over winter.",
-        "propagation": "Propagate by taking basal cuttings in early spring and providing bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "Generally pest free",
-        "diseases": "May suffer from foot rot and grey moulds"
+        "cultivation": {
+            "text": "Grow in a moderately fertile, moist but well-drained soil in full sun. Mulch in autumn; in cold areas lift tubers before first frosts and keep frost-free over winter.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by taking basal cuttings in early spring and providing bottom heat",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May suffer from foot rot and grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cosmos_atrosanguineus.html",
@@ -146,5 +182,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Cosmos atrosanguineus",
+    "display_name": "Chocolate cosmos"
 }

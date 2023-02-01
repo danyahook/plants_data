@@ -86,18 +86,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but free-draining soil. Dislikes extreme heat in summer",
-        "propagation": "Propagate by division or root rhizomes sections in spring after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove faded flower spikes",
-        "pests": "May be susceptible to damage from vine weevils, slugs and snails",
-        "diseases": "May be subject to leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in moist but free-draining soil. Dislikes extreme heat in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or root rhizomes sections in spring after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage from vine weevils, slugs and snails",
+            "link_names": [
+                "Vine weevils",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Bergenia ciliata 'Wilton'",
+    "display_name": "Elephant's ears 'wilton'"
 }

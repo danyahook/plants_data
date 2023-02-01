@@ -92,23 +92,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in dry, well-drained soil that is poor to moderately fertile. Full sun is essential as is protection from winter wet",
-        "propagation": "Propagate by root cuttings in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Although you can cut back flower stems after flowering the seedheads are a very attractive feature so are usually left over winter",
-        "pests": "Can get leaf and bud eelworms",
-        "diseases": "May be affected by powdery mildews and root rot"
+        "cultivation": {
+            "text": "Grow in dry, well-drained soil that is poor to moderately fertile. Full sun is essential as is protection from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by root cuttings in late winter",
+            "link_names": [
+                "Root cuttings"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Although you can cut back flower stems after flowering the seedheads are a very attractive feature so are usually left over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms",
+            "link_names": [
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and root rot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Eryngium_×_zabelii__Big_Blue_.html",
@@ -142,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Eryngium × zabelii 'Big Blue'",
+    "display_name": "Sea holly 'big blue'"
 }

@@ -87,17 +87,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well drained soil in a sunny position. Prefers an acidic soil but will tolerate most soil types",
-        "propagation": "Propagate by grafting or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to honey fungus and phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "Grow in a moist but well drained soil in a sunny position. Prefers an acidic soil but will tolerate most soil types",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting or semi-hardwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, juniper scale and shoot-boring moths",
+            "link_names": [
+                "Aphids",
+                "Juniper scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "juniper_scale": "https://www.rhs.org.uk/biodiversity/juniper-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and phytophthora root rot",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Chamaecyparis obtusa 'Gitte'",
+    "display_name": "Hinoki cypress 'gitte'"
 }

@@ -93,16 +93,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile well-drained soil in sun or partial shade.",
-        "propagation": "Propagate by division in spring and by basal softwood cuttings in early to mid spring using bottom heat.",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Ground cover"
-        ],
-        "pruning": "Cut back flowered stems to the base after flowering is finished. In autumn to late winter cut back withered stems.",
-        "pests": "Maybe susceptible to vine weevil where grown in containers.",
-        "diseases": "Maybe susceptible to powdery mildew in hot dry weather"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile well-drained soil in sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring and by basal softwood cuttings in early to mid spring using bottom heat.",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to the base after flowering is finished. In autumn to late winter cut back withered stems.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Maybe susceptible to vine weevil where grown in containers.",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to powdery mildew in hot dry weather",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Geranium (Cinereum Group) Thumping Heart",
+    "display_name": "Cranesbill [thumping heart]"
 }

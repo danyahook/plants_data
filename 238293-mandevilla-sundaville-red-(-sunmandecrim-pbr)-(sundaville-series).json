@@ -85,17 +85,61 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in loam-based potting compost in full light with shade from hot sun. In the growing season, water freely and apply a balanced liquid fertiliser monthly; water moderately at other times",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in summer, with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "See pruning group 12",
-        "pests": "May be susceptible to glasshouse red spider mite, mealybugs and glasshouse whitefly",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Under glass, grow in loam-based potting compost in full light with shade from hot sun. In the growing season, water freely and apply a balanced liquid fertiliser monthly; water moderately at other times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-ripe cuttings in summer, with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 12",
+            "link_names": [
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, mealybugs and glasshouse whitefly",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Mealybugs",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Mandevilla Sundaville Red ('Sunmandecrim'PBR) (Sundaville Series)",
+    "display_name": ""
 }

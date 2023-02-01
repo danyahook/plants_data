@@ -81,16 +81,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, light, moist but well-drained soil in full sun or light, dappled shade",
-        "propagation": "Propagate by seed sown in situ in late spring or in seedbeds and transplanted to final flowering site in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage a second flush of flowers",
-        "pests": "Slugs may be a problem",
-        "diseases": "May be subject to powdery mildews, rots, a leaf spot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, light, moist but well-drained soil in full sun or light, dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ in late spring or in seedbeds and transplanted to final flowering site in autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage a second flush of flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs may be a problem",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews, rots, a leaf spot and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lupinus 'The Chatelaine' (Band of Nobles Series)",
+    "display_name": "Lupin 'the chatelaine'"
 }

@@ -81,14 +81,58 @@
         "plant_range": "Australia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in loam based compost, under glass or in a container that can be moved indoors over winter. Position in light or part shade outdoors, or in bright filtered light indoors; protect from hot midday sun. Water freely while in growth and keep just moist in winter",
-        "propagation": "Propagate by seed, sown at 19-24°C in spring, or by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to scale insects",
-        "diseases": "May be susceptible to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in loam based compost, under glass or in a container that can be moved indoors over winter. Position in light or part shade outdoors, or in bright filtered light indoors; protect from hot midday sun. Water freely while in growth and keep just moist in winter",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 19-24°C in spring, or by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Hibbertia aspera",
+    "display_name": ""
 }

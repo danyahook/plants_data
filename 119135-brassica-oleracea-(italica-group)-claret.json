@@ -86,13 +86,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun. Water regularly, particularly in Summer. See Vegetable cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to birds and caterpillars, slugs and snails, cabbage root fly",
-        "diseases": "May be susceptible to club root, downy mildew, leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun. Water regularly, particularly in Summer. See Vegetable cultivation",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds and caterpillars, slugs and snails, cabbage root fly",
+            "link_names": [
+                "Birds",
+                "Slugs",
+                "Snails",
+                "Cabbage root fly"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to club root, downy mildew, leaf spot",
+            "link_names": [
+                "Club root"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root"
+            }
+        }
+    },
+    "main_name_original": "Brassica oleracea (Italica Group) 'Claret'",
+    "display_name": "Broccoli (purple sprouting) 'claret'"
 }

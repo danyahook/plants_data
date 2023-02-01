@@ -94,17 +94,75 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich, well-drained, neutral to acid soil in sun or part shade, with shelter from cold winds. See magnolia cultivation",
-        "propagation": "Propagate by semi-ripe cuttings from late summer to early autumn or layering in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 in spring as growth begins",
-        "pests": "May be affected by scale insects and capsid bug",
-        "diseases": "Generally problem free"
-    }
+        "cultivation": {
+            "text": "Grow in moist, humus-rich, well-drained, neutral to acid soil in sun or part shade, with shelter from cold winds. See magnolia cultivation",
+            "link_names": [
+                "Magnolia cultivation"
+            ],
+            "related_links": {
+                "magnolia_cultivation": "https://www.rhs.org.uk/plants/magnolia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings from late summer to early autumn or layering in early spring",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 in spring as growth begins",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, horse chestnut scale and capsid bug",
+            "link_names": [
+                "Scale insects",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot, phytophthora, grey moulds, honey fungus, a virus or fungal leaf spot",
+            "link_names": [
+                "Coral spot",
+                "Phytophthora",
+                "Grey moulds",
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Magnolia 'Fairy Blush'",
+    "display_name": "Magnolia [fairy magnolia blush]"
 }

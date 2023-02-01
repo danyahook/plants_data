@@ -89,17 +89,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, rich moisture-retentive soil in sun or partial shade. Feed with liquid fertilizer until flowering and low nitrogen during the rest of the season.",
-        "propagation": "Division, seed. Seed can be sown in very early spring. Seed may not come true to type",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs",
-        "diseases": "Crown rot, may be susceptible to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in deep, rich moisture-retentive soil in sun or partial shade. Feed with liquid fertilizer until flowering and low nitrogen during the rest of the season.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Division, seed. Seed can be sown in very early spring. Seed may not come true to type",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Crown rot, may be susceptible to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lobelia 'Fan Burgundy'",
+    "display_name": ""
 }

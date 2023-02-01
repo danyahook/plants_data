@@ -94,17 +94,73 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Fast-growing if provided with a fertile, rich, moist soil with good drainage in full sun or part shade. Although hardy it will benefit from the application of a dry winter mulch. See hardy fuchsia cultivation for further information",
-        "propagation": "Propagate by softwood cuttings in spring or semi-ripe cuttings in late summer with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "In early spring cut back stems near to base",
-        "pests": "May be susceptible to glasshouse whitefly, vine weevil, capsid bug, fuchsia gall mite and aphids",
-        "diseases": "May be affected by grey moulds and fuchsia rust"
-    }
+        "cultivation": {
+            "text": "Fast-growing if provided with a fertile, rich, moist soil with good drainage in full sun or part shade. Although hardy it will benefit from the application of a dry winter mulch. See hardy fuchsia cultivation for further information",
+            "link_names": [
+                "Mulch",
+                "Hardy fuchsia cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hardy_fuchsia_cultivation": "https://www.rhs.org.uk/plants/fuchsia/hardy/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-ripe cuttings in late summer with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "In early spring cut back stems near to base",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, fuchsia gall mite, capsid bug and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Fuchsia gall mite",
+                "Capsid bug",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "fuchsia_gall_mite": "https://www.rhs.org.uk/biodiversity/fuchsia-gall-mite",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fuchsia rust, grey moulds and honey fungus (rarely)",
+            "link_names": [
+                "Fuchsia rust",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fuchsia_rust": "https://www.rhs.org.uk/disease/fuchsia-rust",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Fuchsia Pink Fizz ('Fngenfu01'PBR)",
+    "display_name": "Fuchsia 'pink fizz'"
 }

@@ -88,17 +88,71 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained, moderately fertile soil in full sun",
-        "propagation": "Propagate by seed sown in containers outdoors in autumn; or by softwood cuttings, with bottom heat, in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 5",
-        "pests": "May be susceptible to aphids and caterpillars",
-        "diseases": "High Risk Host for Xylella fastidiosa. May be susceptible to bacterial canker, blossom wilt, brown rot, honey fungus and silver leaf."
-    }
+        "cultivation": {
+            "text": "Grow in any moist but well-drained, moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers outdoors in autumn; or by softwood cuttings, with bottom heat, in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 5",
+            "link_names": [
+                "Pruning group 5"
+            ],
+            "related_links": {
+                "pruning_group_5": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and caterpillars",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus. High Risk Host for Xylella fastidiosa",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus",
+                "High risk host for xylella fastidiosa"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
+            }
+        }
+    },
+    "main_name_original": "Prunus glandulosa",
+    "display_name": "Dwarf flowering almond"
 }

@@ -86,15 +86,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in most garden soils but avoid excessive winter wet. Dislikes being moved around",
-        "propagation": "Propagate by division in early spring or autumn, or propagate by root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be prone to slugs and caterpillars",
-        "diseases": "May be susceptible to powdery mildew and anemone smuts"
-    }
+        "cultivation": {
+            "text": "Will grow in most garden soils but avoid excessive winter wet. Dislikes being moved around",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or autumn, or propagate by root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be prone to slugs and caterpillars",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew and anemone smuts",
+            "link_names": [
+                "Smuts"
+            ],
+            "related_links": {
+                "smuts": "https://www.rhs.org.uk/disease/smuts"
+            }
+        }
+    },
+    "main_name_original": "Anemone × hybrida 'Pretty Lady Diana'PBR (Pretty Lady Series)",
+    "display_name": "Japanese anemone 'pretty lady diana'"
 }

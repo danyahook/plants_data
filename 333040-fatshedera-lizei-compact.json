@@ -96,16 +96,58 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in fertile moist but well-drained soil in full sun or partial shade. Grow under glass in loam-based compost. Most light conditions are acceptable.",
-        "propagation": "Propagate by softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants",
-            "Underplanting of roses and shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1. Pinch out young growth to promote bushy growth",
-        "pests": "May be attacked by scale insects and mealybugs under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in fertile moist but well-drained soil in full sun or partial shade. Grow under glass in loam-based compost. Most light conditions are acceptable.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants",
+                "Underplanting of roses and shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Pinch out young growth to promote bushy growth",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by scale insects and mealybugs under glass",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "× Fatshedera lizei compact",
+    "display_name": "Compact tree ivy"
 }

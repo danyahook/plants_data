@@ -100,17 +100,73 @@
         "plant_range": "S Europe, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Plant in a sunny, sheltered site with moist but well-drained, fertile soil, away from frost pockets. Can be grown as a standard or bush in milder areas, or fan-trained against a south-facing wall; final size will depend on the rootstock used. Almond blossom is very early, so flowers may need protection from frost.",
-        "propagation": "Propagate by grafting in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Edible fruit",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
-        "pests": "May be susceptible to aphids; caterpillars and birds can cause damage",
-        "diseases": "May be susceptible to peach leaf curl, silver leaf, honey fungus, bacterial canker and brown rot. High Risk Host for Xylella fastidiosa"
-    }
+        "cultivation": {
+            "text": "Plant in a sunny, sheltered site with moist but well-drained, fertile soil, away from frost pockets. Can be grown as a standard or bush in milder areas, or fan-trained against a south-facing wall; final size will depend on the rootstock used. Almond blossom is very early, so flowers may need protection from frost.",
+            "link_names": [
+                "Fan-trained"
+            ],
+            "related_links": {
+                "fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting in late winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Edible fruit",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids; caterpillars and birds can cause damage",
+            "link_names": [
+                "Birds"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, honey fungus, bacterial canker and brown rot. High Risk Host for Xylella fastidiosa",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Honey fungus",
+                "Bacterial canker",
+                "Brown rot",
+                "High risk host for xylella fastidiosa"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
+            }
+        }
+    },
+    "main_name_original": "Prunus amygdalus",
+    "display_name": "Almond"
 }

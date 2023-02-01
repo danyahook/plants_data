@@ -84,15 +84,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow up support in any fertile, moisture-retentive soil in good light. For more advice see french-bean cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Edible fruit"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails, pigeons and blackfly (black aphid)",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow up support in any fertile, moisture-retentive soil in good light. For more advice see french-bean cultivation",
+            "link_names": [
+                "French-bean cultivation"
+            ],
+            "related_links": {
+                "french-bean_cultivation": "https://www.rhs.org.uk/vegetables/french-beans/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, pigeons and blackfly (black aphid)",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Pigeons",
+                "Blackfly (black aphid)"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "pigeons": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Phaseolus vulgaris 'Blue Lake'",
+    "display_name": "Bean (climbing french) 'blue lake'"
 }

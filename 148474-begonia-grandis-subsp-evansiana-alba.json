@@ -90,17 +90,65 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in well-drained humus-rich, neutral to acidic soil. Grow in good but not direct light in a frost-free area. Under glass grow in well-drained loam-less or loam-based compost. Will not tolerate waterlogging. See Begonias: outdoors for further advice.",
-        "propagation": "Propagate by seed, stem tip or leaf cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get caterpillars, mealybugs, tarsonemid mite, thrips, vine weevil and aphids",
-        "diseases": "May be infected by powdery mildews"
+        "cultivation": {
+            "text": "Grow outdoors in well-drained humus-rich, neutral to acidic soil. Grow in good but not direct light in a frost-free area. Under glass grow in well-drained loam-less or loam-based compost. Will not tolerate waterlogging. See Begonias: outdoors for further advice.",
+            "link_names": [
+                "Begonias: outdoors"
+            ],
+            "related_links": {
+                "begonias:_outdoors": "https://www.rhs.org.uk/plants/begonias/outdoors"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, stem tip or leaf cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get caterpillars, mealybugs, tarsonemid mite, thrips, vine weevil and aphids",
+            "link_names": [
+                "Mealybugs",
+                "Thrips",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Begonia_grandis_subsp._evansiana__Alba_.html",
@@ -131,5 +179,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Begonia grandis subsp. evansiana 'Alba'",
+    "display_name": "White hardy begonia"
 }

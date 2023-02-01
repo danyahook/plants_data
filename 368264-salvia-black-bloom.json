@@ -90,17 +90,77 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in full sun, in well-drained soil with shelter from cold winds. Maintain low humidity for plants overwintered indoors in a greenhouse. Under glass grow in well-drained loamless or loam-based potting compost (JI No.2) in full light with shade from hot sun",
-        "propagation": "Propagate by division of established clumps. Take softwood and semi-ripe stem-tip cuttings from new non-flowering growth. Take basal stem cuttings from new shoots that are about 8cm (3in) tall",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove faded flowers to encourage further flowering",
-        "pests": "Young growth may be susceptible to slugs and snails and capsid bug and leafhoppers may be troublesome. Under glass may be suceptible to aphids, glasshouse red spider mite and glasshouse whitefly",
-        "diseases": "May be susceptible to fungal diseases including foot and root rots"
-    }
+        "cultivation": {
+            "text": "Best grown in full sun, in well-drained soil with shelter from cold winds. Maintain low humidity for plants overwintered indoors in a greenhouse. Under glass grow in well-drained loamless or loam-based potting compost (JI No.2) in full light with shade from hot sun",
+            "link_names": [
+                "Overwintered indoors"
+            ],
+            "related_links": {
+                "overwintered_indoors": "https://www.rhs.org.uk/prevention-protection/overwintering-tender-plants-wrapping"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of established clumps. Take softwood and semi-ripe stem-tip cuttings from new non-flowering growth. Take basal stem cuttings from new shoots that are about 8cm (3in) tall",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flowers to encourage further flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Young growth may be susceptible to slugs and snails and capsid bug and leafhoppers may be troublesome. Under glass may be susceptible to aphids, glasshouse red spider mite and glasshouse whitefly",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Capsid bug",
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia Black & Bloom",
+    "display_name": "Anise-scented sage [black and bloom]"
 }

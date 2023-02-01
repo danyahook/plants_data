@@ -88,17 +88,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in well-drained soil enriched with leaf mould or well-rotted organic matter; ideal in pots, see growing lilies in containers for further information",
-        "propagation": "Propagate by separating offsets after foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut down stems as foliage yellows and dies down",
-        "pests": "May be affected by lily beetle, aphids and slugs; plants in containers are vulnerable to vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems, see lily diseases"
-    }
+        "cultivation": {
+            "text": "Grows well in well-drained soil enriched with leaf mould or well-rotted organic matter; ideal in pots, see growing lilies in containers for further information",
+            "link_names": [
+                "Growing lilies",
+                "Containers"
+            ],
+            "related_links": {
+                "growing_lilies": "https://www.rhs.org.uk/container-gardening/lilies",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by separating offsets after foliage dies down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down stems as foliage yellows and dies down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to lily beetle, aphids and slugs; plants in containers are vulnerable to vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds and a virus. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium martagon 'Orange Marmalade'",
+    "display_name": "Lily 'orange marmalade'"
 }

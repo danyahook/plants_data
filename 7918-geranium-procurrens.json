@@ -86,18 +86,66 @@
         "plant_range": "Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best. Full shade is tolerated but may reduce flowering",
-        "propagation": "Propagate by division or by seed in spring, or take basal cuttings in early to mid spring and root with bottom heat.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Conservatory and greenhouse",
-            "Ground cover",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back after flowering to encourage the production of fresh leaves and flowers. Remove old dead foliage in spring before growth commences",
-        "pests": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews, downy mildews and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best. Full shade is tolerated but may reduce flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by seed in spring, or take basal cuttings in early to mid spring and root with bottom heat.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Conservatory and greenhouse",
+                "Ground cover",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to encourage the production of fresh leaves and flowers. Remove old dead foliage in spring before growth commences",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Geranium sawfly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, downy mildews and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium procurrens",
+    "display_name": "Spreading cranesbill"
 }

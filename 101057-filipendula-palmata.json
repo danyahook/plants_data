@@ -83,16 +83,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist soil in sun or part shade; thrives in woodland environments",
-        "propagation": "Propagate by seed, by division in autumn or spring, or by root cuttings in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to fungal leaf spot, and to powdery mildews, especially in poor or dry soils"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist soil in sun or part shade; thrives in woodland environments",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by division in autumn or spring, or by root cuttings in late winter",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spot, and to powdery mildews, especially in poor or dry soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Filipendula_palmata.html",
@@ -153,5 +189,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Filipendula palmata",
+    "display_name": ""
 }

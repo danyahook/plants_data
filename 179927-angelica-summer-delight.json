@@ -95,17 +95,55 @@
         "plant_range": "N Eur to E N US"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in well-drained soil in full sun, in areas with cooler summers; dislikes excess heat",
-        "propagation": "Propagate by seed, sown as soon as ripe in containers in a cold frame, or in spring with bottom heat at 18°C",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, celery leaf-mining fly and cuckoo spit",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Thrives in well-drained soil in full sun, in areas with cooler summers; dislikes excess heat",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown as soon as ripe in containers in a cold frame, or in spring with bottom heat at 18°C",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, celery leaf-mining fly and cuckoo spit",
+            "link_names": [
+                "Aphids",
+                "Celery leaf-mining fly",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "celery_leaf-mining_fly": "https://www.rhs.org.uk/biodiversity/celery-leaf-mining-fly",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Angelica 'Summer Delight'",
+    "display_name": "Scots lovage"
 }

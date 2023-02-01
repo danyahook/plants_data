@@ -99,16 +99,38 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light moderately fertile, well-drained soil in full sun.Shelter from cold, drying winds",
-        "propagation": "Propagate by seed sown at 13-18°C in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering"
-    }
+        "cultivation": {
+            "text": "Grow in light moderately fertile, well-drained soil in full sun.Shelter from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 13-18°C in early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Xanthophthalmum segetum 'Court Jester'",
+    "display_name": "Corn marigold 'court jester'"
 }

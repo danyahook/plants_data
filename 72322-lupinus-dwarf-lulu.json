@@ -89,18 +89,70 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, ideally slightly acidic, well-drained soil; prefers full sun but will tolerate part shade. Water well in summer dry spells",
-        "propagation": "Propagate by seed or by basal softwood cuttings in mid spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage a second flush of flowers",
-        "pests": "May be susceptible to lupin aphid, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews, lupin anthracnose and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in light, ideally slightly acidic, well-drained soil; prefers full sun but will tolerate part shade. Water well in summer dry spells",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by basal softwood cuttings in mid spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage a second flush of flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lupin aphid, slugs and snails",
+            "link_names": [
+                "Lupin aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, lupin anthracnose and virus diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Lupin anthracnose",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "lupin_anthracnose": "https://www.rhs.org.uk/disease/lupin-anthracnose",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lupinus 'Dwarf Lulu'",
+    "display_name": "Lupin 'lulu'"
 }

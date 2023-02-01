@@ -101,19 +101,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in sun or partial shade",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning usually required; pruning group 8",
-        "pests": "Generally pest-free, but may be susceptible to scale insect",
-        "diseases": "Generally disease-free but may be susceptible to powdery mildew and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning usually required; pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
+            "link_names": [
+                "Vine weevil",
+                "Euonymus scale"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, a leaf spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Euonymus japonicus 'Heespierrolino'PBR",
+    "display_name": "Spindle [pierrolino]"
 }

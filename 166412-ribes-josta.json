@@ -92,14 +92,60 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Jostaberries prefer a sunny site with well-drained but moisture-retentive soil, but will cope in most other soil conditions and tolerate light shade. Mulch annually with well-rotted manure or compost and apply a general purpose fertiliser in spring. Grow as blackcurrants so please see our blackcurrant cultivation page for more growing tips",
-        "propagation": "Propagate by hardwood cuttings in the dormant season",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Edible fruit"
-        ],
-        "pruning": "Prune when dormant in winter. Aim to keep an open centred goblet shaped bush, removing some of the older unproductive stems each year.",
-        "pests": "May be susceptible to birds eating fruits",
-        "diseases": "Generally disease-free, resistant to gooseberry leaf spot and gooseberry mildew"
-    }
+        "cultivation": {
+            "text": "Jostaberries prefer a sunny site with well-drained but moisture-retentive soil, but will cope in most other soil conditions and tolerate light shade. Mulch annually with well-rotted manure or compost and apply a general purpose fertiliser in spring. Grow as blackcurrants so please see our blackcurrant cultivation page for more growing tips",
+            "link_names": [
+                "Mulch",
+                "Blackcurrant cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "blackcurrant_cultivation": "https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in the dormant season",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune when dormant in winter. Aim to keep an open centred goblet shaped bush, removing some of the older unproductive stems each year.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds eating fruits",
+            "link_names": [
+                "Birds"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, resistant to gooseberry leaf spot and gooseberry mildew",
+            "link_names": [
+                "Gooseberry leaf spot",
+                "Gooseberry mildew"
+            ],
+            "related_links": {
+                "gooseberry_leaf_spot": "https://www.rhs.org.uk/disease/currant-and-gooseberry-leaf-spot",
+                "gooseberry_mildew": "https://www.rhs.org.uk/disease/gooseberry-mildew"
+            }
+        }
+    },
+    "main_name_original": "Ribes 'Josta'",
+    "display_name": "Jostaberry"
 }

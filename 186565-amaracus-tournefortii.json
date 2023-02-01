@@ -87,18 +87,58 @@
         "plant_range": "Greece"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor or moderately fertile, alkaline, well drained soil in full sun. Dislikes winter wet. Suitable for growing in a container in an alpine house",
-        "propagation": "Propagate by division in spring, or by basal softwood cuttings in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Rock garden",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Cut back in autumn as foliage dies back",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in poor or moderately fertile, alkaline, well drained soil in full sun. Dislikes winter wet. Suitable for growing in a container in an alpine house",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, or by basal softwood cuttings in late spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Rock garden",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in autumn as foliage dies back",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Amaracus tournefortii",
+    "display_name": "Dittany of amorgos"
 }

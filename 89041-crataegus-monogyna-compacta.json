@@ -93,18 +93,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most soils, in sun or partial shade. Will not tolerate waterlogging",
-        "propagation": "Propagate by grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 1",
-        "pests": "May be susceptible to caterpillars, aphids and hawthorn button top midge",
-        "diseases": "May be susceptible to fireblight, honey fungus, crown gall, silver leaf, powdery mildews and leaf spots"
-    }
+        "cultivation": {
+            "text": "Grow in any (not waterlogged) soil in full sun or part shade. Useful specimen trees for town, coastal or exposed gardens. See hawthorn cultivation for further advice",
+            "link_names": [
+                "Hawthorn cultivation"
+            ],
+            "related_links": {
+                "hawthorn_cultivation": "https://www.rhs.org.uk/plants/hawthorn/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting in winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars, aphids and gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, honey fungus, crown gall, silver leaf, Powdery mildews and leaf spots",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Crown gall",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "crown_gall": "https://www.rhs.org.uk/disease/crown-gall",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Crataegus monogyna 'Compacta'",
+    "display_name": ""
 }

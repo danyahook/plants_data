@@ -89,18 +89,66 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in a moist but well-drained soil, rich in organic matter, in sun or even a certain amount of shade. Divide every few years to avoid congestion",
-        "propagation": "Propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "deadhead to promote more blooms, and cut back old stems after flowering",
-        "pests": "May be susceptible to leaf miners, aphids and geum sawfly larvae",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in a moist but well-drained soil, rich in organic matter, in sun or even a certain amount of shade. Divide every few years to avoid congestion",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "deadhead to promote more blooms, and cut back old stems after flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leaf miners, aphids and geum sawfly larvae",
+            "link_names": [
+                "Aphids",
+                "Geum sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "geum_sawfly": "https://www.rhs.org.uk/biodiversity/geum-sawflies"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geum 'Tosai'",
+    "display_name": "Avens 'tosai'"
 }

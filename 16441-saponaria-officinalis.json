@@ -114,17 +114,53 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun. Suitable for the herbaceous or mixed border",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun. Suitable for the herbaceous or mixed border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Saponaria_officinalis.html",
@@ -197,5 +233,7 @@
             "Aged yellow and dry",
             "Yellow spot"
         ]
-    }
+    },
+    "main_name_original": "Saponaria officinalis",
+    "display_name": "Soapwort"
 }

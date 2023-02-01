@@ -87,19 +87,59 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, preferably neutral to alkaline soil in full sun",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer, both with bottom heat; overwinter young plants in a cool greenhouse",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Garden edging",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "May be prone to leafhoppers and rosemary beetle",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, preferably neutral to alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer, both with bottom heat; overwinter young plants in a cool greenhouse",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Garden edging",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be prone to leafhoppers and rosemary beetle",
+            "link_names": [
+                "Rosemary beetle"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Teucrium massiliense misapplied",
+    "display_name": "Hybrid germander"
 }

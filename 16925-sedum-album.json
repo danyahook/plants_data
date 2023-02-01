@@ -97,18 +97,46 @@
         "plant_range": "Europe to Medit., Iran"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, alkaline to neutral soil in full sun",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Trim back after flowering to maintain shape",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, alkaline to neutral soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering to maintain shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sedum_album.html",
@@ -155,5 +183,7 @@
             "Low light",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sedum album",
+    "display_name": "White stonecrop"
 }

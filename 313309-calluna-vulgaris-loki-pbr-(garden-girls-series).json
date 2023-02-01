@@ -87,18 +87,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained acidic soil in full sun",
-        "propagation": "Propagate by division, layering shoots in spring/summer or planting softwood cuttings in a cold frame in summer. Sow in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "Rock garden",
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Trim off old flowering stems after flowering to keep compact. Pruning group 10.",
-        "pests": "Generally pest-free",
-        "diseases": "May suffer from fungal and root diseases, especially in warmer locations"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained acidic soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, layering shoots in spring/summer or planting softwood cuttings in a cold frame in summer. Sow in spring",
+            "link_names": [
+                "Division",
+                "Layering",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "Rock garden",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim off old flowering stems after flowering to keep compact. Pruning group 10.",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and other fungal diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Calluna vulgaris 'Loki'PBR (Garden Girls Series)",
+    "display_name": "Heather 'loki'"
 }

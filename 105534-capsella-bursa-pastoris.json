@@ -113,13 +113,42 @@
         "plant_range": "Temp. & subtr."
     },
     "how_to_grow": {
-        "cultivation": "A fast-growing and prolific weed of bare and cultivated land",
-        "propagation": "Produces vast quantities of seed throughout the year",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pests": "Generally trouble free",
-        "diseases": "Can act as a reservoir for the leaf disease white blister which affects Brassicaceae, Asteraceae and Aizoaceae"
+        "cultivation": {
+            "text": "A fast-growing and prolific weed of bare and cultivated land",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Produces vast quantities of seed throughout the year",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be a host for the leaf disease white blister which affects Brassicaceae, Asteraceae and Aizoaceae",
+            "link_names": [
+                "White blister"
+            ],
+            "related_links": {
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Capsella_bursa-pastoris.html",
@@ -249,5 +278,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Capsella bursa-pastoris",
+    "display_name": "Shepherd's purse"
 }

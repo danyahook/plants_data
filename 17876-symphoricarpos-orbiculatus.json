@@ -102,16 +102,66 @@
         "plant_range": "United States"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most reasonably moist, fertile soil. Tolerant of pollution and all but the most extreme conditions. Fruits most freely after a hot summer",
-        "propagation": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn. Rooted suckers can be transplanted in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Hedging and screens",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1 or pruning group 2",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Easy to grow in most reasonably moist, fertile soil. Tolerant of pollution and all but the most extreme conditions. Fruits most freely after a hot summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn. Rooted suckers can be transplanted in autumn",
+            "link_names": [
+                "Softwood",
+                "Hardwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Hedging and screens",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 2",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spots, powdery mildews, rust diseases, stem galls and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Symphoricarpos_orbiculatus.html",
@@ -194,5 +244,7 @@
             "Plant dried up",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Symphoricarpos orbiculatus",
+    "display_name": "Coralberry"
 }

@@ -104,16 +104,52 @@
         "plant_range": "Peninsular Thailand to W Malesia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a warm greenhouse, or indoors, in bright light with moderate humidity",
-        "propagation": "Propagate by seed, or by removing suckers in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants",
-            "Sub-tropical"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Scale insects and glasshouse red spider mite may be a problem",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in a warm greenhouse, or indoors, in bright light with moderate humidity",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by removing suckers in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants",
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Scale insects and glasshouse red spider mite may be a problem",
+            "link_names": [
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cyrtostachys_renda.html",
@@ -171,5 +207,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cyrtostachys renda",
+    "display_name": "Lipstick palm"
 }

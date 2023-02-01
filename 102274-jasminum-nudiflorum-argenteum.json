@@ -94,19 +94,75 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any good garden soil that is well-drained in full sun or partial shade. See Jasmine cultivation",
-        "propagation": "Propagate by layering or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Climber and wall shrubs",
-            "Wall side borders",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 2, after flowering. Remove stems showing reversion as seen. Can be wall-trained or clipped as a hedge",
-        "pests": "May be susceptible to aphids, glasshouse red spider mite and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any good garden soil that is well-drained in full sun or partial shade. See Jasmine cultivation",
+            "link_names": [
+                "Jasmine cultivation"
+            ],
+            "related_links": {
+                "jasmine_cultivation": "https://www.rhs.org.uk/plants/jasmine"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering or semi-hardwood cuttings",
+            "link_names": [
+                "Layering",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Climber and wall shrubs",
+                "Wall side borders",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2, after flowering. Remove stems showing reversion as seen. Can be wall-trained or clipped as a hedge",
+            "link_names": [
+                "Pruning group 2",
+                "Reversion",
+                "Hedge"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering",
+                "reversion": "https://www.rhs.org.uk/problems/reversion",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse red spider mite and mealybugs",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Jasminum nudiflorum 'Argenteum'",
+    "display_name": ""
 }

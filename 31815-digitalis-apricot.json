@@ -97,18 +97,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in almost any soil except very wet or very dry, although humus-rich soil in part shade is preferred",
-        "propagation": "Propagate by seed sown in containers/in situ in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering unless seed is required",
-        "pests": "Can get aphids or leaf and bud eelworm",
-        "diseases": "May be affected by leaf spots or powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in almost any soil except very wet or very dry, although humus-rich soil in part shade is preferred",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers/in situ in late spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering unless seed is required",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids or leaf and bud eelworm",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by leaf spots or powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Digitalis 'Apricot'",
+    "display_name": "Foxglove 'sutton's apricot'"
 }

@@ -88,15 +88,45 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile mud at pond margins or in water up to 25cm deep, in full sun",
-        "propagation": "Propagate by seed sown as soon as ripe or by rhizome division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Can get water lily aphid",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile mud at pond margins or in water up to 25cm deep, in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe or by rhizome division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get water lily aphid",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Butomus_umbellatus.html",
@@ -171,5 +201,7 @@
             "Root rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Butomus umbellatus",
+    "display_name": "Flowering rush"
 }

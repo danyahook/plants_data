@@ -97,16 +97,61 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun; may become chlorotic on shallow chalk soils. Resents transplanting",
-        "propagation": "Propagate by seed or semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 3. Do not cut into old wood",
-        "pests": "Generally pest free but may be affected by gall mites",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun with a little shelter from cold drying winds; broom thrives in poor acid soils and may become chlorotic on shallow chalk soils. Plant when young, resents transplanting",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 3. Do not cut into old wood",
+            "link_names": [
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Sarothamnus scoparius",
+    "display_name": "Common broom"
 }

@@ -100,18 +100,76 @@
         "plant_range": "Europe, W Asia, N Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in chalky soil in sun or partial shade",
-        "propagation": "Propagate by seed or layer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Can get caterpillars, gall mites, aphids and sawflies; squirrels eat the nuts",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in any moist but well-drained soil in sun or partial shade, ideal for chalky soils. For more information see cobnuts and filberts",
+            "link_names": [
+                "Cobnuts and filberts"
+            ],
+            "related_links": {
+                "cobnuts_and_filberts": "https://www.rhs.org.uk/nuts/cobnuts-filberts"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, layering or stooling or removing rooted suckers",
+            "link_names": [
+                "Propagate by seed",
+                "Layering",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Edible fruit",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 and Pruning group 7 - can be coppiced alternate years to keep height restricted",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be be susceptible to caterpillars, gall mites, aphids and sawflies. Squirrels like to feed on the nuts",
+            "link_names": [
+                "Gall mites",
+                "Aphids",
+                "Squirrels"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, silver leaf and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Corylus_avellana.html",
@@ -174,5 +232,7 @@
             "Leaf Weevils",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Corylus avellana (F)",
+    "display_name": "Hazel"
 }

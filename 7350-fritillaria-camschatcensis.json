@@ -87,16 +87,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most fertile, humus-rich, well-drained soils, for a full sun location the soil needs to be damp through the summer. Handle the fragile bulbs carefully and plant at four times own depth",
-        "propagation": "Propagate by seed, sown in pots in a cold frame in autumn. Needs exposure to winter cold for germination in spring. Division of offsets can be done in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and lily beetle",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grows well in most fertile, humus-rich, well-drained soils, for a full sun location the soil needs to be damp through the summer. Handle the fragile bulbs carefully and plant at four times own depth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a cold frame in autumn. Needs exposure to winter cold for germination in spring. Division of offsets can be done in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and lily beetle",
+            "link_names": [
+                "Slugs",
+                "Lily beetle"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fritillaria_camschatcensis.html",
@@ -175,5 +211,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Fritillaria camschatcensis",
+    "display_name": "Kamchatka fritillary"
 }

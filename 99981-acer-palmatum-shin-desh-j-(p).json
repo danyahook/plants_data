@@ -80,15 +80,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
-        "propagation": "Propagate by grafting or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids and horse chestnut scale",
-        "diseases": "May be susceptible to Verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+            "link_names": [
+                "Leaf scorch"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting or softwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Softwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer palmatum 'Shin-deshōjō' (P)",
+    "display_name": "Japanese maple 'shin-deshojo'"
 }

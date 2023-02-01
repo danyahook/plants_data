@@ -88,14 +88,52 @@
         "plant_range": "S Africa (Cape)"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun in moderately fertile, well-drained, humus-rich soil. Suitable for the rock garden, raised bed, trough or alpine house",
-        "propagation": "Propagate from seed (indoors), sown with moderate heat in late winter or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "Grows best in full sun in moderately fertile, well-drained, humus-rich soil. Suitable for the rock garden, raised bed, trough or alpine house",
+            "link_names": [
+                "Raised bed"
+            ],
+            "related_links": {
+                "raised_bed": "https://www.rhs.org.uk/garden-features/raised-beds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from seed (indoors), sown with moderate heat in late winter or early spring",
+            "link_names": [
+                "(indoors)"
+            ],
+            "related_links": {
+                "(indoors)": "https://www.rhs.org.uk/propagation/seed-indoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Oxalis melanosticta",
+    "display_name": "Black-spotted wood sorrel"
 }

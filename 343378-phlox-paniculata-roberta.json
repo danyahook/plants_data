@@ -88,18 +88,50 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist soil in full sun or partial shade",
-        "propagation": "Propagate by basal cuttings in spring, or take root cuttings in early autumn or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Prune back to the base in late autumn. Deadhead regulary to prolong flowering",
-        "pests": "May be susceptible to stem eeelworms",
-        "diseases": "May be susceptible to leaf spot and leaf gall. Good mildew resistance"
+        "cultivation": {
+            "text": "Grow in fertile, moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings in spring, or take root cuttings in early autumn or winter",
+            "link_names": [
+                "Root cuttings"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune back to the base in late autumn. Deadhead regulary to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to stem eeelworms",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot and leaf gall. Good mildew resistance",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phlox_paniculata__Roberta_.html",
@@ -131,5 +163,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Phlox paniculata 'Roberta'",
+    "display_name": "Perennial phlox 'roberta'"
 }

@@ -93,14 +93,54 @@
         "plant_range": "SE Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained, moderately fertile soil",
-        "propagation": "Propagate by division from autumn to early spring, softwood cuttings in summer or hardwood and root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Generally pest-free although may be susceptible to grey moulds",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained, moderately fertile soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division from autumn to early spring, softwood cuttings in summer or hardwood and root cuttings in winter",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Hardwood",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free although may be susceptible to grey moulds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus lineatus",
+    "display_name": ""
 }

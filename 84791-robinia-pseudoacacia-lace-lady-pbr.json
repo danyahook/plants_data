@@ -90,15 +90,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any soil in good light. Remove any suckers that grow, which may have long thorns. For more advice see tree cultivation",
-        "propagation": "Propagate by hardwood cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 1 or Pruning group 7; pruning should be done in late summer or early autumn to prevent bleeding; sucker removal if necessary, in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any soil in good light. Remove any suckers that grow, which may have long thorns. For more advice see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings or grafting",
+            "link_names": [
+                "Hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or Pruning group 7; pruning should be done in late summer or early autumn to prevent bleeding; sucker removal if necessary, in autumn",
+            "link_names": [
+                "Pruning group 1",
+                "Sucker removal"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "sucker_removal": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Robinia pseudoacacia 'Lace Lady'PBR",
+    "display_name": "False acacia 'lace lady'"
 }

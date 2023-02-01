@@ -86,13 +86,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow indoors in hanging baskets of loose organic medium, such as a mixture of bark, sphagnum-type moss and charcoal. Keep humidity high and soil moist, but do not allow to sit in water. See carnivorous plant cultivation for more detailed advice",
-        "propagation": "Propagate by seed, or by basal softwood cuttings in spring or summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Trim out spent pitchers",
-        "pests": "May be susceptible to scale insects",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow indoors in hanging baskets of loose organic medium, such as a mixture of bark, sphagnum-type moss and charcoal. Keep humidity high and soil moist, but do not allow to sit in water. See carnivorous plant cultivation for more detailed advice",
+            "link_names": [
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by basal softwood cuttings in spring or summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim out spent pitchers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Nepenthes 'Miranda'",
+    "display_name": ""
 }

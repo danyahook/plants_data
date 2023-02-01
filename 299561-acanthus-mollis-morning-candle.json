@@ -90,17 +90,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained soil; does best in full sun but will tolerate partial shade",
-        "propagation": "Propagate by division or by root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down old flower stems",
-        "pests": "Generally trouble free",
-        "diseases": "Powdery mildews may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained soil; does best in full sun but will tolerate partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down old flower stems",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Acanthus mollis 'Morning Candle'",
+    "display_name": "Bear's breech 'morning's candle'"
 }

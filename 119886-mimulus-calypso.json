@@ -91,21 +91,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist soil in full sun or light dappled shade. Ideal for baskets and containers. Use a peat-free multipurpose compost and keep well-watered",
-        "propagation": "Propagate by seed or division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Bedding",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to damage by slugs and snail",
-        "diseases": "May be susceptible to powdery mildews, especially young plants"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist soil in full sun or light dappled shade. Ideal for baskets and containers. Use a peat-free multipurpose compost and keep well-watered",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Bedding",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage by slugs and snail",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, especially young plants",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Mimulus 'Calypso'",
+    "display_name": "Monkey flower 'calypso'"
 }

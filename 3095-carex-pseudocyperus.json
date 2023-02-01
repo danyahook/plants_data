@@ -88,15 +88,53 @@
         "plant_range": "Temp. & sub-trop."
     },
     "how_to_grow": {
-        "cultivation": "Grow in moisture-retentive soil, can be grown as marginal or bog plant in sun or light shade",
-        "propagation": "Propagate by seed sown in autumn, or by division from mid-spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Cut back in the autumn as the foliage fades",
-        "pests": "Aphids may be a problem",
-        "diseases": "Generally disease free, could be affected by a rust"
+        "cultivation": {
+            "text": "Grow in moisture-retentive soil, can be grown as marginal or bog plant in sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn, or by division from mid-spring to early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in the autumn as the foliage fades",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free, could be affected by a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carex_pseudocyperus.html",
@@ -140,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Carex pseudocyperus",
+    "display_name": "Cyperus sedge"
 }

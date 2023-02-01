@@ -111,19 +111,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained fertile soil in full sun",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids",
-        "diseases": "May be subject to a downy mildew"
+        "cultivation": {
+            "text": "Grow in any well-drained fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a downy mildew",
+            "link_names": [
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Papaver_rhoeas.html",
@@ -187,5 +223,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Papaver rhoeas",
+    "display_name": "Common poppy"
 }

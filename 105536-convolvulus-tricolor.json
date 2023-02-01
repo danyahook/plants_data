@@ -91,20 +91,60 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in gritty, well-drained soil in a sheltered, sunny site",
-        "propagation": "Propagate by seed, root softwood cuttings in late summer, or divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "Generally problem free",
-        "diseases": "Generally problem free"
+        "cultivation": {
+            "text": "Grow in gritty, well-drained soil in a sheltered, sunny site",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, root softwood cuttings in late summer, or divide in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Convolvulus_tricolor.html",
@@ -153,5 +193,7 @@
             "Wilting after blooming",
             "Leaf miners"
         ]
-    }
+    },
+    "main_name_original": "Convolvulus tricolor",
+    "display_name": "Dwarf morning glory"
 }

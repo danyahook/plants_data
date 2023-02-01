@@ -98,16 +98,56 @@
         "plant_range": "California, Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow against a warm, sunny wall protected from cold winds. Mulch deeply prior to winter. They dislike transplanting but once established it can spread, so site with care",
-        "propagation": "Propagate by basal cuttings in spring, root cuttings in winter or propagate by seed sown in spring at 13°C to 16°C",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Caterpillars may be a problem",
-        "diseases": "Powdery mildews may be a problem"
+        "cultivation": {
+            "text": "Grow against a warm, sunny wall protected from cold winds. Mulch deeply prior to winter. They dislike transplanting but once established it can spread, so site with care",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings in spring, root cuttings in winter or propagate by seed sown in spring at 13°C to 16°C",
+            "link_names": [
+                "Root cuttings"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Caterpillars may be a problem",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews may be a problem",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Romneya_coulteri.html",
@@ -164,5 +204,7 @@
             "Wilting after blooming",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Romneya coulteri",
+    "display_name": "Californian tree poppy"
 }

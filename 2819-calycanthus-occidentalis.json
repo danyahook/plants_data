@@ -91,17 +91,55 @@
         "plant_range": "SW US"
     },
     "how_to_grow": {
-        "cultivation": "Good for woodland or stream side positions",
-        "propagation": "Propagate by seed or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Good for woodland or stream side positions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Calycanthus_occidentalis.html",
@@ -155,5 +193,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Calycanthus occidentalis",
+    "display_name": "California allspice"
 }

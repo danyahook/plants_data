@@ -112,15 +112,51 @@
         "plant_range": "E, S and SC Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in sun. Can die back in heavy, poorly-drained soil",
-        "propagation": "Propagate by seed or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning Group 7 Cut back to the lowest, new shoots near the base in mid to late spring",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in sun. Can die back in heavy, poorly-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning Group 7 Cut back to the lowest, new shoots near the base in mid to late spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Artemisia paniculata",
+    "display_name": "Southernwood"
 }

@@ -89,19 +89,51 @@
         "plant_range": "Iran, Iraq, Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained, alkaline soil in full sun. Will tolerate poor, acid soils although growth will be more compact",
-        "propagation": "Propagate by seed sown in pots in a cold frame in spring. Propagate by rooting softwood cuttings in late spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pests": "May be attacked by aphids and glasshouse red spider mite",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained, alkaline soil in full sun. Will tolerate poor, acid soils although growth will be more compact",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in spring. Propagate by rooting softwood cuttings in late spring or early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aethionema_grandiflorum.html",
@@ -131,5 +163,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aethionema grandiflorum",
+    "display_name": "Persian stone cress"
 }

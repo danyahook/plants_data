@@ -98,14 +98,70 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moist but well-drained acid or neutral soil in full sun or light, dappled shade",
-        "propagation": "Propagate by seed sown in containers in a cold frame in autumn, taking semi-ripe cuttings in early summer, budding in summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be affected by aphids, blister mites, sawflies and scale insects",
-        "diseases": "May be affected by a canker, fireblight and silver leaf"
-    }
+        "cultivation": {
+            "text": "Prefers moist but well-drained acid or neutral soil in full sun or light, dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in autumn, taking semi-ripe cuttings in early summer, budding in summer or grafting in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, blister mites, scale insects, glasshouse red spider mite and sawflies",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, apple canker, silver leaf and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Apple canker",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Sorbus glabriuscula",
+    "display_name": "Glabrous mountain ash"
 }

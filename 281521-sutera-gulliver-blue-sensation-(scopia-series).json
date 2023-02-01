@@ -94,17 +94,53 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by softwood cuttings or by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Bedding"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or by layering",
+            "link_names": [
+                "Softwood",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Bedding"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sutera 'Gulliver Blue Sensation' (Scopia Series)",
+    "display_name": "Bacopa [copia gulliver blue sensation]"
 }

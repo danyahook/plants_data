@@ -98,18 +98,76 @@
         "plant_range": "C China"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in a sunny, well-drained situation, though will tolerate partial shade. Protect from strong winds and excess winter wet. See buddleja cultivation for more detailed advice",
-        "propagation": "Propagate by semi-hardwood cuttings in summer, or by hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 6; can be cut back to a low framework in early spring. Deadhead after flowering",
-        "pests": "May be susceptible to capsid bug, caterpillars, figwort weevil, mullein moth and red spider mite",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Thrives in a sunny, well-drained situation, though will tolerate partial shade. Protect from strong winds and excess winter wet. See buddleja cultivation for more detailed advice",
+            "link_names": [
+                "Buddleja cultivation"
+            ],
+            "related_links": {
+                "buddleja_cultivation": "https://www.rhs.org.uk/plants/buddleja/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer, or by hardwood cuttings in autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6; can be cut back to a low framework in early spring. Deadhead after flowering",
+            "link_names": [
+                "Pruning group 6",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bugs, caterpillars, earwigs, figwort weevils, glasshouse red spider mite, leaf and bud eelworm, and mullein moth",
+            "link_names": [
+                "Aphids",
+                "Earwigs",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, fungal leaf spot, and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Buddleja nanhoensis",
+    "display_name": ""
 }

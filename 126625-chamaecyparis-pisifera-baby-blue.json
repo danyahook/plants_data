@@ -91,14 +91,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, well drained soil. Does not like alkaline soils.",
-        "propagation": "Propagate by grafting or semi hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to Honey fungus and Phytophera root diseases"
-    }
+        "cultivation": {
+            "text": "Grow in moist, well drained soil. Does not like alkaline soils.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting or semi hardwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Hardwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, juniper scale and shoot-boring moths",
+            "link_names": [
+                "Aphids",
+                "Juniper scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "juniper_scale": "https://www.rhs.org.uk/biodiversity/juniper-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Honey fungus and Phytophera root diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Chamaecyparis pisifera 'Baby Blue'",
+    "display_name": ""
 }

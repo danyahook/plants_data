@@ -89,19 +89,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in moist but well-drained acidic soil but will tolerate some alkalinity",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring or grafting in winter. Hardwood cuttings can be taken in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by adelgids, aphids and conifer red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grows best in moist but well-drained acidic soil but will tolerate some alkalinity",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring or grafting in winter. Hardwood cuttings can be taken in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Grafting",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, red spider mite and conifer aphid",
+            "link_names": [
+                "Adelgids",
+                "Red spider mite",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Picea mariana 'Nana'",
+    "display_name": "Dwarf black spruce"
 }

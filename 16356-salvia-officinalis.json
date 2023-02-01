@@ -104,19 +104,69 @@
         "plant_range": "Mediterranean, Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a light, moist, but well-drained soil in full sun in a sheltered position. Avoid excessive winter wet",
-        "propagation": "Propagate by softwood cuttings in spring or semi-hardwood in late summer. Propagate by seed sown in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9 in spring",
-        "pests": "Salvia can suffer damage from sage leaf hopper, capsid bug and slugs",
-        "diseases": "Foot and root rots, powdery mildew and verticillium wilt can be problematic on salvias"
+        "cultivation": {
+            "text": "Grow in a light, moist, but well-drained soil in full sun in a sheltered position. Avoid excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-hardwood in late summer. Propagate by seed sown in spring",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Salvia can suffer damage from sage leaf hopper, capsid bug and slugs",
+            "link_names": [
+                "Capsid bug",
+                "Slugs"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salvia_officinalis.html",
@@ -166,5 +216,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Salvia officinalis",
+    "display_name": "Common sage"
 }

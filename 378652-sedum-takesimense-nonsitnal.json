@@ -97,16 +97,54 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile, neutral to slightly alkaline soil in full sun",
-        "propagation": "Propagate by division or by softwood cuttings of non-flowering shoots in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "May be affected by slugs and snails",
-        "diseases": "May be affected by root rot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile, neutral to slightly alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by softwood cuttings of non-flowering shoots in early summer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum takesimense 'Nonsitnal'",
+    "display_name": "Takeshima stonecrop [atlantis]"
 }

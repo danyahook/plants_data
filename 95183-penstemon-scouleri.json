@@ -82,17 +82,67 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, very gritty, well-drained soil in full sun",
-        "propagation": "Propagate by seed sown in pots in a cold frame. Propagate by taking softwood or semi-hardwood cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden"
-        ],
-        "pruning": "Deadhead after flowering to retain vigour",
-        "pests": "May be attacked by slugs, snails and chrysanthemum eelworms",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, very gritty, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame. Propagate by taking softwood or semi-hardwood cuttings in midsummer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to retain vigour",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and chrysanthemum eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon scouleri",
+    "display_name": "Scouler penstemon"
 }

@@ -88,18 +88,66 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "In frost-free areas, grow outdoors in a sunny spot in fertile, well drained soil, with shelter from cold winds",
-        "propagation": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in late summer and hardwood cuttings from late autumn to winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 9, after flowering",
-        "pests": "May be susceptible to brown scale insect",
-        "diseases": "May be susceptible to escallonia leaf spot or to virus diseases"
-    }
+        "cultivation": {
+            "text": "In frost-free areas, grow outdoors in a sunny spot in fertile, well drained soil, with shelter from cold winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in late summer and hardwood cuttings from late autumn to winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9, after flowering",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale insect",
+            "link_names": [
+                "Brown scale"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to escallonia leaf spot and honey fungus",
+            "link_names": [
+                "Escallonia leaf spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "escallonia_leaf_spot": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Escallonia laevis",
+    "display_name": ""
 }

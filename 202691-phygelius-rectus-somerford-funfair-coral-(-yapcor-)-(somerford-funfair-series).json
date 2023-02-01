@@ -94,17 +94,69 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun with shelter from cold drying winds and provide a dry winter mulch",
-        "propagation": "Take softwood cuttings in late spring. Remove rooted suckers in spring and overwinter young plants under glass",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9 or, if grown as a herbaceous perennial, cut back to the base in spring. Deadhead to encourage further flowering",
-        "pests": "Figwort weevil and capsid bug may be a problem",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun with shelter from cold drying winds and provide a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring. Remove rooted suckers in spring and overwinter young plants under glass",
+            "link_names": [
+                "Softwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 or, if grown as a herbaceous perennial, cut back to the base in spring. Deadhead to encourage further flowering",
+            "link_names": [
+                "Pruning group 9",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to figwort weevil and capsid bug",
+            "link_names": [
+                "Figwort weevil",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phygelius × rectus Somerford Funfair Coral ('Yapcor') (Somerford Funfair Series)",
+    "display_name": "Cape figwort [somerford funfair coral]"
 }

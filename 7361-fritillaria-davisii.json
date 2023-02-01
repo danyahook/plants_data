@@ -84,14 +84,50 @@
         "plant_range": "S Greece"
     },
     "how_to_grow": {
-        "cultivation": "Needs a moderately fertile, very well-drained soil and is intolerant of wet when dormant",
-        "propagation": "Propagate from seed, sown in pots in a cold frame in autumn. Needs exposure to winter cold for germination in spring. Divide offsets in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "None required",
-        "pests": "Prone to slugs and lily beetles",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Needs a moderately fertile, very well-drained soil and is intolerant of wet when dormant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed, sown in pots in a cold frame in autumn. Needs exposure to winter cold for germination in spring. Divide offsets in late summer",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs and lily beetles",
+            "link_names": [
+                "Slugs",
+                "Lily beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetles": "https://www.rhs.org.uk/biodiversity/lily-beetle"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Fritillaria davisii",
+    "display_name": "Davis fritillary"
 }

@@ -96,17 +96,53 @@
         "plant_range": "Europe to Kashmir"
     },
     "how_to_grow": {
-        "cultivation": "Any fertile, moist but well-drained soil in sun or partial shade; the delicate flower colour is best preserved in shade",
-        "propagation": "Propagate by seed in containers in a cold frame in spring. Divide in spring or early autumn. Take stem-tip cuttings from new growth after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering to prevent self-seeding and to encourage a second flush of flowers",
-        "pests": "Vulnerable to slugs and snails",
-        "diseases": "Powdery mildew and rust may be problematic"
+        "cultivation": {
+            "text": "Any fertile, moist but well-drained soil in sun or partial shade; the delicate flower colour is best preserved in shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring. Divide in spring or early autumn. Take stem-tip cuttings from new growth after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to prevent self-seeding and to encourage a second flush of flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Vulnerable to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildew and rust may be problematic",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Campanula_latifolia.html",
@@ -153,5 +189,7 @@
             "Petal blight",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Campanula latifolia",
+    "display_name": "Giant bellflower"
 }

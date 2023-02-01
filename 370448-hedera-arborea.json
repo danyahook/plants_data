@@ -102,22 +102,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of most conditions, but prefers a well-drained, fertile soil. Easy to maintain.",
-        "propagation": "Propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning Group 11 as required.",
-        "pests": "May be susceptible to aphids and scale insects.",
-        "diseases": "May be susceptible to leaf spot"
-    }
+        "cultivation": {
+            "text": "Tolerant of most conditions, but prefers a well-drained, fertile soil. Easy to maintain.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning Group 11 as required.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and scale insects.",
+            "link_names": [
+                "Aphids",
+                "Scale insects"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a leaf spot",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hedera arborea",
+    "display_name": "Tree ivy"
 }

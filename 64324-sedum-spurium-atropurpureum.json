@@ -83,23 +83,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained neutral to alkaline soil in full sun",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Mediterranean climate plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Coastal",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Low Maintenance",
-            "Ground cover",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to damage by slugs, snails and vine weevil",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a well-drained neutral to alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Mediterranean climate plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Coastal",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Low Maintenance",
+                "Ground cover",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage by slugs, snails and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sedum spurium 'Atropurpureum'",
+    "display_name": ""
 }

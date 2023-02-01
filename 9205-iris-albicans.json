@@ -88,19 +88,71 @@
         "plant_range": "Saudi Arabia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile, neutral to slightly acidic soil in full sun. Do not cover the rhizomes with mulch, or allow other plants to shade them; sun on the rhizomes encourages flowering. Give a high potash feed in spring and divide every three to four years. See also bearded iris cultivation",
-        "propagation": "Propagate by division of rhizomes after flowering, from midsummer to late summer; for more advice, see dividing irises or propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down old flower stems after flowering, and remove any dying foliage in autumn",
-        "pests": "May be susceptible to iris sawfly, aphids, leaf miners, slugs, snails, and wireworms",
-        "diseases": "May be susceptible to iris rhizome rot, iris leaf spot, scorch, a rust, and virus diseases; for more advice see iris diseases"
+        "cultivation": {
+            "text": "Grow in well-drained, fertile, neutral to slightly acidic soil in full sun. Do not cover the rhizomes with mulch, or allow other plants to shade them; sun on the rhizomes encourages flowering. Give a high potash feed in spring and divide every three to four years. See also bearded iris cultivation",
+            "link_names": [
+                "Mulch",
+                "Bearded iris cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "bearded_iris_cultivation": "https://www.rhs.org.uk/plants/iris/border/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of rhizomes after flowering, from midsummer to late summer; for more advice, see dividing irises or propagate by seed",
+            "link_names": [
+                "Division",
+                "Dividing irises"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "dividing_irises": "https://www.rhs.org.uk/plants/iris/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down old flower stems after flowering, and remove any dying foliage in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to iris sawfly, aphids, leaf miners, slugs, snails, and wireworms",
+            "link_names": [
+                "Iris sawfly",
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "iris_sawfly": "https://www.rhs.org.uk/biodiversity/iris-sawfly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to iris rhizome rot, iris leaf spot, scorch, a rust, and virus diseases; for more advice see iris diseases",
+            "link_names": [
+                "A rust",
+                "Iris diseases"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "iris_diseases": "https://www.rhs.org.uk/disease/iris-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_albicans.html",
@@ -155,5 +207,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Iris albicans",
+    "display_name": "White flag iris"
 }

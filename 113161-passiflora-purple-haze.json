@@ -95,17 +95,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well drained soil in full sun or partial shade",
-        "propagation": "Propagate by semi-ripe cuttings in summer. Layer in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Climber and wall shrubs",
-            "Wall side borders",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 11 or12 if necessary in early spring",
-        "pests": "Maybe susceptible to red spider mite, whiteflies, mealybugs and scale insects",
-        "diseases": "Maybe susceptible to a virus especially cucumber mosaic virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer. Layer in spring or autumn",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Climber and wall shrubs",
+                "Wall side borders",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 or12 if necessary in early spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Maybe susceptible to red spider mite, whiteflies, mealybugs and scale insects",
+            "link_names": [
+                "Red spider mite",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to a virus especially cucumber mosaic virus",
+            "link_names": [
+                "A virus",
+                "Cucumber mosaic virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus"
+            }
+        }
+    },
+    "main_name_original": "Passiflora 'Purple Haze'",
+    "display_name": "Passion flower 'purple haze'"
 }

@@ -94,17 +94,67 @@
         "plant_range": "China, N India"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, rich, moist, but well-drained soil in full sun",
-        "propagation": "Propagate by seed at 13-18°C (55-64°F) in spring. Propagate by suckers in autumn or spring. Alternatively, propagate by taking semi-ripe cuttings with bottom heat in summer. Root cuttings can be taken in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, rich, moist, but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at 13-18°C (55-64°F) in spring. Propagate by suckers in autumn or spring. Alternatively, propagate by taking semi-ripe cuttings with bottom heat in summer. Root cuttings can be taken in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, glasshouse red spider mite and glasshouse whitefly",
+            "link_names": [
+                "Mealybugs",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Clerodendrum foetidum",
+    "display_name": "Glory flower"
 }

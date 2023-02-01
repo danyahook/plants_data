@@ -89,15 +89,55 @@
         "plant_range": "Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in almost any garden soil but may spread rapidly in fertile soil and will need staking; prefers an open sunny position but will tolerate light shade",
-        "propagation": "Propagate by seed, soaked in warm water overnight, in containers in a cold frame in spring or by division in spring or late autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowered stems to prevent self-seeding",
-        "pests": "Pea and bean weevil and aphids may be troublesome",
-        "diseases": "May be affected by powdery mildews"
+        "cultivation": {
+            "text": "Easy to grow in almost any garden soil but may spread rapidly in fertile soil and will need staking; prefers an open sunny position but will tolerate light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, soaked in warm water overnight, in containers in a cold frame in spring or by division in spring or late autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Pea and bean weevil and aphids may be troublesome",
+            "link_names": [
+                "Pea and bean weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "pea_and_bean_weevil": "https://www.rhs.org.uk/biodiversity/pea-and-bean-weevils",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Galega_orientalis.html",
@@ -137,5 +177,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Galega orientalis",
+    "display_name": "Oriental goat's rue"
 }

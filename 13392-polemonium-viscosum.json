@@ -90,16 +90,50 @@
         "plant_range": "Canada to USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Gravel garden",
-            "Patio and container plants"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble free",
-        "diseases": "Generally disease-free but may be affected by powdery mildews"
+        "cultivation": {
+            "text": "Grow in any moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Gravel garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polemonium_viscosum.html",
@@ -135,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Polemonium viscosum",
+    "display_name": "Sticky jacob's ladder"
 }

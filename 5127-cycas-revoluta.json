@@ -90,15 +90,49 @@
         "plant_range": "S Japan, China"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam-based potting compost with additional leaf mould and grit; provide full light with shade from hot sun and moderate humidity. Water moderately in the growing season, sparingly at other times. Alternatively in frost free areas, grow in a moist but well-drained soil in bright light with some protection from full sun",
-        "propagation": "Propagate by seed or suckers",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free outdoors, but may be susceptible to glasshouse red spider mite under glass",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow under glass in a loam-based potting compost with additional leaf mould and grit; provide full light with shade from hot sun and moderate humidity. Water moderately in the growing season, sparingly at other times. Alternatively in frost free areas, grow in a moist but well-drained soil in bright light with some protection from full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or suckers",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free outdoors, but may be susceptible to glasshouse red spider mite under glass",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cycas_revoluta.html",
@@ -166,5 +200,7 @@
             "Leaf scorch",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Cycas revoluta",
+    "display_name": "Japanese sago palm"
 }

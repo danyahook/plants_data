@@ -97,18 +97,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun; can die back in heavy, poorly-drained soil",
-        "propagation": "Propagate by division in autumn or spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Prairie planting",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to base of plant in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun; can die back in heavy, poorly-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Prairie planting",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to base of plant in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Artemisia 'Valerie Finnis'",
+    "display_name": "Western mugwort 'valerie finnis'"
 }

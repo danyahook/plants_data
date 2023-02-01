@@ -83,16 +83,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil enriched with leaf mould or well-rotted organic matter",
-        "propagation": "Propagate by separating offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove seedheads unless required and cut down stems once foliage dies down",
-        "pests": "May be affected by lily beetle, aphids and slugs; plants in pots are vulnerable to vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil enriched with leaf mould or well-rotted organic matter",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by separating offsets after the foliage dies down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove seedheads unless required and cut down stems once foliage dies down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by lily beetle, aphids and slugs; plants in pots are vulnerable to vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Grey moulds and a virus may cause problems. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium 'Slate's Select' (II)",
+    "display_name": "Lily 'slate's select'"
 }

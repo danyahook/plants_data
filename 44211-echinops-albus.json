@@ -102,16 +102,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best in poor, well-drained soil in full sun but will tolerate most soils and partial shade",
-        "propagation": "Propagate by seed sown in seed bed in mid spring, by division in spring or autumn, or by root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prevent self-seeding and cut to the ground in autumn",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Best in poor, well-drained soil in full sun but will tolerate most soils and partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in seed bed in mid spring, by division in spring or autumn, or by root cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prevent self-seeding and cut to the ground in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Echinops albus",
+    "display_name": "Globe thistle 'nivalis'"
 }

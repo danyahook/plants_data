@@ -96,16 +96,61 @@
         "plant_range": "Indochina, Vietnam"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or in frost-free enviroment. Requires high humidity, branches become woody at base",
-        "propagation": "Propagate by stem tip cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Sub-tropical",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in any deep fertile soil. For more information, see our advice on tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer or seed. For more advice see our information on how to propagate from seed (tree/shrub",
+            "link_names": [
+                "Semi-ripe",
+                "Propagate from seed (tree/shrub"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to arbutus leaf spot and honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pilea_cadierei.html",
@@ -153,5 +198,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Arbutus xalapensis",
+    "display_name": "Texas madrone"
 }

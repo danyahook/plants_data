@@ -99,17 +99,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich moist but well-drained soil. Best in partial shade but tolerant of full sun",
-        "propagation": "Softwood, semi-ripe or leaf bud cuttings from late spring to late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 11",
-        "pests": "Aphids, especially honeysuckle aphid and thrips may be a problem",
-        "diseases": "Fungal leaf spot and powdery mildew can cause leaf drop"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich moist but well-drained soil. Best in partial shade but tolerant of full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Softwood, semi-ripe or leaf bud cuttings from late spring to late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, fungal leaf spot, silver leaf and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lonicera × brownii 'Fuchsioides' misapplied",
+    "display_name": "Honeysuckle 'dropmore scarlet'"
 }

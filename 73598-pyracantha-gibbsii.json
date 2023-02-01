@@ -97,16 +97,64 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in fertile soil in sun or partial shade. Best sheltered from cold drying winds",
-        "propagation": "Propagate by semi-ripe cuttings from late-spring onwards or propagate by seed. Extract seeds from berries in autumn, sow and keep in cold frame. Seeds need about three months of cold stratification before they germinate.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Hedging and screens",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1. On wall-trained plants after flowering in mid-summer, shorten lateral shoots to 2-3 leaves from the base to expose the developing berries",
-        "pests": "Can get aphids, woolly aphid, caterpillars, brown scale and leaf-mining moths",
-        "diseases": "May be affected by fireblight and scab"
-    }
+        "cultivation": {
+            "text": "Easy to grow in fertile soil in sun or partial shade. Best sheltered from cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings from late-spring onwards or propagate by seed. Extract seeds from berries in autumn, sow and keep in cold frame. Seeds need about three months of cold stratification before they germinate.",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Hedging and screens",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. On wall-trained plants after flowering in mid-summer, shorten lateral shoots to 2-3 leaves from the base to expose the developing berries",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, caterpillars, brown scale and leaf-mining moths",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Brown scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pyracantha scab, honey fungus and fireblight",
+            "link_names": [
+                "Honey fungus",
+                "Fireblight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight"
+            }
+        }
+    },
+    "main_name_original": "Pyracantha gibbsii",
+    "display_name": "Gibbs' firethorn"
 }

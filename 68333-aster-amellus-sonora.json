@@ -94,18 +94,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moisture retentive but well drained soil in full sun.",
-        "propagation": "Propagate by division or basal cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Coastal",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs, snails, leaf and bud eelworms and aphids",
-        "diseases": "May be susceptible to fusarium wilt, grey moulds and leaf spot. Mildew resistant,"
-    }
+        "cultivation": {
+            "text": "Grow in moisture retentive but well drained soil in full sun.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or basal cuttings",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Coastal",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails, leaf and bud eelworms and aphids",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Leaf and bud eelworms",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fusarium wilt, grey moulds and leaf spot. Mildew resistant,",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster amellus 'Sonora'",
+    "display_name": ""
 }

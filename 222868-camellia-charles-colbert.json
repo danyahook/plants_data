@@ -86,16 +86,80 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Prefers acidic soil with plenty of organic matter and good drainage. Position in light shade, and shelter from cold, dry winds and early morning sun, as buds and flowers may be damaged by cold winds and late frosts. See camellia cultivation for more detailed advice",
-        "propagation": "Propagate by semi-hardwood cuttings in late summer, or by grafting in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8 (evergreens), after flowering",
-        "pests": "May be susceptible to aphids, scale insects and vine weevils",
-        "diseases": "May be susceptible to honey fungus, phytophthora root rot, camellia gall, camellia leaf blight, and camellia yellow mottle virus. Flowers may be infected by camellia petal blight"
-    }
+        "cultivation": {
+            "text": "Prefers acidic soil with plenty of organic matter and good drainage. Position in light shade, and shelter from cold, dry winds and early morning sun, as buds and flowers may be damaged by cold winds and late frosts. See camellia cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Camellia cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "camellia_cultivation": "https://www.rhs.org.uk/plants/camellia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in late summer, or by grafting in late winter",
+            "link_names": [
+                "Semi-hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 (evergreens), after flowering",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and vine weevils",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, phytophthora root rot, camellia gall, camellia leaf blight, and camellia yellow mottle virus. Flowers may be infected by camellia petal blight",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Camellia gall",
+                "Camellia leaf blight",
+                "Camellia yellow mottle virus",
+                "Camellia petal blight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "camellia_gall": "https://www.rhs.org.uk/disease/camellia-gall",
+                "camellia_leaf_blight": "https://www.rhs.org.uk/disease/camellia-leaf-blight",
+                "camellia_yellow_mottle_virus": "https://www.rhs.org.uk/disease/camellia-viruses",
+                "camellia_petal_blight": "https://www.rhs.org.uk/disease/camellia-flower-blight"
+            }
+        }
+    },
+    "main_name_original": "Camellia 'Charles Colbert'",
+    "display_name": ""
 }

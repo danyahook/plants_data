@@ -90,15 +90,49 @@
         "plant_range": "SE USA"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in a woodland setting in sun or partial shade. Suckering habit can help stabilise banks and slopes",
-        "propagation": "Propagate by softwood cuttings, or separate suckers in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows well in a woodland setting in sun or partial shade. Suckering habit can help stabilise banks and slopes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings, or separate suckers in late winter",
+            "link_names": [
+                "Softwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Diervilla_sessilifolia.html",
@@ -139,5 +173,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Diervilla sessilifolia",
+    "display_name": "Bush honeysuckle"
 }

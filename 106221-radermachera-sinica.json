@@ -80,14 +80,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in multipurpose compost, with additional sand or perlite to improve drainage, with bright, indirect light, in a warm environment. Avoid moving plants, or making other environmental changes, which can lead to leaf drop",
-        "propagation": "Propagate by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pinch out shoot tips of young plants to encourage branching; older plants may be cut back to keep within bounds",
-        "pests": "May be susceptible to aphids, mealybugs, scale insects and glasshouse red spider mite",
-        "diseases": "May be susceptible to root rot if kept too moist"
+        "cultivation": {
+            "text": "Grow in multipurpose compost, with additional sand or perlite to improve drainage, with bright, indirect light, in a warm environment. Avoid moving plants, or making other environmental changes, which can lead to leaf drop",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out shoot tips of young plants to encourage branching; older plants may be cut back to keep within bounds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, mealybugs, scale insects and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Mealybugs",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot if kept too moist",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Radermachera_sinica.html",
@@ -144,5 +182,7 @@
             "Nutrient deficiencies",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Radermachera sinica",
+    "display_name": "Asian bell tree"
 }

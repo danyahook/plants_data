@@ -87,17 +87,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, fertile soil, preferably in partial shade, but may also grow in sun or full shade",
-        "propagation": "Propagate by division in early spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required except cutting back after flowering",
-        "pests": "Generally pest-free but may be affected by blackfly (black aphids) and aruncus sawfly larvae",
-        "diseases": "Generally disease-free but may be affected by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moist, fertile soil, preferably in partial shade, but may also grow in sun or full shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required except cutting back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by blackfly (black aphids) and aruncus sawfly larvae",
+            "link_names": [
+                "Aruncus sawfly"
+            ],
+            "related_links": {
+                "aruncus_sawfly": "https://www.rhs.org.uk/biodiversity/aruncus-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Aruncus 'Sparkles'",
+    "display_name": "Goat's beard 'sparkles'"
 }

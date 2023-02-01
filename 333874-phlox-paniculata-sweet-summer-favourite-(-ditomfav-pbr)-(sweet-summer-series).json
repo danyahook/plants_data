@@ -90,15 +90,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist soil in full sun or partial shade",
-        "propagation": "Propagate by division in spring or autumn, by softwood basal cuttings in spring, or by root cuttings in autumn or winter. As this plant is protected by Plant Breeders Rights, any propagation should be for personal rather than commercial use",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering, then cut down to the base in late autumn",
-        "pests": "May be susceptible to stem and bulb eelworms",
-        "diseases": "May be susceptible to powdery mildews, leafy gall and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn, by softwood basal cuttings in spring, or by root cuttings in autumn or winter. As this plant is protected by Plant Breeders Rights, any propagation should be for personal rather than commercial use",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering, then cut down to the base in late autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to stem and bulb eelworms",
+            "link_names": [
+                "Stem and bulb eelworms"
+            ],
+            "related_links": {
+                "stem_and_bulb_eelworms": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, leafy gall and leaf spot",
+            "link_names": [
+                "Powdery mildews",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
+    },
+    "main_name_original": "Phlox paniculata Sweet Summer Favourite ('Ditomfav'PBR) (Sweet Summer Series)",
+    "display_name": "Phlox 'magical favourite'"
 }

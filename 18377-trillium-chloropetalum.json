@@ -83,16 +83,60 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in moist but well drained, humus rich, neutral to acidic soil in light shade, though will tolerate full shade. Mulch annually in autumn, ideally with leaf mould. Ideal for woodland or underplanting. See trillium cultivation",
-        "propagation": "Propagate by seed, sown in pots in a shady cold frame as soon as seed is ripe; takes 5-7 years to reach flowering size. Propagate by division of rhizomes after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, slugs and snails",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Thrives in moist but well drained, humus rich, neutral to acidic soil in light shade, though will tolerate full shade. Mulch annually in autumn, ideally with leaf mould. Ideal for woodland, or underplanting where they will not be overwhelmed by other plants. See trillium cultivation",
+            "link_names": [
+                "Mulch",
+                "Trillium cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "trillium_cultivation": "https://www.rhs.org.uk/plants/trillium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a shady cold frame as soon as seed is ripe; may take several years to reach flowering size. Propagate by division of rhizomes (root cuttings) after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Trillium_chloropetalum.html",
@@ -141,5 +185,7 @@
             "Plant dried up",
             "Leaf miners"
         ]
-    }
+    },
+    "main_name_original": "Trillium chloropetalum",
+    "display_name": "Giant wakerobin"
 }

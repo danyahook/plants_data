@@ -91,20 +91,60 @@
         "plant_range": "Bosnia-Hercegovina"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, well-drained gritty compost in full sun. Ideal for alpine troughs, sinks and scree/gravel gardens",
-        "propagation": "Propagate by seed in a cold frame from autumn to early spring or take cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids and slugs",
-        "diseases": "May be susceptible to Fusarium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in moist, well-drained gritty compost in full sun. Ideal for alpine troughs, sinks and scree/gravel gardens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in a cold frame from autumn to early spring or take cuttings in summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Fusarium wilt",
+            "link_names": [
+                "Fusarium wilt"
+            ],
+            "related_links": {
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts"
+            }
+        }
+    },
+    "main_name_original": "Dianthus freynii",
+    "display_name": ""
 }

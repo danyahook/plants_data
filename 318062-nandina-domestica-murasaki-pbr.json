@@ -98,18 +98,58 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well-drained soil in a sheltered position in full sun",
-        "propagation": "Propagat by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in a moist but well-drained soil in a sheltered position in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagat by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a virus",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Nandina domestica 'Murasaki'PBR",
+    "display_name": "Sacred bamboo [flirt]"
 }

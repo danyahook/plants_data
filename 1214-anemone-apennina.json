@@ -85,22 +85,60 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained humus-rich soil in sun or part shade. Drier conditions are tolerated in summer when dormant. Ideal for naturalising in a variety of situations.",
-        "propagation": "Propagate by seed sown thinly as soon as they are ripe. Divide when dormant or as the leaves die down. Cut rhizomes into sections with at least one bud and replant immediately before they dry out.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to damage from caterpillars and slugs. Susceptible to leaf eelworms.",
-        "diseases": "Leaf spot and powdery mildews can be problematic"
+        "cultivation": {
+            "text": "Grow in moist but well-drained humus-rich soil in sun or part shade. Drier conditions are tolerated in summer when dormant. Ideal for naturalising in a variety of situations.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown thinly as soon as they are ripe. Divide when dormant or as the leaves die down. Cut rhizomes into sections with at least one bud and replant immediately before they dry out.",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to damage from caterpillars and slugs. Susceptible to leaf eelworms.",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Leaf spot and powdery mildews can be problematic",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anemone_apennina.html",
@@ -154,5 +192,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Anemone apennina",
+    "display_name": "Blue anemone"
 }

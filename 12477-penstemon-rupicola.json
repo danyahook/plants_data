@@ -100,16 +100,58 @@
         "plant_range": "W North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, very gritty, well-drained soil in full sun. The plant illustrated here is the cultivar 'Diamond Lake'",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour. Then cut back to base in early spring",
-        "pests": "May be attacked by slugs, snails, glasshouse red spider mite, and leaf and bud eelworms",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, very gritty, well-drained soil in full sun. The plant illustrated here is the cultivar 'Diamond Lake'",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour. Then cut back to base in early spring",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, glasshouse red spider mite, and leaf and bud eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse red spider mite",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Penstemon_rupicola.html",
@@ -143,5 +185,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Penstemon rupicola",
+    "display_name": "Rock penstemon"
 }

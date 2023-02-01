@@ -92,18 +92,78 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun, in well-drained, humus-rich soil, preferably neutral to slightly alkaline, mulch to keep soil moist",
-        "propagation": "Propagate by layering in autumn or hardwood cuttings in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Edible fruit",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 in midwinter, and in midsummer to restrict growth if necessary",
-        "pests": "May be susceptible to grapevine blister mite, glasshouse red spider mite, brown scale, woolly vine scale and spotted wing drosophila (fruit fly)",
-        "diseases": "May be susceptible to Powdery mildews, grey moulds, honey fungus and virus diseases"
+        "cultivation": {
+            "text": "Grow in full sun, in well-drained, humus-rich soil, preferably neutral to slightly alkaline, mulch to keep soil moist",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering in autumn or hardwood cuttings in late winter",
+            "link_names": [
+                "Layering",
+                "Hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Edible fruit",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 in midwinter, and in midsummer to restrict growth if necessary",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to grapevine blister mite, glasshouse red spider mite, brown scale, woolly vine scale and spotted wing drosophila (fruit fly)",
+            "link_names": [
+                "Grapevine blister mite",
+                "Glasshouse red spider mite",
+                "Brown scale",
+                "Woolly vine scale",
+                "Spotted wing drosophila"
+            ],
+            "related_links": {
+                "grapevine_blister_mite": "https://www.rhs.org.uk/biodiversity/grapevine-blister-mite",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "woolly_vine_scale": "https://www.rhs.org.uk/biodiversity/woolly-vine-or-currant-scale",
+                "spotted_wing_drosophila": "https://www.rhs.org.uk/biodiversity/spotted-wing-drosophila"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, grey moulds, honey fungus and virus diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Vitis_vinifera__Brant_.html",
@@ -135,5 +195,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Vitis vinifera 'Brant'",
+    "display_name": "Grape 'brant'"
 }

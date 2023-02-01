@@ -88,19 +88,93 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in full sun, in well-drained, humus-rich soil, preferably neutral to slightly alkaline, mulch to keep soil moist, and provide support; for more advice, see outdoor grape cultivation. Grow indoors in a greenhouse to produce a good crop in cold areas, for detailed advice see indoor grape cultivation",
-        "propagation": "Propagate by hardwood cuttings in late autumn or winter, or by softwood cuttings or semi-ripe cuttings from late spring to midsummer or grafting onto Phylloxera resistant rootstocks",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Climber and wall shrubs",
-            "Edible fruit",
-            "Wall side borders",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning is required to encourage flowering and fruiting, and to increase air circulation and so reduce the risk of disease: see grape pruning and training",
-        "pests": "May be susceptible to grapevine blister mite, glasshouse red spider mite, brown scale, woolly vine scale and spotted wing drosophila (fruit fly) and may be susceptible to mealybugs under glass",
-        "diseases": "May be susceptible to Powdery mildews, grey moulds, honey fungus and virus diseases. For further advice see grapevine diseases"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in full sun, in well-drained, humus-rich soil, preferably neutral to slightly alkaline, mulch to keep soil moist, and provide support; for more advice, see outdoor grape cultivation. Grow indoors in a greenhouse to produce a good crop in cold areas, for detailed advice see indoor grape cultivation",
+            "link_names": [
+                "Mulch",
+                "Outdoor grape cultivation",
+                "Indoor grape cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "outdoor_grape_cultivation": "https://www.rhs.org.uk/fruit/grapes/outdoor-cultivation",
+                "indoor_grape_cultivation": "https://www.rhs.org.uk/fruit/grapes/indoor-cultivation"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in late autumn or winter, or by softwood cuttings or semi-ripe cuttings from late spring to midsummer or grafting onto Phylloxera resistant rootstocks",
+            "link_names": [
+                "Hardwood",
+                "Softwood",
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Climber and wall shrubs",
+                "Edible fruit",
+                "Wall side borders",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning is required to encourage flowering and fruiting, and to increase air circulation and so reduce the risk of disease: see grape pruning and training",
+            "link_names": [
+                "Grape pruning"
+            ],
+            "related_links": {
+                "grape_pruning": "https://www.rhs.org.uk/fruit/grapes/pruning-training"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to grapevine blister mite, glasshouse red spider mite, brown scale, woolly vine scale and spotted wing drosophila (fruit fly) and may be susceptible to mealybugs under glass",
+            "link_names": [
+                "Grapevine blister mite",
+                "Glasshouse red spider mite",
+                "Brown scale",
+                "Woolly vine scale",
+                "Spotted wing drosophila",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "grapevine_blister_mite": "https://www.rhs.org.uk/biodiversity/grapevine-blister-mite",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "woolly_vine_scale": "https://www.rhs.org.uk/biodiversity/woolly-vine-or-currant-scale",
+                "spotted_wing_drosophila": "https://www.rhs.org.uk/biodiversity/spotted-wing-drosophila",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, grey moulds, honey fungus and virus diseases. For further advice see grapevine diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus",
+                "Virus diseases",
+                "Grapevine diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "grapevine_diseases": "https://www.rhs.org.uk/disease/grapevine-diseases"
+            }
+        }
+    },
+    "main_name_original": "Vitis 'Léon Millot' (O/G/B)",
+    "display_name": "Grape 'léon millot'"
 }

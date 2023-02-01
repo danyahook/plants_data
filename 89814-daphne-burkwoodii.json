@@ -89,17 +89,75 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, well-drained but not dry soil in sun or partial shade. Mulch to keep roots cool. Daphnes resent transplanting. Further daphne cultivation advice",
-        "propagation": "Take nodal stem-tip greenwood cuttings and semi-ripe cuttings just as the base begins to firm up. Hormone rooting compound, a free-draining compost and bottom heat of 15°C (59°F) will improve rooting. Layering of shoots take a year to become well rooted. Daphnes may be propagated by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 8; keep pruning to a minimum",
-        "pests": "Aphids and scale insects may be troublesome",
-        "diseases": "May be affected by grey moulds, leaf spot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, well-drained but not dry soil in sun or partial shade. Mulch to keep roots cool. Daphnes resent transplanting. Further daphne cultivation advice",
+            "link_names": [
+                "Mulch",
+                "Daphne cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "daphne_cultivation": "https://www.rhs.org.uk/plants/daphne/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Take nodal stem-tip greenwood cuttings and semi-ripe cuttings just as the base begins to firm up. Hormone rooting compound, a free-draining compost and bottom heat of 15°C (59°F) will improve rooting. Layering of shoots take a year to become well rooted. Daphnes may be propagated by grafting",
+            "link_names": [
+                "Greenwood",
+                "Semi-ripe",
+                "Layering",
+                "Grafting"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 8; keep pruning to a minimum",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Daphne × burkwoodii",
+    "display_name": "Burkwood daphne"
 }

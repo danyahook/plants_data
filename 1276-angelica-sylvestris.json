@@ -97,20 +97,60 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Prefers deep, moist, fertile, loamy soil in full sun, but will tolerate a range of conditions",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe; do not cover as seeds require light to germinate. Transplant seedlings while small; larger plants resent disturbance.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Flowering stems can be cut down in autumn, or leave as winter skeletons and remove in spring",
-        "pests": "Susceptible to aphids, leaf miners, slugs and snails",
-        "diseases": "Powdery mildews can be a problem in dry summers"
+        "cultivation": {
+            "text": "Prefers deep, moist, fertile, loamy soil in full sun, but will tolerate a range of conditions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe; do not cover as seeds require light to germinate. Transplant seedlings while small; larger plants resent disturbance.",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Flowering stems can be cut down in autumn, or leave as winter skeletons and remove in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to aphids, leaf miners, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews can be a problem in dry summers",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Angelica_sylvestris.html",
@@ -151,5 +191,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Angelica sylvestris",
+    "display_name": "Wild angelica"
 }

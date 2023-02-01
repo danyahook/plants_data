@@ -98,14 +98,80 @@
         "plant_range": "Europe, N Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an acidic or neutral soil and mulch with acidic material such as composted bark. See Raspberry cultivation",
-        "propagation": "Choose disease-free stock for propagation. Propagate by softwood cuttings or semi-ripe cuttings from spring to midsummer, hardwood cuttings in winter, root cuttings in autumn and winter, leaf bud cuttings in mid to late summer, division from autumn to early spring and layering from late summer to early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Remove all fruited canes down to ground level in early to mid autumn",
-        "pests": "Can get aphids, glasshouse red spider mite, raspberry leaf and bud mite, leafhoppers and raspberry beetle",
-        "diseases": "May be affected by powdery mildews, raspberry cane blight, raspberry rust, raspberry spur blight or raspberry viruses"
+        "cultivation": {
+            "text": "Grow in an acidic or neutral soil and mulch with acidic material such as composted bark. See Raspberry cultivation",
+            "link_names": [
+                "Mulch",
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Choose disease-free stock for propagation. Propagate by softwood cuttings or semi-ripe cuttings from spring to midsummer, hardwood cuttings in winter, root cuttings in autumn and winter, leaf bud cuttings in mid to late summer, division from autumn to early spring and layering from late summer to early spring",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood",
+                "Root cuttings",
+                "Division",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove all fruited canes down to ground level in early to mid autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, glasshouse red spider mite, raspberry leaf and bud mite, leafhoppers and raspberry beetle",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Raspberry leaf and bud mite",
+                "Raspberry beetle"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "raspberry_leaf_and_bud_mite": "https://www.rhs.org.uk/biodiversity/raspberry-leaf-and-bud-mite",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews, raspberry cane blight, raspberry rust, raspberry spur blight or raspberry viruses",
+            "link_names": [
+                "Powdery mildews",
+                "Raspberry cane blight",
+                "Raspberry rust",
+                "Raspberry spur blight",
+                "Raspberry viruses"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "raspberry_cane_blight": "https://www.rhs.org.uk/disease/raspberry-cane-blight",
+                "raspberry_rust": "https://www.rhs.org.uk/disease/raspberry-rust",
+                "raspberry_spur_blight": "https://www.rhs.org.uk/disease/raspberry-spur-blight",
+                "raspberry_viruses": "https://www.rhs.org.uk/disease/raspberry-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rubus_idaeus.html",
@@ -174,5 +240,7 @@
             "Leaf rot",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Rubus idaeus",
+    "display_name": "Common raspberry"
 }

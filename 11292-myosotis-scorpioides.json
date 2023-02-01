@@ -99,16 +99,52 @@
         "plant_range": "Temp. N. Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow in wet soil at pool margins, in water no deeper than 10cm, in full sun or partial shade",
-        "propagation": "Propagate by seed sown in-situ, or by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Wildflower meadow",
-            "Low Maintenance"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Plants are susceptible to powdery mildews and a downy mildew"
+        "cultivation": {
+            "text": "Grow in wet soil at pool margins, in water no deeper than 10cm, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in-situ, or by division in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Wildflower meadow",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Plants are susceptible to powdery mildews and a downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Myosotis_scorpioides.html",
@@ -156,5 +192,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Myosotis scorpioides",
+    "display_name": "Water forget-me-not"
 }

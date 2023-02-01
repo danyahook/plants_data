@@ -87,16 +87,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, lime-free, well-drained soil. The best autumn colour is achieved when grown in full sun",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest free",
-        "diseases": "Fireblight may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in moist, lime-free, well-drained soil. The best autumn colour is achieved when grown in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Amelanchier 'La Paloma'",
+    "display_name": "Serviceberry 'la paloma'"
 }

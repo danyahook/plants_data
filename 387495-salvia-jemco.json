@@ -87,18 +87,60 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well drained soil in full sun with shelter from cold, drying winds",
-        "propagation": "Propagate from softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back if required in late spring when the risk of frost has passed",
-        "pests": "Generally trouble free but may be subject to white fly, red spider mite and aphid attack",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in a well drained soil in full sun with shelter from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back if required in late spring when the risk of frost has passed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free but may be subject to white fly, red spider mite and aphid attack",
+            "link_names": [
+                "Red spider mite"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Jemco'",
+    "display_name": "Sage [jemima’s gem]"
 }

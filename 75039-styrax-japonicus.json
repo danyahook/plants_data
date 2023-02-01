@@ -91,14 +91,46 @@
         "plant_range": "Japan & Korea"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moist, humus-rich, fertile soils but shelter from cold drying winds",
-        "propagation": "Propagate from softwood cuttings in summer or propagate by seed sown fresh at 15°C reducing the temperature to 0 to 5°C after 3 months",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Easy to grow in moist, humus-rich, fertile soils but shelter from cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from softwood cuttings in summer or propagate by seed sown fresh at 15°C reducing the temperature to 0 to 5°C after 3 months",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Styrax_japonicus.html",
@@ -178,5 +210,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Styrax japonicus",
+    "display_name": "Japanese snowbell"
 }

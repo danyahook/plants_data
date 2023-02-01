@@ -88,15 +88,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in a fertile, moist well-drained soil",
-        "propagation": "Propagate by division in autumn or spring. Propagate by basal cuttings in spring or propagate by root cuttings in early autumn or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering, cut down in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Thrives in a fertile, moist well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring. Propagate by basal cuttings in spring or propagate by root cuttings in early autumn or winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering, cut down in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Phlox paniculata 'Becky Towe'PBR (v)",
+    "display_name": "Perennial phlox 'becky towe'"
 }

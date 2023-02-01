@@ -85,15 +85,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich, well-drained neutral to acid soil in sun or partial shade with shelter from cold winds. Late frosts may damage flower buds",
-        "propagation": "Propagate by softwood or greenwood cuttings from late spring to early summer or semi-hardwood cuttings from late summer to autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Magnolia pruning should be carried out in midsummer when in full leaf",
-        "pests": "May be damaged by horse chestnut scale, capsid bug and snails",
-        "diseases": "May be affected by coral spot, grey mould, honey fungus, a virus, fungal leaf spot or iron deficiency and lime-induced chlorosis"
-    }
+        "cultivation": {
+            "text": "Grow in moist, humus-rich, well-drained neutral to acid soil in sun or partial shade with shelter from cold winds. Late frosts may damage flower buds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or greenwood cuttings from late spring to early summer or semi-hardwood cuttings from late summer to autumn",
+            "link_names": [
+                "Softwood",
+                "Greenwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Magnolia pruning should be carried out in midsummer when in full leaf",
+            "link_names": [
+                "Magnolia pruning"
+            ],
+            "related_links": {
+                "magnolia_pruning": "https://www.rhs.org.uk/plants/magnolia/growing-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, horse chestnut scale and capsid bug",
+            "link_names": [
+                "Scale insects",
+                "Capsid bug"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot, phytophthora, grey moulds, honey fungus, a virus or fungal leaf spot",
+            "link_names": [
+                "Coral spot",
+                "Phytophthora",
+                "Grey moulds",
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Magnolia 'Susan'",
+    "display_name": "Magnolia 'susan'"
 }

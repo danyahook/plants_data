@@ -86,15 +86,53 @@
         "plant_range": "SW China"
     },
     "how_to_grow": {
-        "cultivation": "Prefers deep, humus-rich, permanently moist soil in full sun. Benefits from mulching with organic matter in spring",
-        "propagation": "Propagate by division in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead spent flower spikes",
-        "pests": "Generally trouble-free but may suffer from blackfly (black aphids)",
-        "diseases": "Generally trouble-free"
-    }
+        "cultivation": {
+            "text": "Prefers deep, humus-rich, permanently moist soil in full sun. Benefits from mulching with organic matter in spring",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flower spikes",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble-free but may suffer from blackfly (black aphids)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rheum alexandrae",
+    "display_name": "Alexander's rhubarb"
 }

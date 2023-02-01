@@ -94,18 +94,75 @@
         "plant_range": "Temp S Africa"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in a frost-free environment, in well-drained fertile neutral to alkaline soil, preferably in full sun but will tolerate some partial shade, in borders or containers. Irrigate moderately from spring to summer, and sparingly in winter allowing the compost to dry up between waterings. Apply a balanced liquid fertilizer during the growing season and switch to a high potassium fertilizer when flowering starts. Overwinter in containers before the first frost in autumn. See Pelargonium cultivation for further advice.",
-        "propagation": "Propagate from softwood cuttings from spring to autumn.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pinch back tips of shoots in spring or early summer and deadhead to promote flowering.",
-        "pests": "May be susceptible to Thrips, vine weevil, Leafhopper, Root mealybugs, Whitefly.",
-        "diseases": "May be susceptible to Pelargonium rust, Pelargonium virus, Leafy gall."
-    }
+        "cultivation": {
+            "text": "Will grow well in a frost-free environment, in well-drained fertile neutral to alkaline soil, preferably in full sun but will tolerate some partial shade, in borders or containers. Irrigate moderately from spring to summer, and sparingly in winter allowing the compost to dry up between waterings. Apply a balanced liquid fertilizer during the growing season and switch to a high potassium fertilizer when flowering starts. Overwinter in containers before the first frost in autumn. See Pelargonium cultivation for further advice.",
+            "link_names": [
+                "Containers",
+                "Containers",
+                "Pelargonium cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "pelargonium_cultivation": "https://www.rhs.org.uk/plants/pelargonium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from softwood cuttings from spring to autumn.",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch back tips of shoots in spring or early summer and deadhead to promote flowering.",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Thrips, vine weevil, Leafhopper, Root mealybugs, Whitefly.",
+            "link_names": [
+                "Thrips",
+                "Vine weevil",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Pelargonium rust, Pelargonium virus, Leafy gall.",
+            "link_names": [
+                "Pelargonium rust",
+                "Pelargonium virus",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "pelargonium_rust": "https://www.rhs.org.uk/disease/pelargonium-rust",
+                "pelargonium_virus": "https://www.rhs.org.uk/problems/pelargonium-viruses",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
+    },
+    "main_name_original": "Pelargonium papilionaceum",
+    "display_name": "Butterfly geranium"
 }

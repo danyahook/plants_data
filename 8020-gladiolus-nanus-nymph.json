@@ -84,19 +84,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 10 to 16cm deep in fertile, well-drained soil preferably in full sun. Lift when foliage dies back, discard old corms and store new corms in a dry, frost-free place until planting in the spring. In milder areas a thick, dry winter mulch may suffice",
-        "propagation": "Propagte by separating cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove spent flower stems and allow foliage to die down naturally",
-        "pests": "May be affected by thrips, aphids and slugs",
-        "diseases": "Gladiolus corm rot and grey moulds (botrytis) sometimes cause problems"
+        "cultivation": {
+            "text": "Plant 10 to 16cm deep in fertile, well-drained soil preferably in full sun. Lift when foliage dies back, discard old corms and store new corms in a dry, frost-free place until planting in the spring. In milder areas a thick, dry winter mulch may suffice",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagte by separating cormlets when dormant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flower stems and allow foliage to die down naturally",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gladiolus thrip, aphids and slugs",
+            "link_names": [
+                "Gladiolus thrip",
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "gladiolus_thrip": "https://www.rhs.org.uk/biodiversity/gladiolus-thrips",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to gladiolus corm rot, grey moulds (Botrytis), Fusarium bulb rot, gladiolus core rot, gladiolus dry rot, gladiolus scab and neck rot, fungal leaf spot, and virus diseases",
+            "link_names": [
+                "Grey moulds",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gladiolus_nanus__Nymph_.html",
@@ -129,5 +171,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Gladiolus nanus 'Nymph'",
+    "display_name": "Sword lily 'nymph'"
 }

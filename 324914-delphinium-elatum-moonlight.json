@@ -90,18 +90,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun. Shelter from strong winds and provide support (see staking: perennials). Divide every 2-5 years to maintain vigour",
-        "propagation": "Propagate by division or by basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Deadhead main stem after flowering to encourage side shoots to flower. Cut back to ground level in autumn",
-        "pests": "May be susceptible to aphids, slugs, snails, leaf miners and caterpillars",
-        "diseases": "May be susceptible to delphinium black blotch, Powdery mildews, grey moulds, crown rot (on mature plants)"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun. Shelter from strong winds and provide support (see staking: perennials). Divide every 2-5 years to maintain vigour",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by basal softwood cuttings in spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead main stem after flowering to encourage side shoots to flower. Cut back to ground level in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs, snails, leaf miners and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to delphinium black blotch, Powdery mildews, grey moulds, crown rot (on mature plants)",
+            "link_names": [
+                "Delphinium black blotch",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "delphinium_black_blotch": "https://www.rhs.org.uk/disease/delphinium-black-blotch",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Delphinium elatum 'Moonlight'",
+    "display_name": ""
 }

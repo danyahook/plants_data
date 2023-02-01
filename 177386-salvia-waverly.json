@@ -106,19 +106,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-less or loam-based potting compost in full light with shade from hot sun. Grow outdoors in moderately fertile, moist but well-drained soil in full sun or dappled shade in a frost-free border. Protect from excessive winter wet",
-        "propagation": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9 in spring",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow under glass in loam-less or loam-based potting compost in full light with shade from hot sun. Grow outdoors in moderately fertile, moist but well-drained soil in full sun or dappled shade in a frost-free border. Protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Waverly'",
+    "display_name": "Sage 'waverly'"
 }

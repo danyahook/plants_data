@@ -92,17 +92,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moist, acid soil enriched with leaf mould or well-rotted organic matter but will tolerate some lime.Very vigorous cultivar",
-        "propagation": "Propagate by removing bulblets from parent bulbs as they become dormant; by removing bulbils from leaf axils; or by scaling. See bulb propagation",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Underplanting of roses and shrubs",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Red lily beetle, aphids, slugs and wireworms may be a problem",
-        "diseases": "grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Prefers moist, acid soil enriched with leaf mould or well-rotted organic matter but will tolerate some lime.Very vigorous cultivar",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by removing bulblets from parent bulbs as they become dormant; by removing bulbils from leaf axils; or by scaling. See bulb propagation",
+            "link_names": [
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Underplanting of roses and shrubs",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Red lily beetle, aphids, slugs and wireworms may be a problem",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "grey moulds and a virus may cause problems. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium tigrinum subsp. splendens",
+    "display_name": "Lance-leaved lily"
 }

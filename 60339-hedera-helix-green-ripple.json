@@ -92,19 +92,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in well-drained, fertile, humus rich, alkaline soil, but tolerates a wide variety of conditions.",
-        "propagation": "Propagate by semi-hardwood cuttings.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Wall side borders",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required. Trimming may be needed to keep them to the space available.",
-        "pests": "May be susceptible to aphids , scale insects and vine weevil",
-        "diseases": "May be susceptible to leaf spot"
+        "cultivation": {
+            "text": "Thrives in well-drained, fertile, humus rich, alkaline soil, but tolerates a wide variety of conditions.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings.",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Wall side borders",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Trimming may be needed to keep them to the space available.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids , scale insects and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) and a leaf spot",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hedera_helix__Green_Ripple_.html",
@@ -138,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hedera helix 'Green Ripple'",
+    "display_name": ""
 }

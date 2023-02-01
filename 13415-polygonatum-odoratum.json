@@ -103,16 +103,48 @@
         "plant_range": "Europe to Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, humus-rich, moist but well-drained soil in full sun, partial shade or shade",
-        "propagation": "Propagate by division in spring taking care not to damage young brittle shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "Cut flowers",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back to the base in late autumn",
-        "pests": "May be attacked by slugs and sawflies",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in any fertile, humus-rich, moist but well-drained soil in full sun, partial shade or shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring taking care not to damage young brittle shoots",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cut flowers",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and sawflies",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Polygonatum_odoratum.html",
@@ -170,5 +202,7 @@
             "Root deformity",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Polygonatum odoratum",
+    "display_name": "Angular solomon's seal"
 }

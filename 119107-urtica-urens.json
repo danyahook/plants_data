@@ -88,14 +88,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun, in nitrogen-rich soil. Self-seeds freely and can be difficult to control or eradicate. See the advice page on controlling nettles for more details",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "Cut back after flowering to avoid self-seeding",
-        "pests": "May be susceptible to caterpillars, particularly those of the peacock butterfly, as annual and perennial nettles are a key food source",
-        "diseases": "May be susceptible to some fungal and virus diseases"
+        "cultivation": {
+            "text": "Grows best in full sun, in nitrogen-rich soil. Self-seeds freely and can be difficult to control or eradicate. See the advice page on controlling nettles for more details",
+            "link_names": [
+                "Controlling nettles"
+            ],
+            "related_links": {
+                "controlling_nettles": "https://www.rhs.org.uk/weeds/nettles-as-weeds"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to avoid self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars, particularly those of the peacock butterfly, as annual and perennial nettles are a key food source",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to some fungal and virus diseases",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Urtica_urens.html",
@@ -143,5 +179,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Urtica urens",
+    "display_name": "Annual stinging nettle"
 }

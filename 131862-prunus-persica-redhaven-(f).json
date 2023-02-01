@@ -85,15 +85,84 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist, but well-drained soil in full sun. Protect flowers from frosts with horticultural fleece. Best grown fan-trained, although in the south of England can be grown free-standing bush. See How to grow: Peaches for further cultivation details",
-        "propagation": "Propagate by grafting. Peach cultivars are propagated by grafting onto a rootstock for fruit. Can also be propagated by seed, although the resulting fruit is likely to be inferior to that of the parent plant",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Edible fruit",
-            "Wall side borders"
-        ],
-        "pruning": "Train fan-trained and Prune established fans in spring and summer. In milder areas and in warm sheltered situations, grow as free-standing tree and prune after harvest. Pruning is the same as that for pruning acid cherries",
-        "pests": "May be susceptible to glasshouse red spider mite, aphids, and scale may be problematic, especially on wall-trained specimens or those grown in a glasshouse. Squirrels and birds may damage fruit",
-        "diseases": "May be susceptible to peach leaf curl, bacterial canker, silver leaf, brown rot and replant diseases may cause problems. Late frosts can damage the blossom"
-    }
+        "cultivation": {
+            "text": "Grow in a moist, but well-drained soil in full sun. Protect flowers from frosts with horticultural fleece. Best grown fan-trained, although in the south of England can be grown free-standing bush. See How to grow: Peaches for further cultivation details",
+            "link_names": [
+                "Fan-trained",
+                "How to grow: peaches"
+            ],
+            "related_links": {
+                "fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "how_to_grow:_peaches": "https://www.rhs.org.uk/fruit/peaches/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting. Peach cultivars are propagated by grafting onto a rootstock for fruit. Can also be propagated by seed, although the resulting fruit is likely to be inferior to that of the parent plant",
+            "link_names": [
+                "Grafting",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Edible fruit",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Train fan-trained and Prune established fans in spring and summer. In milder areas and in warm sheltered situations, grow as free-standing tree and prune after harvest. Pruning is the same as that for pruning acid cherries",
+            "link_names": [
+                "Train fan-trained",
+                "Prune established fans",
+                "Pruning acid cherries"
+            ],
+            "related_links": {
+                "train_fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "prune_established_fans": "https://www.rhs.org.uk/fruit/fruit-trees/pruning-established-fan-trained",
+                "pruning_acid_cherries": "https://www.rhs.org.uk/fruit/cherries/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, aphids, and scale may be problematic, especially on wall-trained specimens or those grown in a glasshouse. Squirrels and birds may damage fruit",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids",
+                "Squirrels",
+                "Birds"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, bacterial canker, silver leaf, brown rot and replant diseases may cause problems. Late frosts can damage the blossom",
+            "link_names": [
+                "Peach leaf curl",
+                "Bacterial canker",
+                "Silver leaf",
+                "Brown rot",
+                "Replant diseases"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "replant_diseases": "https://www.rhs.org.uk/prevention-protection/replant-disease"
+            }
+        }
+    },
+    "main_name_original": "Prunus persica 'Redhaven' (F)",
+    "display_name": "Peach 'red haven'"
 }

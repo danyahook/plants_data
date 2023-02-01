@@ -89,22 +89,62 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a standard cactus compost in bright, filtered light. When in growth water moderately and feed every two or three weeks with a balanced liquid feed. Keep almost dry in winter. See houseplant cacti and succulent cultivation for further information",
-        "propagation": "Propagate by seed or from offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Low Maintenance",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs, vine weevil larvae and aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow under glass in a standard cactus compost in bright, filtered light. When in growth water moderately and feed every two or three weeks with a balanced liquid feed. Keep almost dry in winter. See houseplant cacti and succulent cultivation for further information",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or from offsets",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Low Maintenance",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, vine weevil larvae and aphids",
+            "link_names": [
+                "Mealybugs",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Echeveria_cante.html",
@@ -153,5 +193,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Echeveria cante",
+    "display_name": "White cloud plant"
 }

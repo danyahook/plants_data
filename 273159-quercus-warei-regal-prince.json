@@ -88,13 +88,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Suited to large gardens and parkland. Grow in any well-drained but moisture-retentive soil in good light. For more advice see tree cultivation",
-        "propagation": "Propagate by hardwood cuttings in autunm",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids, caterpillars, leaf-mining moths and oak gall wasps",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Suited to large gardens and parkland. Grow in any well-drained but moisture-retentive soil in good light. For more advice see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autunm",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf-mining moths and oak gall wasps",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Quercus × warei Regal Prince",
+    "display_name": ""
 }

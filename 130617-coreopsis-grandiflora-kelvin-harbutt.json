@@ -84,16 +84,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade",
-        "propagation": "Divide in early spring or propagate by basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "Slugs and snails may be troublesome",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in early spring or propagate by basal cuttings in spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs and snails may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Coreopsis grandiflora 'Kelvin Harbutt'",
+    "display_name": "Tickseed 'kelvin harbutt'"
 }

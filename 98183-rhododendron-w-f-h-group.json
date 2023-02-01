@@ -86,20 +86,82 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant in moist acidic soil which has been enriched with organic matter (such as leaf mould). In containers use an ericaceous compost. Plants do best in dappled shade. Keep well watered until established. See rhododendron cultivation for further information",
-        "propagation": "Propagate by semi-ripe cuttings, grafting or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to vine weevil, leaf hoppers, lacebugs, scale insects, caterpillars and aphids",
-        "diseases": "May be susceptible to powdery mildew, bud blast, honey fungus, rust, leafy gall, petal blight and phytophthora root and shoot rots"
-    }
+        "cultivation": {
+            "text": "Plant in moist acidic soil which has been enriched with organic matter (such as leaf mould). In containers use an ericaceous compost. Plants do best in dappled shade. Keep well watered until established. See rhododendron cultivation for further information",
+            "link_names": [
+                "Organic matter",
+                "Containers",
+                "Rhododendron cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "rhododendron_cultivation": "https://www.rhs.org.uk/plants/rhododendron/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings, grafting or layering",
+            "link_names": [
+                "Semi-ripe",
+                "Grafting",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, leaf hoppers, lacebugs, scale insects, caterpillars and aphids",
+            "link_names": [
+                "Vine weevil",
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew, bud blast, honey fungus, rust, leafy gall, petal blight and phytophthora root and shoot rots",
+            "link_names": [
+                "Honey fungus",
+                "Leafy gall",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Rhododendron W.F.H. Group",
+    "display_name": "Rhododendron w.f.h. group"
 }

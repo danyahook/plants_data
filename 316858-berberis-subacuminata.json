@@ -92,17 +92,71 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in good light in a fertile well-drained soil. See shrub cultivation",
-        "propagation": "Propagate by seed sown in a seedbed in early spring. See trees and shrubs from seed. Many Berberis species cross freely in gardens, so seed-raised plants are often hybrids. Take semi-ripe cuttings in summer.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to aphids and to berberis sawfly",
-        "diseases": "May be susceptible to Powdery mildews."
-    }
+        "cultivation": {
+            "text": "Best grown in good light in a fertile well-drained soil. See shrub cultivation",
+            "link_names": [
+                "Shrub cultivation"
+            ],
+            "related_links": {
+                "shrub_cultivation": "https://www.rhs.org.uk/plants/types/shrubs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a seedbed in early spring. See trees and shrubs from seed. Many Berberis species cross freely in gardens, so seed-raised plants are often hybrids. Take semi-ripe cuttings in summer.",
+            "link_names": [
+                "Propagate by seed",
+                "Trees and shrubs from seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "trees_and_shrubs_from_seed": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and berberis sawfly",
+            "link_names": [
+                "Aphids",
+                "Berberis sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "berberis_sawfly": "https://www.rhs.org.uk/biodiversity/berberis-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and sometimes by honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Berberis subacuminata",
+    "display_name": ""
 }

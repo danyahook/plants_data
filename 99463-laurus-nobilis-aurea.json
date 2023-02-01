@@ -91,16 +91,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in a container. Prefers a well-drained soil in sun or partial shade",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can get bay sucker, horse chestnut scale, soft scale and tortrix moth",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows well in a container. Prefers a well-drained soil in sun or partial shade",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to bay sucker, horse chestnut scale, soft scale and tortrix moth",
+            "link_names": [
+                "Bay sucker",
+                "Soft scale",
+                "Tortrix moth"
+            ],
+            "related_links": {
+                "bay_sucker": "https://www.rhs.org.uk/biodiversity/bay-sucker",
+                "soft_scale": "https://www.rhs.org.uk/biodiversity/soft-scale",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, a leaf spot and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Laurus_nobilis__Aurea_.html",
@@ -136,5 +186,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Laurus nobilis 'Aurea'",
+    "display_name": "Bay 'aurea'"
 }

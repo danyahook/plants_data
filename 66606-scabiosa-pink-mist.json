@@ -88,19 +88,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun and protect from winter wet",
-        "propagation": "Propagate by division or take basal cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead to prolong flowering, cut down stems in autumn",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun and protect from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or take basal cuttings",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering, cut down stems in autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Scabiosa 'Pink Mist'",
+    "display_name": "Scabious 'pink mist'"
 }

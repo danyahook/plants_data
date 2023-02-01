@@ -81,16 +81,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus rich, moist but well drained soil in full sun or partial shade. Shelter from cold, drying winds",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Cut back old foliage in late Winter before new flower stems emerge for best display of new foliage and flowers",
-        "pests": "May be susceptible to vine weevils",
-        "diseases": "May be susceptible to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus rich, moist but well drained soil in full sun or partial shade. Shelter from cold, drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old foliage in late Winter before new flower stems emerge for best display of new foliage and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevils",
+            "link_names": [
+                "Vine weevils"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Epimedium 'Kodai Murasaki'",
+    "display_name": "Barrenwort 'kodai murasaki'"
 }

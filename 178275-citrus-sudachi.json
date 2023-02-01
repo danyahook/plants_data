@@ -110,15 +110,65 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in full sun in frost-free areas with a well-drained, neutral or acidic soil. Under glass grow in loam-based potting compost in full light",
-        "propagation": "Propagate by seed (seedlings will not come true to type) or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can get citrus red spider mite and glasshouse red spider mite, soft scale and fluted scale, aphids, caterpillars and mealybugs under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in full sun in frost-free areas with a well-drained, neutral or acidic soil. Under glass grow in loam-based potting compost in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed (seedlings will not come true to type) or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Can get citrus red spider mite and glasshouse red spider mite, soft scale and fluted scale, aphids, caterpillars and mealybugs under glass",
+            "link_names": [
+                "Red spider mite",
+                "Glasshouse red spider mite",
+                "Soft scale",
+                "Fluted scale",
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "soft_scale": "https://www.rhs.org.uk/biodiversity/soft-scale",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Citrus sudachi",
+    "display_name": "Citron"
 }

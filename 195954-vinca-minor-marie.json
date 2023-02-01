@@ -85,17 +85,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in all but the driest soils. Flowers best in full sun but very useful for shady areas. Can be invasive",
-        "propagation": "Propagate by division in spring or autumn and by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Ground cover",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "May be attacked by aphids",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "Easy to grow in all but the driest soils. Flowers best in full sun but very useful for shady areas. Can be invasive",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn and by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Division",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Ground cover",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Vinca minor 'Marie'",
+    "display_name": "Lesser periwinkle 'marie'"
 }

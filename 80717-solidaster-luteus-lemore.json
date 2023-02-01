@@ -90,16 +90,50 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Remove faded flower heads and cut back dying foliage in autumn",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by basal cuttings in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower heads and cut back dying foliage in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "× Solidaster luteus 'Lemore'",
+    "display_name": "Goldenrod 'lemore'"
 }

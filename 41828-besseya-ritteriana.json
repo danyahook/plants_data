@@ -83,16 +83,60 @@
         "plant_range": "Colorado"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, acid soil in full sun",
-        "propagation": "Propagate by division when dormant, or sow seed as soon as ripe in containers in a cold frame",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "High Risk Host for Xylella fastidiosa"
-    }
+        "cultivation": {
+            "text": "Grow in moist, acid soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division when dormant, or sow seed as soon as ripe in containers in a cold frame",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Besseya ritteriana",
+    "display_name": ""
 }

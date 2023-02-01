@@ -101,18 +101,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a poor, moist soil in full sun. Restrict its spread by planting in deep containers and plunging them into the soil, or by growing in small contained beds",
-        "propagation": "Propagate by seed, sowing in containers in a cold frame in spring. Divide plants in spring or autumn. Softwood cuttings may be taken in the spring. Pieces of rhizome can be potted up at any time of the growing season and grown on until established after which they can be planted out",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back old stems at the end of the year to ground level",
-        "pests": "Generally trouble free",
-        "diseases": "Powdery mildews and rust diseases can be troublesome"
-    }
+        "cultivation": {
+            "text": "Grow in a poor, moist soil in full sun. Restrict its spread by planting in deep containers and plunging them into the soil, or by growing in small contained beds",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sowing in containers in a cold frame in spring. Divide plants in spring or autumn. Softwood cuttings may be taken in the spring. Pieces of rhizome can be potted up at any time of the growing season and grown on until established after which they can be planted out",
+            "link_names": [
+                "Propagate by seed",
+                "Divide",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back old stems at the end of the year to ground level",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews and rust diseases can be troublesome",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Mentha × piperita 'Citrata'",
+    "display_name": "Eau de cologne mint"
 }

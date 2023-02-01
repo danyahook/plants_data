@@ -93,15 +93,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, reliably moist soil in full sun or partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down faded flower spikes in autumn",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to crown rot"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, reliably moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down faded flower spikes in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to crown rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Lobelia 'Pink Flamingo'",
+    "display_name": ""
 }

@@ -88,18 +88,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile soil in full sun, or in dappled shade in low rainfall areas",
-        "propagation": "Propagate by seed in a cold frame when ripe or in spring. Propagate by softwood cuttings of non-flowering stems in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Patio and container plants",
-            "Garden edging"
-        ],
-        "pruning": "No pruning necessary",
-        "pests": "Phlox eelworm may be a problem",
-        "diseases": "Powdery mildews and a leaf spot may be a problem"
+        "cultivation": {
+            "text": "Grow in well-drained, fertile soil in full sun, or in dappled shade in low rainfall areas",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in a cold frame when ripe or in spring. Propagate by softwood cuttings of non-flowering stems in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Patio and container plants",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Phlox eelworm may be a problem",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildews and a leaf spot may be a problem",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phlox_subulata__McDaniel_s_Cushion_.html",
@@ -132,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Phlox subulata 'McDaniel's Cushion'",
+    "display_name": "Moss phlox 'mcdaniel's cushion'"
 }

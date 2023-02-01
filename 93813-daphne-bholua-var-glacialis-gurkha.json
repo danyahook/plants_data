@@ -91,16 +91,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moisture-retentive, humus-rich soil in a sheltered position in partial shade (or in sun if roots are kept shaded); for more advice, see daphne cultivation",
-        "propagation": "Propagate by heeled semi-ripe cuttings or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8 but no pruning usually required; daphnes do not always respond well to pruning",
-        "pests": "May be affected by aphids",
-        "diseases": "May be susceptible to Phytophthora root rot, fungal leaf spot and virus diseases"
+        "cultivation": {
+            "text": "Grow in well-drained, moisture-retentive, humus-rich soil in a sheltered position in partial shade (or in sun if roots are kept shaded); for more advice, see daphne cultivation",
+            "link_names": [
+                "Daphne cultivation"
+            ],
+            "related_links": {
+                "daphne_cultivation": "https://www.rhs.org.uk/plants/daphne/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by heeled semi-ripe cuttings or grafting",
+            "link_names": [
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 but no pruning usually required; daphnes do not always respond well to pruning",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), phytophthora root rot, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Daphne_bholua_var._glacialis__Gurkha_.html",
@@ -133,5 +183,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Daphne bholua var. glacialis 'Gurkha'",
+    "display_name": "Daphne 'gurkha'"
 }

@@ -84,20 +84,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "A cormous plant that requires a well-drained and sunny situation. Plant 5-6cm deep in late summer or early autumn. You may feed after flowering when leaves are still in active growth",
-        "propagation": "Remove cormlets when dormant or propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Corms are vulnerable to mice, voles and squirrels",
-        "diseases": "Generally disease free, though corms may rot in storage"
+        "cultivation": {
+            "text": "A cormous plant that requires a well-drained and sunny situation. Plant 5-6cm deep in late summer or early autumn. You may feed after flowering when leaves are still in active growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Remove cormlets when dormant or propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Corms are vulnerable to mice, voles and squirrels",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free, though corms may rot in storage",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Crocus_chrysanthus__Ard_Schenk_.html",
@@ -127,5 +159,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Crocus chrysanthus 'Ard Schenk'",
+    "display_name": "Crocus 'ard schenk'"
 }

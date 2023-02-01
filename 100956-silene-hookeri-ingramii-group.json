@@ -88,15 +88,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, very well-drained, acid soil in full sun. Suitable for rock garden, scree bed or alpine house. Resents winter wet",
-        "propagation": "Propagate by seed, or by softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be troubled by aphids, glasshouse red spider mite and glasshouse whitefly under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, very well-drained, acid soil in full sun. Suitable for rock garden, scree bed or alpine house. Resents winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, or by softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be troubled by aphids, glasshouse red spider mite and glasshouse whitefly under glass",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Silene hookeri Ingramii Group",
+    "display_name": "Hooker's campion ingramii group"
 }

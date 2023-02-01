@@ -103,17 +103,65 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "In frost-free areas, grow in fertile, well-drained soil, in sun with midday or part shade. In colder areas, grow as a houseplant or in containers that can be moved indoors over winter. Keep watered, especially during dry periods",
-        "propagation": "Propagate by seed, sown at 13-18°C from spring to midsummer, or by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Bedding"
-        ],
-        "pruning": "Deadhead to encourage further flowers",
-        "pests": "May be susceptible to red spider mite, glasshouse whitefly, and chrysanthemum leaf miner",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "In frost-free areas, grow in fertile, well-drained soil, in sun with midday or part shade. In colder areas, grow as a houseplant or in containers that can be moved indoors over winter. Keep watered, especially during dry periods",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 13-18°C from spring to midsummer, or by semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Bedding"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage further flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mite, glasshouse whitefly, and chrysanthemum leaf miner",
+            "link_names": [
+                "Red spider mite",
+                "Glasshouse whitefly",
+                "Chrysanthemum leaf miner"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "chrysanthemum_leaf_miner": "https://www.rhs.org.uk/biodiversity/chrysanthemum-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Pericallis × hybrida",
+    "display_name": "Florist's cineraria"
 }

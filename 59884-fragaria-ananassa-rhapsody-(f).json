@@ -79,13 +79,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun. Plant in single or double rows 30-45cm between plants and 75cm between rows. Plant through black polythene or apply straw to keep strawberries clean. Can be successfully grown in a container, including growbags. See also strawberry cultivation",
-        "propagation": "Remove and transplant runners",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Remove excess runners",
-        "pests": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
-        "diseases": "May be affected by strawberry viruses and root rot. Fruit prone to grey moulds. This cultivar is resistant to red core and has some resistance to verticillium wilt and mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun. Plant in single or double rows 30-45cm between plants and 75cm between rows. Plant through black polythene or apply straw to keep strawberries clean. Can be successfully grown in a container, including growbags. See also strawberry cultivation",
+            "link_names": [
+                "Container",
+                "Strawberry cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "strawberry_cultivation": "https://www.rhs.org.uk/fruit/strawberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Remove and transplant runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to strawberry viruses and root rot. Fruit prone to grey moulds. This cultivar is resistant to red core and has some resistance to Verticillium wilt and mildew",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Fragaria × ananassa 'Rhapsody' (F)",
+    "display_name": "Strawberry 'rhapsody'"
 }

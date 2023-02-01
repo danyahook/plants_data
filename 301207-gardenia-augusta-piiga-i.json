@@ -87,17 +87,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral to acidic, humus-rich soil in a bright position with shade from hot sun. In areas with harsh winters, grow in containers of ericaceous compost so that the pots can be moved under glass during cold snaps",
-        "propagation": "Propagate by greenwood cuttings in early summer or semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "See pruning group 9",
-        "pests": "May be susceptible to glasshouse whitefly and mealybugs",
-        "diseases": "May be susceptible to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in neutral to acidic, humus-rich soil in a bright position with shade from hot sun. In areas with harsh winters, grow in containers of ericaceous compost so that the pots can be moved under glass during cold snaps",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in early summer or semi-ripe cuttings in late summer",
+            "link_names": [
+                "Greenwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and mealybugs",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Gardenia augusta 'Piiga-I'",
+    "display_name": ""
 }

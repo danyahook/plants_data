@@ -91,18 +91,72 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun, although this variety will tolerate a little shade",
-        "propagation": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9 after flowering. Deadhead to prolong flowering period",
-        "pests": "May be susceptible to slugs, snails and glasshouse leafhopper",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun, although this variety will tolerate a little shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 after flowering. Deadhead to prolong flowering period",
+            "link_names": [
+                "Pruning group 9",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and glasshouse leafhopper",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse leafhopper"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_leafhopper": "https://www.rhs.org.uk/biodiversity/glasshouse-leafhopper"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Bocofpea'",
+    "display_name": ""
 }

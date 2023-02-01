@@ -92,17 +92,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-cultivated, fertile, moist soil in sun or partial shade; may need staking",
-        "propagation": "Propagate by division in spring; divide every third year to maintain vigour",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "Generally pest free",
-        "diseases": "Asters may suffer Verticillium wilt, powdery mildews and grey moulds"
+        "cultivation": {
+            "text": "Grow in well-cultivated, fertile, moist soil in sun or partial shade; may need staking",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring; divide every third year to maintain vigour",
+            "link_names": [
+                "Division",
+                "Divide"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, powdery mildews and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aster_pringlei__Monte_Cassino_.html",
@@ -132,5 +170,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aster pringlei 'Monte Cassino'",
+    "display_name": "Aster 'monte cassino'"
 }

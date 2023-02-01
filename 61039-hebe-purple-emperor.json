@@ -99,19 +99,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in poor to moderately fertile soil in sun or partials shade and is tolerant of some pollution",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe. Cultivars will not come true. Root semi-hardwood cuttings in late summer or autumn with added bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Aphids may be a problem",
-        "diseases": "A leaf spot and a downy mildew may be a problem"
-    }
+        "cultivation": {
+            "text": "Grows well in poor to moderately fertile soil in sun or partials shade and is tolerant of some pollution",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe. Cultivars will not come true. Root semi-hardwood cuttings in late summer or autumn with added bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hebe 'Purple Emperor'",
+    "display_name": "Hebe 'neil's choice'"
 }

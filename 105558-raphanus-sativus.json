@@ -91,15 +91,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moisture-retentive soil as long as it isn't too acidic, in full sun.",
-        "propagation": "Propagate by seed in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow",
-            "Wildlife gardens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails, and to flea beetles",
-        "diseases": "May be susceptible to Brassica downy mildew"
+        "cultivation": {
+            "text": "Grow in any moisture-retentive soil as long as it isn't too acidic, in full sun.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, and to flea beetles",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Brassica downy mildew",
+            "link_names": [
+                "Brassica downy mildew"
+            ],
+            "related_links": {
+                "brassica_downy_mildew": "https://www.rhs.org.uk/disease/brassica-downy-mildew"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Raphanus_sativus.html",
@@ -166,5 +206,7 @@
             "Leaf rot",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Raphanus sativus",
+    "display_name": "Common radish"
 }

@@ -86,18 +86,56 @@
         "plant_range": "Oregon to British Columbia"
     },
     "how_to_grow": {
-        "cultivation": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
-        "propagation": "Propagate by seed or by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "Slugs may be a problem",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs may be a problem",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Erythronium_oregonum.html",
@@ -150,5 +188,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Erythronium oregonum",
+    "display_name": "Oregon fawn lily"
 }

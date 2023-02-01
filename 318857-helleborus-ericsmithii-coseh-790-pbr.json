@@ -106,19 +106,71 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moisture-retentive, humus-rich but well-drained soil which is preferably neutral or alkaline, in a position with shelter from strong, cold winds and in full sun or light dappled shade. Mulch every autumn; for more advice, see hellebore cultivation",
-        "propagation": "Propagate by division of large clumps in early spring, watering well until they are established",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove faded or damaged foliage as the flowers appear",
-        "pests": "May be affected by slugs, snails, vine weevil and hellebore aphid",
-        "diseases": "May be subject to hellebore leaf spot and hellebore black death"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moisture-retentive, humus-rich but well-drained soil which is preferably neutral or alkaline, in a position with shelter from strong, cold winds and in full sun or light dappled shade. Mulch every autumn; for more advice, see hellebore cultivation",
+            "link_names": [
+                "Mulch",
+                "Hellebore cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hellebore_cultivation": "https://www.rhs.org.uk/plants/hellebore/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of large clumps in early spring, watering well until they are established",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded or damaged foliage as the flowers appear",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails, vine weevil and hellebore aphid",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil",
+                "Hellebore aphid"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "hellebore_aphid": "https://www.rhs.org.uk/biodiversity/hellebore-aphid"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to hellebore leaf spot and hellebore black death",
+            "link_names": [
+                "Hellebore leaf spot",
+                "Hellebore black death"
+            ],
+            "related_links": {
+                "hellebore_leaf_spot": "https://www.rhs.org.uk/disease/hellebore-leaf-spot",
+                "hellebore_black_death": "https://www.rhs.org.uk/disease/hellebore-black-death"
+            }
+        }
+    },
+    "main_name_original": "Helleborus × ericsmithii 'Coseh 790'PBR",
+    "display_name": "Hellebore [hgc shooting star]"
 }

@@ -82,18 +82,54 @@
         "plant_range": "N & C China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun on moderately fertile to poor, free-draining soil.",
-        "propagation": "Propagate from seed (tree/shrub), division or semi-hardwood cuttings.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in full sun on moderately fertile to poor, free-draining soil.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed (tree/shrub), division or semi-hardwood cuttings.",
+            "link_names": [
+                "Propagate from seed (tree/shrub",
+                "Division",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Campylotropis_macrocarpa.html",
@@ -148,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Campylotropis macrocarpa",
+    "display_name": ""
 }

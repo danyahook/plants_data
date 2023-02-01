@@ -107,20 +107,56 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well drained, alkaline to neutral soil in full sun. Won't tolerate wet or waterlogged conditions. Will tolerate drought and poor soils. See thyme cultivation for more information",
-        "propagation": "Propagate by division or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Lightly trim to remove dead flowers. Cut back harder after flowering to keep bushy and compact",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well drained, alkaline to neutral soil in full sun. Won't tolerate wet or waterlogged conditions. Will tolerate drought and poor soils. See thyme cultivation for more information",
+            "link_names": [
+                "Thyme cultivation"
+            ],
+            "related_links": {
+                "thyme_cultivation": "https://www.rhs.org.uk/herbs/thyme/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or semi-hardwood cuttings",
+            "link_names": [
+                "Division",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Lightly trim to remove dead flowers. Cut back harder after flowering to keep bushy and compact",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Thymus polytrichus A. Kern. ex Borbás",
+    "display_name": "Wild thyme"
 }

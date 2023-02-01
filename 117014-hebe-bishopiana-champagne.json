@@ -99,19 +99,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in poor to moderately fertile soil in sun or partial shade and is tolerant of some pollution. Plant in spring for best establishment before winter, may require winter protection in cold areas",
-        "propagation": "Propagate by taking semi-hardwood cuttings in late summer or autumn with added bottom heat. Sow seeds in containers in a cold frame as soon as ripe. Cultivars will not come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9. Winter damage may need removing after a harsh winter",
-        "pests": "Maybe susceptible to aphids",
-        "diseases": "Maybe susceptible to leafspots and downy mildew"
-    }
+        "cultivation": {
+            "text": "Grows well in poor to moderately fertile soil in sun or partial shade and is tolerant of some pollution. Plant in spring for best establishment before winter, may require winter protection in cold areas",
+            "link_names": [
+                "Winter protection"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by taking semi-hardwood cuttings in late summer or autumn with added bottom heat. Sow seeds in containers in a cold frame as soon as ripe. Cultivars will not come true from seed",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9. Winter damage may need removing after a harsh winter",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Maybe susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hebe × bishopiana 'Champagne'",
+    "display_name": "Hebe 'champagne'"
 }

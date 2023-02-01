@@ -85,17 +85,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, sandy, well-drained loam in full sun, with shelter from wind. Mulch with garden compost in autumn, but avoid covering the crown. Young spring growth can be protected with a dry mulch",
-        "propagation": "Propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Architectural",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Cut flowers"
-        ],
-        "pruning": "None required",
-        "pests": "Slugs may cause damage",
-        "diseases": "Usually trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, sandy, well-drained loam in full sun, with shelter from wind. Mulch with garden compost in autumn, but avoid covering the crown. Young spring growth can be protected with a dry mulch",
+            "link_names": [
+                "Mulch",
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Architectural",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs may cause damage",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Eremurus 'Cleopatra'",
+    "display_name": "Foxtail lily 'cleopatra'"
 }

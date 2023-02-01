@@ -94,14 +94,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moderately fertile, moist but well-drained soil, but will tolerate poor, dry soils. Choose a spot that is sheltered from strong winds, as branches are brittle.",
-        "propagation": "Propagate by division, removing suckers in autumn, or by root cuttings or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1; prune in late summer or early autumn to prevent bleeding",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Prefers moderately fertile, moist but well-drained soil, but will tolerate poor, dry soils. Choose a spot that is sheltered from strong winds, as branches are brittle.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, removing suckers in autumn, or by root cuttings or grafting in winter",
+            "link_names": [
+                "Division",
+                "Suckers",
+                "Root cuttings",
+                "Grafting"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; prune in late summer or early autumn to prevent bleeding",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Robinia pseudoacacia 'Hillieri'",
+    "display_name": "Locust tree 'hillieri'"
 }

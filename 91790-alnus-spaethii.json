@@ -94,15 +94,63 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or part shade. Noted for its ability to thrive in poor, wet conditions but is also tolerant of dry soils once established",
-        "propagation": "Propagate by seed or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1 between leaf fall and midwinter",
-        "pests": "May be susceptible to alder sucker, alder leaf beetle and leaf-mining sawflies",
-        "diseases": "May be susceptible to Phytophthora"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or part shade. Noted for its ability to thrive in poor, wet conditions but is also tolerant of dry soils once established",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 between leaf fall and midwinter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to alder sucker, alder leaf beetle and leaf-mining sawflies",
+            "link_names": [
+                "Alder sucker",
+                "Alder leaf beetle"
+            ],
+            "related_links": {
+                "alder_sucker": "https://www.rhs.org.uk/biodiversity/alder-sucker",
+                "alder_leaf_beetle": "https://www.rhs.org.uk/biodiversity/alder-leaf-beetle"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Alnus × spaethii",
+    "display_name": ""
 }

@@ -93,17 +93,53 @@
         "plant_range": "Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moderately fertile soil that does not dry out. May require support, see staking (perennials)",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring, or by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs causing damage to young leaves",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any moderately fertile soil that does not dry out. May require support, see staking (perennials)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring, or by division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs causing damage to young leaves",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sanguisorba tenuifolia 'Albiflora'",
+    "display_name": "White-flowered slender-leaved burnet"
 }

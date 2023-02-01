@@ -88,17 +88,63 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in an open, sunny position; may need staking",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Prairie planting",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to ground level in late autumn",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to verticillium wilt, powdery mildews and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in an open, sunny position; may need staking. See aster cultivation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Prairie planting",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to ground level in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, slugs and snails",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Powdery mildews and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster ericoides",
+    "display_name": "Heath aster"
 }

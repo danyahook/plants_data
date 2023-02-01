@@ -81,16 +81,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in containers, or outdoors in a sunny sheltered spot, in well drained soil after all risk of frost has passed. See the RHS Grow Your Own guides to cultivating herbs for more detailed advice",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pinch out growing tips to encourage bushiness, pinch out flower heads to encourage leafy growth",
-        "pests": "May be susceptible to aphids, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grow under glass in containers, or outdoors in a sunny sheltered spot, in well drained soil after all risk of frost has passed. See the RHS Grow Your Own guides to cultivating herbs for more detailed advice",
+            "link_names": [
+                "Containers",
+                "Cultivating herbs"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "cultivating_herbs": "https://www.rhs.org.uk/herbs"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out growing tips to encourage bushiness, pinch out flower heads to encourage leafy growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ocimum_basilicum__Aroma_2_.html",
@@ -123,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ocimum basilicum 'Aroma 2'",
+    "display_name": "Basil 'aroma 2'"
 }

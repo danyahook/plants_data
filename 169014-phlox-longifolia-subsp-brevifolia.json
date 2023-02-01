@@ -92,16 +92,52 @@
         "plant_range": "W North America"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well drained, fertile soil in full sun or partial shade; protect from winter rain",
-        "propagation": "Propagate by seed or by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning necessary but can be trimmed after flowering",
-        "pests": "Generally trouble free",
-        "diseases": "May be affecterd by powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in well drained, fertile soil in full sun or partial shade; protect from winter rain",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary but can be trimmed after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affecterd by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Phlox longifolia subsp. brevifolia",
+    "display_name": "Longleaf phlox"
 }

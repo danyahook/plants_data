@@ -100,14 +100,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass at 7-10C in loam-based potting compost with good light and good ventilation. Will cope with a few degrees of frost if kept barely moist. Flower stems need support",
-        "propagation": "Propagate by softwood cuttings of non-flowering shoots in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cut flowers",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, tortrix moth caterpillars, aphids and thrips",
-        "diseases": "May be susceptible to carnation rust, fusarium wilt and a virus"
-    }
+        "cultivation": {
+            "text": "Grow under glass at 7-10C in loam-based potting compost with good light and good ventilation. Will cope with a few degrees of frost if kept barely moist. Flower stems need support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings of non-flowering shoots in late winter",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cut flowers",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, tortrix moth caterpillars, aphids and thrips",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Tortrix moth",
+                "Aphids",
+                "Thrips"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to carnation rust, fusarium wilt and a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Dianthus 'Lady Windermere' (M)",
+    "display_name": "Carnation 'lady windermere'"
 }

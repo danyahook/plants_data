@@ -87,20 +87,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant bulbs in early autumn, 20cm apart and at a depth of about four times the diameter of the bulb, in well-drained soil in full sun; for more advice, see Allium cultivation",
-        "propagation": "Propagate by division, removing offsets, in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free, but may be affected by slugs, snails, allium leaf miner, and onion pests such as onion fly",
-        "diseases": "Generally disease-free, but may be affected by onion diseases such as onion white rot and onion downy mildew"
-    }
+        "cultivation": {
+            "text": "Plant bulbs in early autumn, 20cm apart and at a depth of about four times the diameter of the bulb, in well-drained soil in full sun; for more advice, see Allium cultivation",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division, removing offsets, in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free, but may be affected by slugs, snails, allium leaf miner, and onion pests such as onion fly",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Allium leaf miner",
+                "Onion fly"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "allium_leaf_miner": "https://www.rhs.org.uk/biodiversity/allium-leaf-miner",
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, but may be affected by onion diseases such as onion white rot and onion downy mildew",
+            "link_names": [
+                "Onion white rot",
+                "Onion downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "onion_downy_mildew": "https://www.rhs.org.uk/disease/onion-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Allium stipitatum 'White Giant'",
+    "display_name": "Allium 'white giant'"
 }

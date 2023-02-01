@@ -85,18 +85,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most well-drained, fertile, humus-rich alkaline to neutral soils. Thrives in chalky ground and appreciates mulching when planted in full sun",
-        "propagation": "Propagate by softwood cuttings or layering in early summer. Grafting can be done in winter and chip budding in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1. Tolerates hard renovation pruning",
-        "pests": "Susceptible lilac leaf-mining moth, thrips and willow scale",
-        "diseases": "Susceptible to lilac blight and honey fungus"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most well-drained, fertile, humus-rich alkaline to neutral soils. Thrives in chalky ground and appreciates mulching when planted in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or layering in early summer. Grafting can be done in winter and chip budding in summer",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Grafting",
+                "Chip budding"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Tolerates hard renovation pruning",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lilac leaf-mining moth, willow scale and thrips",
+            "link_names": [
+                "Lilac leaf-mining moth",
+                "Thrips"
+            ],
+            "related_links": {
+                "lilac_leaf-mining_moth": "https://www.rhs.org.uk/biodiversity/lilac-leaf-mining-moth",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus, phytophthora, powdery mildews and bacterial canker (Pseudomonas Syringae)",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Powdery mildews",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Syringa pubescens subsp. patula 'Miss Kim'",
+    "display_name": "Lilac 'miss kim'"
 }

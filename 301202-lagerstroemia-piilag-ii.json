@@ -90,16 +90,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun, with the protection of a warm wall. In very cold regions grow under glass, in loam-based potting compost in full light. Water freely during the growing season and apply a balanced liquid fertiliser every 6-8 weeks; water sparingly at other times",
-        "propagation": "Propagate by seed, softwood cuttings or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "May be susceptible to glasshouse red spider mite and glasshouse whitefly",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun, with the protection of a warm wall. In very cold regions grow under glass, in loam-based potting compost in full light. Water freely during the growing season and apply a balanced liquid fertiliser every 6-8 weeks; water sparingly at other times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings or semi-ripe cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and glasshouse whitefly if grown indoors",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lagerstroemia 'Piilag-II'",
+    "display_name": "Crape myrtle [strawberry dazzle]"
 }

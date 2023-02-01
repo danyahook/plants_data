@@ -94,13 +94,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Can be grown outside in bog gardens in full sun or under glass in containers of suitable growing medium; see carnivorous plant cultivation for further information",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Remove pitchers when they start to die back",
-        "pests": "Scale insects, aphids and mealybugs",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Can be grown outside in bog gardens in full sun or under glass in containers of suitable growing medium; see carnivorous plant cultivation for further information",
+            "link_names": [
+                "Bog gardens",
+                "Containers",
+                "Carnivorous plant cultivation"
+            ],
+            "related_links": {
+                "bog_gardens": "https://www.rhs.org.uk/garden-design/bog-gardens",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "carnivorous_plant_cultivation": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove pitchers when they start to die back",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Scale insects, aphids and mealybugs",
+            "link_names": [
+                "Scale insects",
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sarracenia 'Colin Clayton'",
+    "display_name": ""
 }

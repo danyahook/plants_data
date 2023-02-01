@@ -82,14 +82,46 @@
         "plant_range": "S Africa (W Cape)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a cool glasshouse or alpine house in full sun. Water moderately in growth; reduce watering after flowering for a period of dry dormancy",
-        "propagation": "Propagate by seed or remove offsets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning necessary",
-        "pests": "Glasshouse red spider mite may be seen",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in a cool glasshouse or alpine house in full sun. Water moderately in growth; reduce watering after flowering for a period of dry dormancy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or remove offsets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Glasshouse red spider mite may be seen",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Massonia_pustulata.html",
@@ -127,5 +159,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Massonia pustulata",
+    "display_name": "Blistered massonia"
 }

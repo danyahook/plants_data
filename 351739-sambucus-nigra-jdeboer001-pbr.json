@@ -97,15 +97,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in any moderately fertile, humus-rich, well-drained soil. Thrives on very chalky soil",
-        "propagation": "Propagate by softwood or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1, or coppice every three to four years to restrict size and improve foliage display",
-        "pests": "May be susceptible to blackfly and glasshouse red spider mite",
-        "diseases": "May be susceptible to verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Will grow in any moderately fertile, humus-rich, well-drained soil. Thrives on very chalky soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, or coppice every three to four years to restrict size and improve foliage display",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Sambucus nigra 'Jdeboer001'PBR",
+    "display_name": "Elder [golden tower]"
 }

@@ -92,16 +92,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Fast-growing climber for a warm position in a sunny and sheltered position; thrives in moist but well-drained soil. In cold areas, grow in a container and overwinter indoors",
-        "propagation": "Propagate by, semi-hardwood cuttings or by layering in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 or pruning group 12",
-        "pests": "Glasshouse red spider mite, glasshouse whitefly, mealybugs and scale insects may be a problem if grown under glass",
-        "diseases": "May be subject to a virus"
-    }
+        "cultivation": {
+            "text": "Fast-growing climber for a warm position in a sunny and sheltered position; thrives in moist but well-drained soil. In cold areas, grow in a container and overwinter indoors",
+            "link_names": [
+                "Container",
+                "Overwinter indoors"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "overwinter_indoors": "https://www.rhs.org.uk/prevention-protection/overwintering-tender-plants-wrapping"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by, semi-hardwood cuttings or by layering in spring or autumn",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 or pruning group 12",
+            "link_names": [
+                "Pruning group 11",
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide",
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Glasshouse red spider mite, glasshouse whitefly, mealybugs and scale insects may be a problem if grown under glass",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Passiflora 'Betty Myles Young'",
+    "display_name": "Passion flower 'betty myles young'"
 }

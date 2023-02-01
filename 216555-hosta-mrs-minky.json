@@ -83,16 +83,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in fertile, moist but well-drained soil in dappled shade to maintain its colour. Add organic-matter in clay and sandy soils. Can be grown in containers.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove dead foliage",
-        "pests": "May be susceptible to slugs and snails, leafhoppers",
-        "diseases": "May be susceptible to Anthracnose, Sooty mould"
-    }
+        "cultivation": {
+            "text": "Will grow well in fertile, moist but well-drained soil in dappled shade to maintain its colour. Add organic-matter in clay and sandy soils. Can be grown in containers.",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead foliage",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, leafhoppers",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Anthracnose, Sooty mould",
+            "link_names": [
+                "Sooty mould"
+            ],
+            "related_links": {
+                "sooty_mould": "https://www.rhs.org.uk/biodiversity/sooty-moulds"
+            }
+        }
+    },
+    "main_name_original": "Hosta 'Mrs Minky'",
+    "display_name": "Plantain lily 'mrs minky'"
 }

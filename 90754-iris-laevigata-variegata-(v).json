@@ -81,17 +81,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist to wet, deep, humus-rich, acid soil; thrives at the margins of ponds or streams. Tolerates some lime",
-        "propagation": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to slugs, snails and iris sawfly",
-        "diseases": "May be susceptoble to aphid borne virus diseases, iris rhizome rot and grey moulds. See iris diseases"
+        "cultivation": {
+            "text": "Grow in moist to wet, deep, humus-rich, acid soil; thrives at the margins of ponds or streams. Tolerates some lime",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and iris sawfly",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Iris sawfly"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "iris_sawfly": "https://www.rhs.org.uk/biodiversity/iris-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptoble to aphid borne virus diseases, iris rhizome rot and grey moulds. See iris diseases",
+            "link_names": [
+                "Virus diseases",
+                "Grey moulds",
+                "Iris diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "iris_diseases": "https://www.rhs.org.uk/disease/iris-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Iris_laevigata__Variegata_.html",
@@ -123,5 +167,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Iris laevigata 'Variegata' (v)",
+    "display_name": "Variegated japanese iris"
 }

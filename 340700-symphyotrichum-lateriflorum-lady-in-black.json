@@ -92,17 +92,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in open sunny position; may need staking",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by powdery mildews and grey moulds"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in open sunny position; may need staking",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews and grey moulds",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Symphyotrichum_lateriflorum__Lady_in_Black_.html",
@@ -134,5 +168,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Symphyotrichum lateriflorum 'Lady in Black'",
+    "display_name": "Calico aster 'lady in black'"
 }

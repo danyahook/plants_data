@@ -113,17 +113,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained acidic or neutral soil in partial shade or full sun; for more advice, see Japanese maple cultivation",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1 (little or no pruning of trees and shrubs)",
-        "pests": "May be affected by scale insect, including horse chestnut scale, and aphids, mites, and caterpillars; plants in containers may be affected by vine weevil larvae",
-        "diseases": "May be affected by coral spot, Phytophthora root rot, verticillium wilt, honey fungus, and acer leaf scorch"
+        "cultivation": {
+            "text": "Grow in moist but well-drained acidic or neutral soil in partial shade or full sun; for more advice, see Japanese maple cultivation",
+            "link_names": [
+                "Japanese maple cultivation"
+            ],
+            "related_links": {
+                "japanese_maple_cultivation": "https://www.rhs.org.uk/plants/acer/japanese-maples/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 (little or no pruning of trees and shrubs)",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Acer_shirasawanum__Autumn_Moon_.html",
@@ -160,5 +208,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Acer shirasawanum 'Autumn Moon'",
+    "display_name": "Shirasawa maple 'autumn moon'"
 }

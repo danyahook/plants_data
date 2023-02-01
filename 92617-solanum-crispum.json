@@ -91,18 +91,62 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in loam-based compost in full light, sheltered from hot sun, or bright indirect light. Grow outdoors in moist but well-drained fertile soil in neutral to slightly alkaline soil in full sun. Support plants and tie in regularly",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 12 after flowering",
-        "pests": "May be attacked by aphids and glasshouse red spider mite",
-        "diseases": "May be subject to tomato spotted wilt and grey moulds"
+        "cultivation": {
+            "text": "Grow under glass in loam-based compost in full light, sheltered from hot sun, or bright indirect light. Grow outdoors in moist but well-drained fertile soil in neutral to slightly alkaline soil in full sun. Support plants and tie in regularly",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 12 after flowering",
+            "link_names": [
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to tomato spotted wilt and grey moulds",
+            "link_names": [
+                "Tomato",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "tomato": "https://www.rhs.org.uk/problems/tomatoes-leaf-problems",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Solanum_crispum.html",
@@ -187,5 +231,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Solanum crispum",
+    "display_name": "Potato tree"
 }

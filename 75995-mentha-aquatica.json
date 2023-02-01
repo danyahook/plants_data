@@ -93,14 +93,48 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in permanently moist soil, or in shallow water, in sun or semi-shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible powdery mildews or mint rust if allowed to become too dry"
+        "cultivation": {
+            "text": "Grow in permanently moist soil, or in shallow water, in sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible powdery mildews or mint rust if allowed to become too dry",
+            "link_names": [
+                "Powdery mildews",
+                "Mint rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "mint_rust": "https://www.rhs.org.uk/disease/mint-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Mentha_aquatica.html",
@@ -716,5 +750,7 @@
             "Leaf beetles",
             "Yellow spot"
         ]
-    }
+    },
+    "main_name_original": "Mentha aquatica",
+    "display_name": "Water mint"
 }

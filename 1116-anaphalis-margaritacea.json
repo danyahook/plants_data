@@ -106,15 +106,43 @@
         "plant_range": "N America Asia Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny spot in moist but well-draining soil",
-        "propagation": "Propagate by division or propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down in winter",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in a sunny spot in moist but well-draining soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or propagate by seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Anaphalis_margaritacea.html",
@@ -177,5 +205,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Anaphalis margaritacea",
+    "display_name": "Pearly everlasting"
 }

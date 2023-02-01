@@ -92,19 +92,67 @@
         "plant_range": "New Zealand (S.Island)"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in poor to moderately fertile soil in sun or partials shade with protection from cold, drying winds. Tolerant of some pollution and can also be grown in a cool glasshouse in a loam-based compost with shade from hot sun",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe. Cultivars will not come true. Root semi-hardwood cuttings in late summer or autumn with added bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "aphids may be a problem",
-        "diseases": "A leaf spot and a downy mildew may be a problem. High Risk Host for Xylella fastidiosa"
+        "cultivation": {
+            "text": "Grows well in poor to moderately fertile soil in sun or partials shade with protection from cold, drying winds. Tolerant of some pollution and can also be grown in a cool glasshouse in a loam-based compost with shade from hot sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe. Cultivars will not come true. Root semi-hardwood cuttings in late summer or autumn with added bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Veronica_hulkeana.html",
@@ -132,5 +180,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Veronica hulkeana (H)",
+    "display_name": "New zealand lilac"
 }

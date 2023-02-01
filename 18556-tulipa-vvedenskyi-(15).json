@@ -88,18 +88,56 @@
         "plant_range": "Central Asia"
     },
     "how_to_grow": {
-        "cultivation": "Needs a warm, sunny position with sharp drainage and protection from excessive wet, summer or winter. See tulip cultivation",
-        "propagation": "Propagate by lifting and separating offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "stem and bulb eelworm and slugs may be a problem",
-        "diseases": "May be subject to tulip fire and bulb rots"
+        "cultivation": {
+            "text": "Needs a warm, sunny position with sharp drainage and protection from excessive wet, summer or winter. See tulip cultivation",
+            "link_names": [
+                "Tulip cultivation"
+            ],
+            "related_links": {
+                "tulip_cultivation": "https://www.rhs.org.uk/plants/tulip/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by lifting and separating offsets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "stem and bulb eelworm and slugs may be a problem",
+            "link_names": [
+                "Stem and bulb eelworm",
+                "Slugs"
+            ],
+            "related_links": {
+                "stem_and_bulb_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to tulip fire and bulb rots",
+            "link_names": [
+                "Tulip fire"
+            ],
+            "related_links": {
+                "tulip_fire": "https://www.rhs.org.uk/disease/tulip-fire"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tulipa_vvedenskyi.html",
@@ -144,5 +182,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Tulipa vvedenskyi (15)",
+    "display_name": "Vvedensky's tulip"
 }

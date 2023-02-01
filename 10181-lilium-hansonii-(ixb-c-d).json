@@ -83,17 +83,71 @@
         "plant_range": "Korea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil and best in partial shade; can be grown in a pot in a sheltered shady position, see growing lilies in containers for further information",
-        "propagation": "Propagate by seed sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Remove seed heads unless required and cut down stems once foliage dies down",
-        "pests": "Aphids, slugs and lily beetle may be a problem, plants in pots are vulnerable to vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil and best in partial shade; can be grown in a pot in a sheltered shady position, see growing lilies in containers for further information",
+            "link_names": [
+                "Growing lilies",
+                "Containers"
+            ],
+            "related_links": {
+                "growing_lilies": "https://www.rhs.org.uk/container-gardening/lilies",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove seed heads unless required and cut down stems once foliage dies down",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Aphids, slugs and lily beetle may be a problem, plants in pots are vulnerable to vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Lily beetle",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Grey moulds and a virus may cause problems. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium hansonii (IXb-c/d)",
+    "display_name": "Japanese turk's cap lily"
 }

@@ -83,13 +83,57 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Tolerates a range of conditions but thrives in a sunny site with well-drained but moisture-retentive soil. Grow as blackcurrants, see blackcurrant cultivation for more detailed advice",
-        "propagation": "Propagate by hardwood cuttings in the dormant season",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Prune sparingly when young; replacement prune from year 3 onwards, removing some old stems to encourage new growth from the base",
-        "pests": "May be susceptible to birds eating fruits",
-        "diseases": "Generally disease-free, with some resistance to gooseberry leaf spot and gooseberry mildew"
-    }
+        "cultivation": {
+            "text": "Tolerates a range of conditions but thrives in a sunny site with well-drained but moisture-retentive soil. Grow as blackcurrants, see blackcurrant cultivation for more detailed advice",
+            "link_names": [
+                "Blackcurrant cultivation"
+            ],
+            "related_links": {
+                "blackcurrant_cultivation": "https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in the dormant season",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune sparingly when young; replacement prune from year 3 onwards, removing some old stems to encourage new growth from the base",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds eating fruits",
+            "link_names": [
+                "Birds"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, with some resistance to gooseberry leaf spot and gooseberry mildew",
+            "link_names": [
+                "Gooseberry leaf spot",
+                "Gooseberry mildew"
+            ],
+            "related_links": {
+                "gooseberry_leaf_spot": "https://www.rhs.org.uk/disease/currant-and-gooseberry-leaf-spot",
+                "gooseberry_mildew": "https://www.rhs.org.uk/disease/gooseberry-mildew"
+            }
+        }
+    },
+    "main_name_original": "Ribes × culverwellii (F)",
+    "display_name": ""
 }

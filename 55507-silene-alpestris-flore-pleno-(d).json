@@ -84,16 +84,46 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun or light shade. Suitable for rock garden, scree bed or alpine house. Resents winter wet",
-        "propagation": "Propagate by seed or division of rooted offshoots",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to a smut and powdery mildews"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun or light shade. Suitable for rock garden, scree bed or alpine house. Resents winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division of rooted offshoots",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be subject to a smut and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Silene_alpestris__Flore_Pleno_.html",
@@ -112,5 +142,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Silene alpestris 'Flore Pleno' (d)",
+    "display_name": "Double-flowered alpine catchfly"
 }

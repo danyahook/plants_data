@@ -88,16 +88,46 @@
         "plant_range": "N Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow as semi-parasitic plant amongst grasses in meadows or prairies",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Wildflower meadow",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow as semi-parasitic plant amongst grasses in meadows or prairies",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Wildflower meadow",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rhinanthus_minor.html",
@@ -203,5 +233,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rhinanthus minor",
+    "display_name": "Yellow rattle"
 }

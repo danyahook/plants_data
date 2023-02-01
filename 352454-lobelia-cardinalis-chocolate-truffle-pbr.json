@@ -95,15 +95,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, reliably moist soil in full sun or partial shade. Protect with a dry winter mulch",
-        "propagation": "Propagate by division in spring, or take bud cuttings in mid-summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down faded flower spikes in autumn",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to crown rot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, reliably moist soil in full sun or partial shade. Protect with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring, or take bud cuttings in mid-summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down faded flower spikes in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to crown rot and a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lobelia cardinalis 'Chocolate Truffle'PBR",
+    "display_name": ""
 }

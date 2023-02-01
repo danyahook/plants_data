@@ -94,20 +94,72 @@
         "plant_range": "Mexico"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based or loam-less compost, in full light with shade from hot sun. During growth, water freely and apply a balanced liquid fertiliser monthly. Keep just moist in winter and maintain low to moderate humidity. Can be grown outdoors in frost-free areas in moderately fertile, humus-rich, moist-but-well-drained soil. Protect form cold, drying winds and excessive winter wet",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring or root softwood cuttings in spring or early summer. Semi-hardwood cuttings can be taken in late summer or autumn, with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Cut flowers",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "May get slugs, snails and leafhoppers",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Under glass grow in loam-based or loam-less compost, in full light with shade from hot sun. During growth, water freely and apply a balanced liquid fertiliser monthly. Keep just moist in winter and maintain low to moderate humidity. Can be grown outdoors in frost-free areas in moderately fertile, humus-rich, moist-but-well-drained soil. Protect form cold, drying winds and excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring or root softwood cuttings in spring or early summer. Semi-hardwood cuttings can be taken in late summer or autumn, with bottom heat",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Cut flowers",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May get slugs, snails and leafhoppers",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia fulgens",
+    "display_name": "Mexican scarlet sage"
 }

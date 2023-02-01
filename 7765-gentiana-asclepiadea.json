@@ -83,17 +83,41 @@
         "plant_range": "Europe to Iran"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, humus-rich soil that is reliably moist but well-drained; avoid chalky soils. It needs shade from hot sun but in areas with cool, damp summers it can tolerate sun",
-        "propagation": "Propagate by seed sown in pots in an open frame as soon as seed is ripe",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in light, humus-rich soil that is reliably moist but well-drained; avoid chalky soils. It needs shade from hot sun but in areas with cool, damp summers it can tolerate sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in an open frame as soon as seed is ripe",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gentiana_asclepiadea.html",
@@ -168,5 +192,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Gentiana asclepiadea",
+    "display_name": "Willow gentian"
 }

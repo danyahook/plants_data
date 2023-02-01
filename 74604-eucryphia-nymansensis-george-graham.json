@@ -94,17 +94,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, well-drained soil in a sheltered position, with the roots shaded and the crown in full sun",
-        "propagation": "Propagate by semi-ripe cuttings in summer, overwintering young plants in a cool greenhouse",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 9",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in moist, well-drained soil in a sheltered position, with the roots shaded and the crown in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer, overwintering young plants in a cool greenhouse",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 9",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Eucryphia × nymansensis 'George Graham'",
+    "display_name": "Nymans eucryphia 'george graham'"
 }

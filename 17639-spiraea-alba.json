@@ -88,17 +88,61 @@
         "plant_range": "N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in most moist soils, including wet and boggy soils, tolerant of all but the most extreme conditions, in full sun or light shade",
-        "propagation": "Propagate suckering species such as S. alba by division in late summer or early spring. Propagate by softwood or semi-ripe cuttings in spring to late summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Ground cover",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 6 for spiraea flowering on current years stems, deadhead after flowering. Keep really neat and compact by cutting all stems back to within 15cm of ground level after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in most moist soils, including wet and boggy soils, tolerant of all but the most extreme conditions, in full sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate suckering species such as S. alba by division in late summer or early spring. Propagate by softwood or semi-ripe cuttings in spring to late summer or hardwood cuttings in winter",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Ground cover",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6 for spiraea flowering on current years stems, deadhead after flowering. Keep really neat and compact by cutting all stems back to within 15cm of ground level after flowering",
+            "link_names": [
+                "Pruning group 6",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Spiraea_alba.html",
@@ -151,5 +195,7 @@
             "Branch blight",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Spiraea alba",
+    "display_name": "American meadowsweet"
 }

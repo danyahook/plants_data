@@ -92,17 +92,63 @@
         "plant_range": "S Europe, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Requires a dry, dormant period in summer; grows best in containers with a mix of equal parts loam, leaf mould and grit under unheated glass with good light and ventilation",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe, or divide in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Vulnerable to aphids, slugs and snails",
-        "diseases": "May be affected by powdery mildews"
+        "cultivation": {
+            "text": "Requires a dry, dormant period in summer; grows best in containers with a mix of equal parts loam, leaf mould and grit under unheated glass with good light and ventilation",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe, or divide in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ranunculus_asiaticus.html",
@@ -198,5 +244,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Ranunculus asiaticus",
+    "display_name": "Persian buttercup"
 }

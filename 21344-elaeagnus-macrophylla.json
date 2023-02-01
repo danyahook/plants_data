@@ -115,17 +115,67 @@
         "plant_range": "Korea Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade; will thrive by the coast, and in any well-drained soil, including poor soil, except very shallow chalk",
-        "propagation": "Propagate by seed sown in a cold frame in autumn, by layering in spring, by semi-ripe cuttings in summer, or by grafting in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or pruning group 9",
-        "pests": "May be affected by elaeagnus sucker",
-        "diseases": "May be affected by coral spot and a fungal leaf spot"
+        "cultivation": {
+            "text": "Grow in full sun or partial shade; will thrive by the coast, and in any well-drained soil, including poor soil, except very shallow chalk",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame in autumn, by layering in spring, by semi-ripe cuttings in summer, or by grafting in late winter",
+            "link_names": [
+                "Propagate by seed",
+                "Layering",
+                "Semi-ripe",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 9",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to elaeagnus sucker",
+            "link_names": [
+                "Elaeagnus sucker"
+            ],
+            "related_links": {
+                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, coral spot or leaf spot (fungal) see leaf damage on woody plants",
+            "link_names": [
+                "Honey fungus",
+                "Coral spot"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Elaeagnus_macrophylla.html",
@@ -171,5 +221,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Elaeagnus macrophylla",
+    "display_name": "Large-flowered oleaster"
 }

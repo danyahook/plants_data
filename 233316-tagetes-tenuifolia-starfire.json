@@ -83,18 +83,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil, in full sun. Water freely during very dry spells",
-        "propagation": "Propagate by sowing seeds in containers or the open ground in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Bedding",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required, dead head regularly to prolong flowering",
-        "pests": "May be susceptible to red spider mite, whiteflies, slugs and snails",
-        "diseases": "May be susceptible to grey mould and Phytophthora"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile soil, in full sun. Water freely during very dry spells",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seeds in containers or the open ground in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Bedding",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, dead head regularly to prolong flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mite, whiteflies, slugs and snails",
+            "link_names": [
+                "Red spider mite",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey mould and Phytophthora",
+            "link_names": [
+                "Phytophthora"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Tagetes tenuifolia 'Starfire'",
+    "display_name": ""
 }

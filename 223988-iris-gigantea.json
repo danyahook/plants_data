@@ -102,16 +102,60 @@
         "plant_range": "Greece, Turkey"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich soil in a sheltered position in sun or partial shade",
-        "propagation": "Propagate by seed sown in pots in a cold frame in autumn or spring. Propagate by division of rhizomes from midsummer to early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
-        "pests": "Prone to slugs, snails and thrips",
-        "diseases": "May be affected by grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in moist, humus-rich soil in a sheltered position in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in autumn or spring. Propagate by division of rhizomes from midsummer to early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs, snails and thrips",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Thrips"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Iris gigantea",
+    "display_name": "Turkish iris"
 }

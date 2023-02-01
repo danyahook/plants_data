@@ -88,17 +88,75 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil rich in organic matter, and shelter from cold, drying winds. This species climbs using aerial roots and will need suitable support, especially when young. Mulch annually in spring. See climbing hydrangea cultivation for more detailed advice",
-        "propagation": "Propagate by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Climber and wall shrubs"
-        ],
-        "pruning": "Pruning Group 11, after flowering",
-        "pests": "May be susceptible to aphids, capsid bug, red spider mite, stem and bulb eelworm, vine weevil and scale insects",
-        "diseases": "May be susceptible to honey fungus, grey moulds, powdery mildews, leaf spot and virus diseases"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil rich in organic matter, and shelter from cold, drying winds. This species climbs using aerial roots and will need suitable support, especially when young. Mulch annually in spring. See climbing hydrangea cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Mulch",
+                "Climbing hydrangea cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "climbing_hydrangea_cultivation": "https://www.rhs.org.uk/plants/hydrangea/climbing/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Climber and wall shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning Group 11, after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug, red spider mite, stem and bulb eelworm, vine weevil and scale insects",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Red spider mite",
+                "Stem and bulb eelworm",
+                "Vine weevil",
+                "Scale insects"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "stem_and_bulb_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrangea_anomala.html",
@@ -144,5 +202,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Hydrangea anomala",
+    "display_name": "Japanese climbing hydrangea"
 }

@@ -89,15 +89,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in partial shade; this Japanese maple is said to be more resistant to leaf scorch than many other cultivars, but the striking foliage is still at its best where it is protected from cold, drying winds and excessive midday sun. For more advice, see Japanese maple cultivation",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be affected by scale insects, including horse chestnut scale, aphids and caterpillars; plants in containers may be affected by vine weevil larvae",
-        "diseases": "May be affected by coral spot, Phytophthora root rot, verticillium wilt and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in partial shade; this Japanese maple is said to be more resistant to leaf scorch than many other cultivars, but the striking foliage is still at its best where it is protected from cold, drying winds and excessive midday sun. For more advice, see Japanese maple cultivation",
+            "link_names": [
+                "Leaf scorch",
+                "Japanese maple cultivation"
+            ],
+            "related_links": {
+                "leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "japanese_maple_cultivation": "https://www.rhs.org.uk/plants/acer/japanese-maples/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer shirasawanum 'Munn 001'PBR",
+    "display_name": "Shirasawa maple [moonrise]"
 }

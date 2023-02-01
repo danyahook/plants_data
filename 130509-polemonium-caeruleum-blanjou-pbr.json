@@ -88,19 +88,53 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, moist but well-drained soil preferably in full sun or partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to the base in autumn",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, moist but well-drained soil preferably in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Polemonium caeruleum 'Blanjou'PBR",
+    "display_name": "Jacob's ladder [brise d'anjou]"
 }

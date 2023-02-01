@@ -88,21 +88,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter cuttings under glass. Can withstand short spells below 0°C",
-        "propagation": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Ground cover",
-            "Bedding"
-        ],
-        "pruning": "Deadheading regularly will help prolong flowering",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to a downy mildew and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil in a warm, sunny position. In frosty areas overwinter cuttings under glass. Can withstand short spells below 0°C",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or semi-hardwood cuttings in late summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Ground cover",
+                "Bedding"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadheading regularly will help prolong flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew and verticillium wilt",
+            "link_names": [
+                "A downy mildew",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Osteospermum 'Snow Pixie'",
+    "display_name": "African daisy 'snow pixie'"
 }

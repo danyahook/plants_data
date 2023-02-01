@@ -117,15 +117,53 @@
         "plant_range": "China, Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow indoors where it tolerates a wide range of conditions. Outdoors grow in well-drained humus-rich soil in full or partial shade",
-        "propagation": "Propagate by seed or detach individual rosettes",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by slugs, aphids and glasshouse red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow indoors where it tolerates a wide range of conditions. Outdoors grow in well-drained humus-rich soil in full or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or detach individual rosettes",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, aphids and glasshouse red spider mite",
+            "link_names": [
+                "Slugs",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Saxifraga ligulata",
+    "display_name": "Creeping saxifrage"
 }

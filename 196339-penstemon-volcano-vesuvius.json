@@ -93,16 +93,68 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil preferably in full sun. In cold areas or in pots, protect plant overwinter with a dry winter mulch",
-        "propagation": "Propagate by softwood or semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour",
-        "pests": "Generally pest-free but may be attacked by slugs, snails and chrysanthemum eelworms",
-        "diseases": "May be susceptible to a downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil preferably in full sun. In cold areas or in pots, protect plant overwinter with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and chrysanthemum eelworms but generally pest free",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew",
+            "link_names": [
+                "A downy mildew"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Volcano Vesuvius'",
+    "display_name": "Penstemon [vesuvius]"
 }

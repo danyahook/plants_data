@@ -93,19 +93,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, leafy, moist soil in full or partial shade, sheltered from wind",
-        "propagation": "Divide in spring or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove old leaves in spring",
-        "pests": "Emerging leaves may be damaged by slugs and snails",
-        "diseases": "Normally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in humus-rich, leafy, moist soil in full or partial shade, sheltered from wind",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in spring or late summer",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove old leaves in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Emerging leaves may be damaged by slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Normally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Dysosma versipellis 'Spotty Dotty'",
+    "display_name": "Mayapple 'spotty dotty'"
 }

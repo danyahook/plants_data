@@ -80,19 +80,71 @@
         "plant_range": "China to Korea"
     },
     "how_to_grow": {
-        "cultivation": "This cultivar is lime-tolerant but grows best in moist acid soil in full sun or part shade; ideal in pots, see growing lilies in containers for further information",
-        "propagation": "Propagate from seed (indoors) sown in warmth when ripe, or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut down stems as foliage yellows and dies back",
-        "pests": "May be affected by lily beetle, aphids and slugs; plants in pots are vulnerable to vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems, see lily diseases"
-    }
+        "cultivation": {
+            "text": "This cultivar is lime-tolerant but grows best in moist acid soil in full sun or part shade; ideal in pots, see growing lilies in containers for further information",
+            "link_names": [
+                "Growing lilies",
+                "Containers"
+            ],
+            "related_links": {
+                "growing_lilies": "https://www.rhs.org.uk/container-gardening/lilies",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from seed (indoors) sown in warmth when ripe, or separate offsets after the foliage dies down",
+            "link_names": [
+                "(indoors)"
+            ],
+            "related_links": {
+                "(indoors)": "https://www.rhs.org.uk/propagation/seed-indoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down stems as foliage yellows and dies back",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to lily beetle, aphids and slugs; plants in pots are vulnerable to vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds and a virus. For more advice, see lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium tsingtauense (IXa/c)",
+    "display_name": "Twilight lily"
 }

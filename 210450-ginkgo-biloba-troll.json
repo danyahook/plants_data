@@ -80,15 +80,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in full sun with shelter from cold, drying winds. Makes a good container plant.",
-        "propagation": "Propagate by smi-ripe cuttings in summer or propagate by grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1 if needed but no pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in full sun with shelter from cold, drying winds. Makes a good container plant.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by smi-ripe cuttings in summer or propagate by grafting in winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 if needed but no pruning required",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ginkgo biloba 'Troll'",
+    "display_name": "Maidenhair tree 'troll'"
 }

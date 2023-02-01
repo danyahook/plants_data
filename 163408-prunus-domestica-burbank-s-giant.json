@@ -89,16 +89,82 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in a sheltered position in moist, but well-drained soil, ideally with a pH of 6 to 6.5. Irrigate in dry periods. Fruit thinning may be required. See plum cultivation",
-        "propagation": "Propagate by chip budding or grafting. Trees grown from stones will not resemble the parent",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Edible fruit",
-            "Wall side borders"
-        ],
-        "pruning": "Regular pruning required according to tree form; see pruning plums or pruning established fans",
-        "pests": "May be susceptible to plum aphid, caterpillars, fruit tree red spider mite, brown scale, plum moth and damage by wasps and birds",
-        "diseases": "May be susceptible to silver leaf, bacterial canker, blossom wilt, pocket plum and brown rot"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in a sheltered position in moist, but well-drained soil, ideally with a pH of 6 to 6.5. Irrigate in dry periods. Fruit thinning may be required. See plum cultivation",
+            "link_names": [
+                "Fruit thinning",
+                "Plum cultivation"
+            ],
+            "related_links": {
+                "fruit_thinning": "https://www.rhs.org.uk/fruit/fruit-trees/thinning",
+                "plum_cultivation": "https://www.rhs.org.uk/fruit/plums/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting. Trees grown from stones will not resemble the parent",
+            "link_names": [
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Edible fruit",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Regular pruning required according to tree form; see pruning plums or pruning established fans",
+            "link_names": [
+                "Pruning plums",
+                "Pruning established fans"
+            ],
+            "related_links": {
+                "pruning_plums": "https://www.rhs.org.uk/fruit/plums/pruning",
+                "pruning_established_fans": "https://www.rhs.org.uk/fruit/fruit-trees/pruning-established-fan-trained"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to plum aphid, caterpillars, fruit tree red spider mite, brown scale, plum moth and damage by wasps and birds",
+            "link_names": [
+                "Plum aphid",
+                "Red spider mite",
+                "Brown scale",
+                "Plum moth",
+                "Birds"
+            ],
+            "related_links": {
+                "plum_aphid": "https://www.rhs.org.uk/biodiversity/plum-aphids",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "plum_moth": "https://www.rhs.org.uk/biodiversity/plum-moth",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus domestica 'Burbank's Giant'",
+    "display_name": "Plum 'giant prune'"
 }

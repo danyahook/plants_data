@@ -91,15 +91,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will tolerate hot, dry conditions and poor, infertile soils. Good as ground cover",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get aphids and gall midge",
-        "diseases": "May be infected by a downy mildew and white blister"
-    }
+        "cultivation": {
+            "text": "Will tolerate hot, dry conditions and poor, infertile soils. Good as ground cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and gall midge",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by a downy mildew and white blister",
+            "link_names": [
+                "A downy mildew",
+                "White blister"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot"
+            }
+        }
+    },
+    "main_name_original": "Arabis alpina 'Flore Pleno'",
+    "display_name": "Mountain rock cress 'flore pleno'"
 }

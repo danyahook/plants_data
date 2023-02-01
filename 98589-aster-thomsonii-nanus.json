@@ -83,20 +83,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun in a well-drained, alkaline soil with moisture in the spring and summer Ideal for a container",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be susceptible to tarsonemid mite",
-        "diseases": "May be susceptible to verticillium wilt and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grows best in full sun in a well-drained, alkaline soil with moisture in the spring and summer Ideal for a container",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to tarsonemid mite",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster thomsonii 'Nanus'",
+    "display_name": ""
 }

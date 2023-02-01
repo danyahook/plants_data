@@ -98,14 +98,54 @@
         "plant_range": "W China"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow prickly, thicket forming, deciduous shrub; will grow in full sun or partial shade",
-        "propagation": "Propagate by softwood cuttings in summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Generally pest-free",
-        "diseases": "Grey moulds may be a problem"
-    }
+        "cultivation": {
+            "text": "Easy to grow prickly, thicket forming, deciduous shrub; will grow in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or hardwood cuttings in winter",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Grey moulds may be a problem",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Rubus veitchii",
+    "display_name": "Ghost bramble"
 }

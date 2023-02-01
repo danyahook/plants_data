@@ -86,17 +86,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any, moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best but shade is tolerated",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be susceptible to vine weevil, capsid bug, geranium sawfly, slugs and snails",
-        "diseases": "Maybe susceptible to Powdery mildews, a downy mildew and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in any, moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best but shade is tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, capsid bug, geranium sawfly, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug",
+                "Geranium sawfly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to Powdery mildews, a downy mildew and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "A downy mildew",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium maculatum 'Vickie Lynn'",
+    "display_name": ""
 }

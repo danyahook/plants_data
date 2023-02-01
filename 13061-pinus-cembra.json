@@ -100,16 +100,56 @@
         "plant_range": "C & E Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun. May be short-lived in shallow, chalk soil. See Trees: buying and planting specimens",
-        "propagation": "Propagate by seed in containers in a cold frame in spring. Semi-ripe cuttings from vigorous young growth in summer or early to mid autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Keep pruning to a minimum but if dual leaders form on young trees, remove one to produce a single-stemmed tree. Trees may be resinous, any pruning should be carried out from late summer to midwinter",
-        "pests": "Prone to adelgids, aphids, sawfly larvae and pine shoot moth",
-        "diseases": "Susceptible to needle blight and cast diseases and needle rust diseases, honey fungus and bracket fungi"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun. May be short-lived in shallow, chalk soil. See Trees: buying and planting specimens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in spring. Semi-ripe cuttings from vigorous young growth in summer or early to mid autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Keep pruning to a minimum but if dual leaders form on young trees, remove one to produce a single-stemmed tree. Trees may be resinous, any pruning should be carried out from late summer to midwinter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pinus_cembra.html",
@@ -168,5 +208,7 @@
             "Crown gall",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Pinus cembra",
+    "display_name": "Arolla pine"
 }

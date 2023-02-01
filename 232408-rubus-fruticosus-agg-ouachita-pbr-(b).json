@@ -79,14 +79,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Can be fan trained and tolerates most soils but does best in neutral or slightly acid soils, but needs sun to flower and fruit well. Mulch with well-rotted compost",
-        "propagation": "Propagate by tip layering or from cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit",
-            "Wall side borders"
-        ],
-        "pruning": "Cut out old canes following fruiting and tie in new canes; see pruning blackberries",
-        "pests": "May be susceptible to aphids, leafhoppers, raspberry beetle and gall mites",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Can be fan trained and tolerates most soils but does best in neutral or slightly acid soils, but needs sun to flower and fruit well. Mulch with well-rotted compost",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by tip layering or from cuttings",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut out old canes following fruiting and tie in new canes; see pruning blackberries",
+            "link_names": [
+                "Pruning blackberries"
+            ],
+            "related_links": {
+                "pruning_blackberries": "https://www.rhs.org.uk/fruit/blackberries-and-hybrid-berries/pruning-training"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leafhoppers, raspberry beetle and gall mites",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rubus fruticosus agg. 'Ouachita'PBR (B)",
+    "display_name": "Blackberry 'ouachita'"
 }

@@ -82,18 +82,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, neutral to alkaline, moist but well-drained soil, delicate flower colours are best preserved when grown in partial shade.",
-        "propagation": "Propagate by seed sown in spring, by division in spring or autumn, or by basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering to prevent self-seeding",
-        "pests": "May be susceptible to aphids, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews and rust diseases"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, neutral to alkaline, moist but well-drained soil, delicate flower colours are best preserved when grown in partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, by division in spring or autumn, or by basal softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and rust diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Campanula lactiflora 'Platinum'",
+    "display_name": ""
 }

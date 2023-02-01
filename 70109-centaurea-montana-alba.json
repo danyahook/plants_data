@@ -92,17 +92,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in full sun or partial shade",
-        "propagation": "Insert root cuttings in winter or propagate by division in spring. Propagate by seed, self sown seedling come fairly true",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering and cut back to encourage fresh foliage",
-        "pests": "Generally trouble free",
-        "diseases": "Powdery mildew and downy mildew may be a problem"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Insert root cuttings in winter or propagate by division in spring. Propagate by seed, self sown seedling come fairly true",
+            "link_names": [
+                "Root cuttings",
+                "Division",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering and cut back to encourage fresh foliage",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery mildew and downy mildew may be a problem",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Centaurea_montana__Alba_.html",
@@ -135,5 +171,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Centaurea montana 'Alba'",
+    "display_name": "White perennial cornflower"
 }

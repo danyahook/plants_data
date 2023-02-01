@@ -87,18 +87,58 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil, ideally in full sun, with shelter from cold, dry winds. Tolerates partial shade. Salt tolerant foliage suited to exposed coastal sites",
-        "propagation": "Semi-ripe cuttings with bottom heat in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 and Pruning group 8. If grown as a hedge, clip in summer",
-        "pests": "Glasshouse whitefly may occur",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil, ideally in full sun, with shelter from cold, dry winds. Tolerates partial shade. Salt tolerant foliage suited to exposed coastal sites",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Semi-ripe cuttings with bottom heat in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 and Pruning group 8. If grown as a hedge, clip in summer",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 8",
+                "Hedge"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Glasshouse whitefly may occur",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phillyrea_angustifolia.html",
@@ -247,5 +287,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Phillyrea angustifolia",
+    "display_name": "Narrow-leaved mock privet"
 }

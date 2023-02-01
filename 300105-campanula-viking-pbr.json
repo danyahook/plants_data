@@ -81,16 +81,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant in fertile, moist but well-drained soil that is neutral to alkaline, in full sun or partial shade",
-        "propagation": "Propagate by seed in spring or by basal cuttings and division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required, but deadhead faded flowers",
-        "pests": "May be susceptible to slugs and snails",
-        "diseases": "May be susceptible to leaf spot, powdery mildew and rust"
-    }
+        "cultivation": {
+            "text": "Plant in fertile, moist but well-drained soil that is neutral to alkaline, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or by basal cuttings and division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadhead faded flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot, powdery mildew and rust",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Campanula 'Viking'PBR",
+    "display_name": "Bellflower 'viking'"
 }

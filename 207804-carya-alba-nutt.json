@@ -115,14 +115,54 @@
         "plant_range": "E USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, humus rich, moist but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by seed sown in situ as soon as ripe; seedlings rapidly develop a deep tap root and resent transplanting",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest free",
-        "diseases": "Prone to crown gall, powdery mildews and leaf spot (see leaf damage on woody plants)"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, humus rich, moist but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ as soon as ripe; seedlings rapidly develop a deep tap root and resent transplanting",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Prone to crown gall, powdery mildews and leaf spot (see leaf damage on woody plants)",
+            "link_names": [
+                "Crown gall",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "crown_gall": "https://www.rhs.org.uk/disease/crown-gall",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Carya alba Nutt.",
+    "display_name": "Shagbark hickory"
 }

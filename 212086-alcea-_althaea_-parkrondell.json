@@ -96,18 +96,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best in fertile, well-drained soil in a sunny, sheltered position. May need staking",
-        "propagation": "Propagate by softwood cuttings, does not produce seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down to ground once flowering is over",
-        "pests": "May be susceptible to mallow flea beetles or aphids",
-        "diseases": "May be susceptible to a rust"
-    }
+        "cultivation": {
+            "text": "Best in fertile, well-drained soil in a sunny, sheltered position. May need staking",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings, does not produce seed",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down to ground once flowering is over",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mallow flea beetles or aphids",
+            "link_names": [
+                "Flea beetles",
+                "Aphids"
+            ],
+            "related_links": {
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Alcea × _Althaea_, 'Parkrondell'",
+    "display_name": "Shrubby alcalthaea 'parkrondell'"
 }

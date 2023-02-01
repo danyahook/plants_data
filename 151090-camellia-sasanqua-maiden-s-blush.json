@@ -88,16 +88,76 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Does well in a hot, sunny site once roots are established but may need protection in very cold winters or in freezing winds; see camellia cultivation for further information",
-        "propagation": "Propagate from semi-ripe or hardwood cuttings or by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be affected by scale insects and vine weevil",
-        "diseases": "May be susceptible to honey fungus, phytophthora root rot, camellia gall, camellia leaf blight and camellia yellow mottle virus"
-    }
+        "cultivation": {
+            "text": "Does well in a hot, sunny site once roots are established but may need protection in very cold winters or in freezing winds; see camellia cultivation for further information",
+            "link_names": [
+                "Camellia cultivation"
+            ],
+            "related_links": {
+                "camellia_cultivation": "https://www.rhs.org.uk/plants/camellia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from semi-ripe or hardwood cuttings or by grafting",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and vine weevil",
+            "link_names": [
+                "Scale insects",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, phytophthora root rot, camellia gall, camellia leaf blight and camellia yellow mottle virus",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Camellia gall",
+                "Camellia leaf blight",
+                "Camellia yellow mottle virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "camellia_gall": "https://www.rhs.org.uk/disease/camellia-gall",
+                "camellia_leaf_blight": "https://www.rhs.org.uk/disease/camellia-leaf-blight",
+                "camellia_yellow_mottle_virus": "https://www.rhs.org.uk/disease/camellia-viruses"
+            }
+        }
+    },
+    "main_name_original": "Camellia sasanqua 'Maiden's Blush'",
+    "display_name": "Camellia 'maiden's blush'"
 }

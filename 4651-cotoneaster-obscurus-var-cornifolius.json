@@ -91,18 +91,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in well-drained, loamless or loam-based potting compost (John Innes No.2 or 3) in full light with shade from hot sun. While in gowth, water freely and apply a balanced liquid fertiliser monthly; water moderately in winter. Maintain low to moderate humidity. Outdoors, grow in light, moderately fertile, humus-rich, moist but well-drained soil in full sun and shelter from cold, drying winds",
-        "propagation": "Propagate by softwood cuttings in spring or early summer or semi-ripe cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9; cut back overwintered plants in spring",
-        "pests": "Slugs and snails and capsid bug may attack young growth. Under glass aphids, glasshouse red spider mite and glasshouse whitefly may be a problem",
-        "diseases": "Foot and root rots may be troublesome under glass"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun; tolerant of dry conditions once established",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe in autumn, or by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to brown scale, cotoneaster webber caterpillar and aphids including woolly aphid",
+            "link_names": [
+                "Brown scale",
+                "Cotoneaster webber caterpillar",
+                "Aphids",
+                "Woolly aphid"
+            ],
+            "related_links": {
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight, honey fungus, leaf spot, silver leaf and virus diseases",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus",
+                "Silver leaf",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Cotoneaster obscurus var. cornifolius",
+    "display_name": ""
 }

@@ -92,16 +92,60 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Tolerates a range of soils. Useful ground cover for light shade in warmer regions",
-        "propagation": "Propagate by seed, by semi-ripe cuttings or by layering; stems will sometimes root naturally as they spread",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required, though can be trimmed to create a bushier shape and will tolerate renovative pruning if necessary",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to coral spot and honey fungus"
+        "cultivation": {
+            "text": "Tolerates a range of soils. Useful ground cover for light shade in warmer regions",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by semi-ripe cuttings or by layering; stems will sometimes root naturally as they spread",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, though can be trimmed to create a bushier shape and will tolerate renovative pruning if necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midges and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ribes_viburnifolium.html",
@@ -140,5 +184,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ribes viburnifolium",
+    "display_name": ""
 }

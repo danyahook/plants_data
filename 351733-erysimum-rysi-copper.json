@@ -90,15 +90,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, well-drained, preferably alkaline soil in full sun",
-        "propagation": "Propagate by semi-ripe cuttings, using shoots without flower buds",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering, and cut back by half after flowering to prevent plants getting leggy",
-        "pests": "May be attacked by slugs, snails and flea beetles",
-        "diseases": "May be susceptible to a range of diseases including club root, downy mildews, leaf spot, root rot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, well-drained, preferably alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings, using shoots without flower buds",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering, and cut back by half after flowering to prevent plants getting leggy",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and flea beetles",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a range of diseases including club root, downy mildews, leaf spot, root rot and a virus",
+            "link_names": [
+                "Club root",
+                "Downy mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Erysimum Rysi Copper",
+    "display_name": ""
 }

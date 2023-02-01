@@ -93,16 +93,64 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil. Can be grown in a wide range of soils, but thrives in alkaline soils. Tolerant of partial shade; for best fruiting grow full sun. Good for the edge of informal borders or as a ground cover; can spread. Suitable for container cultivation",
-        "propagation": "Remove and transplant runners. Propagate by seed sow at 13-18°C in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Ground cover"
-        ],
-        "pruning": "Remove excess runners",
-        "pests": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
-        "diseases": "May be affected by strawberry viruses and root rot. Fruit prone to grey moulds"
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil. Can be grown in a wide range of soils, but thrives in alkaline soils. Tolerant of partial shade; for best fruiting grow full sun. Good for the edge of informal borders or as a ground cover; can spread. Suitable for container cultivation",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Remove and transplant runners. Propagate by seed sow at 13-18°C in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove excess runners",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, slugs, glasshouse red spider mite and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Glasshouse red spider mite",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by strawberry viruses and root rot. Fruit prone to grey moulds",
+            "link_names": [
+                "Strawberry viruses",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "strawberry_viruses": "https://www.rhs.org.uk/disease/strawberry-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fragaria_vesca.html",
@@ -164,5 +212,7 @@
             "Leaf rot",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Fragaria vesca (F)",
+    "display_name": "Alpine strawberry"
 }

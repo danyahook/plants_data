@@ -123,16 +123,54 @@
         "plant_range": "Europe, Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade; plants may need support",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Low Maintenance"
-        ],
-        "pruning": "Deadhead regularly then cut stems down to the ground in winter",
-        "pests": "Can get aphids",
-        "diseases": "May be subject to a leaf spot"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade; plants may need support",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly then cut stems down to the ground in winter",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Leucanthemum_vulgare.html",
@@ -193,5 +231,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Leucanthemum vulgare",
+    "display_name": "Ox-eye daisy"
 }

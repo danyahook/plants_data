@@ -91,14 +91,54 @@
         "plant_range": "China, Japan"
     },
     "how_to_grow": {
-        "cultivation": "A climber that thrives with any good garden soil and aspect, but resents root disturbance",
-        "propagation": "Propagate by seed, softwood cuttings or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "A climber that thrives with any good garden soil and aspect, but resents root disturbance",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings or layering",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 after flowering",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Akebia_trifoliata.html",
@@ -141,5 +181,7 @@
             "Yellow spot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Akebia trifoliata",
+    "display_name": "Three-leaf akebia"
 }

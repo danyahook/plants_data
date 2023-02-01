@@ -88,17 +88,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in sun or partial shade. In colder areas protect from cold drying winds. Protect in winter with a mulch",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in mid summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Dead-head after flowering to maintain vigour. Prune to new shoots lower down in the spring",
-        "pests": "Maybe susceptible to slugs and snails and chrysanthemum eelworm",
-        "diseases": "Maybe susceptible to powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in sun or partial shade. In colder areas protect from cold drying winds. Protect in winter with a mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in mid summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead-head after flowering to maintain vigour. Prune to new shoots lower down in the spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Maybe susceptible to slugs and snails and chrysanthemum eelworm",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Penstemon 'Arabesque Red'",
+    "display_name": ""
 }

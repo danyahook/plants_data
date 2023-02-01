@@ -88,16 +88,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in poor alkaline soils in full sun. Short lived but will self-seed freely.",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Architectural",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Remove flower spikes when faded, particularly to prevent self-seeding",
-        "pests": "May be susceptible to moth caterpillars and figwort weevil",
-        "diseases": "May be susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grows best in poor alkaline soils in full sun. Short lived but will self-seed freely.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Architectural",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flower spikes when faded, particularly to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to moth caterpillars and figwort weevil",
+            "link_names": [
+                "Figwort weevil"
+            ],
+            "related_links": {
+                "figwort_weevil": "https://www.rhs.org.uk/biodiversity/figwort-weevils"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Verbascum_speciosum.html",
@@ -130,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Verbascum speciosum",
+    "display_name": "Hungarian mullein"
 }

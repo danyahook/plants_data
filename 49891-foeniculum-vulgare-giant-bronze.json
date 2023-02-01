@@ -92,19 +92,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, or well-drained soil in fulll sun.",
-        "propagation": "Propagate by seed at sown undercover at 13-18°C (55-64°F), or alternatively propagate from seed (sown outdoors) in situ. However, existing plants readily self-seed once established.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Gravel garden",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required. Cut back dead stems in autumn or winter. Remove faded flowers to prevent self-seeding",
-        "pests": "May be susceptible to aphids and slugs",
-        "diseases": "May be susceptible to powdery mildews and downy mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, or well-drained soil in fulll sun.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at sown undercover at 13-18°C (55-64°F), or alternatively propagate from seed (sown outdoors) in situ. However, existing plants readily self-seed once established.",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors)"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors)": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Gravel garden",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Cut back dead stems in autumn or winter. Remove faded flowers to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and downy mildews",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Foeniculum vulgare 'Giant Bronze'",
+    "display_name": "Fennel 'giant bronze'"
 }

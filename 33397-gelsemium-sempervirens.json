@@ -95,17 +95,55 @@
         "plant_range": "C Americas"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam based potting compost in full or bright filtered light with shade from hot sun. Water freely when in growth applying a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors in milder areas in most moderately fertile soils but will require protection from cold drying winds",
-        "propagation": "Propagate by seed sown at 13 to 18°C in spring or take semi-hardwood cuttings with bottom heat in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 12, after flowering",
-        "pests": "Glasshouse whitefly may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in a loam based potting compost in full or bright filtered light with shade from hot sun. Water freely when in growth applying a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors in milder areas in most moderately fertile soils but will require protection from cold drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 13 to 18°C in spring or take semi-hardwood cuttings with bottom heat in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 12, after flowering",
+            "link_names": [
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Glasshouse whitefly may be a problem",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gelsemium_sempervirens.html",
@@ -164,5 +202,7 @@
             "Leaf scorch",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Gelsemium sempervirens",
+    "display_name": "Evening trumpet flower"
 }

@@ -84,18 +84,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in any fertile, well-drained soil in full sun or partial shade. Tolerant of acid, neutral and alkaline soils.",
-        "propagation": "Propagate by seed, softwood cuttings taken in summer; semi-ripe cuttings in early autumn and hardwood cuttings in late autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grows well in any fertile, well-drained soil in full sun or partial shade. Tolerant of acid, neutral and alkaline soils.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, softwood cuttings taken in summer; semi-ripe cuttings in early autumn and hardwood cuttings in late autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Deutzia pilosa",
+    "display_name": ""
 }

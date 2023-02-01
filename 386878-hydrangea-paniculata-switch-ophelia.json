@@ -93,17 +93,71 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in sun or partial shade. See shrubby hydrangea cultivation for more detailed advice",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or, to obtain larger flowerheads, cut back previous season's shoots to within a few buds of the woody framework in spring",
-        "pests": "Can get aphids, capsid bug, glasshouse red spider mite and hydrangea scale",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in sun or partial shade. See shrubby hydrangea cultivation for more detailed advice",
+            "link_names": [
+                "Shrubby hydrangea cultivation"
+            ],
+            "related_links": {
+                "shrubby_hydrangea_cultivation": "https://www.rhs.org.uk/plants/hydrangea/shrubby/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or, to obtain larger flowerheads, cut back previous season's shoots to within a few buds of the woody framework in spring",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, capsid bug, hydrangea scale and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Hydrangea paniculata Switch Ophelia",
+    "display_name": "Paniculate hydrangea [polestar]"
 }

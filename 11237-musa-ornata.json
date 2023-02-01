@@ -99,16 +99,60 @@
         "plant_range": "Burma & India"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in humus-rich soil in full sun. Will need protection over winter. Place in sheltered area as the wind tends to shred leaves. Grow under glass in loam-based compost in full light. See banana cultivation for further advice",
-        "propagation": "Propagate by seed, separate suckers or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Architectural",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required, but remove spent foliage and cutting back in autumn may be needed",
-        "pests": "May be attacked by glasshouse red spider mite, mealybugs and aphids under glass",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow outdoors in humus-rich soil in full sun. Will need protection over winter. Place in sheltered area as the wind tends to shred leaves. Grow under glass in loam-based compost in full light. See banana cultivation for further advice",
+            "link_names": [
+                "Banana cultivation"
+            ],
+            "related_links": {
+                "banana_cultivation": "https://www.rhs.org.uk/plants/banana/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, separate suckers or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Architectural",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but remove spent foliage and cutting back in autumn may be needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse red spider mite, mealybugs and aphids under glass",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Mealybugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Musa_ornata.html",
@@ -153,5 +197,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Musa ornata",
+    "display_name": "Flowering banana"
 }

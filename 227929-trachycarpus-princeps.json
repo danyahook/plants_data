@@ -105,16 +105,60 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, fertile soil in full sun or lightly dappled shade. Needs protection from strong or cold, drying winds, strong sunlight when young, and hard, winter frosts. Can also be grown as a conservatory or warm glasshouse specimen. See palm cultivation outdoors and palm cultivation indoors",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "Cut off old leaves close to the trunk",
-        "pests": "Generally pest-free outdoors; may be susceptible to scale insects, mealybugs and glasshouse red spider mite under glass",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, fertile soil in full sun or lightly dappled shade. Needs protection from strong or cold, drying winds, strong sunlight when young, and hard, winter frosts. Can also be grown as a conservatory or warm glasshouse specimen. See palm cultivation outdoors and palm cultivation indoors",
+            "link_names": [
+                "Palm cultivation outdoors",
+                "Palm cultivation indoors"
+            ],
+            "related_links": {
+                "palm_cultivation_outdoors": "https://www.rhs.org.uk/plants/types/trees/hardy-palms",
+                "palm_cultivation_indoors": "https://www.rhs.org.uk/plants/types/trees/indoor-palms"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut off old leaves close to the trunk",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free outdoors; may be susceptible to scale insects, mealybugs and glasshouse red spider mite under glass",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Trachycarpus princeps",
+    "display_name": "Stone gate palm"
 }

@@ -81,17 +81,67 @@
         "plant_range": "S Africa"
     },
     "how_to_grow": {
-        "cultivation": "Good for outdoor display once risk of frost is past. See pelargonium cultivation",
-        "propagation": "Propagate by seed or by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly",
-        "pests": "May be susceptible to aphids in spring",
-        "diseases": "May be susceptible to Pelargonium rust and Pelargonium viruses"
-    }
+        "cultivation": {
+            "text": "Good for outdoor display once risk of frost is past. See pelargonium cultivation",
+            "link_names": [
+                "Pelargonium cultivation"
+            ],
+            "related_links": {
+                "pelargonium_cultivation": "https://www.rhs.org.uk/plants/pelargonium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids in spring",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Pelargonium rust and Pelargonium viruses",
+            "link_names": [
+                "Pelargonium rust",
+                "Pelargonium viruses"
+            ],
+            "related_links": {
+                "pelargonium_rust": "https://www.rhs.org.uk/disease/pelargonium-rust",
+                "pelargonium_viruses": "https://www.rhs.org.uk/problems/pelargonium-viruses"
+            }
+        }
+    },
+    "main_name_original": "Pelargonium transvaalense",
+    "display_name": "Transvaal geranium"
 }

@@ -82,13 +82,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in still or slow moving water 15-22cm deep",
-        "propagation": "Propagate division in spring or late summer. Please see perennials: division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to aphids, slugs and snails damage",
-        "diseases": "May be susceptible to Powdery mildews, a rust and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in still or slow moving water 15-22cm deep",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate division in spring or late summer. Please see perennials: division",
+            "link_names": [
+                "Division",
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and snails damage",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, a rust and grey moulds",
+            "link_names": [
+                "Powdery mildews",
+                "A rust",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Ranunculus flammula 'Golden Tower'",
+    "display_name": ""
 }

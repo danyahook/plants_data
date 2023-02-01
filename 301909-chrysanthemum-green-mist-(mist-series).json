@@ -80,17 +80,81 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "In milder areas grow all year round in moist but well-drained soil in full sun in a sheltered position, and overwinter with a coarse organic mulch such as bark chips or bracken; in colder areas, overwinter in containers in a frost-free place such as a cool conservatory; for more advice see chrysanthemum cultivation",
-        "propagation": "Propagate by division in spring or by basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by aphids, chrysanthemum leaf miner, leaf and bud eelworms, earwigs, capsid bug and glasshouse red spider mite",
-        "diseases": "Chrysanthemums may be affected by powdery mildews, grey moulds and other fungal rots, virus diseases, and rust diseases, especially chrysanthemum white rust; 'Prelude Apricot' is said to be tolerant of chrysanthemum white rust"
-    }
+        "cultivation": {
+            "text": "In milder areas grow all year round in moist but well-drained soil in full sun in a sheltered position, and overwinter with a coarse organic mulch such as bark chips or bracken; in colder areas, overwinter in containers in a frost-free place such as a cool conservatory; for more advice see chrysanthemum cultivation",
+            "link_names": [
+                "Mulch",
+                "Containers",
+                "Chrysanthemum cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "chrysanthemum_cultivation": "https://www.rhs.org.uk/plants/chrysanthemums/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or by basal softwood cuttings in spring",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, chrysanthemum leaf miner, leaf and bud eelworms, earwigs, capsid bug and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Chrysanthemum leaf miner",
+                "Leaf and bud eelworms",
+                "Earwigs",
+                "Capsid bug",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "chrysanthemum_leaf_miner": "https://www.rhs.org.uk/biodiversity/chrysanthemum-leaf-miner",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, grey moulds and other fungal rots, virus and rust diseases and especially chrysanthemum white rust; 'Prelude Apricot' is said to be tolerant of chrysanthemum white rust",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Rust diseases",
+                "Chrysanthemum white rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "chrysanthemum_white_rust": "https://www.rhs.org.uk/disease/chrysanthemum-white-rust"
+            }
+        }
+    },
+    "main_name_original": "Chrysanthemum 'Green Mist' (Mist Series)",
+    "display_name": ""
 }

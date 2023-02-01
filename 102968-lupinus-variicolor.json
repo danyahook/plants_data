@@ -90,20 +90,76 @@
         "plant_range": "California"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light and slightly acid, well-drained or sandy soil in full sun. May need staking, see staking perennials. Ideal for container cultivation. See lupin cultivation",
-        "propagation": "Propagate by seed in early to mid-spring or by basal stem cuttings in mid to late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage a second flush of flowers",
-        "pests": "May be susceptible to lupin aphid, slugs and snails",
-        "diseases": "May be susceptible to lupin anthracnose, Powdery mildews and a virus"
+        "cultivation": {
+            "text": "Grow in light and slightly acid, well-drained or sandy soil in full sun. May need staking, see staking perennials. Ideal for container cultivation. See lupin cultivation",
+            "link_names": [
+                "Staking perennials",
+                "Container",
+                "Lupin cultivation"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "lupin_cultivation": "https://www.rhs.org.uk/plants/lupins/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in early to mid-spring or by basal stem cuttings in mid to late spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage a second flush of flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lupin aphid, slugs and snails",
+            "link_names": [
+                "Lupin aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lupin anthracnose, Powdery mildews and a virus",
+            "link_names": [
+                "Lupin anthracnose",
+                "Powdery mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "lupin_anthracnose": "https://www.rhs.org.uk/disease/lupin-anthracnose",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lupinus_variicolor.html",
@@ -146,5 +202,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lupinus variicolor",
+    "display_name": ""
 }

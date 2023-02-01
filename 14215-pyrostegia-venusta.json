@@ -93,14 +93,52 @@
         "plant_range": "S America"
     },
     "how_to_grow": {
-        "cultivation": "Grow under heated glass in loam-based compost with added sharp sand and leaf mould, in full light",
-        "propagation": "Propagate from seed sown in heat in spring, or root semi-ripe cuttings with bottom heat in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical"
-        ],
-        "pruning": "Pruning group 11 after flowering",
-        "pests": "May suffer from scale insects and glasshouse red spider mite",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under heated glass in loam-based compost with added sharp sand and leaf mould, in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed sown in heat in spring, or root semi-ripe cuttings with bottom heat in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 after flowering",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May suffer from scale insects and glasshouse red spider mite",
+            "link_names": [
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pyrostegia_venusta.html",
@@ -184,5 +222,7 @@
             "Nutrient deficiencies",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Pyrostegia venusta",
+    "display_name": "Flame vine"
 }

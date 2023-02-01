@@ -91,16 +91,58 @@
         "plant_range": "SC Europe to N. Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in open sunny position; may need staking. See staking perennials for further advice",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back in late autumn",
-        "pests": "May be affected by leaf and bud eelworm, aphids, slugs and snails",
-        "diseases": "May suffer from a leaf spot"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in open sunny position; may need staking. See staking perennials for further advice",
+            "link_names": [
+                "Staking perennials"
+            ],
+            "related_links": {
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by leaf and bud eelworm, aphids, slugs and snails",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May suffer from a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Galatella_sedifolia.html",
@@ -136,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Galatella sedifolia",
+    "display_name": "Sedum-leaved galatella"
 }

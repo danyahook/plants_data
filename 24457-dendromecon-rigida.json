@@ -97,18 +97,56 @@
         "plant_range": "California"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil and full sun",
-        "propagation": "Propagate by seed in spring or autumn; keep at 10-13°C (50-55°C). Propagate softwood cuttings in summer or by root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1 in early spring. Remove winter damaged shoots or shorten weak or bare shoots. If wall trained - pruning group 13 after flowering",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in well-drained soil and full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring or autumn; keep at 10-13°C (50-55°C). Propagate softwood cuttings in summer or by root cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 in early spring. Remove winter damaged shoots or shorten weak or bare shoots. If wall trained - pruning group 13 after flowering",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dendromecon_rigida.html",
@@ -149,5 +187,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Dendromecon rigida",
+    "display_name": "Tree poppy"
 }

@@ -88,19 +88,79 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Can be grown outdoors in moist, fertile soil. Plant the base of the stem 5cm below the soil surface and provide a deep winter mulch and shelter from cold drying winds. See hardy fuchsia cultivation for further information.",
-        "propagation": "Propagate by softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Aphids, capsid bug, fuchsia gall mite and vine weevil may cause problems",
-        "diseases": "May be subject to fuchsia rust"
-    }
+        "cultivation": {
+            "text": "Can be grown outdoors in moist, fertile soil. Plant the base of the stem 5cm below the soil surface and provide a deep winter mulch and shelter from cold drying winds. See hardy fuchsia cultivation for further information.",
+            "link_names": [
+                "Mulch",
+                "Hardy fuchsia cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hardy_fuchsia_cultivation": "https://www.rhs.org.uk/plants/fuchsia/hardy/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, fuchsia gall mite, capsid bug and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Fuchsia gall mite",
+                "Capsid bug",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "fuchsia_gall_mite": "https://www.rhs.org.uk/biodiversity/fuchsia-gall-mite",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fuchsia rust, grey moulds and honey fungus (rarely)",
+            "link_names": [
+                "Fuchsia rust",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fuchsia_rust": "https://www.rhs.org.uk/disease/fuchsia-rust",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Fuchsia 'Dark Eyes' (d)",
+    "display_name": "Fuchsia 'dark eyes'"
 }

@@ -95,17 +95,51 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for only the warmest regions of the UK, where it will thrive in humus-rich, free draining soil and will tolerate wind, salt and some drought once established. Needs to be kept frost-free to survive over winter",
-        "propagation": "Propagate by seed, sown as soon as ripe. Plants may self-seed in place",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free, though young plants may be susceptible to damage by rodents",
-        "diseases": "May be susceptible to phytophthora and verticillium wilt"
+        "cultivation": {
+            "text": "Suitable for only the warmest regions of the UK, where it will thrive in humus-rich, free draining soil and will tolerate wind, salt and some drought once established. Needs to be kept frost-free to survive over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown as soon as ripe. Plants may self-seed in place",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free, though young plants may be susceptible to damage by rodents",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora and verticillium wilt",
+            "link_names": [
+                "Phytophthora",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Meryta_sinclairii.html",
@@ -147,5 +181,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Meryta sinclairii",
+    "display_name": "Puka"
 }

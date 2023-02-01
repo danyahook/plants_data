@@ -90,15 +90,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Good as specimen tree for a sunny position with a well-drained soil",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can get aphids, leaf-mining moths and leaf-mining flies. Young trees can be damaged by snails",
-        "diseases": "Powdery mildews and silver leaf may be a problem"
+        "cultivation": {
+            "text": "Good as specimen tree for a sunny position with a well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leaf-mining moths, leaf-mining flies and snails",
+            "link_names": [
+                "Aphids",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, silver leaf and honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Laburnum_×_watereri__Vossii_.html",
@@ -133,5 +179,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Laburnum × watereri 'Vossii'",
+    "display_name": "Voss's laburnum"
 }

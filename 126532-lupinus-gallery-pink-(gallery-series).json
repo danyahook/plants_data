@@ -86,17 +86,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, light and well-drained soil in full sun or light, dappled shade",
-        "propagation": "Propagate from basal softwood cuttings in mid spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Deadhead to encourage a second flush of flowers. As lupins can be short-lived for perennials, some may be left to seed as replacements, though plants grown from seed may be variable",
-        "pests": "May be susceptible to lupin aphid, slugs and snails",
-        "diseases": "May be susceptible to Powdery mildews, lupin anthracnose and virus diseases, and to fungal and bacterial rot particularly in waterlogged conditions"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, light and well-drained soil in full sun or light, dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from basal softwood cuttings in mid spring",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage a second flush of flowers. As lupins can be short-lived for perennials, some may be left to seed as replacements, though plants grown from seed may be variable",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lupin aphid, slugs and snails",
+            "link_names": [
+                "Lupin aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, lupin anthracnose and virus diseases, and to fungal and bacterial rot particularly in waterlogged conditions",
+            "link_names": [
+                "Powdery mildews",
+                "Lupin anthracnose",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "lupin_anthracnose": "https://www.rhs.org.uk/disease/lupin-anthracnose",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lupinus 'Gallery Pink' (Gallery Series)",
+    "display_name": "Lupin 'gallery pink'"
 }

@@ -82,15 +82,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich, moist, well-drained, lime-free soil in dappled shade, in the shelter of an open woodland garden or a lightly-shaded shrub border; after pruning, mulch with well-rotted leaf mould",
-        "propagation": "Propagate by division of suckers, by heeled semi-ripe cuttings of lateral shoots in summer, or by layering in late autumn or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1; in winter, remove some of the older stems, leaving the strongest suckers; cut off old flowerheads in spring",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in humus-rich, moist, well-drained, lime-free soil in dappled shade, in the shelter of an open woodland garden or a lightly-shaded shrub border; after pruning, mulch with well-rotted leaf mould",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division of suckers, by heeled semi-ripe cuttings of lateral shoots in summer, or by layering in late autumn or early spring",
+            "link_names": [
+                "Division",
+                "Suckers",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; in winter, remove some of the older stems, leaving the strongest suckers; cut off old flowerheads in spring",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Clethra_alnifolia__Ruby_Spice_.html",
@@ -122,5 +164,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Clethra alnifolia 'Ruby Spice'",
+    "display_name": "White alder 'ruby spice'"
 }

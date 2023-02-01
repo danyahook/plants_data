@@ -95,17 +95,47 @@
         "plant_range": "Europe & W As. (mts)"
     },
     "how_to_grow": {
-        "cultivation": "Ideal plant for carpeting dry, sunny banks or gravel gardens",
-        "propagation": "Propagate by seed, division or stem tip cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Flower borders and beds",
-            "Ground cover",
-            "Banks and slopes"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Ideal plant for carpeting dry, sunny banks or gravel gardens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, division or stem tip cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Flower borders and beds",
+                "Ground cover",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cerastium_tomentosum.html",
@@ -179,5 +209,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Cerastium tomentosum",
+    "display_name": "Snow-in-summer"
 }

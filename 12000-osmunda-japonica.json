@@ -79,15 +79,43 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Succeeds in most moist soils, preferring acid conditions and requires a constant supply of water, doing well by ponds, lakes or streams. Plants will tolerate sun so long as there is no shortage of moisture in the soil.",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Remove any dying fronds if required.",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Succeeds in most moist soils, preferring acid conditions and requires a constant supply of water, doing well by ponds, lakes or streams. Plants will tolerate sun so long as there is no shortage of moisture in the soil.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any dying fronds if required.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Osmunda_japonica.html",
@@ -146,5 +174,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Osmunda japonica",
+    "display_name": "Asian royal fern"
 }

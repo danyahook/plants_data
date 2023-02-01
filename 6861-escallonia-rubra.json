@@ -97,19 +97,65 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained soil in full sun with shelter from cold, drying winds; ideal for wall training",
-        "propagation": "Propagate by softwood cuttings in early summer, semi-hardwood cuttings in late summer or hardwood cuttings from late autumn to winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Scale insects may be a problem",
-        "diseases": "May be affected by Escallonia leaf spot"
+        "cultivation": {
+            "text": "Grows best in well-drained soil in full sun with shelter from cold, drying winds; ideal for wall training",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer, semi-hardwood cuttings in late summer or hardwood cuttings from late autumn to winter",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects",
+            "link_names": [
+                "Scale insects"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to escallonia leaf spot and honey fungus",
+            "link_names": [
+                "Escallonia leaf spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "escallonia_leaf_spot": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Escallonia_rubra.html",
@@ -188,5 +234,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Escallonia rubra",
+    "display_name": "Red escallonia"
 }

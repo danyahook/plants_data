@@ -88,16 +88,44 @@
         "plant_range": "S China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in semi-shade",
-        "propagation": "Propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Generally problem free",
-        "diseases": "Generally problem free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally problem free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally problem free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ypsilandra_thibetica.html",
@@ -141,5 +169,7 @@
         "diseases_data": [
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Ypsilandra thibetica",
+    "display_name": "Tibetan ypsilandra"
 }

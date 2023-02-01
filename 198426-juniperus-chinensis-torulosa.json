@@ -97,16 +97,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Architectural",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids, juniper scale and caterpillars",
-        "diseases": "May be affected by a canker"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil. Junipers need little if any pruning. Useful in hot sunny sites",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Architectural",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects, conifer red spider mite and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora, canker and honey fungus. See also Conifers: brown patches",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus",
+                "Conifers: brown patches"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "conifers:_brown_patches": "https://www.rhs.org.uk/problems/conifers-brown-patches"
+            }
+        }
+    },
+    "main_name_original": "Juniperus chinensis 'Torulosa'",
+    "display_name": "Chinese juniper 'kaizuka'"
 }

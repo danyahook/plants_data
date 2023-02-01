@@ -88,18 +88,66 @@
         "plant_range": "S Europe, W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Tolerant of a range of garden soils but best grown in moisture-retentive, well-drained soil with the roots and base of the plant kept cool and shaded by other plants or a layer of pebbles at the base. Plant with the root ball 5- 8cm (2-3in) below the soil surface to encourage new shoots from below soil level",
-        "propagation": "Root softwood cuttings in spring or semi-ripe cuttings in early summer. Propagate by layering in late winter or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning (Clematis) Group 3",
-        "pests": "Slugs and snails, and voles may damage young shoots and cut through young stems. Aphids may attack young growth",
-        "diseases": "Powdery mildew may be a problem; clematis wilt is unlikely to affect species clematis but graft failure or slug damage may cause wilting"
+        "cultivation": {
+            "text": "Tolerant of a range of garden soils but best grown in moisture-retentive, well-drained soil with the roots and base of the plant kept cool and shaded by other plants or a layer of pebbles at the base. Plant with the root ball 5- 8cm (2-3in) below the soil surface to encourage new shoots from below soil level",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Root softwood cuttings in spring or semi-ripe cuttings in early summer. Propagate by layering in late winter or early spring",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning (Clematis) Group 3",
+            "link_names": [
+                "Pruning (clematis) group 3"
+            ],
+            "related_links": {
+                "pruning_(clematis)_group_3": "https://www.rhs.org.uk/plants/clematis/group-three-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails and voles may damage young shoots and cut through young stems. Aphids may attack young growth.",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildew; clematis wilt is unlikely to affect species clematis but graft failure or slug damage may cause wilting",
+            "link_names": [
+                "Clematis wilt"
+            ],
+            "related_links": {
+                "clematis_wilt": "https://www.rhs.org.uk/disease/clematis-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Clematis_viticella.html",
@@ -157,5 +205,7 @@
             "Leaf beetles",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Clematis viticella",
+    "display_name": "Purple clematis"
 }

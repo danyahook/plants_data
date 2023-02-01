@@ -85,16 +85,44 @@
         "plant_range": "Lesotho"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun with very good drainage",
-        "propagation": "Propagate by seed or by stem cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Gravel garden",
-            "Rock garden"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grows best in full sun with very good drainage",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by stem cuttings",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Gravel garden",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Delosperma_congestum.html",
@@ -132,5 +160,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Delosperma congestum",
+    "display_name": "Congested ice plant"
 }

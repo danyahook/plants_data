@@ -91,17 +91,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, moist but well-drained soil and best in part shade, leaves may scorch in hot sun and colour is retained best in dappled shade",
-        "propagation": "Propagate by hardwood cuttings in winter or semi-ripe greenwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 7; tolerant of hard pruning to restrict size",
-        "pests": "Aphids (blackfly) may infest the young shoots and foliage",
-        "diseases": "Verticillium wilt may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, moist but well-drained soil and best in part shade, leaves may scorch in hot sun and colour is retained best in dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in winter or semi-ripe greenwood cuttings in early summer",
+            "link_names": [
+                "Hardwood",
+                "Semi-ripe",
+                "Greenwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7; tolerant of hard pruning to restrict size",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids (blackfly) which may infest the young shoots and foliage",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Sambucus folius aureus laciniata",
+    "display_name": "European red elder 'plumosa aurea'"
 }

@@ -95,17 +95,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in almost any soil or situation except soil prone to waterlogging, tolerating full shade, dry soil, pollution and salt wind",
-        "propagation": "Propagate by taking semi-ripe cuttings from late summer to autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1. Trim hedges in spring; shrubs may be renovated by hard pruning in spring",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to honey fungus"
-    }
+        "cultivation": {
+            "text": "Will grow in almost any soil or situation except soil prone to waterlogging, tolerating full shade, dry soil, pollution and salt wind",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by taking semi-ripe cuttings from late summer to autumn",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Trim hedges in spring; shrubs may be renovated by hard pruning in spring",
+            "link_names": [
+                "Pruning group 1",
+                "Hedges"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Aucuba japonica 'Salicifolia'",
+    "display_name": "Japanese laurel 'salicifolia'"
 }

@@ -111,19 +111,69 @@
         "plant_range": "Mediterranian to W China"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil in full sun in sheltered frost-free conditions. Grow under glass in loam-based compost in full light, ventilate well",
-        "propagation": "Propagate by seed, semi-hardwood cuttings or by air layering in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 9. May need restrictive pruning under glass in late winter. Will tolerate hard pruning",
-        "pests": "May be attacked by glasshouse red spider mite, scale insects and mealybugs under glass",
-        "diseases": "High Risk Host for Xylella fastidiosa"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil in full sun in sheltered frost-free conditions. Grow under glass in loam-based compost in full light, ventilate well",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, semi-hardwood cuttings or by air layering in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9. May need restrictive pruning under glass in late winter. Will tolerate hard pruning",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, mealybugs and glasshouse red spider mites under glass",
+            "link_names": [
+                "Scale insects",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Nerium oleander 'Laurier Rose'",
+    "display_name": "Oleander"
 }

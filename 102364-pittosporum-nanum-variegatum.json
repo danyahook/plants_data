@@ -99,17 +99,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in moist but well-drained soil in full sun. Protect from cold drying winds. Grow under glass in loam-based compost in full light",
-        "propagation": "Propagate by seed or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to glasshouse red spider mite, aphids, cushion scale and pittosporum sucker",
-        "diseases": "May be susceptible to Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in moist but well-drained soil in full sun. Protect from cold drying winds. Grow under glass in loam-based compost in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, aphids, cushion scale and pittosporum sucker",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids",
+                "Cushion scale",
+                "Pittosporum sucker"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "cushion_scale": "https://www.rhs.org.uk/biodiversity/cushion-scale",
+                "pittosporum_sucker": "https://www.rhs.org.uk/biodiversity/pittosporum-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, leafspot and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pittosporum 'Nanum Variegatum'",
+    "display_name": "Variegated japanese pittosporum"
 }

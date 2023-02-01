@@ -101,19 +101,59 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, sharply-drained soil in full sun. Under glass, grow in John Innes No 3 with added sharp sand, in full light",
-        "propagation": "Propagate by seed in spring at a temperature of 13-15°C (55-59°F). Can also be propagated by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Sub-tropical"
-        ],
-        "pruning": "Pruning group 1. Under glass prune to restrict size in spring",
-        "pests": "scale insect may be a problem",
-        "diseases": "High Risk Host for Xylella fastidiosa"
+        "cultivation": {
+            "text": "Grow in deep, fertile, sharply-drained soil in full sun. Under glass, grow in John Innes No 3 with added sharp sand, in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring at a temperature of 13-15°C (55-59°F). Can also be propagated by semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Under glass prune to restrict size in spring",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "scale insect may be a problem",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Olea_europaea.html",
@@ -174,5 +214,7 @@
             "Longhorn beetles",
             "Branch blight"
         ]
-    }
+    },
+    "main_name_original": "Olea europaea (F)",
+    "display_name": "Common olive"
 }

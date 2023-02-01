@@ -82,14 +82,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained, fertile soil with a neutral to slightly acid pH. Full sun is preferred, but partial shade is tolerated and plants can be trained against a north wall. Grow as a permanent framework as a bush, standard, cordon or fan. Keep the around the bushes free of other plants. Mulch with well rotted compost, manure or bark particularly on dry soils. See further redcurrant cultivation advice",
-        "propagation": "Propagate by hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wall side borders"
-        ],
-        "pruning": "Main pruning is carried out in dormant season, along with summer pruning of vigorous laterals - see redcurrant cultivation advice",
-        "pests": "Redcurrants can suffer from aphids, currant blister aphid, shield bug, scale insects and gooseberry sawfly",
-        "diseases": "Fungal leaf spots and coral spot can occur"
-    }
+        "cultivation": {
+            "text": "Grow in a well-drained, fertile soil with a neutral to slightly acid pH. Full sun is preferred, but partial shade is tolerated and plants can be trained against a north wall. Grow as a permanent framework as a bush, standard, cordon or fan. Keep the around the bushes free of other plants. Mulch with well rotted compost, manure or bark particularly on dry soils. See further redcurrant cultivation advice",
+            "link_names": [
+                "Cordon",
+                "Mulch",
+                "Redcurrant cultivation"
+            ],
+            "related_links": {
+                "cordon": "https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "redcurrant_cultivation": "https://www.rhs.org.uk/fruit/redcurrants/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Main pruning is carried out in dormant season, along with summer pruning of vigorous laterals - see redcurrant cultivation advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, currant blister aphid, shield bug, scale insects and gooseberry sawfly",
+            "link_names": [
+                "Aphids",
+                "Currant blister aphid",
+                "Scale insects",
+                "Gooseberry sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "currant_blister_aphid": "https://www.rhs.org.uk/biodiversity/currant-blister-aphid",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "gooseberry_sawfly": "https://www.rhs.org.uk/biodiversity/gooseberry-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ribes rubrum 'Blanka' (W)",
+    "display_name": "Whitecurrant 'blanka'"
 }

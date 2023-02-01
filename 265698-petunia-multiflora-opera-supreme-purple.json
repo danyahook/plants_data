@@ -85,20 +85,56 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in fertile, sandy soil with good drainage, in full sun or partial shade.",
-        "propagation": "Propagate by seed and stem cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Prune tips of stems every few weeks to keep the plant bushy and avoid it becoming leggy",
-        "pests": "May be susceptible to spider mites, leafminers, thrips, cutworms",
-        "diseases": "May be susceptible to blight, crown rot"
-    }
+        "cultivation": {
+            "text": "Will grow in fertile, sandy soil with good drainage, in full sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed and stem cuttings",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune tips of stems every few weeks to keep the plant bushy and avoid it becoming leggy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to spider mites, leafminers, thrips, cutworms",
+            "link_names": [
+                "Thrips",
+                "Cutworms"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "cutworms": "https://www.rhs.org.uk/biodiversity/cutworms"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to blight, crown rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Petunia multiflora 'Opera Supreme Purple'",
+    "display_name": ""
 }

@@ -93,14 +93,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Blackcurrants prefer a sunny site with well-drained but moisture-retentive soil, but will cope in most other soil conditions and tolerate light shade. Mulch annually with well-rotted manure or compost and apply a general purpose fertiliser in spring. Please see our blackcurrant cultivation page for more growing tips.",
-        "propagation": "Propagate by hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Prune in winter. Blackcurrants fruit best on younger wood so aim to remove up to one quarter of the oldest stems at ground level to encourage new growth from the base.",
-        "pests": "May be susceptible to aphids, blackcurrant gall midge, pigeons and blackcurrant big bud mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Blackcurrants prefer a sunny site with well-drained but moisture-retentive soil, but will cope in most other soil conditions and tolerate light shade. Mulch annually with well-rotted manure or compost and apply a general purpose fertiliser in spring. Please see our blackcurrant cultivation page for more growing tips.",
+            "link_names": [
+                "Mulch",
+                "Blackcurrant cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "blackcurrant_cultivation": "https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune in winter. Blackcurrants fruit best on younger wood so aim to remove up to one quarter of the oldest stems at ground level to encourage new growth from the base.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ribes_nigrum.html",
@@ -183,5 +231,7 @@
             "Wilting after blooming",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Ribes nigrum (B)",
+    "display_name": "Blackcurrant"
 }

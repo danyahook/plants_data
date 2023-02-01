@@ -87,15 +87,63 @@
         "plant_range": "N America, British Columbia to California"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well-drained soil",
-        "propagation": "Propagate by seed sown outdoors as soon as ripe, by grafting in late winter, or by chip budding in mid- to late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1; prune only from late autumn to midwinter when dormant, remove misplaced or crossing shoots to maintain permanent healthy framework",
-        "pests": "Prone to aphids, caterpillars, mites and scale insects",
-        "diseases": "Prone to Verticillium wilt and honey fungus"
+        "cultivation": {
+            "text": "Grow in a moist but well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed (sown outdoors) as soon as ripe, by grafting in late winter, or by chip budding in mid- to late summer",
+            "link_names": [
+                "Propagate by seed (sown outdoors)",
+                "Grafting",
+                "Chip budding"
+            ],
+            "related_links": {
+                "propagate_by_seed_(sown_outdoors)": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; prune only from late autumn to midwinter when dormant, remove misplaced or crossing shoots to maintain permanent healthy framework",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Acer_circinatum.html",
@@ -162,5 +210,7 @@
             "Black spot",
             "Fruit withering"
         ]
-    }
+    },
+    "main_name_original": "Acer circinatum",
+    "display_name": "Vine maple"
 }

@@ -77,17 +77,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, deep, acid, humus-rich soil in full sun or partial shade",
-        "propagation": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Slugs and snails may be a problem, sawflies can damage the leaves",
-        "diseases": "May be affected by aphid borne virus diseases, iris rhizome rot and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in moist, deep, acid, humus-rich soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem, sawflies can damage the leaves",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by aphid borne virus diseases, iris rhizome rot and grey moulds",
+            "link_names": [
+                "Virus diseases",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Iris ensata 'Aldridge Visitor'",
+    "display_name": "Japanese water iris 'aldridge visitor'"
 }

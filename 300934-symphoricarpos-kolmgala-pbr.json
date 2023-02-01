@@ -97,16 +97,66 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist fertile soil. Tolerant of pollution and extreme conditions. Thicket forming, may become invasive.",
-        "propagation": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn. Rooted suckers can be transplanted in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Flower borders and beds",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or 2 after flowering. Remove suckers in winter",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moist fertile soil. Tolerant of pollution and extreme conditions. Thicket forming, may become invasive.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer or hardwood cuttings in autumn. Rooted suckers can be transplanted in autumn",
+            "link_names": [
+                "Softwood",
+                "Hardwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Flower borders and beds",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or 2 after flowering. Remove suckers in winter",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spots, powdery mildews, rust diseases, stem galls and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Rust diseases",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Symphoricarpos 'Kolmgala'PBR",
+    "display_name": "Snowberry [magical galaxy]"
 }

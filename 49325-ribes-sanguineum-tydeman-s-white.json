@@ -88,14 +88,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in moderately fertile, well-drained soil in full sun. Useful for informal hedging",
-        "propagation": "Propagate by hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 2 or Pruning group 13 if wall-trained, in late summer; trim hedges after flowering",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by a leaf spot, powdery mildew, honey fungus and coral spot"
-    }
+        "cultivation": {
+            "text": "Easy to grow in moderately fertile, well-drained soil in full sun. Useful for informal hedging",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in winter",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2 or Pruning group 13 if wall-trained, in late summer; trim hedges after flowering",
+            "link_names": [
+                "Pruning group 2",
+                "Pruning group 13",
+                "Trim hedges"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide",
+                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Ribes sanguineum 'Tydeman's White'",
+    "display_name": "Flowering currant 'tydeman's white'"
 }

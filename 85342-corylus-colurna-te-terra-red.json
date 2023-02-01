@@ -92,14 +92,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in sun",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "Only requires minimal pruning to aid shape",
-        "pests": "May be susceptible to caterpillars, sawflies and aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Only requires minimal pruning to aid shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be be susceptible to caterpillars, gall mites, aphids and sawflies. Squirrels like to feed on the nuts",
+            "link_names": [
+                "Gall mites",
+                "Aphids",
+                "Squirrels"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, silver leaf and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Corylus colurna 'Te Terra Red'",
+    "display_name": "Hazel 'te terra red'"
 }

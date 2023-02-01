@@ -95,16 +95,50 @@
         "plant_range": "N Temperate Arctic Regions"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil, in full sun, self-seeds and can be difficult to eradicate or control",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow"
-        ],
-        "pruning": "Cut back after flowering. Cut back prior to seed setting to avoid self-seeding",
-        "pests": "Susceptible to damage from slugs and aphids",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in any well-drained soil, in full sun, self-seeds and can be difficult to eradicate or control",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering. Cut back prior to seed setting to avoid self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to damage from slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rumex_acetosa.html",
@@ -154,5 +188,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rumex acetosa",
+    "display_name": "Common sorrel"
 }

@@ -100,16 +100,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun pr partial shade but better leaf colour in a sunny position",
-        "propagation": "Propagate by semi-ripe cuttings in summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 in summer; clip hedges twice in summer",
-        "pests": "May be susceptible to aphids, lilac leaf miner and privet thrips",
-        "diseases": "May be susceptible to honey fungus, a virus or fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun pr partial shade but better leaf colour in a sunny position",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer or hardwood cuttings in winter",
+            "link_names": [
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 in summer; clip hedges twice in summer",
+            "link_names": [
+                "Pruning group 1",
+                "Hedges"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, lilac leaf miner and privet thrips",
+            "link_names": [
+                "Aphids",
+                "Thrips"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, a virus or fungal leaf spot",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Ligustrum lucidum 'Tricolor' (v)",
+    "display_name": ""
 }

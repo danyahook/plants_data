@@ -77,10 +77,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in firm, fertile soil in an open, sunny spot. Where possible, avoid growing brassicas in the same soil year on year, to prevent the build up of soil-borne diseases. See the RHS A-Z Guides to vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to cabbage root fly, cabbage caterpillars, cabbage whitefly, mealy cabbage aphid and slugs and snails",
-        "diseases": "May be susceptible to club root, particularly in acidic soil"
-    }
+        "cultivation": {
+            "text": "Grow in firm, fertile soil in an open, sunny spot. Where possible, avoid growing brassicas in the same soil year on year, to prevent the build up of soil-borne diseases. See the RHS A-Z Guides to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to cabbage root fly, cabbage caterpillars, cabbage whitefly, mealy cabbage aphid and slugs and snails",
+            "link_names": [
+                "Cabbage root fly",
+                "Cabbage caterpillars",
+                "Cabbage whitefly",
+                "Mealy cabbage aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly",
+                "cabbage_caterpillars": "https://www.rhs.org.uk/biodiversity/cabbage-caterpillars",
+                "cabbage_whitefly": "https://www.rhs.org.uk/biodiversity/cabbage-whitefly",
+                "mealy_cabbage_aphid": "https://www.rhs.org.uk/biodiversity/mealy-cabbage-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to club root, particularly in acidic soil",
+            "link_names": [
+                "Club root"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root"
+            }
+        }
+    },
+    "main_name_original": "Brassica oleracea (Capitata Group) 'Hispi'",
+    "display_name": "Cabbage 'hispi'"
 }

@@ -88,16 +88,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, well-drained in full sun. Can also be grown in a container in an alpine house",
-        "propagation": "Propagate by division in spring; small sections of the rhizomes root readily with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Damage by slugs and snails may be a problem",
-        "diseases": "May be subject to a rust"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, well-drained in full sun. Can also be grown in a container in an alpine house",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring; small sections of the rhizomes root readily with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Damage by slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Oxalis enneaphylla 'Ione Hecker'",
+    "display_name": "Wood sorrel 'ione hecker'"
 }

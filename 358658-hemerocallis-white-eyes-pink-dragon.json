@@ -86,15 +86,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil preferably in full sun. Flowering is likely to be poor in shadier situations. Tolerant of heavy clay and poorer soils. May need watering in spring to early summer in dry conditions to ensure flowering. See hemerocallis cultivation or daylily cultivation",
-        "propagation": "Propagate by division in early spring or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flower stems after flowering has finished. Remove dead foliage as required",
-        "pests": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot",
-        "diseases": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil preferably in full sun. Flowering is likely to be poor in shadier situations. Tolerant of heavy clay and poorer soils. May need watering in spring to early summer in dry conditions to ensure flowering. See hemerocallis cultivation or daylily cultivation",
+            "link_names": [
+                "Hemerocallis cultivation",
+                "Daylily cultivation"
+            ],
+            "related_links": {
+                "hemerocallis_cultivation": "https://www.rhs.org.uk/plants/hemerocallis/growing-guide",
+                "daylily_cultivation": "https://www.rhs.org.uk/plants/hemerocallis/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or early autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flower stems after flowering has finished. Remove dead foliage as required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal leaf spot and rust diseases or bacterial leaf and stem rot",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Hemerocallis 'White Eyes Pink Dragon'",
+    "display_name": ""
 }

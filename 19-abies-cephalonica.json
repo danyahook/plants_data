@@ -90,15 +90,55 @@
         "plant_range": "Greece"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained slightly acidic soil",
-        "propagation": "Propagate by seed or grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free but may be susceptible to aphids and adelgids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained slightly acidic soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or grafting",
+            "link_names": [
+                "Propagate by seed",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids and aphids",
+            "link_names": [
+                "Adelgids",
+                "Aphids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, but may be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Abies_cephalonica.html",
@@ -180,5 +220,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Abies cephalonica",
+    "display_name": "Greek fir"
 }

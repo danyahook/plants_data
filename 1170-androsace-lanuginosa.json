@@ -89,18 +89,52 @@
         "plant_range": "Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a scree bed, in vertical crevices in rock or in moist but gritty well-drained soil",
-        "propagation": "Propagate by seed sown in containers in an open cold frame as soon as ripe or in autumn. Root single rosettes as cuttings in early to midsummer. Keep moist but water from below to avoid wetting the rosettes",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free. Prone to aphids under glass",
-        "diseases": "Vulnerable to fungal diseases in damp conditions. Remove dead rosettes to reduce the risk of infection"
-    }
+        "cultivation": {
+            "text": "Grow in a scree bed, in vertical crevices in rock or in moist but gritty well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in an open cold frame as soon as ripe or in autumn. Root single rosettes as cuttings in early to midsummer. Keep moist but water from below to avoid wetting the rosettes",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids under glass but generally pest-free",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fungal diseases in damp conditions. Remove dead rosettes to reduce the risk of infection",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Androsace lanuginosa",
+    "display_name": "Woolly rock jasmine"
 }

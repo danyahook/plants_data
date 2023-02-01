@@ -92,18 +92,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile moist but well drained soil in part shade with shelter from cold dry winds. See Hosta cultivation",
-        "propagation": "Propagate by divison in late summer or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Remove spent foliage as required and remove dead foliage when it dies back at the end of the growing season.",
-        "pests": "May be susceptable to slugs and snails. Container grown plants may be susceptible to vine weevil",
-        "diseases": "May be susceptible to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile moist but well drained soil in part shade with shelter from cold dry winds. See Hosta cultivation",
+            "link_names": [
+                "Hosta cultivation"
+            ],
+            "related_links": {
+                "hosta_cultivation": "https://www.rhs.org.uk/plants/hosta/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by divison in late summer or early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent foliage as required and remove dead foliage when it dies back at the end of the growing season.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails. Container grown plants may be susceptible to vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hosta 'Cherry Berry' (v)",
+    "display_name": "Plantain lily 'cherry berry'"
 }

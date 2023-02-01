@@ -92,15 +92,71 @@
         "plant_range": "Eastern N America"
     },
     "how_to_grow": {
-        "cultivation": "Plant a sheltered site in well-drained, moisture-retentive, acidic soil, (pH 4.5-5.5) in sun or part shade. Alternatively grow in containers or raised beds filled with ericaceous compost such as John Innes Ericaceous. Pot grown plants benefit from winter protection. For optimal pollination and yield plant three different cultivars. For further cultivation details see blueberry cultivation",
-        "propagation": "Take 10-15cm (4-6in) softwood cuttings in late spring or semi-ripe cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "More mature plants benefit from regular pruning, see pruning blueberries",
-        "pests": "Watch out for vine weevil, especially if container grown",
-        "diseases": "Can be affected by powdery mildews. Chlorosis due to manganese and iron deficiencies may be a problem, see nutrient deficiencies"
+        "cultivation": {
+            "text": "Plant a sheltered site in well-drained, moisture-retentive, acidic soil, (pH 4.5-5.5) in sun or part shade. Alternatively grow in containers or raised beds filled with ericaceous compost such as John Innes Ericaceous. Pot grown plants benefit from winter protection. For optimal pollination and yield plant three different cultivars. For further cultivation details see blueberry cultivation",
+            "link_names": [
+                "Containers",
+                "Raised beds",
+                "Winter protection",
+                "Blueberry cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "raised_beds": "https://www.rhs.org.uk/garden-features/raised-beds",
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "blueberry_cultivation": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Take 10-15cm (4-6in) softwood cuttings in late spring or semi-ripe cuttings in early summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "More mature plants benefit from regular pruning, see pruning blueberries",
+            "link_names": [
+                "Pruning blueberries"
+            ],
+            "related_links": {
+                "pruning_blueberries": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, especially if container grown",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and chlorosis due to manganese and iron deficiencies; see nutrient deficiencies",
+            "link_names": [
+                "Powdery mildews",
+                "Chlorosis",
+                "Nutrient deficiencies"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "chlorosis": "https://www.rhs.org.uk/problems/chlorosis",
+                "nutrient_deficiencies": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Vaccinium_corymbosum.html",
@@ -169,5 +225,7 @@
             "Nutrient deficiencies",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Vaccinium corymbosum (F)",
+    "display_name": "Blueberry"
 }

@@ -96,14 +96,52 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Grow in standard cactus compost in full sun with good ventilation. Water moderately when in growth and apply a specialist liquid cacti feed monthly; keep almost completely dry at other times. See houseplant cacti and succulent cultivation for further information",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruining required",
-        "pests": "May be susceptible to mealybugs",
-        "diseases": "May be susceptible to stem rot in wet conditions"
-    }
+        "cultivation": {
+            "text": "Grow in standard cactus compost in full sun with good ventilation. Water moderately when in growth and apply a specialist liquid cacti feed monthly; keep almost completely dry at other times. See houseplant cacti and succulent cultivation for further information",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruining required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs",
+            "link_names": [
+                "Mealybugs"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to stem rot in wet conditions",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Eriosyce paucicostata",
+    "display_name": ""
 }

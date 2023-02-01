@@ -85,16 +85,54 @@
         "plant_range": "Brazil"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a standard cactus mix with sharp drainage, in a bright sunny spot; could be placed outdoors in a sheltered spot in summer. Ensure a minimum temperature of 12°C year round. Water freely in late spring and summer, keep just moist at other times. See houseplant cacti and succulent cultivation",
-        "propagation": "Propagate by seed, sown at 19-24°C in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs, and to ants if planted outdoors",
-        "diseases": "Generally disease-free, though over-watering will cause rot"
+        "cultivation": {
+            "text": "Grow in a standard cactus mix with sharp drainage, in a bright sunny spot; could be placed outdoors in a sheltered spot in summer. Ensure a minimum temperature of 12°C year round. Water freely in late spring and summer, keep just moist at other times. See houseplant cacti and succulent cultivation",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown at 19-24°C in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, and to ants if planted outdoors",
+            "link_names": [
+                "Mealybugs",
+                "Ants"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "ants": "https://www.rhs.org.uk/biodiversity/ants"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free, though over-watering will cause rot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Pilosocereus_pachycladus.html",
@@ -133,5 +171,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Pilosocereus pachycladus",
+    "display_name": ""
 }

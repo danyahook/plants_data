@@ -87,17 +87,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation for further information.",
-        "propagation": "Propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Rock garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to damage by slugs",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Plant 10cm deep in fertile, humus-rich, well-drained soil in partial shade that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation for further information.",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Rock garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to damage by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Erythronium 'Rosalind'",
+    "display_name": "Fawn lily 'rosalind'"
 }

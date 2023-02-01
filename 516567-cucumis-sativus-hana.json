@@ -89,17 +89,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Start from seed or buy as small plants and grow in a heated greenhouse, or on a windowsill. Can be moved to an unheated greenhouse, or outdoors, once all risk of frost has passed. Water regularly, feed plants in containers every 10-14 days, and provide support. See cucumber cultivation for further advice",
-        "propagation": "Propagate by seed. Usually sold as grafted plants",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Edible fruit",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Under glass, remove the tip of the plant once it reaches the top of the support. Shorten sideshoots to two leaves beyond any developing fruit, or to 60cm if they have no fruit. If left to trail outdoors shorten the main shoot, and sideshoots with no fruit, after seven leaves",
-        "pests": "May be susceptible to glasshouse whitefly and glasshouse red spider mite under glass. Outdoors may be susceptible to slugs and snails",
-        "diseases": "Has some resistance, but may be susceptible cucumber mosaic virus and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Start from seed or buy as small plants and grow in a heated greenhouse, or on a windowsill. Can be moved to an unheated greenhouse, or outdoors, once all risk of frost has passed. Water regularly, feed plants in containers every 10-14 days, and provide support. See cucumber cultivation for further advice",
+            "link_names": [
+                "Containers",
+                "Cucumber cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "cucumber_cultivation": "https://www.rhs.org.uk/vegetables/cucumbers/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed. Usually sold as grafted plants",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Edible fruit",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Under glass, remove the tip of the plant once it reaches the top of the support. Shorten sideshoots to two leaves beyond any developing fruit, or to 60cm if they have no fruit. If left to trail outdoors shorten the main shoot, and sideshoots with no fruit, after seven leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and glasshouse red spider mite under glass. Outdoors may be susceptible to slugs and snails",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Has some resistance, but may be susceptible cucumber mosaic virus and powdery mildews",
+            "link_names": [
+                "Cucumber mosaic virus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Cucumis sativus 'Hana'",
+    "display_name": ""
 }

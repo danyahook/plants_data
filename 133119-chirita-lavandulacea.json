@@ -92,14 +92,50 @@
         "plant_range": "Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, humus-rich, gritty soil in partial shade.",
-        "propagation": "Propagate by seed sown under glass at a temperature of 19-24°C in late winter to spring. Plant out when danger of frost is over",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Sub-tropical"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to stem rot in damp conditions"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, humus-rich, gritty soil in partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown under glass at a temperature of 19-24°C in late winter to spring. Plant out when danger of frost is over",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to rosemary beetle and cuckoo spit (froghoppers)",
+            "link_names": [
+                "Rosemary beetle",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to stem rot in damp conditions",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Chirita lavandulacea",
+    "display_name": "Lavender microchirita"
 }

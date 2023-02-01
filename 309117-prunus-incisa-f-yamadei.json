@@ -92,14 +92,58 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained soil",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be attacked by aphids, caterpillars and leaf miners",
-        "diseases": "May be subject to silver leaf, bacterial canker and blossom wilt"
-    }
+        "cultivation": {
+            "text": "Grow in any moist but well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids, caterpillars and leaf miners",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to silver leaf, bacterial canker and blossom wilt",
+            "link_names": [
+                "Silver leaf",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Prunus incisa f. yamadei",
+    "display_name": ""
 }

@@ -117,15 +117,71 @@
         "plant_range": "SE Queensland to Tasmania"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, neutral to slightly acid soil that does not dry out, in full sun and sheltered from cold, drying winds. See eucalyptus cultivation",
-        "propagation": "Propagate by seed at 13-18°C in spring and summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Mediterranean climate plants"
-        ],
-        "pruning": "Pruning group 1 or, for young specimens giving the best display of juvenile foliage, Pruning group 7. See Eucalyptus: pruning for more detailed advice",
-        "pests": "May be susceptible to eucalyptus gall wasp and eucalyptus sucker",
-        "diseases": "May be susceptible to silver leaf and oedema"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, neutral to slightly acid soil that does not dry out, in full sun and sheltered from cold, drying winds. See eucalyptus cultivation",
+            "link_names": [
+                "Eucalyptus cultivation"
+            ],
+            "related_links": {
+                "eucalyptus_cultivation": "https://www.rhs.org.uk/plants/eucalyptus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed at 13-18°C in spring and summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Mediterranean climate plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or, for young specimens giving the best display of juvenile foliage, Pruning group 7. See Eucalyptus: pruning for more detailed advice",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7",
+                "Eucalyptus: pruning"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage",
+                "eucalyptus:_pruning": "https://www.rhs.org.uk/plants/eucalyptus/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to eucalyptus gall wasp and eucalyptus sucker",
+            "link_names": [
+                "Eucalyptus gall wasp",
+                "Eucalyptus sucker"
+            ],
+            "related_links": {
+                "eucalyptus_gall_wasp": "https://www.rhs.org.uk/biodiversity/eucalyptus-gall-wasp",
+                "eucalyptus_sucker": "https://www.rhs.org.uk/biodiversity/eucalyptus-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to silver leaf, oedema and honey fungus",
+            "link_names": [
+                "Silver leaf",
+                "Oedema",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "oedema": "https://www.rhs.org.uk/problems/oedema",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Eucalyptus coriacea",
+    "display_name": "Ghost gum"
 }

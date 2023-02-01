@@ -97,17 +97,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in full sun or partial shade; vigorously spreading by rhizomes and can be invasive so site with care",
-        "propagation": "Propagate by seed sown in a cold frame as soon as ripe or in spring. Propagate by division in spring or autumn. Propagate by softwood cuttings from side shoots in spring.",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to encourage repeat flowering and to prevent self-seeding",
-        "pests": "Can be damaged by slugs and snails",
-        "diseases": "May be affected by powdery mildews and a rust"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in full sun or partial shade; vigorously spreading by rhizomes and can be invasive so site with care",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame as soon as ripe or in spring. Propagate by division in spring or autumn. Propagate by softwood cuttings from side shoots in spring.",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage repeat flowering and to prevent self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and a rust",
+            "link_names": [
+                "Powdery mildews",
+                "A rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Chamerion angustifolium 'Album'",
+    "display_name": "White-flowered rosebay willowherb"
 }

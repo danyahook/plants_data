@@ -85,10 +85,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile soil in full sun with a steady water supply. See Cauliflower (Grow your own)",
-        "propagation": "Propagate by seed",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to damage by birds and caterpillars",
-        "diseases": "May be susceptible to club root"
-    }
+        "cultivation": {
+            "text": "Grow in fertile soil in full sun with a steady water supply. See Cauliflower (Grow your own)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage by birds and caterpillars",
+            "link_names": [
+                "Birds"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to club root",
+            "link_names": [
+                "Club root"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root"
+            }
+        }
+    },
+    "main_name_original": "Brassica oleracea (Botrytis Group) 'Candid Charm'",
+    "display_name": "Cauliflower 'candid charm'"
 }

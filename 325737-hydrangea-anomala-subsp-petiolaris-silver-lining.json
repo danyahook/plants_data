@@ -96,17 +96,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "A vigorous climber best grown in partial shade in a moist but well-drained soil enriched with well-rotted organic matter",
-        "propagation": "Propagate by layering and softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Low Maintenance",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11, after flowering",
-        "pests": "May be susceptible to aphids, hydrangea scale, capsid bug and glasshouse red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "A vigorous climber best grown in partial shade in a moist but well-drained soil enriched with well-rotted organic matter",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering and softwood cuttings in early summer",
+            "link_names": [
+                "Layering",
+                "Softwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Low Maintenance",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11, after flowering",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, hydrangea scale, capsid bug and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Capsid bug",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrangea_anomala_subsp._petiolaris__Silver_Lining_.html",
@@ -141,5 +195,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hydrangea anomala subsp. petiolaris 'Silver Lining'",
+    "display_name": "Hydrangea 'silver linng'"
 }

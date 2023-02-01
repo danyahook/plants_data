@@ -91,17 +91,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any, moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best but shade is tolerated",
-        "propagation": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Ground cover",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be susceptible to vine weevils, capsid bugs and sawflies",
-        "diseases": "May be susceptible to downy mildew and powdery mildew"
+        "cultivation": {
+            "text": "Grow in any, moderately fertile soil apart from waterlogged soils. Full sun or partial shade is best but shade is tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or propagate by basal cuttings in early to mid spring and root with bottom heat",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Ground cover",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevils, capsid bugs and sawflies",
+            "link_names": [
+                "Vine weevils"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildew and powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Geranium_pratense__Mrs_Kendall_Clark_.html",
@@ -125,5 +157,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Geranium pratense 'Mrs Kendall Clark'",
+    "display_name": "Meadow cranesbill 'mrs kendall clark'"
 }

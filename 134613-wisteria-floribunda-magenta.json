@@ -90,17 +90,73 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "A large, long-lived climber so choosing the right site is important. Can be grown informally through large tree or trained against a house wall. Will grow in most soils that are moist but well-drained in sun or part shade. See wisteria cultivation for more advice",
-        "propagation": "Propagate by layering in spring, softwood cuttings from late spring to early summer, hardwood cuttings in winter, root cuttings in late winter or grafting in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "See Pruning wisteria",
-        "pests": "May be susceptible to aphids, glasshouse red spider mite, brown scale and wisteria scale",
-        "diseases": "May be susceptible to aphids, glasshouse red spider mite, brown scale and wisteria scale"
-    }
+        "cultivation": {
+            "text": "A large, long-lived climber so choosing the right site is important. Can be grown informally through large tree or trained against a house wall. Will grow in most soils that are moist but well-drained in sun or part shade. See wisteria cultivation for more advice",
+            "link_names": [
+                "Wisteria cultivation"
+            ],
+            "related_links": {
+                "wisteria_cultivation": "https://www.rhs.org.uk/plants/wisteria/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering in spring, softwood cuttings from late spring to early summer, hardwood cuttings in winter, root cuttings in late winter or grafting in late winter",
+            "link_names": [
+                "Layering",
+                "Softwood",
+                "Hardwood",
+                "Root cuttings",
+                "Grafting"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See Pruning wisteria",
+            "link_names": [
+                "Pruning wisteria"
+            ],
+            "related_links": {
+                "pruning_wisteria": "https://www.rhs.org.uk/plants/wisteria/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse red spider mite, brown scale and wisteria scale",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Brown scale",
+                "Wisteria scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "wisteria_scale": "https://www.rhs.org.uk/biodiversity/wisteria-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to aphids, glasshouse red spider mite, brown scale and wisteria scale",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Wisteria floribunda 'Magenta'",
+    "display_name": ""
 }

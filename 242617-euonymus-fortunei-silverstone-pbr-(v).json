@@ -89,19 +89,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well drained soil in full sun or semi-shade. If grown in full sun they willl need more moist soil. Variegated cultivars need sun to enhance variegation.",
-        "propagation": "Propagate by semi ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Coastal",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required. Trim if necessary. Pruning group 8",
-        "pests": "May be susceptible to scale insects",
-        "diseases": "May be susceptible to leaf spot and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in any well drained soil in full sun or semi-shade. If grown in full sun they willl need more moist soil. Variegated cultivars need sun to enhance variegation.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi ripe cuttings in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Coastal",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Trim if necessary. Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
+            "link_names": [
+                "Vine weevil",
+                "Euonymus scale"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, a leaf spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Euonymus fortunei 'Silverstone'PBR (v)",
+    "display_name": "Spindle 'silverstone'"
 }

@@ -87,15 +87,71 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in slightly acidic, humus-rich, well-drained soil, but tolerates most soils if improved with well-rotted organic matter. Hot, dry air, cold wind and late frost may cause leaf scorching. Mulch in autumn to protect shallow roots from cold and drying out. See Japanese maple cultivation",
-        "propagation": "Propagate by semi-hardwood cuttings or by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids and scale insects",
-        "diseases": "May be susceptible to coral spot, phytophthora root rot and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grows best in slightly acidic, humus-rich, well-drained soil, but tolerates most soils if improved with well-rotted organic matter. Hot, dry air, cold wind and late frost may cause leaf scorching. Mulch in autumn to protect shallow roots from cold and drying out. See Japanese maple cultivation",
+            "link_names": [
+                "Organic matter",
+                "Mulch",
+                "Japanese maple cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "japanese_maple_cultivation": "https://www.rhs.org.uk/plants/acer/japanese-maples/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or by layering",
+            "link_names": [
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer palmatum 'Ryusen'",
+    "display_name": "Japanese maple 'ryusen'"
 }

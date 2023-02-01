@@ -86,17 +86,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows in almost any well drained soil, though foliage colour is best in full sun; too much shade may cause leaves to revert to green. Tolerates some drought once established",
-        "propagation": "Propagate by seed in early spring, or by semi-ripe cuttings in summer. As this plant is protected by Plant Breeders' Rights, any propagation should be for personal rather than commercial use",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 2",
-        "pests": "May be susceptible to aphids and to berberis sawfly",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows in almost any well drained soil, though foliage colour is best in full sun; too much shade may cause leaves to revert to green. Tolerates some drought once established",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in early spring, or by semi-ripe cuttings in summer. As this plant is protected by Plant Breeders' Rights, any propagation should be for personal rather than commercial use",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 2",
+            "link_names": [
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and berberis sawfly",
+            "link_names": [
+                "Aphids",
+                "Berberis sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "berberis_sawfly": "https://www.rhs.org.uk/biodiversity/berberis-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Berberis thunbergii 'Lutin Rouge'PBR",
+    "display_name": "Japanese barberry 'lutin rouge'"
 }

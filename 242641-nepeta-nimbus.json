@@ -92,17 +92,57 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moist but well-drained soil in partial shade",
-        "propagation": "Divide in spring or autumn or take softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Garden edging",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadheading plants regularly will prolong flowering",
-        "pests": "Slugs and snails may damage young growth",
-        "diseases": "Powdery mildews may be a problem in dry summers"
-    }
+        "cultivation": {
+            "text": "Prefers moist but well-drained soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Divide in spring or autumn or take softwood cuttings in early summer",
+            "link_names": [
+                "Divide",
+                "Softwood"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Garden edging",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadheading plants regularly will prolong flowering",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slug and snail damage on young growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews in dry summers",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Nepeta 'Nimbus'",
+    "display_name": "Catmint [nimbus]"
 }

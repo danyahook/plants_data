@@ -87,20 +87,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny position in well-drained soil",
-        "propagation": "Propagate by seed sown at 16-18°C in late summer or early autumn, and overwinter young plants under glass, or by seed in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Wall side borders",
-            "Bedding",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required, but deadheading will prolong the flowering period",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to antirrhinum rust, and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny position in well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 16-18°C in late summer or early autumn, and overwinter young plants under glass, or by seed in early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Wall side borders",
+                "Bedding",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading will prolong the flowering period",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to antirrhinum rust, and powdery mildews",
+            "link_names": [
+                "Antirrhinum rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "antirrhinum_rust": "https://www.rhs.org.uk/disease/antirrhinum-rust",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum majus 'Sonnet White' (Sonnet Series)",
+    "display_name": "Snapdragon 'sonnet white'"
 }

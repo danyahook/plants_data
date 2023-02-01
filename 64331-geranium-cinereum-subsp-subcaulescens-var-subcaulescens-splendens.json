@@ -96,19 +96,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile well-drained soil in full sun or partial shade. Most soils, unless waterlogged, in either sun or shade are tolerated",
-        "propagation": "Propagate by division between early autumn and early spring or cut back plants after flowering in summer then divide, replant and water well",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Ground cover",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be damaged by vine weevil larvae, Geranium sawfly larvae, capsid bug or slugs and snails",
-        "diseases": "Downy mildew and a virus are occasional problems. Powdery mildew in dry conditions may be troublesome"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile well-drained soil in full sun or partial shade. Most soils, unless waterlogged, in either sun or shade are tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division between early autumn and early spring or cut back plants after flowering in summer then divide, replant and water well",
+            "link_names": [
+                "Division",
+                "Divide"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Ground cover",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by vine weevil larvae, Geranium sawfly larvae, capsid bug or slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Geranium sawfly",
+                "Capsid bug",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Downy mildew and a virus are occasional problems. Powdery mildew in dry conditions may be troublesome",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium cinereum subsp. subcaulescens var. subcaulescens 'Splendens'",
+    "display_name": "Grey cranesbill 'splendens'"
 }

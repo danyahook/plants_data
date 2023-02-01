@@ -85,14 +85,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a permanent framework as a bush, standard, cordon or fan. Keep area around clear of other plants. Mulch with well rotted compost, manure or bark particularly on dry soils",
-        "propagation": "Propagate by hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden"
-        ],
-        "pruning": "Main pruning in dormant season; also summer pruning of vigorous laterals",
-        "pests": "Can get aphids, scale insects and sawflies",
-        "diseases": "No particular resistance or susceptibility to powdery mildews"
+        "cultivation": {
+            "text": "Grow as a permanent framework as a bush, standard, cordon or fan. Keep area around clear of other plants. Mulch with well rotted compost, manure or bark particularly on dry soils",
+            "link_names": [
+                "Cordon",
+                "Mulch"
+            ],
+            "related_links": {
+                "cordon": "https://www.rhs.org.uk/fruit/apples/growing-and-training-as-cordons",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Main pruning in dormant season; also summer pruning of vigorous laterals",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gall mites, gall midge and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
+            "link_names": [
+                "Powdery mildews",
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ribes_rubrum__Red_Lake_.html",
@@ -127,5 +175,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ribes rubrum 'Red Lake' (R)",
+    "display_name": "Redcurrant 'red lake'"
 }

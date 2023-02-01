@@ -89,17 +89,61 @@
         "plant_range": "South Korea"
     },
     "how_to_grow": {
-        "cultivation": "Plant in a moisture-retentive, well-drained soil, with the roots and base of the plant kept cool and shaded by other plants or with a layer of pebbles at the base. Plant with the crown of the clematis level with the soil. Ideal for growing through plants in the herbaceous border. See clematis cultivation for further advice.",
-        "propagation": "Propagate by layering or semi-hardwood cuttings. Propagate by seed as soon as ripe in containers in a cold frame",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back to the base in early spring",
-        "pests": "Young shoots may be troubled by aphids and caterpillars; petals can be eaten by earwigs",
-        "diseases": "May be troubled by powdery mildew or fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Plant in a moisture-retentive, well-drained soil, with the roots and base of the plant kept cool and shaded by other plants or with a layer of pebbles at the base. Plant with the crown of the clematis level with the soil. Ideal for growing through plants in the herbaceous border. See clematis cultivation for further advice.",
+            "link_names": [
+                "Clematis cultivation"
+            ],
+            "related_links": {
+                "clematis_cultivation": "https://www.rhs.org.uk/plants/clematis/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering or semi-hardwood cuttings. Propagate by seed as soon as ripe in containers in a cold frame",
+            "link_names": [
+                "Layering",
+                "Semi-hardwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to the base in early spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Young shoots may be troubled by aphids and caterpillars; petals can be eaten by earwigs",
+            "link_names": [
+                "Aphids",
+                "Earwigs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs"
+            }
+        },
+        "diseases": {
+            "text": "May be troubled by powdery mildew or fungal leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Clematis urticifolia",
+    "display_name": ""
 }

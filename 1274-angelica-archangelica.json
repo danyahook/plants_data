@@ -97,18 +97,58 @@
         "plant_range": "Europe, Asia, N Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep fertile soil, avoiding hot, dry positions. Staking may be needed in exposed sites. It is more likely to be perennial if prevented from setting seed. Can be very variable in size.",
-        "propagation": "Propagate by seed sown in a cold frame with good light, as soon as ripe. Move seedlings when young as older plants resent disturbance",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Susceptible when young to damage from slugs, snails, aphids and leaf miners",
-        "diseases": "Susceptible to powdery mildews"
+        "cultivation": {
+            "text": "Grow in deep fertile soil, avoiding hot, dry positions. Staking may be needed in exposed sites. It is more likely to be perennial if prevented from setting seed. Can be very variable in size.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in a cold frame with good light, as soon as ripe. Move seedlings when young as older plants resent disturbance",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible when young to damage from slugs, snails, aphids and leaf miners",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Angelica_archangelica.html",
@@ -178,5 +218,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Angelica archangelica",
+    "display_name": "Angelica"
 }

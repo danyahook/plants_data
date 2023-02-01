@@ -103,15 +103,55 @@
         "plant_range": "Europe, N Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist soil, in any situation. To prevent spreading, restrict the root run",
-        "propagation": "Propagate by seed or division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Can get caterpillars, cuckoo spit (froghoppers) and mint beetle",
-        "diseases": "May be subject to powdery mildews and mint rust"
+        "cultivation": {
+            "text": "Grow in any moist soil, in any situation. To prevent spreading, restrict the root run",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get caterpillars, cuckoo spit (froghoppers) and mint beetle",
+            "link_names": [
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews and mint rust",
+            "link_names": [
+                "Powdery mildews",
+                "Mint rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "mint_rust": "https://www.rhs.org.uk/disease/mint-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Mentha_longifolia.html",
@@ -170,5 +210,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Mentha longifolia",
+    "display_name": "Horse mint"
 }

@@ -90,15 +90,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Start from seed or buy as small plants and grow on in a heated greenhouse or on a warm windowsill. Move to an unheated greenhouse or outside once all risk of frost has passed. Water regularly to keep the growing media evenly moist, feed every 10-14 days with a balanced liquid fertiliser before switching to a high potassium liquid feed once the first fruits have set",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by glasshouse whitefly and tomato moth",
-        "diseases": "May be affected by tomato leaf mould, tomato blight and tomato viruses"
-    }
+        "cultivation": {
+            "text": "Start from seed or buy as small plants and grow on in a heated greenhouse or on a warm windowsill. Move to an unheated greenhouse or outside once all risk of frost has passed. Water regularly to keep the growing media evenly moist, feed every 10-14 days with a balanced liquid fertiliser before switching to a high potassium liquid feed once the first fruits have set",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and tomato moth",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to tomato leaf mould, tomato blight and tomato viruses",
+            "link_names": [
+                "Tomato",
+                "Tomato",
+                "Tomato viruses"
+            ],
+            "related_links": {
+                "tomato": "https://www.rhs.org.uk/problems/tomatoes-leaf-problems",
+                "tomato_viruses": "https://www.rhs.org.uk/disease/tomato-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lycopersicon esculentum 'Tumbler'",
+    "display_name": "Tomato 'tumbler'"
 }

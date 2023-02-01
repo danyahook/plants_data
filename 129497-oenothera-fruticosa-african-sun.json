@@ -85,21 +85,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun",
-        "propagation": "Propagate by division in early spring, or by softwood cuttings of unflowered shoots from late spring to midsummer; propagation for resale is prohibited without a licence",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Gravel garden",
-            "Prairie planting",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by slugs and aphids",
-        "diseases": "Generally disease-free but may be affected by leaf spot, powdery mildews and downy mildews; root rot may be a problem in rich, wet, heavy soil"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring, or by softwood cuttings of unflowered shoots from late spring to midsummer; propagation for resale is prohibited without a licence",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Gravel garden",
+                "Prairie planting",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leaf spot, powdery mildews and downy mildews; root rot may be a problem in rich, wet, heavy soil. Generally disease-free",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Oenothera fruticosa 'African Sun'",
+    "display_name": "Evening primrose 'african sun'"
 }

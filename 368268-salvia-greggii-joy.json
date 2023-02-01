@@ -104,20 +104,80 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil with shelter and full sun. Drought tolerant. Best overwintered under glass in frost free conditions with full light and using well-drained potting compost with added grit",
-        "propagation": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-ripe cuttings in late summer or autumn with bottom heat",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9 in spring, deadhead to prolong flowering",
-        "pests": "Leaves may be damaged by leafhoppers, slugs and snails and rosemary beetle. Under glass may be affected by aphids, glasshouse whitefly and glasshouse red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil with shelter and full sun. Drought tolerant. Best overwintered under glass in frost free conditions with full light and using well-drained potting compost with added grit",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings or softwood cuttings in spring or early summer or semi-ripe cuttings in late summer or autumn with bottom heat",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring, deadhead to prolong flowering",
+            "link_names": [
+                "Pruning group 9",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Leaves may be damaged by leafhoppers, slugs and snails and rosemary beetle. Under glass may be affected by aphids, glasshouse whitefly and glasshouse red spider mite",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Rosemary beetle",
+                "Aphids",
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia greggii 'Joy'",
+    "display_name": "Sage 'dyson's joy'"
 }

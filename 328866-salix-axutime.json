@@ -89,14 +89,60 @@
         "plant_range": "Japan & Korea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, fertile, moist but well-drained soil in full sun",
-        "propagation": "Propagate by softwood or hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids, caterpillars, leaf beetles and sawflies",
-        "diseases": "May be susceptible to willow anthracnose, a rust and a canker"
-    }
+        "cultivation": {
+            "text": "Grow in deep, fertile, moist but well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, leaf beetles and sawflies",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, a rust and a canker",
+            "link_names": [
+                "Willow anthracnose",
+                "A rust"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Salix 'Axutime'",
+    "display_name": ""
 }

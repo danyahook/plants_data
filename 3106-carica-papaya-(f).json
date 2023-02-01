@@ -114,16 +114,56 @@
         "plant_range": "S America"
     },
     "how_to_grow": {
-        "cultivation": "Plants require deep, humus-rich soil and sub-tropical conditions to fruit. Can also be grown as bedding or container plants for foliage effect in summer, with well-drained soil, full sun and a sheltered position",
-        "propagation": "Propagate by seed - plants can fruit within a year in suitable conditions and need replacing every few years",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Sub-tropical",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "May be affected by glasshouse red spider mite, glasshouse thrips and glasshouse whitefly",
-        "diseases": "Susceptible to root rots"
+        "cultivation": {
+            "text": "Plants require deep, humus-rich soil and sub-tropical conditions to fruit. Can also be grown as bedding or container plants for foliage effect in summer, with well-drained soil, full sun and a sheltered position",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed - plants can fruit within a year in suitable conditions and need replacing every few years",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Sub-tropical",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by glasshouse red spider mite, glasshouse thrips and glasshouse whitefly",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to root rots",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Carica_papaya.html",
@@ -231,5 +271,7 @@
             "Thrips",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Carica papaya (F)",
+    "display_name": "Pawpaw"
 }

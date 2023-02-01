@@ -82,17 +82,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, neutral to slightly acid soil in sun or semi-shade.",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by phytophthora root diseases"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, neutral to slightly acid soil in sun or semi-shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, juniper scale and shoot-boring moths",
+            "link_names": [
+                "Aphids",
+                "Juniper scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "juniper_scale": "https://www.rhs.org.uk/biodiversity/juniper-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and Phytophthora root diseases",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
+    },
+    "main_name_original": "Chamaecyparis pisifera 'Filifera Aurea Nana'",
+    "display_name": ""
 }

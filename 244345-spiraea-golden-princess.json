@@ -94,16 +94,58 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in most moist soils, tolerant of all but the most extreme conditions. Especially suitable for mixed borders",
-        "propagation": "Propagate by softwood or semi-ripe cuttings in spring to late summer or hardwood cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6. If overgrown, can be renovated by cutting back hard immediately after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Easy to grow in most moist soils, tolerant of all but the most extreme conditions. Especially suitable for mixed borders",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-ripe cuttings in spring to late summer or hardwood cuttings in winter",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6. If overgrown, can be renovated by cutting back hard immediately after flowering",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Spiraea 'Golden Princess'",
+    "display_name": "Japanese spiraea golden princess"
 }

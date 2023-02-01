@@ -82,21 +82,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained, humus-rich, soil in full sun or partial shade",
-        "propagation": "Propagate by seed sown at 16-18°C in mid spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Banks and slopes",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Slugs may damage young growth",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained, humus-rich, soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 16-18°C in mid spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Banks and slopes",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slug damage on young growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Salvia_farinacea__Victoria_.html",
@@ -122,5 +158,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Salvia farinacea 'Victoria'",
+    "display_name": "Mealy cup sage 'victoria'"
 }

@@ -86,19 +86,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow well in most soils but flowers fade more rapidly in full sun and last longer in moister soils",
-        "propagation": "Propagate by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Hedging and screens",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Easy to grow well in most soils but flowers fade more rapidly in full sun and last longer in moister soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Hedging and screens",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May sometimes be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Potentilla fruticosa 'Maanelys'",
+    "display_name": "Shrubby cinquefoil 'maanelys'"
 }

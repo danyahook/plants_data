@@ -89,18 +89,56 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun; protect with a dry, bracken mulch in winter. May die after seeding.",
-        "propagation": "Propagate by seed in pots in a cold frame as soon as seed is ripe. Prick out seedlings into deep pots to allow tap root to develop",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Architectural",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "To enhance foliage, remove flowering stems as soon as they appear or after blooming if seed is not required",
-        "pests": "Prone to aphids and slugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun; protect with a dry, bracken mulch in winter. May die after seeding.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame as soon as seed is ripe. Prick out seedlings into deep pots to allow tap root to develop",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Architectural",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "To enhance foliage, remove flowering stems as soon as they appear or after blooming if seed is not required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to aphids and slugs",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ferula_communis.html",
@@ -138,5 +176,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ferula communis",
+    "display_name": "Giant fennel"
 }

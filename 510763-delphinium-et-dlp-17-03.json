@@ -86,17 +86,79 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained but moisture-retentive soil in full sun, in a position sheltered from strong winds, and provide stakes or other supports (for more advice on support, see staking perennials) See also delphinium cultivation",
-        "propagation": "Propagate by basal softwood cuttings in spring, or by division in early spring or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required except deadheading, cutting spent flower spikes back to flowering sideshoots, and cutting all growth down to ground level at the end of the growing season",
-        "pests": "May be susceptible to aphids, earwigs, delphinium leaf miner, delphinium moth caterpillars, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews, delphinium black blotch, grey moulds, sclerotinia disease, crown rot and cucumber mosaic virus"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained but moisture-retentive soil in full sun, in a position sheltered from strong winds, and provide stakes or other supports (for more advice on support, see staking perennials) See also delphinium cultivation",
+            "link_names": [
+                "Delphinium cultivation"
+            ],
+            "related_links": {
+                "delphinium_cultivation": "https://www.rhs.org.uk/plants/delphinium/perennial/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by basal softwood cuttings in spring, or by division in early spring or early autumn",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required except deadheading, cutting spent flower spikes back to flowering sideshoots, and cutting all growth down to ground level at the end of the growing season",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, earwigs, delphinium leaf miner, delphinium moth caterpillars, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Earwigs",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, delphinium black blotch, grey moulds, sclerotinia disease, crown rot and cucumber mosaic virus",
+            "link_names": [
+                "Powdery mildews",
+                "Delphinium black blotch",
+                "Grey moulds",
+                "Sclerotinia disease",
+                "Cucumber mosaic virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "delphinium_black_blotch": "https://www.rhs.org.uk/disease/delphinium-black-blotch",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "sclerotinia_disease": "https://www.rhs.org.uk/disease/sclerotinia-disease",
+                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus"
+            }
+        }
+    },
+    "main_name_original": "Delphinium 'Et Dlp 17 03'",
+    "display_name": ""
 }

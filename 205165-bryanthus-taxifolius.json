@@ -92,17 +92,51 @@
         "plant_range": "Temp. N. Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, humus-rich, moist but well-drained acid soil. Does best where summers are not too hot",
-        "propagation": "Propagate by sowing seed at 6-12°C in early spring, take semi-ripe cuttings in summer, or layer in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Coastal",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, humus-rich, moist but well-drained acid soil. Does best where summers are not too hot",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed at 6-12°C in early spring, take semi-ripe cuttings in summer, or layer in spring",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Coastal",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Bryanthus taxifolius",
+    "display_name": "Blue heath"
 }

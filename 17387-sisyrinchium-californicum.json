@@ -95,14 +95,42 @@
         "plant_range": "W USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in boggy conditions, or in an aquatic planting basket on a pond shelf, using loam or specialist aquatic potting soil",
-        "propagation": "Propagate by division or seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in boggy conditions, or in an aquatic planting basket on a pond shelf, using loam or specialist aquatic potting soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sisyrinchium_californicum.html",
@@ -172,5 +200,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Sisyrinchium californicum",
+    "display_name": "Golden-eyed grass"
 }

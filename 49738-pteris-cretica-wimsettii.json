@@ -83,18 +83,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in any moist but well-drained soil, in shade or dappled shade.",
-        "propagation": "Propagate by division and spores",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back any dead foliage to rejuvenate",
-        "pests": "May be susceptible to eelworm, scale insects, aphids and mealybugs",
-        "diseases": "May be susceptible to sooty mould, rust and leaf spot."
-    }
+        "cultivation": {
+            "text": "Will grow well in any moist but well-drained soil, in shade or dappled shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division and spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back any dead foliage to rejuvenate",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to eelworm, scale insects, aphids and mealybugs",
+            "link_names": [
+                "Scale insects",
+                "Aphids",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to sooty mould, rust and leaf spot.",
+            "link_names": [
+                "Sooty mould"
+            ],
+            "related_links": {
+                "sooty_mould": "https://www.rhs.org.uk/biodiversity/sooty-moulds"
+            }
+        }
+    },
+    "main_name_original": "Pteris cretica 'Wimsettii'",
+    "display_name": ""
 }

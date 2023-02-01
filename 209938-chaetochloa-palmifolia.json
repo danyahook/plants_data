@@ -93,19 +93,57 @@
         "plant_range": "Asia to Australia"
     },
     "how_to_grow": {
-        "cultivation": "May be grown outdoors in frost-free areas, otherwise best grown in a container or lifted to overwinter in a cool greenhouse or conservatory. Grow in any well-drained soil in full sun or partial shade",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to red spider mites and caterpillars",
-        "diseases": "May be susceptible to rust diseases"
-    }
+        "cultivation": {
+            "text": "May be grown outdoors in frost-free areas, otherwise best grown in a container or lifted to overwinter in a cool greenhouse or conservatory. Grow in any well-drained soil in full sun or partial shade",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mites and caterpillars",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to rust diseases",
+            "link_names": [
+                "Rust diseases"
+            ],
+            "related_links": {
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Chaetochloa palmifolia",
+    "display_name": "Palm grass"
 }

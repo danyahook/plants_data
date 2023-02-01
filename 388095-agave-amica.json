@@ -83,14 +83,56 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Requires a minimum temperature of 15°C, so must be overwintered indoors. Dry off pots at the end of summer when leaves begin to die down, beginning watering and feeding again in spring",
-        "propagation": "Propagate by seed or offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cut flowers"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble-free, put may be susceptible to the usual hothouse pests such as thrips",
-        "diseases": "Generally trouble-free, but may be susceptible to grey moulds and rots"
-    }
+        "cultivation": {
+            "text": "Requires a minimum temperature of 15°C, so must be overwintered indoors. Dry off pots at the end of summer when leaves begin to die down, beginning watering and feeding again in spring",
+            "link_names": [
+                "Overwintered indoors"
+            ],
+            "related_links": {
+                "overwintered_indoors": "https://www.rhs.org.uk/prevention-protection/overwintering-tender-plants-wrapping"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or offsets in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble-free, put may be susceptible to the usual hothouse pests such as thrips",
+            "link_names": [
+                "Thrips"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble-free, but may be susceptible to grey moulds and rots",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Agave amica",
+    "display_name": "Tuberose"
 }

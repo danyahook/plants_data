@@ -91,16 +91,60 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist soil in full sun or partial shade",
-        "propagation": "Propagate by division in autumn or spring, by basal cuttings in spring or by root cuttings in early autumn or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong flowering then cut down to the base in late autumn",
-        "pests": "May be susceptible to phlox eelworm",
-        "diseases": "May be susceptible to powdery mildews, grey moulds, leafy gall and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in moist soil in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring, by basal cuttings in spring or by root cuttings in early autumn or winter",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering then cut down to the base in late autumn",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to phlox eelworm",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, grey moulds, leafy gall and leaf spot",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
+    },
+    "main_name_original": "Phlox paniculata Sweet Summer Candy ('Ditosdre'PBR) (Sweet Summer Series)",
+    "display_name": "Perennial phlox [sweet summer candy]"
 }

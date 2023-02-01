@@ -85,14 +85,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in sun or semi-shade",
-        "propagation": "Propagate by greenwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be affected by aphids, leaf hoppers and gall mites",
-        "diseases": "Resistant to Dutch elm disease; may be affected by honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in sun or semi-shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in summer",
+            "link_names": [
+                "Greenwood"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, bark beetles, horse chestnut scale and elm gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot, honey fungus and phytophthora. Resistant to Dutch elm disease",
+            "link_names": [
+                "Coral spot",
+                "Honey fungus",
+                "Phytophthora",
+                "Dutch elm disease"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "dutch_elm_disease": "https://www.rhs.org.uk/disease/dutch-elm-disease"
+            }
+        }
+    },
+    "main_name_original": "Ulmus 'New Horizon'PBR",
+    "display_name": "Elm 'new horizon'"
 }

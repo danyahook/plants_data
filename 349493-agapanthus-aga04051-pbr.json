@@ -88,19 +88,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or grow in a container. In cold areas, mulch well overwinter. See agapanthus cultivation",
-        "propagation": "Propagate by division every 3 to 4 years in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No need to cut down in the autumn, as the seedheads look attractive over winter",
-        "pests": "May get agapanthus gall midge",
-        "diseases": "A virus disease may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or grow in a container. In cold areas, mulch well overwinter. See agapanthus cultivation",
+            "link_names": [
+                "Container",
+                "Mulch",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division every 3 to 4 years in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No need to cut down in the autumn, as the seedheads look attractive over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May get agapanthus gall midge",
+            "link_names": [
+                "Agapanthus gall midge"
+            ],
+            "related_links": {
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge"
+            }
+        },
+        "diseases": {
+            "text": "A virus disease may be a problem",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Agapanthus 'Aga04051'PBR",
+    "display_name": "African lily [brilliant blue]"
 }

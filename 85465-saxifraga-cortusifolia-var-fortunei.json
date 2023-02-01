@@ -93,16 +93,58 @@
         "plant_range": "China, Japan, Korea"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in deep or partial shade. Suitable for a rock garden or border",
-        "propagation": "Propagate by seed or division of clumps",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids, slugs, vine weevil and glasshouse red spider mite",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in deep or partial shade. Suitable for a rock garden or border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division of clumps",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids, slugs, vine weevil and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Vine weevil",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Saxifraga cortusifolia var. fortunei",
+    "display_name": "Fortune saxifrage"
 }

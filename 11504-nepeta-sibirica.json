@@ -90,20 +90,66 @@
         "plant_range": "Siberia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun but will tolerate light shade",
-        "propagation": "Propagate by division in spring or autumn; take softwood stem-tip cuttings in early summer or semi-ripe cuttings in early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Deadhead spent flowerheads and cut hard back at the end of the flowering season or in early spring",
-        "pests": "May be damaged by slugs and snails and cats",
-        "diseases": "Powdery mildews can be problematic"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun but will tolerate light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or autumn; take softwood stem-tip cuttings in early summer or semi-ripe cuttings in early autumn",
+            "link_names": [
+                "Division",
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flowerheads and cut hard back at the end of the flowering season or in early spring",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be damaged by slugs and snails and cats",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Powdery mildews can be problematic",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Nepeta_sibirica.html",
@@ -145,5 +191,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Nepeta sibirica",
+    "display_name": "Siberian catmint"
 }

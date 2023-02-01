@@ -89,16 +89,70 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in good light, in moist but well-drained soil. It likes neutral to alkaline soil and thrives in chalky ground. Small enough to be grown in a container",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or can tolerate hard pruning if needed",
-        "pests": "May be susceptible to lilac leaf-mining moth, privet thrips; and also to pigeon damage",
-        "diseases": "May be susceptible to lilac blight, honey fungus, Phytophthora and Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Easy to grow in good light, in moist but well-drained soil. It likes neutral to alkaline soil and thrives in chalky ground. Small enough to be grown in a container",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or can tolerate hard pruning if needed",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to lilac leaf-mining moth, privet thrips; and also to pigeon damage",
+            "link_names": [
+                "Lilac leaf-mining moth",
+                "Pigeon"
+            ],
+            "related_links": {
+                "lilac_leaf-mining_moth": "https://www.rhs.org.uk/biodiversity/lilac-leaf-mining-moth",
+                "pigeon": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus, phytophthora, powdery mildews and bacterial canker (Pseudomonas Syringae)",
+            "link_names": [
+                "Honey fungus",
+                "Phytophthora",
+                "Powdery mildews",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Syringa meyeri Flowerfesta Purple ('Anny200809'PBR) (Flowerfesta Series)",
+    "display_name": ""
 }

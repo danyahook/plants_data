@@ -82,18 +82,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in the summer months in well-drained soil in full sun with shelter; overwinter or grow in containers under glass in loam-based potting compost John Innes No.2 in full light with shade from hot sun, watering freely in growth and use a general fertiliser monthly; water sparingly in winter",
-        "propagation": "Propagate by softwood cuttings in spring or summer, or by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Bedding",
-            "Conservatory and greenhouse",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pinch out tips to keep the plant bushy and compact",
-        "pests": "May be susceptible to glasshouse whitefly and glasshouse red spider mites if grown in a conservatory or greenhouse",
-        "diseases": "May be susceptible to a virus and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in the summer months in well-drained soil in full sun with shelter; overwinter or grow in containers under glass in loam-based potting compost John Innes No.2 in full light with shade from hot sun, watering freely in growth and use a general fertiliser monthly; water sparingly in winter",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or summer, or by semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Bedding",
+                "Conservatory and greenhouse",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out tips to keep the plant bushy and compact",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly and glasshouse red spider mites if grown in a conservatory or greenhouse",
+            "link_names": [
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus and powdery mildews",
+            "link_names": [
+                "A virus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Ipomoea 'Balsolablack'",
+    "display_name": ""
 }

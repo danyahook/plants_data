@@ -88,22 +88,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, well-drained soil in full sun; ideal for stony soil. Protect from excessive winter wet",
-        "propagation": "Propagate by division in early spring or take softwood cuttings of non-flowering shoots from late spring to midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to damage by slugs",
-        "diseases": "Susceptible to leaf spots, mildews and root rot"
-    }
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, well-drained soil in full sun; ideal for stony soil. Protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or take softwood cuttings of non-flowering shoots from late spring to midsummer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to leaf spots, mildews and root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Oenothera macrocarpa subsp. incana 'Silver Blade'",
+    "display_name": ""
 }

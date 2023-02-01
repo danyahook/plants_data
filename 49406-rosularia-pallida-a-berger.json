@@ -90,16 +90,56 @@
         "plant_range": "E Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Outdoors grow in moderately fertile, sharply drained soil with added grit, in full sun. Protect from winter wet. Can also grow in shallow containers of loam-based compost, with added grit, in an alpine house",
-        "propagation": "Propagate by seed sown under glass in spring, or by detaching and rooting offsets in summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "Remove rosettes that have flowered",
-        "pests": "May be damaged by vine weevils and aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Outdoors grow in moderately fertile, sharply drained soil with added grit, in full sun. Protect from winter wet. Can also grow in shallow containers of loam-based compost, with added grit, in an alpine house",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown under glass in spring, or by detaching and rooting offsets in summer or early autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove rosettes that have flowered",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by vine weevils and aphids",
+            "link_names": [
+                "Vine weevils",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Rosularia pallida A. Berger",
+    "display_name": "Golden-flowered rosularia"
 }

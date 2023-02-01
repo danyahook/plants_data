@@ -116,18 +116,78 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow informally into a large strong deciduous tree, or formally against a wall with support such as wires, over an arch or pergola, in fertile, moist but well-drained soil in full sun or partial shade. See wisteria growing guide for more advice",
-        "propagation": "Propagate by basal softwood cuttings from sideshoots from early summer to midsummer and rooted with bottom heat, by layering in autumn, or by grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Hedging and screens",
-            "Wall side borders",
-            "Flower borders and beds"
-        ],
-        "pruning": "See Pruning wisteria",
-        "pests": "Generally pest-free but may be affected by aphids, scale insects including brown scale and wisteria scale, and vine weevil",
-        "diseases": "Generally disease-free but may be affected by powdery mildews, honey fungus, phytophthora root rot, leaf spot, coral spot, and virus diseases"
+        "cultivation": {
+            "text": "Grow informally into a large strong deciduous tree, or formally against a wall with support such as wires, over an arch or pergola, in fertile, moist but well-drained soil in full sun or partial shade. See wisteria growing guide for more advice",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal softwood cuttings from sideshoots from early summer to midsummer and rooted with bottom heat, by layering in autumn, or by grafting in winter",
+            "link_names": [
+                "Softwood",
+                "Layering",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Hedging and screens",
+                "Wall side borders",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See Pruning wisteria",
+            "link_names": [
+                "Pruning wisteria"
+            ],
+            "related_links": {
+                "pruning_wisteria": "https://www.rhs.org.uk/plants/wisteria/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be affected by aphids, scale insects including brown scale and wisteria scale, and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Brown scale",
+                "Wisteria scale",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale",
+                "wisteria_scale": "https://www.rhs.org.uk/biodiversity/wisteria-scale",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be affected by powdery mildews, honey fungus, phytophthora root rot, leaf spot, coral spot, and virus diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Honey fungus",
+                "Phytophthora",
+                "Coral spot",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Wisteria_sinensis__Prolific_.html",
@@ -162,5 +222,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Wisteria sinensis 'Prolific'",
+    "display_name": "Chinese wisteria 'prolific'"
 }

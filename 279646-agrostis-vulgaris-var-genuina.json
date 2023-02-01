@@ -103,15 +103,51 @@
         "plant_range": "Europe, N Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "By seed. Slow to establish but will become neat and dense if mown regularly",
-        "propagation": "Sow seed directly into weed-free, prepared soil in spring or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Coastal",
-            "Banks and slopes"
-        ],
-        "pruning": "Mow regularly",
-        "pests": "Seed may be eaten by ants, birds, chafer grubs and Leatherjackets",
-        "diseases": "Algae, Dollar spot, Corticium disease, Fusarium patch, fungae"
-    }
+        "cultivation": {
+            "text": "By seed. Slow to establish but will become neat and dense if mown regularly",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Sow seed directly into weed-free, prepared soil in spring or early autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Coastal",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Mow regularly",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Seed may be eaten by ants, birds, chafer grubs and Leatherjackets",
+            "link_names": [
+                "Ants",
+                "Birds",
+                "Chafer grubs",
+                "Leatherjackets"
+            ],
+            "related_links": {
+                "ants": "https://www.rhs.org.uk/biodiversity/ants",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "chafer_grubs": "https://www.rhs.org.uk/biodiversity/chafer-grubs-in-garden-borders",
+                "leatherjackets": "https://www.rhs.org.uk/biodiversity/leatherjackets"
+            }
+        },
+        "diseases": {
+            "text": "Algae, Dollar spot, Corticium disease, Fusarium patch, fungae",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Agrostis vulgaris var. genuina",
+    "display_name": "Brown top"
 }

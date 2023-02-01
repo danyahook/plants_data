@@ -88,18 +88,58 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in moderately fertile, moist but well-drained soil in full sun. Can be wall-trained, tying in young growths when they are pliable. Shelter from strong winds, as the branches are brittle",
-        "propagation": "Propagate by seed in containers in a cold frame in autumn. Propagate by root cuttings, or propagate by grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1; prune in mid- to late-summer to prevent bleeding. Remove suckers in autumn",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in full sun in moderately fertile, moist but well-drained soil in full sun. Can be wall-trained, tying in young growths when they are pliable. Shelter from strong winds, as the branches are brittle",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a cold frame in autumn. Propagate by root cuttings, or propagate by grafting in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings",
+                "Grafting"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1; prune in mid- to late-summer to prevent bleeding. Remove suckers in autumn",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Robinia_hispida.html",
@@ -150,5 +190,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Robinia hispida",
+    "display_name": "Rose acacia"
 }

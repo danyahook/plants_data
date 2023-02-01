@@ -95,18 +95,46 @@
         "plant_range": "S Aegean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor, well-drained soil in full sun",
-        "propagation": "Propagate by semi-hardwood cuttings or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10 in mid-spring",
-        "pests": "Can get leafhoppers",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in poor, well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings or softwood cuttings",
+            "link_names": [
+                "Semi-hardwood",
+                "Softwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10 in mid-spring",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Can get leafhoppers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ballota_pseudodictamnus.html",
@@ -157,5 +185,7 @@
             "Underwatering",
             "Caterpillars"
         ]
-    }
+    },
+    "main_name_original": "Ballota pseudodictamnus",
+    "display_name": "False dittany"
 }

@@ -85,15 +85,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in deep, fertile soil in full sun. May naturalise over time",
-        "propagation": "Propagate by seed, sowing in containers in an open frame when ripe, or by division, separating corms when the plant is dormant in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs",
-        "diseases": "May be susceptible to grey moulds"
-    }
+        "cultivation": {
+            "text": "Grows best in deep, fertile soil in full sun. May naturalise over time",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sowing in containers in an open frame when ripe, or by division, separating corms when the plant is dormant in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Colchicum 'Disraeli'",
+    "display_name": "Meadow saffron 'disraeli'"
 }

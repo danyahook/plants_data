@@ -98,16 +98,60 @@
         "plant_range": "SE Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil, in full sun. Tolerates poor, dry soil and salt wind",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Coastal",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be suceptible to adelgids, conifer aphid species, pine sawfly and pine shoot moth",
-        "diseases": "May be susceptible to various needlecast diseases"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil, in full sun. Tolerates poor, dry soil and salt wind",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Coastal",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pinus austriaca",
+    "display_name": "Austrian pine"
 }

@@ -95,18 +95,60 @@
         "plant_range": "Mediterranean"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, well-drained soil in full sun; shelter from strong winds. In very cold winters, apply a dry mulch",
-        "propagation": "Propagate by seed sown in pots in a cold frame or propagate by division in spring or take root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Architectural",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut down flower stems as they emerge in summer if you want to grow it as a foliage plant",
-        "pests": "Can be damaged by snails, slugs and blackfly",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in a fertile, well-drained soil in full sun; shelter from strong winds. In very cold winters, apply a dry mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame or propagate by division in spring or take root cuttings in winter",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Architectural",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down flower stems as they emerge in summer if you want to grow it as a foliage plant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can be damaged by snails, slugs and blackfly",
+            "link_names": [
+                "Snails",
+                "Slugs"
+            ],
+            "related_links": {
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cynara_cardunculus.html",
@@ -153,5 +195,7 @@
             "Sap-sucking insects",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Cynara cardunculus",
+    "display_name": "Cardoon"
 }

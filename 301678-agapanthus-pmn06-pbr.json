@@ -88,19 +88,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or grow in a container; hardy in southern England and coasts. Mulch to provide winter protection. See agapanthus cultivation",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal",
-            "Patio and container plants",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required, but tidy up plants in late autumn",
-        "pests": "Generally pest-free but keep a look out for agapanthus gall midge",
-        "diseases": "Generally disease free, but a virus disease may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or grow in a container; hardy in southern England and coasts. Mulch to provide winter protection. See agapanthus cultivation",
+            "link_names": [
+                "Mulch",
+                "Winter protection",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal",
+                "Patio and container plants",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but tidy up plants in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but keep a look out for agapanthus gall midge",
+            "link_names": [
+                "Agapanthus gall midge"
+            ],
+            "related_links": {
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free, but a virus disease may be a problem",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Agapanthus 'Pmn06'PBR",
+    "display_name": "African lily [queen mum]"
 }

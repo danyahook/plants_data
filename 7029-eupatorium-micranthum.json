@@ -97,17 +97,61 @@
         "plant_range": "Mexico to Costa Rica"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun or light shade with protection from cold, drying winds. Protect roots with a dry winter mulch",
-        "propagation": "Root softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Slugs and aphids may be troublesome",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun or light shade with protection from cold, drying winds. Protect roots with a dry winter mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Root softwood cuttings in spring",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Slugs and aphids may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Eupatorium micranthum",
+    "display_name": "Privet-leaved ageratina"
 }

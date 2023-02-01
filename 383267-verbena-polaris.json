@@ -88,21 +88,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in well-drained, or moist but well-drained, soil in full sun with shelter; protect with a dry winter mulch in frost-prone areas",
-        "propagation": "Propagate by seed or stem tip cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required, tidy after flowering",
-        "pests": "May be attacked by slugs, leafhoppers, thrips and aphids",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Best grown in well-drained, or moist but well-drained, soil in full sun with shelter; protect with a dry winter mulch in frost-prone areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or stem tip cuttings in late summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, tidy after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, leafhoppers, thrips and aphids",
+            "link_names": [
+                "Slugs",
+                "Thrips",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Verbena 'Polaris'",
+    "display_name": "Slender vervain 'polaris'"
 }

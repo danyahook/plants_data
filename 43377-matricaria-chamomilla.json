@@ -95,14 +95,42 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Prefers light soil and as a cornfield weed, disturbed ground to germinate",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow"
-        ],
-        "pruning": "None required",
-        "pests": "Trouble-free",
-        "diseases": "Trouble-free"
+        "cultivation": {
+            "text": "Prefers light soil and as a cornfield weed, disturbed ground to germinate",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Matricaria_chamomilla.html",
@@ -229,5 +257,7 @@
             "Aged yellow and dry",
             "Fire ants"
         ]
-    }
+    },
+    "main_name_original": "Matricaria chamomilla",
+    "display_name": "Scented mayweed"
 }

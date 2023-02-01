@@ -82,10 +82,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil that is rich in organic matter, preferably in full sun though they will tolerate partial shade. For longer blanched stems, draw up soil around the stems in late summer and early autumn. See the RHS A-Z guides to vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed sown outside in spring",
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails, leek moth, onion fly, and onion thrips",
-        "diseases": "May be susceptible to leek rust, onion white rot, downy mildews, foot and root rots, fungal leaf spots, and smuts"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil that is rich in organic matter, preferably in full sun though they will tolerate partial shade. For longer blanched stems, draw up soil around the stems in late summer and early autumn. See the RHS A-Z guides to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown outside in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, leek moth, onion fly, and onion thrips",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Leek moth",
+                "Onion fly",
+                "Thrips"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "leek_moth": "https://www.rhs.org.uk/biodiversity/leek-moth",
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to leek rust, onion white rot, downy mildews, foot and root rots, fungal leaf spots, and smuts",
+            "link_names": [
+                "Leek rust",
+                "Onion white rot",
+                "Downy mildews",
+                "Smuts"
+            ],
+            "related_links": {
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust",
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "smuts": "https://www.rhs.org.uk/disease/smuts"
+            }
+        }
+    },
+    "main_name_original": "Allium porrum 'Lancaster'",
+    "display_name": "Leek 'lancaster'"
 }

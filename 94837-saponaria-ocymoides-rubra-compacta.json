@@ -76,15 +76,53 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun",
-        "propagation": "Propagate by seed and softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Cut back hard after flowering to maintain compact habit",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, neutral to alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed and softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back hard after flowering to maintain compact habit",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Saponaria ocymoides 'Rubra Compacta'",
+    "display_name": "Tumbling ted 'rubra compacta'"
 }

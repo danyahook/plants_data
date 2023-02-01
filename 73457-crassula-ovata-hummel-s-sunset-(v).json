@@ -97,15 +97,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a standard cactus compost, in bright, filtered light or full sun. When in growth feed every two or three weeks with a balanced liquid feed. Water moderately from spring to autumn, sparingly at other times",
-        "propagation": "Propagate by seed sown at 15 - 18°C in early spring or stem or leaf cuttings in spring or early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by mealybugs, vine weevil and aphids",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in a standard cactus compost, in bright, filtered light or full sun. When in growth feed every two or three weeks with a balanced liquid feed. Water moderately from spring to autumn, sparingly at other times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 15 - 18°C in early spring or stem or leaf cuttings in spring or early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by mealybugs, vine weevil and aphids",
+            "link_names": [
+                "Mealybugs",
+                "Vine weevil",
+                "Aphids"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Crassula_ovata__Hummel_s_Sunset_.html",
@@ -141,5 +179,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Crassula ovata 'Hummel's Sunset' (v)",
+    "display_name": "Jade plant 'hummel's sunset'"
 }
