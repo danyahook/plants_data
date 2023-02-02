@@ -93,17 +93,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil, in full sun or partial shade. See aquilegia cultivation for further advice",
-        "propagation": "Propagate by seed or by division. Propagates freely by seed in situ",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required. May be cut back after flowering and kept well watered to encourage new leaf growth",
-        "pests": "May be suceptible to aphids, aquilegia sawfly, aquilegia sawfly and leaf miners",
-        "diseases": "May be susceptible to powdery mildews, aquilegia downy mildew and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil, in full sun or partial shade. See aquilegia cultivation for further advice",
+            "link_names": [
+                "Aquilegia cultivation"
+            ],
+            "related_links": {
+                "aquilegia_cultivation": "https://www.rhs.org.uk/plants/aquilegia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division. Propagates freely by seed in situ",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. May be cut back after flowering and kept well watered to encourage new leaf growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, aquilegia sawfly, aquilegia sawfly and leaf miners",
+            "link_names": [
+                "Aphids",
+                "Aquilegia sawfly",
+                "Aquilegia sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "aquilegia_sawfly": "https://www.rhs.org.uk/biodiversity/aquilegia-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, aquilegia downy mildew and fungal leaf spot",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Aquilegia 'Blue Star' (Star Series)",
+    "display_name": "Columbine 'blue star'"
 }

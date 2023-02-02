@@ -87,16 +87,56 @@
         "plant_range": "Siberia"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in almost any soil or situation except very wet or very dry; ideal site is a humus-rich soil in partial shade",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back main flower spike as it fades (unless seedlings are required) to encourage the growth of flowering side shoots",
-        "pests": "Can get aphids and leaf and bud eelworm",
-        "diseases": "May be affected by leaf spots and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow in almost any soil or situation except very wet or very dry; ideal site is a humus-rich soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back main flower spike as it fades (unless seedlings are required) to encourage the growth of flowering side shoots",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids and leaf and bud eelworm",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by leaf spots and powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Digitalis × sibirica",
+    "display_name": "Siberian foxglove"
 }

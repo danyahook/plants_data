@@ -93,14 +93,64 @@
         "plant_range": "SE Eur., W Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in sun or partial shade",
-        "propagation": "Propagate by seed or graft",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "Prone to caterpillars, sawflies and aphids",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or graft",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7",
+            "link_names": [
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be be susceptible to caterpillars, gall mites, aphids and sawflies. Squirrels like to feed on the nuts",
+            "link_names": [
+                "Gall mites",
+                "Aphids",
+                "Squirrels"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, silver leaf and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Corylus avellana 'Colurna'",
+    "display_name": "Turkish hazel"
 }

@@ -87,16 +87,52 @@
         "plant_range": "New Zealand"
     },
     "how_to_grow": {
-        "cultivation": "Requires sharp drainage in a sheltered position. Ideal for growng in a container in a cool greenhouse, conservatory, alpine house or rock garden in full sun",
-        "propagation": "Propagate by seed sown as soon as it is ripe in pots in a cold frame",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Gravel garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Remove dead or damaged stems after flowering",
-        "pests": "May be attacked by greenhouse whitefly when grown under glass",
-        "diseases": "May suffer from clematis slime flux"
+        "cultivation": {
+            "text": "Requires sharp drainage in a sheltered position. Ideal for growng in a container in a cool greenhouse, conservatory, alpine house or rock garden in full sun",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as it is ripe in pots in a cold frame",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Gravel garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead or damaged stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by greenhouse whitefly when grown under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May suffer from clematis slime flux",
+            "link_names": [
+                "Clematis slime flux"
+            ],
+            "related_links": {
+                "clematis_slime_flux": "https://www.rhs.org.uk/disease/clematis-slime-flux"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Clematis_marmoraria.html",
@@ -135,5 +171,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Clematis marmoraria",
+    "display_name": "Marbled clematis"
 }

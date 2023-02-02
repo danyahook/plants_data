@@ -92,18 +92,72 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well drained soil, may benefit from afternoon shade in hot summers. Evergreen in milder areas, may die back in colder winters",
-        "propagation": "Propagate by seed, by division or by basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "This species benefits from being lightly sheared back after flowering, to encourage the production of fresh leaves",
-        "pests": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews, downy mildews, rust diseases and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well drained soil, may benefit from afternoon shade in hot summers. Evergreen in milder areas, may die back in colder winters",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by division or by basal softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "This species benefits from being lightly sheared back after flowering, to encourage the production of fresh leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, geranium sawfly, slugs and snails",
+            "link_names": [
+                "Vine weevil",
+                "Geranium sawfly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, downy mildews, rust diseases and virus diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews",
+                "Rust diseases",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Geranium cristatum",
+    "display_name": "Crested cranesbill"
 }

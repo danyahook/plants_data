@@ -83,13 +83,49 @@
         "plant_range": "Tropical Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam-based potting compost in bright filtered light with shade from hot sun. When in growth water moderately and apply a balanced liquid fertilizer monthly. Water sparingly at other times. Can be grown outside during the summer months",
-        "propagation": "Propagate by seed or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pests": "May be attacked by glasshouse whitefly, glasshouse red spider mite, aphids and scale insects when grown under glass",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in a loam-based potting compost in bright filtered light with shade from hot sun. When in growth water moderately and apply a balanced liquid fertilizer monthly. Water sparingly at other times. Can be grown outside during the summer months",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by glasshouse whitefly, glasshouse red spider mite, aphids and scale insects when grown under glass",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Aphids",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Thunbergia_gregorii.html",
@@ -131,5 +167,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Thunbergia gregorii",
+    "display_name": "Orange clock vine"
 }

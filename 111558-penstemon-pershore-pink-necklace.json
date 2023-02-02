@@ -94,18 +94,78 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Penstemon cultivation in moderately fertile, well-drained soil in full sun or part shade. In cold areas protect plant overwinter with a dry winter mulch",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering to maintain vigour and prolong flowering, then cut back to 15cm in late winter or early spring",
-        "pests": "May be attacked by slugs, snails, aphids and leaf and bud eelworm",
-        "diseases": "May be affected by a downy mildew, grey moulds, powdery mildews and a fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Penstemon cultivation in moderately fertile, well-drained soil in full sun or part shade. In cold areas protect plant overwinter with a dry winter mulch",
+            "link_names": [
+                "Penstemon cultivation",
+                "Mulch"
+            ],
+            "related_links": {
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to maintain vigour and prolong flowering, then cut back to 15cm in late winter or early spring",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, aphids and leaf and bud eelworm",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by a downy mildew, grey moulds, powdery mildews and a fungal leaf spot",
+            "link_names": [
+                "A downy mildew",
+                "Grey moulds",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Pershore Pink Necklace'",
+    "display_name": "Penstemon 'pershore pink necklace'"
 }

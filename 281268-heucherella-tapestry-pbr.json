@@ -90,17 +90,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant in moisture retentive but well drained soil in partial shade in borders or containers.",
-        "propagation": "Propagate by division in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Remove any faded flowers or dead leaves",
-        "pests": "Generally pest-free but may be susceptible to vine weevil, especially in containers.",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Plant in moisture retentive but well drained soil in partial shade in borders or containers.",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove any faded flowers or dead leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to vine weevil, especially in containers.",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "× Heucherella 'Tapestry'PBR",
+    "display_name": "Heucherella 'tapestry'"
 }

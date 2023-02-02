@@ -99,14 +99,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in nay fertile, well-drained but moisture-retentive soil. For more information see cobnut cultivation and filbert cultivation.",
-        "propagation": "Propagate by hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Edible fruit"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be be susceptible to caterpillars, gall mites, aphids and sawflies",
-        "diseases": "Generally disease-free, though may be susceptible to honey fungus, silver leaf and Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in nay fertile, well-drained but moisture-retentive soil. For more information see cobnut cultivation and filbert cultivation.",
+            "link_names": [
+                "Cobnut cultivation",
+                "Filbert cultivation"
+            ],
+            "related_links": {
+                "cobnut_cultivation": "https://www.rhs.org.uk/nuts/cobnuts-filberts",
+                "filbert_cultivation": "https://www.rhs.org.uk/nuts/cobnuts-filberts"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be be susceptible to caterpillars, gall mites, aphids and sawflies. Squirrels like to feed on the nuts",
+            "link_names": [
+                "Gall mites",
+                "Aphids",
+                "Squirrels"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, silver leaf and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Corylus maxima Géant de Halle",
+    "display_name": ""
 }

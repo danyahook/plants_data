@@ -88,17 +88,57 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, humus-rich, moist but well-drained soil in plenty of sun",
-        "propagation": "Propagate by seed in containers in an open frame as soon as seed is ripe. Propagate by division or root offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Rock garden",
-            "Gravel garden",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs and snails may be a problem outdoors. Under glass, watch out for aphids and glasshouse red spider mite",
-        "diseases": "Gentian rust may be a problem and various soil fungi may cause stem rots"
+        "cultivation": {
+            "text": "Grow in light, humus-rich, moist but well-drained soil in plenty of sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in an open frame as soon as seed is ripe. Propagate by division or root offsets in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Rock garden",
+                "Gravel garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem outdoors. Under glass, watch out for aphids and glasshouse red spider mite",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Gentian rust may be a problem and various soil fungi may cause stem rots",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gentiana_verna.html",
@@ -144,5 +184,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Gentiana verna",
+    "display_name": "Spring gentian"
 }

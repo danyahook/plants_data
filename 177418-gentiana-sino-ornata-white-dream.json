@@ -86,17 +86,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in partial shade. Suitable for rock garden or peat terrace",
-        "propagation": "Propagate by division of offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Prone to slugs, snails and aphids",
-        "diseases": "Prone to root rot"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in partial shade. Suitable for rock garden or peat terrace",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of offsets in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to slugs, snails and aphids",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Prone to root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Gentiana sino-ornata White Dream",
+    "display_name": "Showy chinese gentian 'weisser traum'"
 }

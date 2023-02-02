@@ -94,19 +94,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in fertile well-drained soil in full sun. May need protecting in northern climes",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Architectural",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Dead or damaged leaves may be removed in the spring",
-        "pests": "Phormium mealybug may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grows best in fertile well-drained soil in full sun. May need protecting in northern climes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Architectural",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Dead or damaged leaves may be removed in the spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to phormium mealybug",
+            "link_names": [
+                "Phormium mealybug"
+            ],
+            "related_links": {
+                "phormium_mealybug": "https://www.rhs.org.uk/biodiversity/phormium-mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Phormium_tenax__Yellow_Wave_.html",
@@ -139,5 +175,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Phormium tenax 'Yellow Wave'",
+    "display_name": "Flax lily 'yellow wave'"
 }

@@ -100,21 +100,53 @@
         "plant_range": "Europe & USSR"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun",
-        "propagation": "Propagate by seed. It is best to sow fresh seed in the autumn or sow in a cold frame in spring. Can self-seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Prairie planting",
-            "Mediterranean climate plants",
-            "Wildflower meadow",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to control self-seeding",
-        "pests": "Usually trouble free",
-        "diseases": "Usually trouble free"
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed. It is best to sow fresh seed in the autumn or sow in a cold frame in spring. Can self-seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Prairie planting",
+                "Mediterranean climate plants",
+                "Wildflower meadow",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to control self-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Usually trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Bupleurum_rotundifolium.html",
@@ -178,5 +210,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Bupleurum rotundifolium",
+    "display_name": "Thorow-wax"
 }

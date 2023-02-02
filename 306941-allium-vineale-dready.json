@@ -85,17 +85,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in reasonably fertile, well-drained soil with full sun. See allium cultivation advice",
-        "propagation": "Divide clumps in early spring, or separate bulbils",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by onion white rot and downy mildews and occasionally leek rust"
-    }
+        "cultivation": {
+            "text": "Grow in reasonably fertile, well-drained soil with full sun. See allium cultivation advice",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Divide clumps in early spring, or separate bulbils",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by onion white rot and downy mildews and occasionally leek rust",
+            "link_names": [
+                "Onion white rot",
+                "Downy mildews",
+                "Leek rust"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "leek_rust": "https://www.rhs.org.uk/disease/leek-rust"
+            }
+        }
+    },
+    "main_name_original": "Allium vineale 'Dready'",
+    "display_name": "Allium 'dready'"
 }

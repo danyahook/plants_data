@@ -92,17 +92,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in neutral to acid, well-drained soil in a sheltered location with full sun. Suits urban gardens or milder south west localities, may need winter protection elsewhere. Under glass grow in ericaceous or loam-based compost (JI No.2) in full light",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8 or pruning group 13 for wall-trained specimens",
-        "pests": "Can get glasshouse red spider mite, fluted scale and mealybugs",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in neutral to acid, well-drained soil in a sheltered location with full sun. Suits urban gardens or milder south west localities, may need winter protection elsewhere. Under glass grow in ericaceous or loam-based compost (JI No.2) in full light",
+            "link_names": [
+                "Winter protection"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 13 for wall-trained specimens",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acacia dealbata 'Gaulois Astier'",
+    "display_name": "Blue wattle 'gaulois astier'"
 }

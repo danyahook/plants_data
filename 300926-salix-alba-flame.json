@@ -93,15 +93,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in moist or wet soil; avoid planting near buildings because its roots take up a lot of water from a wide area",
-        "propagation": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter; may also be propagated by large sets, up to 3.5m long and 2-3cm thick",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to aphids, caterpillars, gall mites, flea beetles, sawfly larvae, and willow scale",
-        "diseases": "May be susceptible to willow anthracnose, watermark disease, willow heart rot, rust diseases, crown gall, honey fungus, root rot, silver leaf, and tar spot"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in moist or wet soil; avoid planting near buildings because its roots take up a lot of water from a wide area",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter; may also be propagated by large sets, up to 3.5m long and 2-3cm thick",
+            "link_names": [
+                "Softwood",
+                "Hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, gall mites, flea beetles, sawfly larvae, and willow scale",
+            "link_names": [
+                "Aphids",
+                "Gall mites",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, watermark disease, willow heart rot, rust diseases, crown gall, honey fungus, root rot, silver leaf, and tar spot",
+            "link_names": [
+                "Willow anthracnose",
+                "Rust diseases",
+                "Crown gall",
+                "Honey fungus",
+                "Silver leaf",
+                "Tar spot"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "crown_gall": "https://www.rhs.org.uk/disease/crown-gall",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "tar_spot": "https://www.rhs.org.uk/disease/tar-spot-of-maple"
+            }
+        }
+    },
+    "main_name_original": "Salix alba 'Flame'",
+    "display_name": "White willow 'flame'"
 }

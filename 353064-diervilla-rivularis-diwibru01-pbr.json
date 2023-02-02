@@ -88,17 +88,51 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun to achieve the best foliage colour",
-        "propagation": "Root softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 6",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun to achieve the best foliage colour",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Root softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 6",
+            "link_names": [
+                "Pruning group 6"
+            ],
+            "related_links": {
+                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Diervilla rivularis 'Diwibru01'PBR",
+    "display_name": "Mountain bush honeysuckle [honeybee]"
 }

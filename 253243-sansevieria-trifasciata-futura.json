@@ -87,13 +87,53 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow as a houseplant or under glass in a frost-free environment. Provide bright light, although plant will adapt to lower-light conditions. Repot only when plant fills container. Avoid overwatering, allowing compost to dry out between waterings. Tolerant of neglect.",
-        "propagation": "Propagate by suckers or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to vine weevil",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow as a houseplant or under glass in a frost-free environment. Provide bright light, although plant will adapt to lower-light conditions. Repot only when plant fills container. Avoid overwatering, allowing compost to dry out between waterings. Tolerant of neglect.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by suckers or division",
+            "link_names": [
+                "Suckers",
+                "Division"
+            ],
+            "related_links": {
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sansevieria trifasciata 'Futura'",
+    "display_name": ""
 }

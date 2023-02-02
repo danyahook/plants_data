@@ -83,17 +83,49 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in dappled shade; may not be hardy in colder areas so provide a winter mulch or move container-grown plants inside",
-        "propagation": "Propagate by division or from spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove dead or damaged fronds as needed",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in dappled shade; may not be hardy in colder areas so provide a winter mulch or move container-grown plants inside",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or from spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove dead or damaged fronds as needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Onychium_japonicum.html",
@@ -165,5 +197,7 @@
             "Plant dried up",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Onychium japonicum",
+    "display_name": "Carrot fern"
 }

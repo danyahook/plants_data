@@ -89,16 +89,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows in any moist well-drained soil in full sun; can be used for hedging",
-        "propagation": "Propagate by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
-        "pests": "Susceptible to damage from aphids, caterpillars and bullfinches",
-        "diseases": "May be subject to silver leaf and blossom wilt"
-    }
+        "cultivation": {
+            "text": "Grows in any moist well-drained soil in full sun; can be used for hedging",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Prune in mid-summer if silver leaf is a problem",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Susceptible to damage from aphids, caterpillars and bullfinches",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to silver leaf and blossom wilt",
+            "link_names": [
+                "Silver leaf"
+            ],
+            "related_links": {
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf"
+            }
+        }
+    },
+    "main_name_original": "Prunus spinosa 'Purpurea'",
+    "display_name": "Blackthorn 'purpurea'"
 }

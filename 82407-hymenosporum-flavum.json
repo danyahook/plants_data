@@ -96,16 +96,52 @@
         "plant_range": "New Guinea to E Australia"
     },
     "how_to_grow": {
-        "cultivation": "In milder areas, may be grown outdoors as a specimen tree, in humus-rich, moist but well drained soil in full sun. Young plants need winter protection; mature plants may survive short spells around 0°C if shoots are well-ripened in summer. In colder areas, grow under glass in a conservatory or temperate greenhouse, in loam-based compost in full light with shade from hot sun",
-        "propagation": "Propagate by seed, by semi-ripe cuttings in summer, or by layering in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 1 or 8; hard pruning is tolerated. May need restrictive pruning if grown under glass",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "In milder areas, may be grown outdoors as a specimen tree, in humus-rich, moist but well drained soil in full sun. Young plants need winter protection; mature plants may survive short spells around 0°C if shoots are well-ripened in summer. In colder areas, grow under glass in a conservatory or temperate greenhouse, in loam-based compost in full light with shade from hot sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by semi-ripe cuttings in summer, or by layering in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or 8; hard pruning is tolerated. May need restrictive pruning if grown under glass",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hymenosporum_flavum.html",
@@ -144,5 +180,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hymenosporum flavum",
+    "display_name": "Native australian frangipani"
 }

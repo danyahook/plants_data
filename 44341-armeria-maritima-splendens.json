@@ -92,21 +92,55 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun; suitable for rock gardens, troughs or the front of borders. Tolerant of sea-salt laden winds",
-        "propagation": "Propagate by division or by basal semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Ground cover",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required, but deadheading may produce a second flush of flowers",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun; suitable for rock gardens, troughs or the front of borders. Tolerant of sea-salt laden winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or by basal semi-ripe cuttings",
+            "link_names": [
+                "Division",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Ground cover",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading may produce a second flush of flowers",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Armeria_maritima__Splendens_.html",
@@ -145,5 +179,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Armeria maritima 'Splendens'",
+    "display_name": "Thrift 'splendens'"
 }

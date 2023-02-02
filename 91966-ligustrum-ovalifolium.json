@@ -96,19 +96,65 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained, or moist but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by hardwood cuttings, semi-hardwood cuttings or by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1. If grown as a hedge, pruning group 3. Pruning suppresses flowering. Prune two or three times during growing season. Cease pruning in late summer avoid frost damage on new growth",
-        "pests": "May be susceptible to aphids, leaf mining moths and thrips",
-        "diseases": "May be susceptible to honey fungus"
+        "cultivation": {
+            "text": "Grow in any well-drained, or moist but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings, semi-hardwood cuttings or by seed",
+            "link_names": [
+                "Hardwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. If grown as a hedge, pruning group 3. Pruning suppresses flowering. Prune two or three times during growing season. Cease pruning in late summer avoid frost damage on new growth",
+            "link_names": [
+                "Pruning group 1",
+                "Hedge",
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide",
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leaf mining moths and thrips",
+            "link_names": [
+                "Thrips"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ligustrum_ovalifolium.html",
@@ -163,5 +209,7 @@
             "Leaf Weevils",
             "Yellow spot"
         ]
-    }
+    },
+    "main_name_original": "Ligustrum ovalifolium",
+    "display_name": "Garden privet"
 }

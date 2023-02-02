@@ -97,17 +97,55 @@
         "plant_range": "S. Europe, Caucasus, Iran, Turkey, N. Africa"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in fertile well-drained soil in full sun. Add grit when grown in clay soils to improve drainage. See allium cultivation",
-        "propagation": "Propagate by seed, sowing in containers in a cold frame when just ripe or in the spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest free",
-        "diseases": "Onion white rot and a downy mildew may occur"
+        "cultivation": {
+            "text": "Easy to grow in fertile well-drained soil in full sun. Add grit when grown in clay soils to improve drainage. See allium cultivation",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sowing in containers in a cold frame when just ripe or in the spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Onion white rot and a downy mildew may occur",
+            "link_names": [
+                "Onion white rot",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Allium_ampeloprasum.html",
@@ -286,5 +324,7 @@
             "Root deformity",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Allium ampeloprasum",
+    "display_name": "Levant garlic"
 }

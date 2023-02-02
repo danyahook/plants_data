@@ -89,20 +89,74 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Will grow in any moderately fertile soil apart from waterlogged soils in full sun or partial shade",
-        "propagation": "Propagate by softwood tip cuttings in spring or late summer. May be short-lived so propagate regularly",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead to prolong flowering and cut back to maintain compactness",
-        "pests": "May be attacked by slugs, snails, aphids, glasshouse red spider mite and violet gall midge",
-        "diseases": "May be subject to powdery mildews, pansy leaf spot, a virus and a rust"
-    }
+        "cultivation": {
+            "text": "Will grow in any moderately fertile soil apart from waterlogged soils in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood tip cuttings in spring or late summer. May be short-lived so propagate regularly",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering and cut back to maintain compactness",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails, aphids, glasshouse red spider mite and violet gall midge",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews, pansy leaf spot, a virus and a rust",
+            "link_names": [
+                "Powdery mildews",
+                "Pansy leaf spot",
+                "A virus",
+                "A rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "pansy_leaf_spot": "https://www.rhs.org.uk/disease/pansy-leaf-spots",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
+    },
+    "main_name_original": "Viola 'Rebecca' (Vtta)",
+    "display_name": "Violet 'rebecca'"
 }

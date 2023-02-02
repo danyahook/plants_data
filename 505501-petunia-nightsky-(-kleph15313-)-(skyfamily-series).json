@@ -91,20 +91,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Overwinter young plants under glass in frost free conditions and plant out after frosts have passed. Grow in light, well-drained soil in full sun, with shelter from drying winds",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead regularly to prolong flowering",
-        "pests": "Aphids and slugs may be a problem",
-        "diseases": "May be subject to fungal foot rot and a virus"
-    }
+        "cultivation": {
+            "text": "Overwinter young plants under glass in frost free conditions and plant out after frosts have passed. Grow in light, well-drained soil in full sun, with shelter from drying winds",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids and slugs may be a problem",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to fungal foot rot and a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Petunia NightSky ('Kleph15313') (SkyFamily Series)",
+    "display_name": "Petunia [nightsky]"
 }

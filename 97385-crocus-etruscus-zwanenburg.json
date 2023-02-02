@@ -81,20 +81,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a gritty, poor to moderately fertile soil",
-        "propagation": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Corms are vulnerable to mice, voles and squirrels",
-        "diseases": "Corms in storage may be subject to rots and moulds"
-    }
+        "cultivation": {
+            "text": "Grow in a gritty, poor to moderately fertile soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame when ripe or remove cormlets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Corms are vulnerable to mice, voles and squirrels",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Corms in storage may be subject to rots and moulds",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Crocus etruscus 'Zwanenburg'",
+    "display_name": "Crocus 'zwanenburg'"
 }

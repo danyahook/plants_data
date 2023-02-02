@@ -82,19 +82,69 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in a sheltered position in well-drained soil; for more advice see Allium cultivation",
-        "propagation": "Propagate by offsets: once flowering is over and the leaves have died down, lift the bulbs, detach the offsets, plant larger ones where you want them to grow, and grow smaller ones in gritty compost before planting out; for more advice see bulb propagation",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by onion fly, allium leaf mining fly, slugs and snails",
-        "diseases": "May be affected by onion white rot and a downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in a sheltered position in well-drained soil; for more advice see Allium cultivation",
+            "link_names": [
+                "Allium cultivation"
+            ],
+            "related_links": {
+                "allium_cultivation": "https://www.rhs.org.uk/plants/allium/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by offsets: once flowering is over and the leaves have died down, lift the bulbs, detach the offsets, plant larger ones where you want them to grow, and grow smaller ones in gritty compost before planting out; for more advice see bulb propagation",
+            "link_names": [
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by onion fly, allium leaf mining fly, slugs and snails",
+            "link_names": [
+                "Onion fly",
+                "Allium leaf mining fly",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "onion_fly": "https://www.rhs.org.uk/biodiversity/onion-fly",
+                "allium_leaf_mining_fly": "https://www.rhs.org.uk/biodiversity/allium-leaf-miner",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by onion white rot and a downy mildew",
+            "link_names": [
+                "Onion white rot",
+                "A downy mildew"
+            ],
+            "related_links": {
+                "onion_white_rot": "https://www.rhs.org.uk/disease/onion-white-rot",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Allium 'Purple Giant'",
+    "display_name": "Allium 'purple giant'"
 }

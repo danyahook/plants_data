@@ -87,19 +87,63 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in full sun or grow in a container. In cold areas, mulch well overwinter and take containers under cover. See agapanthus cultivation",
-        "propagation": "Propagate by division every 3 to 4 years in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "In late autumn remove any remaining leaves, but seedheads can be left as they look attractive over winter",
-        "pests": "May be affected by agapanthus gall midge",
-        "diseases": "Generally disease free, but a virus disease may be a problem"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in full sun or grow in a container. In cold areas, mulch well overwinter and take containers under cover. See agapanthus cultivation",
+            "link_names": [
+                "Container",
+                "Mulch",
+                "Containers",
+                "Agapanthus cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "agapanthus_cultivation": "https://www.rhs.org.uk/plants/agapanthus/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division every 3 to 4 years in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "In late autumn remove any remaining leaves, but seedheads can be left as they look attractive over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to agapanthus gall midge",
+            "link_names": [
+                "Agapanthus gall midge"
+            ],
+            "related_links": {
+                "agapanthus_gall_midge": "https://www.rhs.org.uk/biodiversity/agapanthus-gall-midge"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus disease but generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Agapanthus Twister ('Ambic001'PBR)",
+    "display_name": "African lily [twister]"
 }

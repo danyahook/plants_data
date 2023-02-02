@@ -90,20 +90,66 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Using gloves to handle corms, plant 10cm deep in summer or early autumn in deep, fertile and well-drained but reasonably moist soil in an open site in full sun; for more advice, see bulb cultivation",
-        "propagation": "Propagate by seed, sown in containers in an open frame as soon as it is ripe, or by removing cormlets when dormant in summer; for more advice, see bulb propagation",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by slugs",
-        "diseases": "May be affected by grey moulds (Botrytis), smuts, and tulip grey bulb rot"
-    }
+        "cultivation": {
+            "text": "Using gloves to handle corms, plant 10cm deep in summer or early autumn in deep, fertile and well-drained but reasonably moist soil in an open site in full sun; for more advice, see bulb cultivation",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in containers in an open frame as soon as it is ripe, or by removing cormlets when dormant in summer; for more advice, see bulb propagation",
+            "link_names": [
+                "Propagate by seed",
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds (Botrytis), smuts, and tulip grey bulb rot",
+            "link_names": [
+                "Grey moulds",
+                "Smuts"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "smuts": "https://www.rhs.org.uk/disease/smuts"
+            }
+        }
+    },
+    "main_name_original": "Colchicum latifolium Sibth. & Sm.",
+    "display_name": ""
 }

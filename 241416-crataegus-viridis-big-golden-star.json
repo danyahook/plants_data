@@ -90,14 +90,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows in most soils and situations",
-        "propagation": "Propagate by budding in mid-summer or grafting in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Cottage and informal garden"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to caterpillars, gall mites and aphids",
-        "diseases": "Generally disease-free but may be susceptible to a leaf spot, fireblight and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grows in most soils and situations",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by budding in mid-summer or grafting in winter",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars, gall mites and aphids",
+            "link_names": [
+                "Gall mites",
+                "Aphids"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free but may be susceptible to a leaf spot, fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Crataegus viridis 'Big Golden Star'",
+    "display_name": "Hawthorn 'big golden star'"
 }

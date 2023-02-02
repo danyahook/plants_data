@@ -93,19 +93,75 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with a dry winter mulch. See penstemon cultivation",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer. Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Wall side borders",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly, or after flowering shorten flowered stems by half, to encourage further flowering. Cut back to just above new shoots, or lowest healthy leaves, in spring after frost has passed",
-        "pests": "May be attacked by slugs, snails and chrysanthemum eelworms",
-        "diseases": "May be subject to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun or partial shade. In cold areas, protect plant overwinter with a dry winter mulch. See penstemon cultivation",
+            "link_names": [
+                "Mulch",
+                "Penstemon cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-hardwood cuttings in midsummer. Propagate by division in spring",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Wall side borders",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly, or after flowering shorten flowered stems by half, to encourage further flowering. Cut back to just above new shoots, or lowest healthy leaves, in spring after frost has passed",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by slugs, snails and chrysanthemum eelworms",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Chrysanthemum eelworms"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "chrysanthemum_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon 'Czar'",
+    "display_name": "Penstemon 'pensham czar'"
 }

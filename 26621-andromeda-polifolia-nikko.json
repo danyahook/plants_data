@@ -87,15 +87,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs acidic conditions, suitable for shaded rock garden or damp shady border",
-        "propagation": "Propagate by softwood cuttings, suckers or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 10",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Needs acidic conditions, suitable for shaded rock garden or damp shady border",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings, suckers or layering",
+            "link_names": [
+                "Softwood",
+                "Suckers",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Andromeda polifolia 'Nikko'",
+    "display_name": ""
 }

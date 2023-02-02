@@ -94,16 +94,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile, well-drained soil. Prefers light shade, full sun may result in dull or scorched foliage in dry soils. Water regularly while establishing. See box cultivation for more detailed advice",
-        "propagation": "Propagate by semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Garden edging"
-        ],
-        "pruning": "Pruning group 8; trim hedges in summer",
-        "pests": "May be susceptible to box tree caterpillar, box sucker, mussel scale and red spider mite",
-        "diseases": "May be susceptible to leaf spot and box blight"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile, well-drained soil. Prefers light shade, full sun may result in dull or scorched foliage in dry soils. Water regularly while establishing. See box cultivation for more detailed advice",
+            "link_names": [
+                "Scorched",
+                "Box cultivation"
+            ],
+            "related_links": {
+                "scorched": "https://www.rhs.org.uk/problems/box-problems",
+                "box_cultivation": "https://www.rhs.org.uk/plants/box/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8; trim hedges in summer",
+            "link_names": [
+                "Pruning group 8",
+                "Trim hedges"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to box tree caterpillar, box sucker, mussel scale and red spider mite",
+            "link_names": [
+                "Box tree caterpillar",
+                "Box sucker",
+                "Mussel scale",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "box_tree_caterpillar": "https://www.rhs.org.uk/biodiversity/box-tree-caterpillar",
+                "box_sucker": "https://www.rhs.org.uk/biodiversity/box-sucker",
+                "mussel_scale": "https://www.rhs.org.uk/biodiversity/mussel-scale",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot, box blight and, rarely, honey fungus",
+            "link_names": [
+                "Box blight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "box_blight": "https://www.rhs.org.uk/disease/box-blight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Buxus 'Asiatic Winter'",
+    "display_name": "Small-leaved box 'winter gem'"
 }

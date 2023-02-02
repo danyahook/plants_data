@@ -104,14 +104,51 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in permanently damp soil in a bog garden or wild life garden in partial shade",
-        "propagation": "Propagate by seed or division in spring or autumn. For more information, see Division",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Cut back all old growth to ground level at the end of the growing season",
-        "pests": "May be susceptible to slugs, caterpillars and figwort weevils",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in permanently damp soil in a bog garden or wild life garden in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or division in spring or autumn. For more information, see Division",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back all old growth to ground level at the end of the growing season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, caterpillars and figwort weevils",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Scrophularia aquatica misapplied",
+    "display_name": "Bishop's leaves"
 }

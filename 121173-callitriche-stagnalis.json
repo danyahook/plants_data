@@ -85,14 +85,42 @@
         "plant_range": "S Europe, N Africa"
     },
     "how_to_grow": {
-        "cultivation": "Plant in ponds and streams at a depth of between 15cm-60cm (6in- 2ft)",
-        "propagation": "Propagate by division or stem cuttings made in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens"
-        ],
-        "pruning": "Limit spread as necessary",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Plant in ponds and streams at a depth of between 15cm-60cm (6in- 2ft)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or stem cuttings made in summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Limit spread as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Callitriche_stagnalis.html",
@@ -154,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Callitriche stagnalis",
+    "display_name": "Common water starwort"
 }

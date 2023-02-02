@@ -85,15 +85,43 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Naturally occurring in a wide range of habitats including disturbed ground, woodland edges, grassland and verges",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow",
-            "Wildlife gardens"
-        ],
-        "pruning": "None required",
-        "pests": "Trouble-free",
-        "diseases": "Trouble-free"
+        "cultivation": {
+            "text": "Naturally occurring in a wide range of habitats including disturbed ground, woodland edges, grassland and verges",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Trouble-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Trouble-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lamium_album.html",
@@ -143,5 +171,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Lamium album",
+    "display_name": "White deadnettle"
 }

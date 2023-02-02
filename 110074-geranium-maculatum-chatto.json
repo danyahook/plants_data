@@ -97,19 +97,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade",
-        "propagation": "Propagate by basal softwood cuttings in early to mid spring or division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
-        "pests": "May be prone to vine weevil, capsid bug and geranium sawfly",
-        "diseases": "May be affected by downy mildews and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal softwood cuttings in early to mid spring or division in spring",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowered stems and old leaves to encourage the production of fresh leaves and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be prone to vine weevil, capsid bug and geranium sawfly",
+            "link_names": [
+                "Vine weevil",
+                "Capsid bug",
+                "Geranium sawfly"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "geranium_sawfly": "https://www.rhs.org.uk/biodiversity/geranium-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by downy mildews and powdery mildews",
+            "link_names": [
+                "Downy mildews",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium maculatum 'Chatto'",
+    "display_name": "Spotted cranesbill 'beth chatto'"
 }

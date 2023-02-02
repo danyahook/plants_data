@@ -92,13 +92,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Prefers well drained, alkaline soil. Water regularly in dry periods and add a mulch. See Grow Your Own guide to kale for further information",
-        "propagation": "Propagate by seed from spring to early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "Remove young leaves from the main crown from mid-autumn onwards. Side shoots can be harvested from mid-winter until late spring",
-        "pests": "May be susceptible to caterpillars, cabbage whitefly, aphids, flea beetles and slugs and snails",
-        "diseases": "May be susceptible to black rot, downy mildew, foot and root rot, grey mould, leaf spot and white blister"
-    }
+        "cultivation": {
+            "text": "Prefers well drained, alkaline soil. Water regularly in dry periods and add a mulch. See Grow Your Own guide to kale for further information",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed from spring to early summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove young leaves from the main crown from mid-autumn onwards. Side shoots can be harvested from mid-winter until late spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars, cabbage whitefly, aphids, flea beetles and slugs and snails",
+            "link_names": [
+                "Cabbage whitefly",
+                "Aphids",
+                "Flea beetles",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "cabbage_whitefly": "https://www.rhs.org.uk/biodiversity/cabbage-whitefly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to black rot, downy mildew, foot and root rot, grey mould, leaf spot and white blister",
+            "link_names": [
+                "White blister"
+            ],
+            "related_links": {
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot"
+            }
+        }
+    },
+    "main_name_original": "Brassica oleracea (Acephala Group) 'Starbor'",
+    "display_name": "Borecole 'starbor'"
 }

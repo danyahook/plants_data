@@ -82,13 +82,69 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in an acidic or neutral soil pH and mulch with acidic material such as composted bark. Train raspberries in rows between parallel wires for support. See Raspberry cultivation",
-        "propagation": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
-        "suggested_planting_locations_and_garden_types": [
-            "Edible fruit"
-        ],
-        "pruning": "Prune as for summer fruiting raspberries, removing all fruited canes down to ground level in early to mid autumn. Train in new growth",
-        "pests": "Can get aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites. Some susceptibility to raspberry leaf and bud mite",
-        "diseases": "Good general resistance to disease, but can suffer from fungal leaf spots, raspberry spur blight and botrytis. Some tolerance to phytophthora root rot. Good resistance to main aphid vector of raspberry viruses"
-    }
+        "cultivation": {
+            "text": "Grow in an acidic or neutral soil pH and mulch with acidic material such as composted bark. Train raspberries in rows between parallel wires for support. See Raspberry cultivation",
+            "link_names": [
+                "Mulch",
+                "Raspberry cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "raspberry_cultivation": "https://www.rhs.org.uk/fruit/raspberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in the dormant season. Lift new canes along with their rootballs. Choose only newly planted, disease-free stock from which to propagate",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune as for summer fruiting raspberries, removing all fruited canes down to ground level in early to mid autumn. Train in new growth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get aphids, leafhoppers, raspberry beetle, glasshouse red spider mite and gall mites. Some susceptibility to raspberry leaf and bud mite",
+            "link_names": [
+                "Aphids",
+                "Raspberry beetle",
+                "Glasshouse red spider mite",
+                "Gall mites",
+                "Raspberry leaf and bud mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "raspberry_beetle": "https://www.rhs.org.uk/biodiversity/raspberry-beetle",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "raspberry_leaf_and_bud_mite": "https://www.rhs.org.uk/biodiversity/raspberry-leaf-and-bud-mite"
+            }
+        },
+        "diseases": {
+            "text": "Good general resistance to disease, but can suffer from fungal leaf spots, raspberry spur blight and botrytis. Some tolerance to phytophthora root rot. Good resistance to main aphid vector of raspberry viruses",
+            "link_names": [
+                "Raspberry spur blight",
+                "Phytophthora",
+                "Raspberry viruses"
+            ],
+            "related_links": {
+                "raspberry_spur_blight": "https://www.rhs.org.uk/disease/raspberry-spur-blight",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "raspberry_viruses": "https://www.rhs.org.uk/disease/raspberry-viruses"
+            }
+        }
+    },
+    "main_name_original": "Rubus idaeus 'Glen Ample'PBR (F)",
+    "display_name": "Raspberry 'glen ample'"
 }

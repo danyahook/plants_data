@@ -86,17 +86,49 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist, humus-rich soil in light dappled shade; can be invasive on light soils",
-        "propagation": "Propagate by division in early spring or take basal cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
-        "suggested_planting_locations_and_garden_types": [
-            "Cut flowers",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs",
-            "Ground cover"
-        ],
-        "pruning": "Cut back flowering shoots to ground level in late summer or autumn",
-        "pests": "Generally pest free",
-        "diseases": "May be affected by a rust"
+        "cultivation": {
+            "text": "Grow in moist, humus-rich soil in light dappled shade; can be invasive on light soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or take basal cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cut flowers",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowering shoots to ground level in late summer or autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be affected by a rust",
+            "link_names": [
+                "A rust"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Euphorbia_griffithii__Dixter_.html",
@@ -129,5 +161,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Euphorbia griffithii 'Dixter'",
+    "display_name": "Spurge 'dixter'"
 }

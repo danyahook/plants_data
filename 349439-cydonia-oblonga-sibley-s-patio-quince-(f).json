@@ -84,15 +84,69 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in a warm, sheltered spot. See quince cultivation",
-        "propagation": "Propagate by grafting",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Edible fruit"
-        ],
-        "pruning": "Pruning group 1 but any growth from beneath the graft point, should be removed as soon as possible",
-        "pests": "May be susceptible to caterpillars and aphids",
-        "diseases": "May be susceptible to quince leaf blight, brown rot, fireblight and Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in a warm, sheltered spot. See quince cultivation",
+            "link_names": [
+                "Quince cultivation"
+            ],
+            "related_links": {
+                "quince_cultivation": "https://www.rhs.org.uk/fruit/quince/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 but any growth from beneath the graft point, should be removed as soon as possible",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars and aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to quince leaf blight, brown rot, fireblight, powdery mildews and honey fungus",
+            "link_names": [
+                "Quince leaf blight",
+                "Brown rot",
+                "Fireblight",
+                "Powdery mildews",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "quince_leaf_blight": "https://www.rhs.org.uk/disease/quince-leaf-blight",
+                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cydonia oblonga Sibley's Patio Quince (F)",
+    "display_name": ""
 }

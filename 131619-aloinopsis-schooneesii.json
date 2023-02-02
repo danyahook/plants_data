@@ -81,17 +81,49 @@
         "plant_range": "South Africa"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in a porous potting mix in the ground or a container avoiding waterlogging. Full sun light will ensure good flowering. Feed once during growing season, and avoid over-watering.",
-        "propagation": "Propagate by division or seed.",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to spider mite.",
-        "diseases": "May be susceptible to root rot."
+        "cultivation": {
+            "text": "Will grow well in a porous potting mix in the ground or a container avoiding waterlogging. Full sun light will ensure good flowering. Feed once during growing season, and avoid over-watering.",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or seed.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to spider mite.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to root rot.",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aloinopsis_schooneesii.html",
@@ -136,5 +168,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aloinopsis schooneesii",
+    "display_name": ""
 }

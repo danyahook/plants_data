@@ -87,15 +87,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Plant tubers indoors in spring in light, well-drained, neutral compost. Plants may be grown permanently under glass in bright light shaded from direct sun. Otherwise plant out in moist, well-drained, fertile soil in sun or semi-shade when all risk of frost is past. Ideal for containers. See Begonias: outdoors for further advice.",
-        "propagation": "Propagate by basal cuttings or stem cuttings from side shoots",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Deadhead to prolong flowering",
-        "pests": "May be attacked by aphids, caterpillars, mites, mealybugs, thrips and vine weevils",
-        "diseases": "Susceptible to grey moulds, powdery mildews and stem rot"
-    }
+        "cultivation": {
+            "text": "Plant tubers indoors in spring in light, well-drained, neutral compost. Plants may be grown permanently under glass in bright light shaded from direct sun. Otherwise plant out in moist, well-drained, fertile soil in sun or semi-shade when all risk of frost is past. Ideal for containers. See Begonias: outdoors for further advice.",
+            "link_names": [
+                "Containers",
+                "Begonias: outdoors"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "begonias:_outdoors": "https://www.rhs.org.uk/plants/begonias/outdoors"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by basal cuttings or stem cuttings from side shoots",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids, caterpillars, mites, mealybugs, thrips and vine weevils",
+            "link_names": [
+                "Aphids",
+                "Mealybugs",
+                "Thrips",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to grey moulds, powdery mildews and stem rot",
+            "link_names": [
+                "Grey moulds",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Begonia Fragrant Falls Orange ('Tmbg1307') (Fragrant Falls Improved Series)",
+    "display_name": "Begonia [fragrant falls orange]"
 }

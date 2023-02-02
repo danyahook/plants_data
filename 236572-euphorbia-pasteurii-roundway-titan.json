@@ -101,17 +101,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, light soil in full sun",
-        "propagation": "Propagate by softwood cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowered shoots in late autumn",
-        "pests": "May be affected by aphids",
-        "diseases": "Susceptible to rust, and to root and stem rots in wet conditions"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, light soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or early summer; dip cut surfaces in charcoal or lukewarm water to prevent bleeding",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered shoots in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be affected by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to rust, and to root and stem rots in wet conditions",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Euphorbia × pasteurii 'Roundway Titan'",
+    "display_name": "Spurge 'roundway titan'"
 }

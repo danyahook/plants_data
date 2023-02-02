@@ -94,14 +94,64 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Plant in a greenhouse border or in large pots of loam based compost with bright light, but not direct sun. Water sparingly in winter, but freely in summer and liquid feed once a month with a balanced fertiliser",
-        "propagation": "Propagate by seed at 13-18°C in spring, take semi-ripe cuttings in summer or layer in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Climber and wall shrubs",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 11 or 12, if necessary, in early spring",
-        "pests": "May be susceptible to glasshouse red spider mite, glasshouse whitefly, mealybugs and scale insects",
-        "diseases": "May susceptible to cucumber mosaic virus"
-    }
+        "cultivation": {
+            "text": "Plant in a greenhouse border or in large pots of loam based compost with bright light, but not direct sun. Water sparingly in winter, but freely in summer and liquid feed once a month with a balanced fertiliser",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed at 13-18°C in spring, take semi-ripe cuttings in summer or layer in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Climber and wall shrubs",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 or 12, if necessary, in early spring",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, glasshouse whitefly, mealybugs and scale insects",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May susceptible to cucumber mosaic virus",
+            "link_names": [
+                "Cucumber mosaic virus"
+            ],
+            "related_links": {
+                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus"
+            }
+        }
+    },
+    "main_name_original": "Passiflora tripartita var. mollissima",
+    "display_name": "Banana passion fruit"
 }

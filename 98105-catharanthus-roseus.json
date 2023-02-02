@@ -103,22 +103,60 @@
         "plant_range": "Madagascar"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass in a loam-based potting compost with full light and good ventilation. When in growth water moderately and apply a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors as summer bedding in most moderately fertile, moist but well-drained soils",
-        "propagation": "Propagate by seed sown in early spring at 13 to 18°C, or by softwood cuttings in late spring or semi-hardwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Glasshouse red spider mite and glasshouse whitefly may be a problem",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow under glass in a loam-based potting compost with full light and good ventilation. When in growth water moderately and apply a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors as summer bedding in most moderately fertile, moist but well-drained soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in early spring at 13 to 18°C, or by softwood cuttings in late spring or semi-hardwood cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Glasshouse red spider mite and glasshouse whitefly may be a problem",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Catharanthus_roseus.html",
@@ -197,5 +235,7 @@
             "Aged yellow and dry",
             "Nutrient deficiencies"
         ]
-    }
+    },
+    "main_name_original": "Catharanthus roseus",
+    "display_name": "Rose periwinkle"
 }

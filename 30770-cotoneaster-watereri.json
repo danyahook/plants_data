@@ -91,18 +91,70 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun or part shade; tolerant of dry soils but needs protection from cold, dry winds in colder or northern areas",
-        "propagation": "Propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Coastal",
-            "Wildlife gardens",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8 or pruning group 13 for wall-trained specimens",
-        "pests": "May be attacked by scale insects, webber moth caterpillars or woolly aphid",
-        "diseases": "May be subject to fireblight or honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun or part shade; tolerant of dry soils but needs protection from cold, dry winds in colder or northern areas",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Coastal",
+                "Wildlife gardens",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8 or pruning group 13 for wall-trained specimens",
+            "link_names": [
+                "Pruning group 8",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, scale insects and cotoneaster webber caterpillar",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Scale insects",
+                "Cotoneaster webber caterpillar"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cotoneaster × watereri",
+    "display_name": "Watere's cotoneaster"
 }

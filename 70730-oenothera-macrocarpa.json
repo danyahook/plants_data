@@ -93,22 +93,54 @@
         "plant_range": "United States"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, well-drained soil in full sun; ideal for stony soil. Protect from excessive winter wet",
-        "propagation": "Propagate by seed sown in pots in a cold frame in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Garden edging",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Damage by slugs may be a problem",
-        "diseases": "Prone to leaf spots, mildews and root rot"
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, well-drained soil in full sun; ideal for stony soil. Protect from excessive winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in early spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Garden edging",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Damage by slugs may be a problem",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Prone to leaf spots, mildews and root rot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Oenothera_macrocarpa.html",
@@ -151,5 +183,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Oenothera macrocarpa",
+    "display_name": "Ozark sundrops"
 }

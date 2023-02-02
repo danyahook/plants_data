@@ -95,19 +95,75 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow this climbing honeysuckle in full sun, and thrives in any fertile, moist but well-drained soil. See Honeysuckle (Climbing) cultivation",
-        "propagation": "Propagate by layering, softwood cuttings, semi-ripe cuttings, leaf-bud cuttings and hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Climber and wall shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 11 after flowering",
-        "pests": "May be susceptible to honeysuckle aphids, thrips and glasshouse whitefly",
-        "diseases": "May be susceptible to powdery mildews, leaf spot (fungal) and silver leaf"
+        "cultivation": {
+            "text": "Grow this climbing honeysuckle in full sun, and thrives in any fertile, moist but well-drained soil. See Honeysuckle (Climbing) cultivation",
+            "link_names": [
+                "Honeysuckle (climbing) cultivation"
+            ],
+            "related_links": {
+                "honeysuckle_(climbing)_cultivation": "https://www.rhs.org.uk/plants/honeysuckle/climbing/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by layering, softwood cuttings, semi-ripe cuttings, leaf-bud cuttings and hardwood cuttings",
+            "link_names": [
+                "Layering",
+                "Softwood",
+                "Semi-ripe",
+                "Hardwood"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Climber and wall shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 after flowering",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to honeysuckle aphids, thrips and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Thrips",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, leaf spot (fungal) and silver leaf",
+            "link_names": [
+                "Powdery mildews",
+                "Silver leaf"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Lonicera_etrusca__Donald_Waterer_.html",
@@ -139,5 +195,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Lonicera etrusca 'Donald Waterer'",
+    "display_name": "Honeysuckle 'donald waterer'"
 }

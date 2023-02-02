@@ -107,15 +107,73 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in chalky soil in sun or partial shade",
-        "propagation": "Propagate by seed or by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 7",
-        "pests": "May be susceptible to caterpillars, gall mites, aphids and sawflies; squirrels eat the nuts",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grows well in chalky soil in sun or partial shade, see cobnuts and filberts",
+            "link_names": [
+                "Cobnuts and filberts"
+            ],
+            "related_links": {
+                "cobnuts_and_filberts": "https://www.rhs.org.uk/nuts/cobnuts-filberts"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by layering",
+            "link_names": [
+                "Propagate by seed",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "See Pruning group 1 or Pruning group 7",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be be susceptible to caterpillars, gall mites, aphids and sawflies. Squirrels like to feed on the nuts",
+            "link_names": [
+                "Gall mites",
+                "Aphids",
+                "Squirrels"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, silver leaf and powdery mildews",
+            "link_names": [
+                "Honey fungus",
+                "Silver leaf",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Corylus avellana 'Rote Zellernuss'",
+    "display_name": "Hazel 'rotblättrige zellernuss'"
 }

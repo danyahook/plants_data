@@ -93,21 +93,77 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Penstemon cultivation in moderately fertile, well-drained soil in full sun or part shade",
-        "propagation": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Prairie planting",
-            "Coastal",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead after flowering to encourage further flowering. Cut back to about 15cm in spring, after frost as passed, to maintain a compact shape",
-        "pests": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
-        "diseases": "May be affected by grey moulds, powdery mildews and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Penstemon cultivation in moderately fertile, well-drained soil in full sun or part shade",
+            "link_names": [
+                "Penstemon cultivation"
+            ],
+            "related_links": {
+                "penstemon_cultivation": "https://www.rhs.org.uk/plants/penstemons/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer or semi-ripe cuttings in midsummer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Prairie planting",
+                "Coastal",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering to encourage further flowering. Cut back to about 15cm in spring, after frost as passed, to maintain a compact shape",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Slugs and snails, aphids and leaf and bud eelworm may be troublesome",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by grey moulds, powdery mildews and fungal leaf spot",
+            "link_names": [
+                "Grey moulds",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Penstemon heterophyllus 'Margarita Bop'",
+    "display_name": "Penstemon 'margarita bop'"
 }

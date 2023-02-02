@@ -102,18 +102,62 @@
         "plant_range": "SE USA to Cuba"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in loam-based potting compost with added limestone chippings, in full light. During the growing season water freely and apply a high-nitrogen fertiliser monthly; water moderately at other times. Outdoors, grow in moderately fertile soil in a sunny, sheltered corner; provide winter protection when young. See palm cultivation indoors and palm cultivation outdoors",
-        "propagation": "Propagate by seed sown at 20°C in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Coastal",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to glasshouse red spider mite and scale insects",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Under glass, grow in loam-based potting compost with added limestone chippings, in full light. During the growing season water freely and apply a high-nitrogen fertiliser monthly; water moderately at other times. Outdoors, grow in moderately fertile soil in a sunny, sheltered corner; provide winter protection when young. See palm cultivation indoors and palm cultivation outdoors",
+            "link_names": [
+                "Winter protection",
+                "Palm cultivation indoors",
+                "Palm cultivation outdoors"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "palm_cultivation_indoors": "https://www.rhs.org.uk/plants/types/trees/indoor-palms",
+                "palm_cultivation_outdoors": "https://www.rhs.org.uk/plants/types/trees/hardy-palms"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 20°C in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Coastal",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and scale insects",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Corypha palma",
+    "display_name": "Blue palmetto"
 }

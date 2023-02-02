@@ -90,18 +90,58 @@
         "plant_range": "Indochina"
     },
     "how_to_grow": {
-        "cultivation": "Should be grown indoors in frost-free conditions, but pots may be put outside in summer in a sheltered spot. See banana cultivation",
-        "propagation": "Propagate by seed or by potting up suckers after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Sub-tropical",
-            "Architectural",
-            "City and courtyard gardens",
-            "Wall side borders"
-        ],
-        "pruning": "Remove damaged or dead leaves",
-        "pests": "Will be susceptible to the usual glasshouse pests, including glasshouse whitefly and mealybugs",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Should be grown indoors in frost-free conditions, but pots may be put outside in summer in a sheltered spot. See banana cultivation",
+            "link_names": [
+                "Banana cultivation"
+            ],
+            "related_links": {
+                "banana_cultivation": "https://www.rhs.org.uk/plants/banana/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or by potting up suckers after flowering",
+            "link_names": [
+                "Propagate by seed",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Sub-tropical",
+                "Architectural",
+                "City and courtyard gardens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove damaged or dead leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Will be susceptible to the usual glasshouse pests, including glasshouse whitefly and mealybugs",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Musa_coccinea.html",
@@ -142,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Musa coccinea",
+    "display_name": "Scarlet banana"
 }

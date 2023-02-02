@@ -86,14 +86,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun in any soil, in mild areas may grow all year round. Self-seeds freely and also spreads from the roots so can be difficult to control or eradicate. See the advice page on controlling sheep's sorrel for more details",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grows best in full sun in any soil, in mild areas may grow all year round. Self-seeds freely and also spreads from the roots so can be difficult to control or eradicate. See the advice page on controlling sheep's sorrel for more details",
+            "link_names": [
+                "Controlling sheep's sorrel"
+            ],
+            "related_links": {
+                "controlling_sheep's_sorrel": "https://www.rhs.org.uk/weeds/sheeps-sorrel"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Rumex_acetosella.html",
@@ -142,5 +180,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Rumex acetosella",
+    "display_name": "Sheep's sorrel"
 }

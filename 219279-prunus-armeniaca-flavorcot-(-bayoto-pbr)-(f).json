@@ -87,17 +87,71 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Apricots flourish on deep, moisture-retentive, well-drained, ideally slightly alkaline soils and struggle in poor, shallow soils. Although fully hardy, they bloom early, and the flowers are vulnerable to frost, so trees need a warm, sheltered position. Protect blossom from frost at night, and hand pollinate if insects are scarce. See apricot cultivation. Thin heavy crops when the size of hazelnuts. See fruit thinning",
-        "propagation": "Propagate by grafting. Seed-raised plants are likely to be inferior to the parent",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "May be trained as a fan on a warm wall, or as a free-standing bush in milder areas. Prune only in spring, as the sap is rising, or between the end of July and the end of August",
-        "pests": "May be susceptible to glasshouse red spider mite. Birds and squirrels may damage fruit",
-        "diseases": "May be susceptible to silver leaf, bacterial canker, blossom wilt and brown rot. Not usually affected by peach leaf curl"
-    }
+        "cultivation": {
+            "text": "Apricots flourish on deep, moisture-retentive, well-drained, ideally slightly alkaline soils and struggle in poor, shallow soils. Although fully hardy, they bloom early, and the flowers are vulnerable to frost, so trees need a warm, sheltered position. Protect blossom from frost at night, and hand pollinate if insects are scarce. See apricot cultivation. Thin heavy crops when the size of hazelnuts. See fruit thinning",
+            "link_names": [
+                "Apricot cultivation",
+                "Fruit thinning"
+            ],
+            "related_links": {
+                "apricot_cultivation": "https://www.rhs.org.uk/fruit/apricots/grow-your-own",
+                "fruit_thinning": "https://www.rhs.org.uk/fruit/fruit-trees/thinning"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting. Seed-raised plants are likely to be inferior to the parent",
+            "link_names": [
+                "Grafting"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "May be trained as a fan on a warm wall, or as a free-standing bush in milder areas. Prune only in spring, as the sap is rising, or between the end of July and the end of August",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite. Birds and squirrels may damage fruit",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Birds",
+                "Squirrels"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus armeniaca Flavorcot ('Bayoto'PBR) (F)",
+    "display_name": "Apricot [flavorcot]"
 }

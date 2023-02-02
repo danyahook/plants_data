@@ -76,17 +76,51 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 5cm deep in well-drained soil in a sunny, sheltered position in late summer or early autumn",
-        "propagation": "Propagate by division of clumps or potting up of cormlets. Will also come true from seed",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to damage by mice, voles and squirrels",
-        "diseases": "May be susceptible to corm rot in storage"
-    }
+        "cultivation": {
+            "text": "Plant 5cm deep in well-drained soil in a sunny, sheltered position in late summer or early autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of clumps or potting up of cormlets. Will also come true from seed",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to damage by mice, voles and squirrels",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to corm rot in storage",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Crocus minimus 'Bavella'",
+    "display_name": ""
 }

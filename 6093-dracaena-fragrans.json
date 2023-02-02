@@ -83,15 +83,53 @@
         "plant_range": "Tropical Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow in loam-based potting compost in full light with shade from hot sun. Water moderately in the growing season and apply a balanced liquid feed monthly; water sparingly in winter. Top dress or pot on in spring",
-        "propagation": "Propagate by sowing seed at 20°C in spring; root semi-ripe cuttings and leafless stem sections with bottom heat in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required, although weak stems may be shortened to 15cm in spring, and the resulting cutting used to propagate a new plant",
-        "pests": "May be susceptible to scale insects, glasshouse red spider mite, thrips and mealybugs",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in loam-based potting compost in full light with shade from hot sun. Water moderately in the growing season and apply a balanced liquid feed monthly; water sparingly in winter. Top dress or pot on in spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed at 20°C in spring; root semi-ripe cuttings and leafless stem sections with bottom heat in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, although weak stems may be shortened to 15cm in spring, and the resulting cutting used to propagate a new plant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects, glasshouse red spider mite, thrips and mealybugs",
+            "link_names": [
+                "Scale insects",
+                "Glasshouse red spider mite",
+                "Thrips",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dracaena_fragrans.html",
@@ -203,5 +241,7 @@
             "Leaf scorch",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Dracaena fragrans",
+    "display_name": "Corn plant"
 }

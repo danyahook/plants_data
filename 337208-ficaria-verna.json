@@ -96,16 +96,50 @@
         "plant_range": "Europe, NW Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Prefers moist, humus-rich soil in partial or full shade. Occurs naturally in open wood, hedges and damp meadows. Can spread in gardens as a weed.",
-        "propagation": "Propagates by seeds, bulbils and tubers",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Ground cover"
-        ],
-        "pruning": "None required",
-        "pests": "May be attacked by slugs and Aphids",
-        "diseases": "May be susceptible to powdery mildews on drier soils"
+        "cultivation": {
+            "text": "Prefers moist, humus-rich soil in partial or full shade. Occurs naturally in open wood, hedges and damp meadows. Can spread in gardens as a weed.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagates by seeds, bulbils and tubers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs and Aphids",
+            "link_names": [
+                "Slugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews on drier soils",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ficaria_verna.html",
@@ -152,5 +186,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ficaria verna",
+    "display_name": "Celandine"
 }

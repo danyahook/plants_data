@@ -91,17 +91,64 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in moist, fertile, preferably humus-rich soil in sun or part shade; drier conditions tolerated",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but deadhead to encourage repeat flowering and, if seedlings are not wanted, deadhead before seed is ripe",
-        "pests": "May be susceptible to aphids, slugs and astrantia leaf miner",
-        "diseases": "May be susceptible to powdery mildews"
-    }
+        "cultivation": {
+            "text": "Best grown in moist, fertile, preferably humus-rich soil in sun or part shade; drier conditions tolerated",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadhead to encourage repeat flowering and, if seedlings are not wanted, deadhead before seed is ripe",
+            "link_names": [
+                "Deadhead",
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, slugs and astrantia leaf miner",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Astrantia leaf miner"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "astrantia_leaf_miner": "https://www.rhs.org.uk/biodiversity/astrantia-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Astrantia rosea",
+    "display_name": ""
 }

@@ -92,20 +92,70 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, humus-rich soil in sun or part shade",
-        "propagation": "Propagate by division, or separating and rooting offsets, between autumn and spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, vine weevil, slugs, leaf and bud eelworms, leaf-mining flies and glasshouse red spider mite",
-        "diseases": "May be susceptible to primula brown core, grey moulds, primula leaf spot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, humus-rich soil in sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division, or separating and rooting offsets, between autumn and spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, vine weevil, slugs, leaf and bud eelworms, leaf-mining flies and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Vine weevil",
+                "Slugs",
+                "Leaf and bud eelworms",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to primula brown core, grey moulds, primula leaf spot and a virus",
+            "link_names": [
+                "Grey moulds",
+                "Primula leaf spot",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "primula_leaf_spot": "https://www.rhs.org.uk/disease/primula-leaf-spots",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Primula 'Innisfree' (Kennedy Irish)",
+    "display_name": ""
 }

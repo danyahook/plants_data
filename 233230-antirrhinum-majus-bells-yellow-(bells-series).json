@@ -87,17 +87,59 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny position in well-drained soil",
-        "propagation": "Propagate by seed sown at 16-18°C in late summer, early autumn or early spring. Overwinter young plants under glass",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Garden edging",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong the flowering display",
-        "pests": "May be attacked by aphids",
-        "diseases": "Prone to antirrhinum rust and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny position in well-drained soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 16-18°C in late summer, early autumn or early spring. Overwinter young plants under glass",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Garden edging",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong the flowering display",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Prone to antirrhinum rust and powdery mildew",
+            "link_names": [
+                "Antirrhinum rust"
+            ],
+            "related_links": {
+                "antirrhinum_rust": "https://www.rhs.org.uk/disease/antirrhinum-rust"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum majus 'Bells Yellow' (Bells Series)",
+    "display_name": "Snapdragon 'bells yellow'"
 }

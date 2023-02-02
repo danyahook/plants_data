@@ -85,14 +85,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun to partial shade in moist but well drained acidic soil. Suited to boggy conditions, keep moist all year. See blueberry cultivation",
-        "propagation": "Propagate by taking softwood cuttings in late spring or semi-ripe cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Ground cover"
-        ],
-        "pruning": "Prune after harvesting to stimulate the production of vigorous uprights that will bear more fruit. Remove deadwood. See pruning blueberries",
-        "pests": "May be susceptible to caterpillars",
-        "diseases": "May be susceptible to grey moulds, leaf spot, rust and Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in full sun to partial shade in moist but well drained acidic soil. Suited to boggy conditions, keep moist all year. See blueberry cultivation",
+            "link_names": [
+                "Blueberry cultivation"
+            ],
+            "related_links": {
+                "blueberry_cultivation": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by taking softwood cuttings in late spring or semi-ripe cuttings in early summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune after harvesting to stimulate the production of vigorous uprights that will bear more fruit. Remove deadwood. See pruning blueberries",
+            "link_names": [
+                "Pruning blueberries"
+            ],
+            "related_links": {
+                "pruning_blueberries": "https://www.rhs.org.uk/fruit/blueberries/grow-your-own"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to caterpillars",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds, leaf spot, rust and Powdery mildews",
+            "link_names": [
+                "Grey moulds",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Vaccinium macrocarpon 'Pilgrim' (F)",
+    "display_name": "American cranberry 'pilgrim'"
 }

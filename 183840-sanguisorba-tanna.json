@@ -93,19 +93,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade, in moist but well-drained soil that does not dry out in summer",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "None required",
-        "pests": "May be affected by slugs",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun or partial shade, in moist but well-drained soil that does not dry out in summer",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Sanguisorba 'Tanna'",
+    "display_name": "Burnet 'tanna'"
 }

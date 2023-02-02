@@ -102,13 +102,37 @@
         "plant_range": "SW Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist soil in full sun or semi shade. Can be cropped virtually all year by staggering sowing dates",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "May be attacked by flea beetle",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moist soil in full sun or semi shade. Can be cropped virtually all year by staggering sowing dates",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by flea beetle",
+            "link_names": [
+                "Flea beetle"
+            ],
+            "related_links": {
+                "flea_beetle": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Barbarea_verna.html",
@@ -163,5 +187,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Barbarea verna",
+    "display_name": "American cress"
 }

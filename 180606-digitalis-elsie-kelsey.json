@@ -85,16 +85,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained humus-rich soil in light dappled shade, for example in a mixed bed or an open woodland garden, and add organic mulch",
-        "propagation": "Propagate by seed, sown in spring; it will self-seed, but may not come true unless plants have been grown in isolation",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but deadheading, cutting down the dead flowering stem, will encourage growth the following year",
-        "pests": "Can get aphids and leaf and bud eelworm",
-        "diseases": "May be affected by fungal leaf spots, powdery mildews, downy mildews, crown rots and root rots"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained humus-rich soil in light dappled shade, for example in a mixed bed or an open woodland garden, and add organic mulch",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in spring; it will self-seed, but may not come true unless plants have been grown in isolation",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but deadheading, cutting down the dead flowering stem, will encourage growth the following year",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids and leaf and bud eelworm",
+            "link_names": [
+                "Aphids",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by fungal leaf spots, powdery mildews, downy mildews, crown rots and root rots",
+            "link_names": [
+                "Powdery mildews",
+                "Downy mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
+    },
+    "main_name_original": "Digitalis 'Elsie Kelsey'",
+    "display_name": "Foxglove 'elsie kelsey'"
 }

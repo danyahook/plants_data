@@ -88,19 +88,53 @@
         "plant_range": "Japan"
     },
     "how_to_grow": {
-        "cultivation": "Outdoors, grow in well-drained soil in full sun. Under glass grow in loam-based potting compost with added extra grit in full light. In growth water moderately and apply a half-strength liquid fertiliser every month; keep almost dry in winter",
-        "propagation": "Propagate by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs and vine weevil larvae",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Outdoors, grow in well-drained soil in full sun. Under glass grow in loam-based potting compost with added extra grit in full light. In growth water moderately and apply a half-strength liquid fertiliser every month; keep almost dry in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs and vine weevil larvae",
+            "link_names": [
+                "Mealybugs",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sedum_makinoi.html",
@@ -156,5 +190,7 @@
             "Leaf rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Sedum makinoi",
+    "display_name": ""
 }

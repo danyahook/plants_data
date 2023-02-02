@@ -89,14 +89,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade in moisture-retentive soils in bog gardens or at pond margins or grow shallowly submerged in water up to 25cm deep",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance"
-        ],
-        "pruning": "Cut back regularly to control spread",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to mint rust"
+        "cultivation": {
+            "text": "Grow in full sun or partial shade in moisture-retentive soils in bog gardens or at pond margins or grow shallowly submerged in water up to 25cm deep",
+            "link_names": [
+                "Bog gardens"
+            ],
+            "related_links": {
+                "bog_gardens": "https://www.rhs.org.uk/garden-design/bog-gardens"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back regularly to control spread",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to mint rust",
+            "link_names": [
+                "Mint rust"
+            ],
+            "related_links": {
+                "mint_rust": "https://www.rhs.org.uk/disease/mint-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hydrocotyle_sibthorpioides.html",
@@ -171,5 +207,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hydrocotyle sibthorpioides",
+    "display_name": "Lawn pennywort"
 }

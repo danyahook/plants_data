@@ -99,18 +99,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs a well-drained soil in full sun to flower well. Suitable for cultivation in a container . Tolerates sea winds",
-        "propagation": "Propagate by stem cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Gravel garden",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead regularly",
-        "pests": "Can get aphids and leaf-mining flies",
-        "diseases": "Usually disease free"
-    }
+        "cultivation": {
+            "text": "Needs a well-drained soil in full sun to flower well. Suitable for cultivation in a container . Tolerates sea winds",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by stem cuttings",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Gravel garden",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Can get aphids and leaf-mining flies",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Usually disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Argyranthemum 'Sugar Button'",
+    "display_name": "Marguerite 'sugar button'"
 }

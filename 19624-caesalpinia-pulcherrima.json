@@ -100,18 +100,60 @@
         "plant_range": "Trop. America"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in full sun in a frost-free area in moist but well-drained soil. Under glass grow in loam-based compost in full light. Plants under glass may need a restrictive prune after the first flush of flowers. In hot climates it is tolerant of dry areas where it can be grown out of doors, providing a dense thorny barrier",
-        "propagation": "Propagate by seed or softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Architectural",
-            "Cut flowers",
-            "Wall side borders"
-        ],
-        "pruning": "Generally no pruning required",
-        "pests": "Can get glasshouse red spider mite, glasshouse whitefly and mealybugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow outdoors in full sun in a frost-free area in moist but well-drained soil. Under glass grow in loam-based compost in full light. Plants under glass may need a restrictive prune after the first flush of flowers. In hot climates it is tolerant of dry areas where it can be grown out of doors, providing a dense thorny barrier",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or softwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Architectural",
+                "Cut flowers",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, glasshouse whitefly and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Caesalpinia_pulcherrima.html",
@@ -175,5 +217,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Caesalpinia pulcherrima",
+    "display_name": "Barbados pride"
 }

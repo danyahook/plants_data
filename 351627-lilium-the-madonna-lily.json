@@ -97,16 +97,66 @@
         "plant_range": "S Europe, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter. Tolerant of drier soil but must be planted very close to the soil surface",
-        "propagation": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get lily beetle, aphids and slugs; plants in pots can get vine weevil",
-        "diseases": "grey moulds and a virus may cause problems. See lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil enriched with leaf mould or well-rotted organic matter. Tolerant of drier soil but must be planted very close to the soil surface",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get lily beetle, aphids and slugs; plants in pots can get vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "grey moulds and a virus may cause problems. See lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium 'The Madonna Lily'",
+    "display_name": "Madonna lily"
 }

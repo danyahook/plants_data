@@ -96,14 +96,72 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a conservatory or frost free greenhouse in a container of loam-based potting compost in full light, with shade from hot sun. See passion flower cultivation",
-        "propagation": "Propagate by seed, semi-hardwood cuttings or by layering in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 11 or pruning group 12 in early spring",
-        "pests": "Glasshouse red spider mite, scale insects and glasshouse whitefly may be a problem under glass",
-        "diseases": "May be susceptible to a virus"
-    }
+        "cultivation": {
+            "text": "Grow in a conservatory or frost free greenhouse in a container of loam-based potting compost in full light, with shade from hot sun. See passion flower cultivation",
+            "link_names": [
+                "Container",
+                "Passion flower cultivation"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "passion_flower_cultivation": "https://www.rhs.org.uk/plants/passion-flower/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, semi-hardwood cuttings or by layering in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 11 or pruning group 12 in early spring",
+            "link_names": [
+                "Pruning group 11",
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide",
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Glasshouse red spider mite, scale insects and glasshouse whitefly may be a problem under glass",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Passiflora 'Lavender Lady'",
+    "display_name": "Passion flower 'amethyst'"
 }

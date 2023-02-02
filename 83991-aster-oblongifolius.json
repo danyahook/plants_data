@@ -87,22 +87,58 @@
         "plant_range": "E to NC US"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in neutral to alkaline soil in full sun. Does not do well in winter wet, but does tolerate drought once established",
-        "propagation": "Propagate by division in early spring, or by softwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Gravel garden",
-            "Wildlife gardens",
-            "Prairie planting",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Wall side borders",
-            "Cut flowers"
-        ],
-        "pruning": "Cut down to ground level at the end of the year",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grows best in neutral to alkaline soil in full sun. Does not do well in winter wet, but does tolerate drought once established",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring, or by softwood cuttings",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Gravel garden",
+                "Wildlife gardens",
+                "Prairie planting",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Wall side borders",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut down to ground level at the end of the year",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt",
+            "link_names": [
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Aster oblongifolius",
+    "display_name": ""
 }

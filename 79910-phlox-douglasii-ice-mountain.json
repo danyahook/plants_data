@@ -91,17 +91,53 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun or light shade",
-        "propagation": "Propagate by softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Garden edging"
-        ],
-        "pruning": "Trim back after flowering",
-        "pests": "Generally pest-free",
-        "diseases": "May be susceptible to leafy gall, powdery mildews and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to leafy gall, powdery mildews and leaf spot",
+            "link_names": [
+                "Leafy gall",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Phlox douglasii 'Ice Mountain'",
+    "display_name": ""
 }

@@ -83,16 +83,48 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most moist but free draining soil in shade or partial shade. See how to grow ferns.",
-        "propagation": "Propagate by division or spores",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required, but old or faded fronds can be removed as needed",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grows well in most moist but free draining soil in shade or partial shade. See how to grow ferns.",
+            "link_names": [
+                "How to grow ferns"
+            ],
+            "related_links": {
+                "how_to_grow_ferns": "https://www.rhs.org.uk/plants/types/ferns/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division or spores",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but old or faded fronds can be removed as needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Dryopteris_varia.html",
@@ -180,5 +212,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Dryopteris varia",
+    "display_name": "Japanese holly fern"
 }

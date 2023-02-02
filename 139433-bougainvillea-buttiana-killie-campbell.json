@@ -84,16 +84,66 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in well-drained compost in a sunny frost-free area. Grow under glass in loam-based potting compost in full light",
-        "propagation": "Propagate by softwood or semi-hardwood cuttings or layering",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 12",
-        "pests": "May be susceptible to mealybugs and aphids under glass",
-        "diseases": "May be susceptible to a rust, powdery mildews and a leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow outdoors in well-drained compost in a sunny frost-free area. Grow under glass in loam-based potting compost in full light",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-hardwood cuttings or layering",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood",
+                "Layering"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 12",
+            "link_names": [
+                "Pruning group 12"
+            ],
+            "related_links": {
+                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs and aphids under glass",
+            "link_names": [
+                "Mealybugs",
+                "Aphids"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust, powdery mildews and a leaf spot",
+            "link_names": [
+                "A rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Bougainvillea × buttiana 'Killie Campbell'",
+    "display_name": "Bougainvillea 'killie campbell'"
 }

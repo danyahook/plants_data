@@ -105,21 +105,55 @@
         "plant_range": "SE Europe, Turkey, Caucasus"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, moderately fertile soil in an open situation in full sun",
-        "propagation": "Propagate by seed sown in pots in a cold frame in autumn. Propagate by rooting softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Cut back after flowering to maintain compact shape",
-        "pests": "May be attacked by aphids",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in well-drained, moderately fertile soil in an open situation in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame in autumn. Propagate by rooting softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering to maintain compact shape",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aurinia_saxatilis.html",
@@ -187,5 +221,7 @@
             "Underwatering",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Aurinia saxatilis",
+    "display_name": "Gold dust"
 }

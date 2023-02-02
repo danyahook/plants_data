@@ -90,17 +90,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a light, poor, free-draining soil in full sun or partial shade. Ideal for patio containers grown in a loam-based potting compost (JI No.2)",
-        "propagation": "Propagate by softwood cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Cut back after flowering; deadhead regularly to prolong flowering and pinch out terminal shoots to encourage bushy growth",
-        "pests": "Aphids may be a problem",
-        "diseases": "May be affected by powdery mildews and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in a light, poor, free-draining soil in full sun or partial shade. Ideal for patio containers grown in a loam-based potting compost (JI No.2)",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering; deadhead regularly to prolong flowering and pinch out terminal shoots to encourage bushy growth",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids may be a problem",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews and a virus",
+            "link_names": [
+                "Powdery mildews",
+                "A virus"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Calendula 'Kercalsun'",
+    "display_name": "Marigold [powerdaisy sunny]"
 }

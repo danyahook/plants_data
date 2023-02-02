@@ -83,14 +83,66 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil in sun or partial shade. See tree cultivation for further advice",
-        "propagation": "Propagate by softwood cuttings in early summer. Note: difficult to propagate, possibilities for grafting being limited by the absence of related species. Seed is not a useful alternative as it is a dioecious species and specimens are widely separated",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens"
-        ],
-        "pruning": "Pruning group 1, if necessary, from late autumn to midwinter only",
-        "pests": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-        "diseases": "May be susceptible to coral spot, Verticillium wilt, leaf scorch and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil in sun or partial shade. See tree cultivation for further advice",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer. Note: difficult to propagate, possibilities for grafting being limited by the absence of related species. Seed is not a useful alternative as it is a dioecious species and specimens are widely separated",
+            "link_names": [
+                "Softwood",
+                "Grafting"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, if necessary, from late autumn to midwinter only",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Acer leaf scorch",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Acer sinopurpurascens",
+    "display_name": ""
 }

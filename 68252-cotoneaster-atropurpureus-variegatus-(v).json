@@ -91,20 +91,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will tolerate dry situations in full sun",
-        "propagation": "Propagate by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Rock garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1 or pruning group 13 for wall-trained specimens",
-        "pests": "May be susceptible to scale insects and woolly aphids",
-        "diseases": "May be subject to fireblight and honey fungus"
-    }
+        "cultivation": {
+            "text": "Will tolerate dry situations in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in early summer",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Rock garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 13 for wall-trained specimens",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and woolly aphids",
+            "link_names": [
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cotoneaster atropurpureus 'Variegatus' (v)",
+    "display_name": "Variegated purple-flowered cotoneaster"
 }

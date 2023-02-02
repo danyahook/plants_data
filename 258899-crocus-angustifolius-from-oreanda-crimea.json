@@ -80,18 +80,52 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a gritty, poor to moderately fertile soil. Prefers to be on the dry side during dormancy",
-        "propagation": "Propagate by seed, sown in pots in a cold frame when ripe or remove cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Corms are vulnerable to mice, voles, squirrels and pheasants",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a gritty, poor to moderately fertile soil. Prefers to be on the dry side during dormancy",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in pots in a cold frame when ripe or remove cormlets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Corms are vulnerable to mice, voles, squirrels and pheasants",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Crocus angustifolius from Oreanda, Crimea",
+    "display_name": ""
 }

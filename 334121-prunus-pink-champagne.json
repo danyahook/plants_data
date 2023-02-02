@@ -86,14 +86,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist but well-drained, moderately fertile soil in full sun",
-        "propagation": "Propagate by greenwood cuttings in early summer, chip budding in summer or grafting in early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 in midsummer, so as to reduce the risk of silver leaf",
-        "pests": "Aphids and caterpillars may be a nuisance",
-        "diseases": "Susceptible to silver leaf, honey fungus, blossom wilt and bacterial canker"
-    }
+        "cultivation": {
+            "text": "Grow in any moist but well-drained, moderately fertile soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by greenwood cuttings in early summer, chip budding in summer or grafting in early spring",
+            "link_names": [
+                "Greenwood",
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 in midsummer, so as to reduce the risk of silver leaf",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Aphids and caterpillars may be a nuisance",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to silver leaf, honey fungus, blossom wilt and bacterial canker",
+            "link_names": [
+                "Silver leaf",
+                "Honey fungus",
+                "Bacterial canker"
+            ],
+            "related_links": {
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
+            }
+        }
+    },
+    "main_name_original": "Prunus Pink Champagne",
+    "display_name": "Cherry 'ichiyo'"
 }

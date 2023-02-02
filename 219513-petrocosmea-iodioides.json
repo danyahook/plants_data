@@ -84,13 +84,51 @@
         "plant_range": "China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a shallow pot of very well-drained compost in a cool greenhouse or alpine house, in semi-shade, with a humid atmosphere",
-        "propagation": "Propagate by seed or by leaf cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "May be affected by aphids and glasshouse whitefly",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in a shallow pot of very well-drained compost in a cool greenhouse or alpine house, in semi-shade, with a humid atmosphere",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by leaf cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Leaf cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Petrocosmea iodioides",
+    "display_name": "Violet petrocosmea"
 }

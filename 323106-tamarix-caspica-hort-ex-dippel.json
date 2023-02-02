@@ -88,14 +88,56 @@
         "plant_range": "S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grows well in most soils but dislikes shallow chalky soil. Requires full sun and a well-drained sandy soil in coastal plantings but it requires shelter from cold drying winds when planted inland",
-        "propagation": "Propagate by semi-hardwood cuttings in summer or hardwood cuttings in winter. Propagate by seed sown, when ripe, in containers in a cold-frame",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grows well in most soils but dislikes shallow chalky soil. Requires full sun and a well-drained sandy soil in coastal plantings but it requires shelter from cold drying winds when planted inland",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings in summer or hardwood cuttings in winter. Propagate by seed sown, when ripe, in containers in a cold-frame",
+            "link_names": [
+                "Semi-hardwood",
+                "Hardwood",
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Tamarix caspica hort. ex Dippel",
+    "display_name": "Four-stamen tamarisk"
 }

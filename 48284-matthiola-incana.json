@@ -102,18 +102,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny, sheltered bed where the soil is well-drained and neutral to slightly alkaline",
-        "propagation": "Propagate by seed sown in gentle heat in early spring or sow in midsummer and protect young plants over winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Susceptible to aphids, flea beetles and cabbage root fly",
-        "diseases": "May be affected by club root, a downy mildew, root rot and a virus"
+        "cultivation": {
+            "text": "Grow in a sunny, sheltered bed where the soil is well-drained and neutral to slightly alkaline",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in gentle heat in early spring or sow in midsummer and protect young plants over winter",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Susceptible to aphids, flea beetles and cabbage root fly",
+            "link_names": [
+                "Aphids",
+                "Flea beetles",
+                "Cabbage root fly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by club root, a downy mildew, root rot and a virus",
+            "link_names": [
+                "Club root",
+                "A downy mildew",
+                "A virus"
+            ],
+            "related_links": {
+                "club_root": "https://www.rhs.org.uk/disease/club-root",
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Matthiola_incana.html",
@@ -167,5 +211,7 @@
             "Leaf rot",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Matthiola incana",
+    "display_name": "Brompton stock"
 }

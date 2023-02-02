@@ -82,14 +82,56 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow indoors/under glass in loam-based compost in filtered or indirect bright light, though it will tolerate some morning sunshine",
-        "propagation": "Propagate by air layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical"
-        ],
-        "pruning": "Pruning Group 1",
-        "pests": "May be susceptible to glasshouse red spider mite, thrips, mealybugs and scale insects under glass",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow indoors/under glass in loam-based compost in filtered or indirect bright light, though it will tolerate some morning sunshine",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by air layering",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning Group 1",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, thrips, mealybugs and scale insects under glass",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Thrips",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ficus_elastica__Robusta_.html",
@@ -131,5 +173,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Ficus elastica 'Robusta'",
+    "display_name": "Rubber plant 'robusta'"
 }

@@ -105,19 +105,71 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in well-drained soil; for more advice, see lavender cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in late summer, or by softwood cuttings of new growth in early summer; propagation for resale is prohibited without a licence",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Gravel garden",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10, in early spring or mid-spring",
-        "pests": "May be susceptible to rosemary beetle, and to cuckoo spit (froghopper or spittle bug nymphs)",
-        "diseases": "May be susceptible to honey fungus, grey moulds, lavender shab, and fungal leaf spots"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in well-drained soil; for more advice, see lavender cultivation",
+            "link_names": [
+                "Lavender cultivation"
+            ],
+            "related_links": {
+                "lavender_cultivation": "https://www.rhs.org.uk/plants/lavender/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer, or by softwood cuttings of new growth in early summer; propagation for resale is prohibited without a licence",
+            "link_names": [
+                "Semi-ripe",
+                "Softwood"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Gravel garden",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10, in early spring or mid-spring",
+            "link_names": [
+                "Pruning group 10"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to rosemary beetle, and to cuckoo spit (froghopper or spittle bug nymphs)",
+            "link_names": [
+                "Rosemary beetle",
+                "Cuckoo spit"
+            ],
+            "related_links": {
+                "rosemary_beetle": "https://www.rhs.org.uk/biodiversity/rosemary-beetle",
+                "cuckoo_spit": "https://www.rhs.org.uk/biodiversity/cuckoo-spit-spittlebugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds (Botrytis) and honey fungus (rarely)",
+            "link_names": [
+                "Grey moulds",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Lavandula 'Silver Edge'",
+    "display_name": "Lavender [walberton's silver edge]"
 }

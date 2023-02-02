@@ -87,19 +87,53 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Tolerates most soil types, best grown in moist but well-drained soil in partial shade or sun.",
-        "propagation": "Division in spring. Also grow from seed or root cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Cut flowers"
-        ],
-        "pruning": "Deadheading of faded flowers to prolong flowering season. Cutting back foliage after flowering may encourage second flush of flowers.",
-        "pests": "Generally pest free",
-        "diseases": "Powdery Mildew"
+        "cultivation": {
+            "text": "Tolerates most soil types, best grown in moist but well-drained soil in partial shade or sun.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Division in spring. Also grow from seed or root cuttings",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadheading of faded flowers to prolong flowering season. Cutting back foliage after flowering may encourage second flush of flowers.",
+            "link_names": [
+                "Deadheading"
+            ],
+            "related_links": {
+                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Powdery Mildew",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Centaurea_montana__Purple_Heart_.html",
@@ -132,5 +166,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Centaurea montana 'Purple Heart'",
+    "display_name": "Perennial cornflower 'purple heart'"
 }

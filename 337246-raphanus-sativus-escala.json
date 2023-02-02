@@ -81,14 +81,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun or partial shade in light, rich soil. Sow seed at frequent intervals from early spring to late summer for successional cropping. Thin seedlings to about 3cm apart, and harvest them young as older roots can become woody. See Radish Cultivation for further information",
-        "propagation": "Propagate by seed in shallow drills in spring and summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails, flea beetles, cabbage root fly",
-        "diseases": "May be susceptible to brassica downy mildew, brassica white blister, club root, damping off, fungal leaf spot and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in full sun or partial shade in light, rich soil. Sow seed at frequent intervals from early spring to late summer for successional cropping. Thin seedlings to about 3cm apart, and harvest them young as older roots can become woody. See Radish Cultivation for further information",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in shallow drills in spring and summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails, flea beetles, cabbage root fly",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Flea beetles",
+                "Cabbage root fly"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to brassica downy mildew, brassica white blister, club root, damping off, fungal leaf spot and virus diseases",
+            "link_names": [
+                "Brassica downy mildew",
+                "Brassica white blister",
+                "Club root",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "brassica_downy_mildew": "https://www.rhs.org.uk/disease/brassica-downy-mildew",
+                "brassica_white_blister": "https://www.rhs.org.uk/disease/white-blister",
+                "club_root": "https://www.rhs.org.uk/disease/club-root",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Raphanus sativus 'Escala'",
+    "display_name": "Radish 'escala'"
 }

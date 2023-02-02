@@ -84,17 +84,59 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Plant young plants in full sun in well-drained soil; grows better in poor soils rather than rich soils",
-        "propagation": "Propagate by heeled semi-ripe cuttings of lateral shoots in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 3. Little or no pruning required but may be cut back after flowering to keep it compact",
-        "pests": "May be affected by broom gall mites",
-        "diseases": "May be affected by honey fungus"
-    }
+        "cultivation": {
+            "text": "Plant young plants in full sun in well-drained soil; grows better in poor soils rather than rich soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by heeled semi-ripe cuttings of lateral shoots in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 3. Little or no pruning required but may be cut back after flowering to keep it compact",
+            "link_names": [
+                "Pruning group 3"
+            ],
+            "related_links": {
+                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to broom gall mites",
+            "link_names": [
+                "Gall mites"
+            ],
+            "related_links": {
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cytisus × beanii",
+    "display_name": "Bean's broom"
 }

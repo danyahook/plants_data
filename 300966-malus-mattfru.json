@@ -97,16 +97,70 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil in a sunny spot",
-        "propagation": "Propagate by chip budding in late summer. Grafting can be carried out in midwinter",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Wildlife gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Aphids, woolly aphid, fruit tree red spider mite and caterpillars may be a problem",
-        "diseases": "May be affected by apple scab, apple canker, blossom wilt, honey fungus and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile soil in a sunny spot",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by chip budding in late summer. Grafting can be carried out in midwinter",
+            "link_names": [
+                "Chip budding",
+                "Grafting"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Wildlife gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, fruit tree red spider mite and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to apple scab, apple canker, blossom wilt, honey fungus and powdery mildews",
+            "link_names": [
+                "Apple scab",
+                "Apple canker",
+                "Honey fungus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
+                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Malus 'Mattfru'",
+    "display_name": "Crab apple [jelly king]"
 }

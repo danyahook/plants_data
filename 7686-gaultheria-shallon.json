@@ -106,22 +106,56 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist or dry acidic soils in shade or partial shade where it will make good groundcover. Can colonise when planted in the landscape, for example on heathland as game cover",
-        "propagation": "Propagate by seed or by division of plants. Pot up with soil attached for best results",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in moist or dry acidic soils in shade or partial shade where it will make good groundcover. Can colonise when planted in the landscape, for example on heathland as game cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division of plants. Pot up with soil attached for best results",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Gaultheria_shallon.html",
@@ -176,5 +210,7 @@
             "Anthracnose",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Gaultheria shallon",
+    "display_name": "Shallon"
 }

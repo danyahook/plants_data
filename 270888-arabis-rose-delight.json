@@ -89,18 +89,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in full sun. Avoid excessive winter wet.",
-        "propagation": "Propagate by seed sown in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be attacked by aphids and arabis midge.",
-        "diseases": "May be susceptible to a downy mildew and white blister."
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in full sun. Avoid excessive winter wet.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids and arabis midge.",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a downy mildew and white blister.",
+            "link_names": [
+                "A downy mildew",
+                "White blister"
+            ],
+            "related_links": {
+                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews",
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot"
+            }
+        }
+    },
+    "main_name_original": "Arabis 'Rose Delight'",
+    "display_name": ""
 }

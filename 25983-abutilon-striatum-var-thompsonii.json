@@ -96,18 +96,70 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs well-drained soil and full sun with shelter; under glass grow in loam-based potting compost (JI No.2) in full light. Water freely in the growing season and sparingly in winter",
-        "propagation": "Propagate by softwood cuttings in spring or semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Mediterranean climate plants",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9",
-        "pests": "Glasshouse whitefly, glasshouse red spider mite and scale insects can all be a problem particularly under glass",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Needs well-drained soil and full sun with shelter; under glass grow in loam-based potting compost (JI No.2) in full light. Water freely in the growing season and sparingly in winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring or semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Mediterranean climate plants",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse whitefly, glasshouse red spider mite, mealybugs and scale insects",
+            "link_names": [
+                "Glasshouse whitefly",
+                "Glasshouse red spider mite",
+                "Mealybugs",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely) or a virus",
+            "link_names": [
+                "Honey fungus",
+                "A virus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Abutilon striatum var. thompsonii",
+    "display_name": "Painted abutilon 'thompsonii'"
 }

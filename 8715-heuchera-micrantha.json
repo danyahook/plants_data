@@ -98,20 +98,62 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Prefers a light to medium soil with excellent drainage, in full sun or light shade. Divide and replant every 3-4 years to maintain vigour",
-        "propagation": "Propagate by seed or by division in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Garden edging",
-            "Ground cover"
-        ],
-        "pruning": "Remove faded flower spikes",
-        "pests": "May be susceptible to leaf and bud eelworm and vine weevil",
-        "diseases": "May be susceptible to heuchera rust and leafy gall"
+        "cultivation": {
+            "text": "Prefers a light to medium soil with excellent drainage, in full sun or light shade. Divide and replant every 3-4 years to maintain vigour",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division in autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Garden edging",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworm and vine weevil",
+            "link_names": [
+                "Leaf and bud eelworm",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to heuchera rust and leafy gall",
+            "link_names": [
+                "Heuchera rust",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "heuchera_rust": "https://www.rhs.org.uk/disease/heuchera-rust",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Heuchera_micrantha.html",
@@ -159,5 +201,7 @@
             "Leaf rot",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Heuchera micrantha",
+    "display_name": "Small-leaved alum root"
 }

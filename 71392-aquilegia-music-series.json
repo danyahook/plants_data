@@ -86,15 +86,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil, in full sun or partial shade",
-        "propagation": "Propagate by seed sown in spring, late summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be attacked by aphids",
-        "diseases": "Susceptible to powdery mildews and aquilegia downy mildew"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in spring, late summer or early autumn",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to powdery mildews and aquilegia downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Aquilegia Music Series",
+    "display_name": "Columbine music series"
 }

@@ -101,17 +101,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will tolerate hot, dry conditions and poor, infertile soils. Good as ground cover",
-        "propagation": "Propagate by softwood cuttings in summer, or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Low Maintenance",
-            "Banks and slopes"
-        ],
-        "pruning": "None required",
-        "pests": "Can be affected by aphids, arabis midge and flea beetles",
-        "diseases": "May be infected by a downy mildew, white blister and virus diseases"
-    }
+        "cultivation": {
+            "text": "Will tolerate hot, dry conditions and poor, infertile soils. Good as ground cover",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer, or by division",
+            "link_names": [
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Low Maintenance",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, arabis midge and flea beetles",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildew, white blister and virus diseases",
+            "link_names": [
+                "White blister",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Arabis alpina subsp. caucasica Snowcap",
+    "display_name": "Mountain rock cress 'schneehaube'"
 }

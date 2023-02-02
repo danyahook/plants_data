@@ -93,15 +93,59 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a sunny, sheltered site. Ideal for pots and hanging baskets",
-        "propagation": "Propagate by softood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required. Deadhead to promote continuous flowering",
-        "pests": "May be affected by aphids, slugs and snails",
-        "diseases": "May be subject to grey moulds, foot rot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in a sunny, sheltered site. Ideal for pots and hanging baskets",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softood cuttings",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required. Deadhead to promote continuous flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be affected by aphids, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to grey moulds, foot rot and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Calibrachoa MiniFamous Double Orchid ('Kleca14261') (MiniFamous Series) (d)",
+    "display_name": ""
 }

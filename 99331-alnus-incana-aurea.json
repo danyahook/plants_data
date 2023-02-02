@@ -92,14 +92,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Able to thrive in poor, wet conditions but also tolerates dry soils",
-        "propagation": "Propagate by hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be affected by alder leaf beetle, alder sucker and leaf-mining sawflies",
-        "diseases": "Susceptible to phytophthora root rot"
-    }
+        "cultivation": {
+            "text": "Able to thrive in poor, wet conditions but also tolerates dry soils",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to alder leaf beetle, alder sucker and leaf-mining sawflies",
+            "link_names": [
+                "Alder leaf beetle",
+                "Alder sucker"
+            ],
+            "related_links": {
+                "alder_leaf_beetle": "https://www.rhs.org.uk/biodiversity/alder-leaf-beetle",
+                "alder_sucker": "https://www.rhs.org.uk/biodiversity/alder-sucker"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to phytophthora root rot and honey fungus",
+            "link_names": [
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Alnus incana 'Aurea'",
+    "display_name": "Grey alder 'aurea'"
 }

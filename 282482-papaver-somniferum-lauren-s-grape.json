@@ -86,15 +86,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in any well-drained or moist but well-drained soil in full sun or light shade",
-        "propagation": "Propagate by seed in situ in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Prairie planting",
-            "Gravel garden"
-        ],
-        "pruning": "No pruning required but deadhead to prevent re-seeding",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to downy mildews in wet conditions and fungal wilts"
+        "cultivation": {
+            "text": "Easy to grow in any well-drained or moist but well-drained soil in full sun or light shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in situ in spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Prairie planting",
+                "Gravel garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required but deadhead to prevent re-seeding",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to downy mildews in wet conditions and fungal wilts",
+            "link_names": [
+                "Downy mildews"
+            ],
+            "related_links": {
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Papaver_somniferum__Lauren_s_Grape_.html",
@@ -129,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Papaver somniferum 'Lauren's Grape'",
+    "display_name": "Opium poppy 'lauren's grape'"
 }

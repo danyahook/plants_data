@@ -93,15 +93,47 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in well-drained soil, in full sun to partial shade",
-        "propagation": "Propagate by seed, by cuttings or from offsets",
-        "suggested_planting_locations_and_garden_types": [
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grows best in well-drained soil, in full sun to partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, by cuttings or from offsets",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs",
+            "link_names": [
+                "Mealybugs"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Euphorbia_flanaganii.html",
@@ -162,5 +194,7 @@
             "Brown spot",
             "Fruit withering"
         ]
-    }
+    },
+    "main_name_original": "Euphorbia flanaganii",
+    "display_name": ""
 }

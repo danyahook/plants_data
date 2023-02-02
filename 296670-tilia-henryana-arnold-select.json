@@ -86,13 +86,65 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Suitable for parks and very large gardens. Also suited to avenue planting and pleaching/very hard pruning. Grow in fertile soil in full sun. For more advice see tree cultivation",
-        "propagation": "Propagate from hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural"
-        ],
-        "pruning": "Pruning group 1 or is a suitable tree for pleaching",
-        "pests": "May be susceptible to aphids, horse chestnut scale, caterpillars, sawflies and gall mites",
-        "diseases": "May be susceptible to sooty mould and phytophthora root disease"
-    }
+        "cultivation": {
+            "text": "Suitable for parks and very large gardens. Also suited to avenue planting and pleaching/very hard pruning. Grow in fertile soil in full sun. For more advice see tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate from hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or is a suitable tree for pleaching",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, horse chestnut scale, caterpillars, sawflies and gall mites",
+            "link_names": [
+                "Aphids",
+                "Gall mites"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to sooty mould, phytophthora root disease and honey fungus",
+            "link_names": [
+                "Sooty mould",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "sooty_mould": "https://www.rhs.org.uk/biodiversity/sooty-moulds",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Tilia henryana 'Arnold Select'",
+    "display_name": "Henry's lime 'arnold select'"
 }

@@ -85,13 +85,57 @@
         "plant_range": "Balkans"
     },
     "how_to_grow": {
-        "cultivation": "Good for boggy conditions or waterside borders in sun or partial shade",
-        "propagation": "Propagate by seed, root basal cuttings or take root cuttings when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by aphids, vine weevil, slugs, leaf and bud eelworms and glasshouse red spider mite",
-        "diseases": "May be subject to a leaf spot and grey mould"
-    }
+        "cultivation": {
+            "text": "Good for boggy conditions or waterside borders in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, root basal cuttings or take root cuttings when dormant",
+            "link_names": [
+                "Propagate by seed",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids, vine weevil, slugs, leaf and bud eelworms and glasshouse red spider mite",
+            "link_names": [
+                "Aphids",
+                "Vine weevil",
+                "Slugs",
+                "Leaf and bud eelworms",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a leaf spot and grey mould",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Primula frondosa (Al)",
+    "display_name": "Leafy primrose"
 }

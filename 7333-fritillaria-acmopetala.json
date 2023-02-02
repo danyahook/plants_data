@@ -79,18 +79,60 @@
         "plant_range": "Turkey to Israel"
     },
     "how_to_grow": {
-        "cultivation": "A tolerant species suitable for a sunny border or rock garden. Needs fertile, well-drained soil and full sun",
-        "propagation": "Propagate by seed sown in autumn in a cold frame. Expose to winter cold until germination in spring, then transfer to a cold greenhouse. Grow on for 2 years in containers. Divide offsets, or collect and sow bulbils in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back when foliage turns yellow at the end of the season",
-        "pests": "Prone to attack by lily beetles and slugs",
-        "diseases": "Can be susceptible to lily disease (Botrytis elliptica) and a virus"
+        "cultivation": {
+            "text": "A tolerant species suitable for a sunny border or rock garden. Needs fertile, well-drained soil and full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in autumn in a cold frame. Expose to winter cold until germination in spring, then transfer to a cold greenhouse. Grow on for 2 years in containers. Divide offsets, or collect and sow bulbils in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Divide"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back when foliage turns yellow at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Prone to attack by lily beetles and slugs",
+            "link_names": [
+                "Lily beetles",
+                "Slugs"
+            ],
+            "related_links": {
+                "lily_beetles": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Can be susceptible to lily disease (Botrytis elliptica) and a virus",
+            "link_names": [
+                "Lily disease",
+                "A virus"
+            ],
+            "related_links": {
+                "lily_disease": "https://www.rhs.org.uk/disease/lily-diseases",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Fritillaria_acmopetala.html",
@@ -127,5 +169,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Fritillaria acmopetala",
+    "display_name": "Pointed-petal fritillary"
 }

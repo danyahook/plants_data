@@ -88,16 +88,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Needs a well-drained soil in full sun to flower well. Suitable for cultivation in a container",
-        "propagation": "Propagate by softwood or semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Bedding"
-        ],
-        "pruning": "Deadhead regularly",
-        "pests": "May be susceptible to aphids and leaf-mining flies",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Needs a well-drained soil in full sun to flower well. Suitable for cultivation in a container",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood or semi-hardwood cuttings",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Bedding"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead regularly",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids and leaf-mining flies",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Arctotis × hybrida hort. 'Wine'",
+    "display_name": "African daisy 'wine'"
 }

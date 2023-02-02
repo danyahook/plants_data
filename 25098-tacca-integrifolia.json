@@ -83,16 +83,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a warm greenhouse in a mix of equal parts leaf mould and coarse bark, with added slow-release fertiliser, in bright, filtered light. Water well all year, misting and feeding half-strength foliar feed in summer. Repot every two to three years, discarding old, decaying rhizomes",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to red spider mite and tarsonomid mites",
-        "diseases": "May be susceptible to grey mould"
+        "cultivation": {
+            "text": "Grow in a warm greenhouse in a mix of equal parts leaf mould and coarse bark, with added slow-release fertiliser, in bright, filtered light. Water well all year, misting and feeding half-strength foliar feed in summer. Repot every two to three years, discarding old, decaying rhizomes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to red spider mite and tarsonomid mites",
+            "link_names": [
+                "Red spider mite"
+            ],
+            "related_links": {
+                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey mould",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Tacca_integrifolia.html",
@@ -159,5 +193,7 @@
             "Fruit withering",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Tacca integrifolia",
+    "display_name": "Bat flower"
 }

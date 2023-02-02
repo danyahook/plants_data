@@ -83,18 +83,58 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun, with shelter from cold, drying winds. Best grown with the protection of a warm wall, or overwinter in a greenhouse or conservatory",
-        "propagation": "Propagate by semi-ripe cuttings with bottom heat in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Climber and wall shrubs",
-            "Conservatory and greenhouse",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 9 or Pruning group 13 if wall-trained",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist but well-drained soil in full sun, with shelter from cold, drying winds. Best grown with the protection of a warm wall, or overwinter in a greenhouse or conservatory",
+            "link_names": [
+                "Overwinter in a greenhouse"
+            ],
+            "related_links": {
+                "overwinter_in_a_greenhouse": "https://www.rhs.org.uk/prevention-protection/overwintering-in-conservatory"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings with bottom heat in summer",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Climber and wall shrubs",
+                "Conservatory and greenhouse",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 or Pruning group 13 if wall-trained",
+            "link_names": [
+                "Pruning group 9",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Legrandia concinna",
+    "display_name": ""
 }

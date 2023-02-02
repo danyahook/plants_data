@@ -95,16 +95,58 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well drained soil in sun or partial shade. Mulch annually after cutting back in late autumn.",
-        "propagation": "Propagate by sowing seeds in a cold frame in spring or autumn. Divide in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune by dead-heading regulary. Cut back to the ground in late autumn",
-        "pests": "May be susceptible to aphids, eelworms (leaf and bud), Michalmas daisy mite, slugs and snails",
-        "diseases": "Maybe susceptible to fusarium wilt, grey mould, leafspot and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well drained soil in sun or partial shade. Mulch annually after cutting back in late autumn.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by sowing seeds in a cold frame in spring or autumn. Divide in spring",
+            "link_names": [
+                "Divide"
+            ],
+            "related_links": {
+                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune by dead-heading regulary. Cut back to the ground in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, eelworms (leaf and bud), Michalmas daisy mite, slugs and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "Maybe susceptible to fusarium wilt, grey mould, leafspot and powdery mildew",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aster dumosus 'Alice Haslam'",
+    "display_name": ""
 }

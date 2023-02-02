@@ -89,16 +89,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in rich, fertile, moisture-retentive soil, in full sun if the soil remains moist throughout the growing season, or in partial shade; mulch every year after cutting down in late autumn. As a taller cultivar, support may be required - see staking perennials",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Cut stems close to the ground in late autumn",
-        "pests": "May be affected by eelworm, aphids, slugs, and snails",
-        "diseases": "May suffer Verticillium wilt, powdery mildews and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in rich, fertile, moisture-retentive soil, in full sun if the soil remains moist throughout the growing season, or in partial shade; mulch every year after cutting down in late autumn. As a taller cultivar, support may be required - see staking perennials",
+            "link_names": [
+                "Mulch",
+                "Staking perennials"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "staking_perennials": "https://www.rhs.org.uk/plants/types/perennials/staking"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut stems close to the ground in late autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to eelworm, aphids, slugs, and snails",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Verticillium wilt, powdery mildews and grey moulds",
+            "link_names": [
+                "Verticillium wilt",
+                "Powdery mildews",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Symphyotrichum novae-angliae 'Mrs S.T. Wright'",
+    "display_name": "New england aster 'mrs s.t. wright'"
 }

@@ -82,14 +82,52 @@
         "plant_range": "Chile"
     },
     "how_to_grow": {
-        "cultivation": "Needs winter protection except in very mild areas. Grow under glass in a deep container of loam-based potting compost with added fine grit, starting into growth in autumn and allowing to go dormant after flowering. Requires good light, but with shade from hot sunshine",
-        "propagation": "Propagate by seed or division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Needs winter protection except in very mild areas. Grow under glass in a deep container of loam-based potting compost with added fine grit, starting into growth in autumn and allowing to go dormant after flowering. Requires good light, but with shade from hot sunshine",
+            "link_names": [
+                "Winter protection",
+                "Container"
+            ],
+            "related_links": {
+                "winter_protection": "https://www.rhs.org.uk/prevention-protection/preventing-winter-damage",
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed or division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Tropaeolum azureum",
+    "display_name": "Blue nasturtium"
 }

@@ -92,15 +92,67 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position and protection from frost, but usually overwinters if given full sun and good drainage. Drought tolerant",
-        "propagation": "Propagate by softwood cuttings or semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 9 in spring",
-        "pests": "May be susceptible to slugs, snails and glasshouse leafhopper",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position and protection from frost, but usually overwinters if given full sun and good drainage. Drought tolerant",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings or semi-ripe cuttings",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9 in spring",
+            "link_names": [
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and glasshouse leafhopper",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Glasshouse leafhopper"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "glasshouse_leafhopper": "https://www.rhs.org.uk/biodiversity/glasshouse-leafhopper"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
+            "link_names": [
+                "Honey fungus",
+                "Powdery mildews",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Salvia 'Arggr17-011'",
+    "display_name": "Sage [pink amistad]"
 }

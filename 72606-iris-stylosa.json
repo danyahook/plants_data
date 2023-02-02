@@ -97,20 +97,62 @@
         "plant_range": "N Africa to SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained or sharply drained neutral or slightly alkaline soil. Ideal at the base of a sunny wall",
-        "propagation": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Banks and slopes",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "Slugs and snails may be a problem",
-        "diseases": "May be subject to bacterial soft rot, grey moulds and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained or sharply drained neutral or slightly alkaline soil. Ideal at the base of a sunny wall",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division from midsummer to early autumn, plant immediately in flowering positions",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Banks and slopes",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs and snails may be a problem",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to bacterial soft rot, grey moulds and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Iris stylosa",
+    "display_name": "Algerian iris"
 }

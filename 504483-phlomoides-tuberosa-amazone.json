@@ -90,18 +90,52 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, reliably well-drained soil in full sun",
-        "propagation": "Propagate by division in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Gravel garden",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Mediterranean climate plants",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flower stems when no longer decorative",
-        "pests": "Sage leafhopper may be a nuisance",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, reliably well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Gravel garden",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Mediterranean climate plants",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flower stems when no longer decorative",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Sage leafhopper may be a nuisance",
+            "link_names": [
+                "Sage leafhopper"
+            ],
+            "related_links": {
+                "sage_leafhopper": "https://www.rhs.org.uk/biodiversity/sage-and-ligurian-leafhoppers"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Phlomoides tuberosa 'Amazone'",
+    "display_name": "Sage-leaf mullein 'amazone'"
 }

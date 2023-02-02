@@ -87,15 +87,53 @@
         "plant_range": "China & Vietnam"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in rocky, moist but well-drained soils, in part or full shade. In regions where temperatures don't fall below -5°C, this species is well suited to understory planting in moist woodland or along damp stream banks",
-        "propagation": "Propagate by semi-ripe cuttings or by sowing seed as soon as it is ripe, outdoors. For more advice see our information on how to propagate from seed (tree/shrub)",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "Minimal pruning required, see pruning group 1",
-        "pests": "Generally pest-free, though seeds may be eaten by rodents",
-        "diseases": "May be susceptible to Phytophthora root rot"
+        "cultivation": {
+            "text": "Thrives in rocky, moist but well-drained soils, in part or full shade. In regions where temperatures don't fall below -5°C, this species is well suited to understory planting in moist woodland or along damp stream banks",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings or by sowing seed as soon as it is ripe, outdoors. For more advice see our information on how to propagate from seed (tree/shrub)",
+            "link_names": [
+                "Semi-ripe",
+                "Outdoors"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required, see pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free, though seeds may be eaten by rodents",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to Phytophthora root rot",
+            "link_names": [
+                "Phytophthora"
+            ],
+            "related_links": {
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Amentotaxus_argotaenia.html",
@@ -130,5 +168,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Amentotaxus argotaenia",
+    "display_name": "Catkin yew"
 }

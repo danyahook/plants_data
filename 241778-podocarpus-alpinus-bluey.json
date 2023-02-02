@@ -102,14 +102,46 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any well-drained soil in good light.",
-        "propagation": "Propagate from seed (tree/shrub or from semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Banks and slopes",
-            "Hedging and screens"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any well-drained soil in good light.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed (tree/shrub or from semi-ripe cuttings",
+            "link_names": [
+                "Propagate from seed (tree/shrub",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Banks and slopes",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Podocarpus alpinus 'Bluey'",
+    "display_name": "Mountain plum pine 'blue gem'"
 }

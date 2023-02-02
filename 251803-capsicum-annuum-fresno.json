@@ -78,15 +78,61 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a loam-based compost in bright, filtered light. When in growth, water freely and apply a balanced liquid fertiliser every 10 days until fruit begins to colour. See the RHS A-Z guides to vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed sown at 21ºC (70ºF) in late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Conservatory and greenhouse",
-            "Edible fruit"
-        ],
-        "pruning": "Pinch out growing tips to encourage branching",
-        "pests": "May be susceptible to glasshouse red spider mite and aphids",
-        "diseases": "May be susceptible to virus diseases, fungal wilt, anthracnose and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in a loam-based compost in bright, filtered light. When in growth, water freely and apply a balanced liquid fertiliser every 10 days until fruit begins to colour. See the RHS A-Z guides to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 21ºC (70ºF) in late winter",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Conservatory and greenhouse",
+                "Edible fruit"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pinch out growing tips to encourage branching",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite and aphids",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Aphids"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases, fungal wilt, anthracnose and powdery mildews",
+            "link_names": [
+                "Virus diseases",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Capsicum annuum 'Fresno'",
+    "display_name": "Chilli pepper 'fresno'"
 }

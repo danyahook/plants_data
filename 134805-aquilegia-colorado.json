@@ -93,17 +93,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained soil, in full sun or partial shade",
-        "propagation": "Propagate by seed or by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required, but can be cut back after flowering",
-        "pests": "May be attacked by aphids, aquilegia sawfly and leaf miners",
-        "diseases": "May be affected by powdery mildews, aquilegia downy mildew, and fungal leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained soil, in full sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or by division",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but can be cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by aphids, aquilegia sawfly and leaf miners",
+            "link_names": [
+                "Aphids",
+                "Aquilegia sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "aquilegia_sawfly": "https://www.rhs.org.uk/biodiversity/aquilegia-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews, aquilegia downy mildew, and fungal leaf spot",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
+    },
+    "main_name_original": "Aquilegia 'Colorado'",
+    "display_name": "Columbine 'colorado'"
 }

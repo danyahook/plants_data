@@ -101,15 +101,47 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Occurs naturally, especially in the south of England, on disturbed ground and grassy verges",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildflower meadow",
-            "Wildlife gardens"
-        ],
-        "pruning": "None required",
-        "pests": "Generally trouble free",
-        "diseases": "Plants can be affected by hollyhock rust and in turn infect cultivated hollyhocks"
+        "cultivation": {
+            "text": "Occurs naturally, especially in the south of England, on disturbed ground and grassy verges",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildflower meadow",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to hollyhock rust and in turn infect cultivated hollyhocks",
+            "link_names": [
+                "Hollyhock rust"
+            ],
+            "related_links": {
+                "hollyhock_rust": "https://www.rhs.org.uk/disease/hollyhock-rust"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Malva_sylvestris.html",
@@ -239,5 +271,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Malva sylvestris",
+    "display_name": "Common mallow"
 }

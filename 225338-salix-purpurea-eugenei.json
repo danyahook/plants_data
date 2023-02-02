@@ -96,16 +96,74 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any fertile moisture-retentive soil, even waterlogged for short periods. Beside water is ideal.",
-        "propagation": "Propagate from hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Banks and slopes",
-            "Cut flowers",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 or pruning group 7 for brighter coloured stems and keeping the shrub shorter.",
-        "pests": "May be susceptible to aphids, caterpillars, gall mites, flea beetles, sawfly larvae, and willow scale",
-        "diseases": "May be susceptible to willow anthracnose, watermark disease, willow heart rot, rust diseases, crown gall, honey fungus, root rot, silver leaf, and tar spot"
-    }
+        "cultivation": {
+            "text": "Grow in any fertile moisture-retentive soil, even waterlogged for short periods. Beside water is ideal.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from hardwood cuttings",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Banks and slopes",
+                "Cut flowers",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 7 for brighter coloured stems and keeping the shrub shorter.",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, gall mites, flea beetles, sawfly larvae, and willow scale",
+            "link_names": [
+                "Aphids",
+                "Gall mites",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to willow anthracnose, watermark disease, willow heart rot, rust diseases, crown gall, honey fungus, root rot, silver leaf, and tar spot",
+            "link_names": [
+                "Willow anthracnose",
+                "Rust diseases",
+                "Crown gall",
+                "Honey fungus",
+                "Silver leaf",
+                "Tar spot"
+            ],
+            "related_links": {
+                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
+                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases",
+                "crown_gall": "https://www.rhs.org.uk/disease/crown-gall",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "tar_spot": "https://www.rhs.org.uk/disease/tar-spot-of-maple"
+            }
+        }
+    },
+    "main_name_original": "Salix purpurea 'Eugenei'",
+    "display_name": ""
 }

@@ -91,17 +91,47 @@
         "plant_range": "North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moderately fertile, moist but well-drained soil that does not dry out; best in full sun or partial shade. Usually needs support and the rhizomes can spread and become invasive so site with care",
-        "propagation": "Propagate by seed in pots in a cold frame in spring or autumn. Propagate by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Prairie planting",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in a moderately fertile, moist but well-drained soil that does not dry out; best in full sun or partial shade. Usually needs support and the rhizomes can spread and become invasive so site with care",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in pots in a cold frame in spring or autumn. Propagate by division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Prairie planting",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sanguisorba_canadensis.html",
@@ -177,5 +207,7 @@
             "Petal blight",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Sanguisorba canadensis",
+    "display_name": "White burnet"
 }

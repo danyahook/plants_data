@@ -83,13 +83,77 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile soil in full sun. Cherries are best suited to fan-training so they can be netted against bird damage and protected from frosts. Further sweet cherry cultivation advice",
-        "propagation": "Propagate by chip budding or grafting on clonal rootstock for fruit",
-        "suggested_planting_locations_and_garden_types": [
-            "Wall side borders"
-        ],
-        "pruning": "Train fan-trained trees in spring. Prune established fans and carry out routine pruning on established cherry trees when harvesting the fruits in summer",
-        "pests": "Protect trees from birds that damage buds and eat the fruit. May suffer from aphids, caterpillars, leaf-mining moths and winter moth caterpillars",
-        "diseases": "May be affected by silver leaf and blossom wilt but shows some resistance to bacterial canker"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile soil in full sun. Cherries are best suited to fan-training so they can be netted against bird damage and protected from frosts. Further sweet cherry cultivation advice",
+            "link_names": [
+                "Fan-training",
+                "Sweet cherry cultivation"
+            ],
+            "related_links": {
+                "fan-training": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "sweet_cherry_cultivation": "https://www.rhs.org.uk/fruit/cherries/grow-your-own"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by chip budding or grafting on clonal rootstock for fruit",
+            "link_names": [
+                "Chip budding",
+                "Grafting",
+                "Rootstock for fruit"
+            ],
+            "related_links": {
+                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "rootstock_for_fruit": "https://www.rhs.org.uk/fruit/fruit-trees/rootstocks"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Train fan-trained trees in spring. Prune established fans and carry out routine pruning on established cherry trees when harvesting the fruits in summer",
+            "link_names": [
+                "Train fan-trained",
+                "Prune established fans"
+            ],
+            "related_links": {
+                "train_fan-trained": "https://www.rhs.org.uk/fruit/fruit-trees/initial-fan-training",
+                "prune_established_fans": "https://www.rhs.org.uk/fruit/fruit-trees/pruning-established-fan-trained"
+            }
+        },
+        "pests": {
+            "text": "Protect trees from birds that damage buds and eat the fruit. May suffer from aphids, caterpillars, leaf-mining moths and winter moth caterpillars",
+            "link_names": [
+                "Birds",
+                "Aphids",
+                "Winter moth"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "winter_moth": "https://www.rhs.org.uk/biodiversity/winter-moth-caterpillars"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus",
+            "link_names": [
+                "Peach leaf curl",
+                "Silver leaf",
+                "Bacterial canker",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Prunus avium 'Summer Sun' (D)",
+    "display_name": "Cherry (sweet) 'summer sun'"
 }

@@ -105,14 +105,54 @@
         "plant_range": "Himalaya"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun in a position sheltered from strong winds. See Trees: buying and planting specimens",
-        "propagation": "Propagate by seed sown in containers in a cold frame in late winter. Retain in pots for two years",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal"
-        ],
-        "pruning": "No pruning generally required. Remove competing leaders if necessary",
-        "pests": "Pine adelgid and aphids may occur",
-        "diseases": "May be affected by honey fungus, various needle cast diseases and tree rusts"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun in a position sheltered from strong winds. See Trees: buying and planting specimens",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in late winter. Retain in pots for two years",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning generally required. Remove competing leaders if necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
+            "link_names": [
+                "Adelgids",
+                "Conifer aphid"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
+                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus and needle cast diseases",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Pinus griffithii McClell.",
+    "display_name": "Bhutan pine"
 }

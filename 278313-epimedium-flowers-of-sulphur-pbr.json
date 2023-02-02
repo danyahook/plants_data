@@ -88,20 +88,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in partial shade, with shelter from cold, drying winds; where frosts are prolonged or severe, spread an organic mulch such as leaf mould or composted bark to protect plants over winter",
-        "propagation": "Propagate by division in autumn or after flowering; or by root cuttings of rhizomes, kept under glass in winter, and planted out after all danger of frost has passed; propagation for resale is prohibited without a licence",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Garden edging",
-            "Underplanting of roses and shrubs",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover"
-        ],
-        "pruning": "No pruning required, but cutting back in late winter or early spring, before flower spikes form, will improve appearance",
-        "pests": "May be affected by vine weevil",
-        "diseases": "May be affected by mosaic virus diseases and fungal leaf spots"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, moist but well-drained soil in partial shade, with shelter from cold, drying winds; where frosts are prolonged or severe, spread an organic mulch such as leaf mould or composted bark to protect plants over winter",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or after flowering; or by root cuttings of rhizomes, kept under glass in winter, and planted out after all danger of frost has passed; propagation for resale is prohibited without a licence",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Garden edging",
+                "Underplanting of roses and shrubs",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required, but cutting back in late winter or early spring, before flower spikes form, will improve appearance",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil",
+            "link_names": [
+                "Vine weevil"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to mosaic virus diseases and fungal leaf spots",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Epimedium 'Flowers of Sulphur'PBR",
+    "display_name": "Barrenwort 'flowers of sulphur'"
 }

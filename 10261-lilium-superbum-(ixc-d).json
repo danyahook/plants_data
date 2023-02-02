@@ -87,19 +87,69 @@
         "plant_range": "E United States"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral to acid well-drained soil enriched with leaf mould or well-rotted organic matter",
-        "propagation": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Wildflower meadow",
-            "Cut flowers",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by lily beetle, aphids and slugs; plants in pots are susceptible to vine weevil",
-        "diseases": "Grey moulds and a virus may cause problems, see lily diseases"
-    }
+        "cultivation": {
+            "text": "Grow in neutral to acid well-drained soil enriched with leaf mould or well-rotted organic matter",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown, when ripe, in containers in a cold frame or separate offsets after the foliage dies down",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Wildflower meadow",
+                "Cut flowers",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by lily beetle, aphids and slugs; plants in pots are susceptible to vine weevil",
+            "link_names": [
+                "Lily beetle",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "lily_beetle": "https://www.rhs.org.uk/biodiversity/lily-beetle",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Grey moulds and a virus may cause problems, see lily diseases",
+            "link_names": [
+                "Grey moulds",
+                "A virus",
+                "Lily diseases"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "lily_diseases": "https://www.rhs.org.uk/disease/lily-diseases"
+            }
+        }
+    },
+    "main_name_original": "Lilium superbum (IXc/d)",
+    "display_name": "Turk's cap lily"
 }

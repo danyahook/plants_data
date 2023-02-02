@@ -89,17 +89,67 @@
         "plant_range": "USA"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in fertile, moist but well-drained soil in full sun or partial shade. See aquilegia cultivation for more detailed advice",
-        "propagation": "Propagate by seed; will self seed in place",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead to encourage flowering. Cut foliage back to the ground as it fades",
-        "pests": "May be susceptible to aphids, aquilegia gall midge, aquilegia sawfly and caterpillars",
-        "diseases": "May be susceptible to powdery mildews and aquilegia downy mildew"
+        "cultivation": {
+            "text": "Thrives in fertile, moist but well-drained soil in full sun or partial shade. See aquilegia cultivation for more detailed advice",
+            "link_names": [
+                "Aquilegia cultivation"
+            ],
+            "related_links": {
+                "aquilegia_cultivation": "https://www.rhs.org.uk/plants/aquilegia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed; will self seed in place",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage flowering. Cut foliage back to the ground as it fades",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, aquilegia gall midge, aquilegia sawfly and caterpillars",
+            "link_names": [
+                "Aphids",
+                "Aquilegia gall midge",
+                "Aquilegia sawfly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "aquilegia_gall_midge": "https://www.rhs.org.uk/biodiversity/aquilegia-gall-midge",
+                "aquilegia_sawfly": "https://www.rhs.org.uk/biodiversity/aquilegia-sawfly"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews and aquilegia downy mildew",
+            "link_names": [
+                "Powdery mildews",
+                "Aquilegia downy mildew"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "aquilegia_downy_mildew": "https://www.rhs.org.uk/disease/aquilegia-downy-mildew"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Aquilegia_desertorum.html",
@@ -138,5 +188,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Aquilegia desertorum",
+    "display_name": ""
 }

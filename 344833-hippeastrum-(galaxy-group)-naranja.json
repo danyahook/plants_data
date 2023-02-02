@@ -81,18 +81,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in containers indoors in gritty well-drained compost. Avoid overhead watering.",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Low Maintenance",
-            "Conservatory and greenhouse",
-            "Cut flowers"
-        ],
-        "pruning": "Remove spent flower heads to lengthen flowering period",
-        "pests": "May be susceptible to bulb mites, thrips, aphids, earwigs",
-        "diseases": "May be susceptible to bulb rot, root rot, Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Will grow well in containers indoors in gritty well-drained compost. Avoid overhead watering.",
+            "link_names": [
+                "Containers"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Low Maintenance",
+                "Conservatory and greenhouse",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flower heads to lengthen flowering period",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to bulb mites, thrips, aphids, earwigs",
+            "link_names": [
+                "Thrips",
+                "Aphids",
+                "Earwigs"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to bulb rot, root rot, Powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Hippeastrum (Galaxy Group) 'Naranja'",
+    "display_name": ""
 }

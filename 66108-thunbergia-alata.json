@@ -92,17 +92,65 @@
         "plant_range": "Tropical Africa"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun with a support for the plant to climb",
-        "propagation": "Propagate by seed or if grown under glass, propagate by semi-ripe cuttings in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required unless grown under glass - pruning group 11",
-        "pests": "Aphids may cause problems and various pests such as glasshouse red spider mite, glasshouse whitefly and scale insects may be a problem under glass",
-        "diseases": "May be affected by powdery mildews"
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun with a support for the plant to climb",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed or if grown under glass, propagate by semi-ripe cuttings in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required unless grown under glass - pruning group 11",
+            "link_names": [
+                "Pruning group 11"
+            ],
+            "related_links": {
+                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "Aphids may cause problems and various pests such as glasshouse red spider mite, glasshouse whitefly and scale insects may be a problem under glass",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Glasshouse whitefly",
+                "Scale insects"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Thunbergia_alata.html",
@@ -176,5 +224,7 @@
             "Scars",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Thunbergia alata",
+    "display_name": "Black-eyed susan"
 }

@@ -96,17 +96,85 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, leafy, humus-rich acid soil in part shade with shelter; see rhododendron cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in late summer, layering in autumn or grafting in late summer or late winter",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "May be susceptible to vine weevil, rhododendron and azalea whitefly, rhododendron leafhopper, pieris lacebug, scale insects, caterpillars and aphids",
-        "diseases": "May be susceptible to various Rhododendron diseases including powdery mildews, rhododendron petal blight, rhododendron bud blast, silver leaf and honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, leafy, humus-rich acid soil in part shade with shelter; see rhododendron cultivation",
+            "link_names": [
+                "Rhododendron cultivation"
+            ],
+            "related_links": {
+                "rhododendron_cultivation": "https://www.rhs.org.uk/plants/rhododendron/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in late summer, layering in autumn or grafting in late summer or late winter",
+            "link_names": [
+                "Semi-ripe",
+                "Layering",
+                "Grafting"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil, rhododendron and azalea whitefly, rhododendron leafhopper, pieris lacebug, scale insects, caterpillars and aphids",
+            "link_names": [
+                "Vine weevil",
+                "Rhododendron leafhopper",
+                "Pieris lacebug",
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "rhododendron_leafhopper": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "pieris_lacebug": "https://www.rhs.org.uk/biodiversity/pieris-lacebug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to various Rhododendron diseases including powdery mildews, rhododendron petal blight, rhododendron bud blast, silver leaf and honey fungus",
+            "link_names": [
+                "Rhododendron diseases",
+                "Powdery mildews",
+                "Rhododendron petal blight",
+                "Rhododendron bud blast",
+                "Silver leaf",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "rhododendron_diseases": "https://www.rhs.org.uk/disease/rhododendron-diseases",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "rhododendron_petal_blight": "https://www.rhs.org.uk/disease/rhododendron-diseases",
+                "rhododendron_bud_blast": "https://www.rhs.org.uk/biodiversity/rhododendron-leafhopper-and-bud-blast",
+                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Rhododendron nobleanum 'Venustum'",
+    "display_name": "Rhododendron 'nobleanum venustum'"
 }

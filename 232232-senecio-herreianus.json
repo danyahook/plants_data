@@ -84,14 +84,58 @@
         "plant_range": "Namibia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in bright but indirect sunlight in a well-drained compost and maintain a minimum temperature above 10°C. Water frequently in the growing season but avoid over-watering in the winter. See houseplant cacti and succulent cultivation",
-        "propagation": "Propagate by stem cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Low Maintenance",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to mealybugs, scale insects and glasshouse red spider mite",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in bright but indirect sunlight in a well-drained compost and maintain a minimum temperature above 10°C. Water frequently in the growing season but avoid over-watering in the winter. See houseplant cacti and succulent cultivation",
+            "link_names": [
+                "Houseplant cacti and succulent cultivation"
+            ],
+            "related_links": {
+                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by stem cuttings",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Low Maintenance",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mealybugs, scale insects and glasshouse red spider mite",
+            "link_names": [
+                "Mealybugs",
+                "Scale insects",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a rust and honey fungus",
+            "link_names": [
+                "A rust",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Senecio herreianus",
+    "display_name": ""
 }

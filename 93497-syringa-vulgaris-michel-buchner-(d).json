@@ -85,15 +85,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich, neutral to alkaline soil in full sun. Mulch regularly. Dead head newly planted lilacs before fruit forms.",
-        "propagation": "Propagate by soft wood cuttings or layering in early summer. Graft in winter or bud in midsummer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "City and courtyard gardens",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1. Will tolerate hard renovation pruning",
-        "pests": "May be susceptible leaf mining moths, thrips and willow scale",
-        "diseases": "May be susceptible to lilac blight, honey fungus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich, neutral to alkaline soil in full sun. Mulch regularly. Dead head newly planted lilacs before fruit forms.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by soft wood cuttings or layering in early summer. Graft in winter or bud in midsummer",
+            "link_names": [
+                "Layering"
+            ],
+            "related_links": {
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "City and courtyard gardens",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1. Will tolerate hard renovation pruning",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible leaf mining moths, thrips and willow scale",
+            "link_names": [
+                "Thrips"
+            ],
+            "related_links": {
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to lilac blight, honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Syringa vulgaris 'Michel Buchner' (d)",
+    "display_name": "Lilac 'michel buchner'"
 }

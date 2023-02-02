@@ -93,19 +93,67 @@
         "plant_range": "SW China"
     },
     "how_to_grow": {
-        "cultivation": "A tender climber best grown in a container in a conservatory or warm greenhouse in loam-based compost in bright filtered light. Can be grown outdoors in frost-free parts of the country in full sun or part shade with shelter, in well-drained soil",
-        "propagation": "Propagate by semi-ripe cuttings in summer or by layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Climber and wall shrubs",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Thin overcrowded growth after flowering, may need restrictive pruning under glass",
-        "pests": "May be susceptible to aphids, scale insects and mealybugs under glass",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "A tender climber best grown in a container in a conservatory or warm greenhouse in loam-based compost in bright filtered light. Can be grown outdoors in frost-free parts of the country in full sun or part shade with shelter, in well-drained soil",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer or by layering in autumn",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Climber and wall shrubs",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Thin overcrowded growth after flowering, may need restrictive pruning under glass",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, scale insects and mealybugs under glass",
+            "link_names": [
+                "Aphids",
+                "Scale insects",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Jasminum blinii",
+    "display_name": "Many-flowered jasmine"
 }

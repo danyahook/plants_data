@@ -119,19 +119,63 @@
         "plant_range": "Australia, Tasmania"
     },
     "how_to_grow": {
-        "cultivation": "Grow in full sun in moderately fertile, freely-draining but moisture-retentive neutral or acidic soil; under glass grow in loam-based compost (John Innes No. 2)",
-        "propagation": "Propagate by seed, sown onto moist compost at 16-18°C, in spring, or by heeled semi-ripe cuttings of lateral shoots in late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Wall side borders",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 1 (little or no pruning of trees and shrubs)",
-        "pests": "May be affected by glasshouse red spider mite, mealybugs, and scale insects, especially under glass",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow in full sun in moderately fertile, freely-draining but moisture-retentive neutral or acidic soil; under glass grow in loam-based compost (John Innes No. 2)",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown onto moist compost at 16-18°C, in spring, or by heeled semi-ripe cuttings of lateral shoots in late summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Wall side borders",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 (little or no pruning of trees and shrubs)",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insect, mealy bug and glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Callistemon pallidus",
+    "display_name": "Lemon bottlebrush"
 }

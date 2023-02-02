@@ -85,15 +85,67 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in sun or part shade but most soils (unless waterlogged) are tolerated. Especially good in damp shade",
-        "propagation": "Propagate by division in spring or basal cuttings in early or mid-spring and root with bottom heat. Propagate by seed in containers outdoors as soon as ripe or in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Cut flowered stems and old leaves to the base to encourage new foliage and flowers",
-        "pests": "May be damaged by capsid bug, vine weevil larvae, sawfly larvae, slugs and snails",
-        "diseases": "A virus or downy mildews may be troublesome. Powdery mildews may be a problem in dry conditions"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in sun or part shade but most soils (unless waterlogged) are tolerated. Especially good in damp shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or basal cuttings in early or mid-spring and root with bottom heat. Propagate by seed in containers outdoors as soon as ripe or in spring",
+            "link_names": [
+                "Division",
+                "Propagate by seed",
+                "Outdoors"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut flowered stems and old leaves to the base to encourage new foliage and flowers",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by capsid bug, vine weevil larvae, sawfly larvae, slugs and snails",
+            "link_names": [
+                "Capsid bug",
+                "Vine weevil",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "A virus or downy mildews may be troublesome. Powdery mildews may be a problem in dry conditions",
+            "link_names": [
+                "A virus",
+                "Downy mildews",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Geranium phaeum 'Our Pat'",
+    "display_name": "Dusky cranesbill 'our pat'"
 }

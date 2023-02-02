@@ -89,16 +89,50 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grows easily in any moisture retentive soil in sun or partial shade",
-        "propagation": "Propagate by division in",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back to ground level at the end of the season",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free, although powdery mildews may be a problem if the soil is too dry"
-    }
+        "cultivation": {
+            "text": "Grows easily in any moisture retentive soil in sun or partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back to ground level at the end of the season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free, although powdery mildews may be a problem if the soil is too dry",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Inula glandulosa",
+    "display_name": "Georgian fleabane"
 }

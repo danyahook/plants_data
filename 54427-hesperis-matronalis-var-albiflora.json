@@ -89,16 +89,60 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in neutral to alkaline soil in sun or partial shade. Replace plants every two to three years, as flowering diminishes with age",
-        "propagation": "Propagate by seed sown in situ in spring. Root basal cuttings in spring.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to cabbage caterpillars, flea beetles, slugs and snails",
-        "diseases": "May be susceptible to virus diseases and powdery mildew"
-    }
+        "cultivation": {
+            "text": "Grow in neutral to alkaline soil in sun or partial shade. Replace plants every two to three years, as flowering diminishes with age",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ in spring. Root basal cuttings in spring.",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to cabbage caterpillars, flea beetles, slugs and snails",
+            "link_names": [
+                "Cabbage caterpillars",
+                "Flea beetles",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "cabbage_caterpillars": "https://www.rhs.org.uk/biodiversity/cabbage-caterpillars",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases and powdery mildew",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hesperis matronalis var. albiflora",
+    "display_name": "White-flowered dame's violet"
 }

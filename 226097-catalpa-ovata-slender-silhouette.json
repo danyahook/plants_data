@@ -90,17 +90,63 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any reasonably fertile, moist but well-drained soil in full sun. Shelter from strong winds. Provide young plants with protection from frost in very cold weather.",
-        "propagation": "Propagate by seed (tree/shrub) sown in a seedbed or containers in an open cold frame in autumn. Propagate by softwood cuttings in late spring or summer, or by root cuttings in winter.",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Sub-tropical",
-            "Low Maintenance"
-        ],
-        "pruning": "Pruning group 1, or pruning group 7 (for a pollard).",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in any reasonably fertile, moist but well-drained soil in full sun. Shelter from strong winds. Provide young plants with protection from frost in very cold weather.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed (tree/shrub) sown in a seedbed or containers in an open cold frame in autumn. Propagate by softwood cuttings in late spring or summer, or by root cuttings in winter.",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Sub-tropical",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1, or pruning group 7 (for a pollard).",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to verticillium wilt and rarely, honey fungus",
+            "link_names": [
+                "Verticillium wilt",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Catalpa ovata 'Slender Silhouette'",
+    "display_name": ""
 }

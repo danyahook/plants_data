@@ -82,15 +82,55 @@
         "plant_range": "Himalayas to China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in deep, humus-rich, moist, neutral to acid loam or peaty soil. Best in partial shade but tolerates shade; a sunny site must have a soil that remains moist at all times",
-        "propagation": "Propagate by division in autumn or early spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead after flowering",
-        "pests": "May be attacked by aphids, vine weevils and slugs",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Grow in deep, humus-rich, moist, neutral to acid loam or peaty soil. Best in partial shade but tolerates shade; a sunny site must have a soil that remains moist at all times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or early spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead after flowering",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids, vine weevils and slugs",
+            "link_names": [
+                "Aphids",
+                "Vine weevils",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Primula_sikkimensis.html",
@@ -142,5 +182,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Primula sikkimensis (Si)",
+    "display_name": "Sikkim cowslip"
 }

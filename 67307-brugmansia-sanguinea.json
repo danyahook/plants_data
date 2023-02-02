@@ -92,17 +92,69 @@
         "plant_range": "Andes"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in loam-based potting compost in full light. Water freely while in active growth and apply a balanced liquid fertiliser every 2 weeks. Keep barely moist in winter. Maintain a minimum winter temperature of about 5°C; the plants may lose their leaves but these will regrow in spring. Plants may be moved outdoors to a position in light, dappled shade in summer. See brugmansia cultivation for further information",
-        "propagation": "Propagate by sowing seed in spring, or by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "Pruning group 9, or pruning group 7 if needed",
-        "pests": "May be susceptible to slugs, snails, mealybugs, glasshouse whitefly, thrips and glasshouse red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Under glass, grow in loam-based potting compost in full light. Water freely while in active growth and apply a balanced liquid fertiliser every 2 weeks. Keep barely moist in winter. Maintain a minimum winter temperature of about 5°C; the plants may lose their leaves but these will regrow in spring. Plants may be moved outdoors to a position in light, dappled shade in summer. See brugmansia cultivation for further information",
+            "link_names": [
+                "Brugmansia cultivation"
+            ],
+            "related_links": {
+                "brugmansia_cultivation": "https://www.rhs.org.uk/plants/brugmansia/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in spring, or by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 9, or pruning group 7 if needed",
+            "link_names": [
+                "Pruning group 9",
+                "Pruning group 7"
+            ],
+            "related_links": {
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails, mealybugs, glasshouse whitefly, thrips and glasshouse red spider mite",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Mealybugs",
+                "Glasshouse whitefly",
+                "Thrips",
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Brugmansia_sanguinea.html",
@@ -160,5 +212,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Brugmansia sanguinea",
+    "display_name": "Red angel's trumpet"
 }

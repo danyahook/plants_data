@@ -91,19 +91,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fairly dry, well-drained soil that is poor to moderately fertile. Full sun is essential as is protection from winter wet",
-        "propagation": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Wildlife gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Although you can cut back flower stems after flowering the seedheads are a very attractive feature so are usually left over winter",
-        "pests": "Can get leaf and bud eelworms",
-        "diseases": "May be affected by powdery mildews and root rot"
+        "cultivation": {
+            "text": "Grow in fairly dry, well-drained soil that is poor to moderately fertile. Full sun is essential as is protection from winter wet",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in pots in a cold frame as soon as seed is ripe",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Wildlife gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Although you can cut back flower stems after flowering the seedheads are a very attractive feature so are usually left over winter",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get leaf and bud eelworms",
+            "link_names": [
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by powdery mildews and root rot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Eryngium_alpinum__Blue_Star_.html",
@@ -139,5 +175,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Eryngium alpinum 'Blue Star'",
+    "display_name": "Alpine eryngo 'blue star'"
 }

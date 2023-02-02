@@ -87,17 +87,57 @@
         "plant_range": "Madagascar"
     },
     "how_to_grow": {
-        "cultivation": "Under glass grow in loam-based compost, in a large container or greenhouse bed, in full light with shade from hot sun. During growth, water freely and apply a balanced liquid fertiliser monthly. Water sparingly in winter",
-        "propagation": "Propagate by seed sown at 18-21°C in spring or division of rooted suckers in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to glasshouse red spider mite",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Under glass grow in loam-based compost, in a large container or greenhouse bed, in full light with shade from hot sun. During growth, water freely and apply a balanced liquid fertiliser monthly. Water sparingly in winter",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 18-21°C in spring or division of rooted suckers in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Suckers"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite",
+            "link_names": [
+                "Glasshouse red spider mite"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Ravenala_madagascariensis.html",
@@ -152,5 +192,7 @@
             "Longhorn beetles",
             "Anthracnose"
         ]
-    }
+    },
+    "main_name_original": "Ravenala madagascariensis",
+    "display_name": "Traveller's palm"
 }

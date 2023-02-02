@@ -91,17 +91,63 @@
         "plant_range": "S Australia, Tasmania"
     },
     "how_to_grow": {
-        "cultivation": "Grow in frost-free conditions (minimum temperature 3-5°C (37-41°F). Plant in loam-based John Innes Number 2 compost in full light. During the growing season, apply a balanced liquid fertiliser on a monthly basis. In winter, water sparingly",
-        "propagation": "Propagate by seed that has been soaked in warm water. Sow at no less than 18°C (64°F). Alternatively, propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Mediterranean climate plants",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 8",
-        "pests": "Glasshouse red spider mite may be a problem under glass",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in frost-free conditions (minimum temperature 3-5°C (37-41°F). Plant in loam-based John Innes Number 2 compost in full light. During the growing season, apply a balanced liquid fertiliser on a monthly basis. In winter, water sparingly",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed that has been soaked in warm water. Sow at no less than 18°C (64°F). Alternatively, propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Mediterranean climate plants",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 8",
+            "link_names": [
+                "Pruning group 8"
+            ],
+            "related_links": {
+                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, fluted scale and mealybugs",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Fluted scale",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "fluted_scale": "https://www.rhs.org.uk/biodiversity/fluted-scale",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Acacia_retinodes.html",
@@ -149,5 +195,7 @@
             "Leaf beetles",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Acacia retinodes",
+    "display_name": "Swamp wattle"
 }

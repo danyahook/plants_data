@@ -91,16 +91,48 @@
         "plant_range": "India, Malaysia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a well-drained but moisture retentive soil, rich in organic matter and in indirect, bright light and in a warm conservatory, greenhouse or window indoors, in temperatures no lower than 18°C (65°F)",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Sub-tropical",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "remove old, yellowed stems as necessary",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in a well-drained but moisture retentive soil, rich in organic matter and in indirect, bright light and in a warm conservatory, greenhouse or window indoors, in temperatures no lower than 18°C (65°F)",
+            "link_names": [
+                "Organic matter"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Sub-tropical",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "remove old, yellowed stems as necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Curcuma_longa.html",
@@ -164,5 +196,7 @@
             "Aged yellow and dry",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Curcuma longa",
+    "display_name": "Common turmeric"
 }

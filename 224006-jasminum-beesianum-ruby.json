@@ -88,18 +88,66 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained soil in full sun or light shade. See Jasmine cultivation",
-        "propagation": "Propagate by semi-ripe cuttings in summer or layering in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Climber and wall shrubs",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Thin old, flowered and overcrowded stems after flowering",
-        "pests": "May be susceptible to aphids, glasshouse red spider mite and mealybugs",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained soil in full sun or light shade. See Jasmine cultivation",
+            "link_names": [
+                "Jasmine cultivation"
+            ],
+            "related_links": {
+                "jasmine_cultivation": "https://www.rhs.org.uk/plants/jasmine"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings in summer or layering in autumn",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Climber and wall shrubs",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Thin old, flowered and overcrowded stems after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, glasshouse red spider mite and mealybugs",
+            "link_names": [
+                "Aphids",
+                "Glasshouse red spider mite",
+                "Mealybugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Jasminum beesianum 'Ruby'",
+    "display_name": ""
 }

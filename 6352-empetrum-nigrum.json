@@ -108,15 +108,45 @@
         "plant_range": "Temp. N. Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Naturally grows in cool areas with high rainfall. Requires an open position in full sun or semi shade, on acid soil that is not waterlogged, but has a good moisture supply",
-        "propagation": "Propagate from semi-ripe cuttings in summer, or by layering",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Ground cover"
-        ],
-        "pruning": "No pruning needed",
-        "pests": "Generally pest free",
-        "diseases": "Generally disease free"
+        "cultivation": {
+            "text": "Naturally grows in cool areas with high rainfall. Requires an open position in full sun or semi shade, on acid soil that is not waterlogged, but has a good moisture supply",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from semi-ripe cuttings in summer, or by layering",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning needed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Empetrum_nigrum.html",
@@ -162,5 +192,7 @@
             "Fire ants",
             "Brown spot"
         ]
-    }
+    },
+    "main_name_original": "Empetrum nigrum",
+    "display_name": "Crowberry"
 }

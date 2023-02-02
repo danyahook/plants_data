@@ -86,18 +86,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in part shade in deep, humus-rich, moist, neutral to acid soil; sun-tolerant if soil is reliably moist at all times",
-        "propagation": "Propagate by division between autumn and spring, root basal cuttings or offsets in autumn, propagate by root cuttings in winter. Seed propagation has proved unsuccessful",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Rock garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "Tidy old or diseased leaves, or after flowering",
-        "pests": "May be attacked by slugs, aphids, leaf hoppers and vine weevil",
-        "diseases": "Susceptible to grey moulds (Botrytis), leaf spot (fungal) and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in part shade in deep, humus-rich, moist, neutral to acid soil; sun-tolerant if soil is reliably moist at all times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division between autumn and spring, root basal cuttings or offsets in autumn, propagate by root cuttings in winter. Seed propagation has proved unsuccessful",
+            "link_names": [
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Rock garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Tidy old or diseased leaves, or after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs, aphids, leaf hoppers and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Aphids",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Susceptible to grey moulds (Botrytis), leaf spot (fungal) and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Primula vialii 'Aliholl'PBR",
+    "display_name": "Vial's primrose 'alison holland'"
 }

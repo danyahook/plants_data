@@ -96,17 +96,65 @@
         "plant_range": "C & S Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well-drained, neutral to alkaline soil in sun or part shade",
-        "propagation": "Propagate by seed sown in situ or propagate by basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back spent flowered spikes",
-        "pests": "May be susceptible to cabbage caterpillars, flea beetles, slugs and snails",
-        "diseases": "May be susceptible to a virus or Powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well-drained, neutral to alkaline soil in sun or part shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ or propagate by basal softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back spent flowered spikes",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to cabbage caterpillars, flea beetles, slugs and snails",
+            "link_names": [
+                "Cabbage caterpillars",
+                "Flea beetles",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "cabbage_caterpillars": "https://www.rhs.org.uk/biodiversity/cabbage-caterpillars",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a virus or Powdery mildews",
+            "link_names": [
+                "A virus",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Hesperis tristis",
+    "display_name": "Melancholy gentlemen"
 }

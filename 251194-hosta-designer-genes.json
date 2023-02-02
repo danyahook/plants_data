@@ -91,18 +91,64 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a shady spot in fertile soil that does not dry out, with shelter from cold, drying winds. Mulch annually in spring. Hostas in the ground may need watering during dry spells. See hosta cultivation for more detailed advice",
-        "propagation": "Propagate by division in early spring or late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to slugs and snails; container grown plants may be susceptible to vine weevil",
-        "diseases": "May be susceptible to virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in a shady spot in fertile soil that does not dry out, with shelter from cold, drying winds. Mulch annually in spring. Hostas in the ground may need watering during dry spells. See hosta cultivation for more detailed advice",
+            "link_names": [
+                "Mulch",
+                "Hosta cultivation"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "hosta_cultivation": "https://www.rhs.org.uk/plants/hosta/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in early spring or late summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs and snails; container grown plants may be susceptible to vine weevil",
+            "link_names": [
+                "Slugs",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to virus diseases",
+            "link_names": [
+                "Virus diseases"
+            ],
+            "related_links": {
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Hosta 'Designer Genes'",
+    "display_name": "Plantain lily 'designer genes'"
 }

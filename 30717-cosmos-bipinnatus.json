@@ -93,19 +93,61 @@
         "plant_range": "Mexico, S US"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, moist, but well-drained soil in full sun. Deadhead flowers to prologue flowering season. Leave a few seedheads to ripen to selfseed if required",
-        "propagation": "Propagate by seed sown at 16°C in mid-spring under glass, or in situ in late spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "City and courtyard gardens",
-            "Patio and container plants",
-            "Prairie planting",
-            "Wildlife gardens"
-        ],
-        "pruning": "Deadhead to prolong the flowering season",
-        "pests": "Aphids and slugs may be troublesome",
-        "diseases": "May be susceptible to grey moulds"
+        "cultivation": {
+            "text": "Grow in moderately fertile, moist, but well-drained soil in full sun. Deadhead flowers to prologue flowering season. Leave a few seedheads to ripen to selfseed if required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown at 16°C in mid-spring under glass, or in situ in late spring",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "City and courtyard gardens",
+                "Patio and container plants",
+                "Prairie planting",
+                "Wildlife gardens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong the flowering season",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Aphids and slugs may be troublesome",
+            "link_names": [
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cosmos_bipinnatus.html",
@@ -180,5 +222,7 @@
             "Wilting after blooming",
             "Leaf beetles"
         ]
-    }
+    },
+    "main_name_original": "Cosmos bipinnatus",
+    "display_name": "Cosmea"
 }

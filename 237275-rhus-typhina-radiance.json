@@ -90,16 +90,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained soil in full sun to obtain best autumn colour. Suckering in habit and is a potential nuisance plant",
-        "propagation": "Propagate by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 7; sucker removal may be necessary, in winter",
-        "pests": "Generally pest free",
-        "diseases": "May be subject to coral spot and verticillium wilt"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained soil in full sun to obtain best autumn colour. Suckering in habit and has the potential to become a nuisance",
+            "link_names": [
+                "Potential to become a nuisance"
+            ],
+            "related_links": {
+                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 7; sucker removal may be necessary, in winter",
+            "link_names": [
+                "Pruning group 7",
+                "Sucker removal"
+            ],
+            "related_links": {
+                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage",
+                "sucker_removal": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus, coral spot and Verticillium wilt",
+            "link_names": [
+                "Honey fungus",
+                "Coral spot",
+                "Verticillium wilt"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
+            }
+        }
+    },
+    "main_name_original": "Rhus typhina 'Radiance'",
+    "display_name": "Stag's horn sumach [radiance]"
 }

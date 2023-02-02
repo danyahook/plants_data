@@ -84,16 +84,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Will grow well in fertile moist but well-drained soil in full sun or partial shade. Apply fertilizer in Spring to promote growth or a thin layer of compost top dressing to add nutrients to the soil. Pinch back growing tips to promote bushiness.",
-        "propagation": "Propagate by division in autumn or spring, by basal cuttings in spring, or by a root cutting in early autumn or winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Wall side borders"
-        ],
-        "pruning": "Deadhead to promote continous flowering and cut back to the base in late autumn or early winter",
-        "pests": "May be susceptible to stem and bulb eelworm",
-        "diseases": "May be susceptible to Powdery mildews, grey moulds and leafy gall"
-    }
+        "cultivation": {
+            "text": "Will grow well in fertile moist but well-drained soil in full sun or partial shade. Apply fertilizer in Spring to promote growth or a thin layer of compost top dressing to add nutrients to the soil. Pinch back growing tips to promote bushiness.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn or spring, by basal cuttings in spring, or by a root cutting in early autumn or winter",
+            "link_names": [
+                "Division",
+                "Root cutting"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cutting": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to promote continous flowering and cut back to the base in late autumn or early winter",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to stem and bulb eelworm",
+            "link_names": [
+                "Stem and bulb eelworm"
+            ],
+            "related_links": {
+                "stem_and_bulb_eelworm": "https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Powdery mildews, grey moulds and leafy gall",
+            "link_names": [
+                "Powdery mildews",
+                "Grey moulds",
+                "Leafy gall"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "leafy_gall": "https://www.rhs.org.uk/disease/leafy-gall"
+            }
+        }
+    },
+    "main_name_original": "Phlox paniculata Early White (Early Series)",
+    "display_name": "Perennial phlox [early white]"
 }

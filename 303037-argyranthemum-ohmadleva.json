@@ -99,18 +99,70 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained soil in full sun. Pinch out growing tips to keep compact. Plants will die back as temperatures drop; a deep dry mulch may protect the rootstock from light frosts, but it is advisable to take cuttings to insure against winter losses, or plant in containers that may be moved indoors over winter",
-        "propagation": "Propagate by softwood cuttings in spring, and semi-hardwood cuttings of non-flowering shoots in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Bedding",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 10, deadhead regularly",
-        "pests": "May be susceptible to chrysanthemum leaf miner",
-        "diseases": "May be susceptible to crown gall"
-    }
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained soil in full sun. Pinch out growing tips to keep compact. Plants will die back as temperatures drop; a deep dry mulch may protect the rootstock from light frosts, but it is advisable to take cuttings to insure against winter losses, or plant in containers that may be moved indoors over winter",
+            "link_names": [
+                "Mulch",
+                "Containers"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in spring, and semi-hardwood cuttings of non-flowering shoots in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Bedding",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 10, deadhead regularly",
+            "link_names": [
+                "Pruning group 10",
+                "Deadhead"
+            ],
+            "related_links": {
+                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to chrysanthemum leaf miner",
+            "link_names": [
+                "Chrysanthemum leaf miner"
+            ],
+            "related_links": {
+                "chrysanthemum_leaf_miner": "https://www.rhs.org.uk/biodiversity/chrysanthemum-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to crown gall",
+            "link_names": [
+                "Crown gall"
+            ],
+            "related_links": {
+                "crown_gall": "https://www.rhs.org.uk/disease/crown-gall"
+            }
+        }
+    },
+    "main_name_original": "Argyranthemum 'Ohmadleva'",
+    "display_name": ""
 }

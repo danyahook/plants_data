@@ -85,17 +85,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, well-drained soil in full sun. Plant corms 10-16cm deep in spring. If the soil is not perfectly-drained, plant the corms on a bed of sand. Provide a winter mulch in cold areas",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring, or by separating cormlets when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove spent flower stems and allow foliage to die down naturally",
-        "pests": "May be susceptible to gladiolus thrip, aphids and slugs",
-        "diseases": "May be susceptible to corm rot and grey moulds (botrytis)"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, well-drained soil in full sun. Plant corms 10-16cm deep in spring. If the soil is not perfectly-drained, plant the corms on a bed of sand. Provide a winter mulch in cold areas",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring, or by separating cormlets when dormant",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flower stems and allow foliage to die down naturally",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to gladiolus thrip, aphids and slugs",
+            "link_names": [
+                "Gladiolus thrip",
+                "Aphids",
+                "Slugs"
+            ],
+            "related_links": {
+                "gladiolus_thrip": "https://www.rhs.org.uk/biodiversity/gladiolus-thrips",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to corm rot and grey moulds (botrytis)",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Gladiolus ecklonii 'Ruby'",
+    "display_name": "Sword lily 'ruby'"
 }

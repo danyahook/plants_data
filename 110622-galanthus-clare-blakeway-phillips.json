@@ -83,17 +83,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows in humus-rich, moist but well-drained soil that does not dry out in summer. See snowdrop cultivation for further information.",
-        "propagation": "Propagate by seed, sown in containers in an open frame when ripe, or division when foliage dies back. Seed may not come true",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "Wildflower meadow",
-            "Flower borders and beds",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Can get narcissus bulb fly and slugs",
-        "diseases": "May be infected by grey moulds"
-    }
+        "cultivation": {
+            "text": "Grows in humus-rich, moist but well-drained soil that does not dry out in summer. See snowdrop cultivation for further information.",
+            "link_names": [
+                "Snowdrop cultivation"
+            ],
+            "related_links": {
+                "snowdrop_cultivation": "https://www.rhs.org.uk/plants/snowdrops/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in containers in an open frame when ripe, or division when foliage dies back. Seed may not come true",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "Wildflower meadow",
+                "Flower borders and beds",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Can get narcissus bulb fly and slugs",
+            "link_names": [
+                "Narcissus bulb fly",
+                "Slugs"
+            ],
+            "related_links": {
+                "narcissus_bulb_fly": "https://www.rhs.org.uk/biodiversity/narcissus-bulb-fly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "May be infected by grey moulds",
+            "link_names": [
+                "Grey moulds"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Galanthus 'Clare Blakeway-Phillips'",
+    "display_name": "Snowdrop 'clare blakeway-phillips'"
 }

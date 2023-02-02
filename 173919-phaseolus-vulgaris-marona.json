@@ -84,13 +84,57 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Start seeds under glass and plant out after all risk of frosts has passed, in moist but well-drained, fertile soil enriched with organic matter. May require support in windy sites. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Climber and wall shrubs"
-        ],
-        "pruning": "No pruning required; pick pods regularly to encourage further production",
-        "pests": "May be susceptible to blackfly (black aphid), slugs and snails; birds may damage seedlings and young plants",
-        "diseases": "May be susceptible to foot and root rot"
-    }
+        "cultivation": {
+            "text": "Start seeds under glass and plant out after all risk of frosts has passed, in moist but well-drained, fertile soil enriched with organic matter. May require support in windy sites. See the RHS A-Z guide to vegetable cultivation for more detailed advice",
+            "link_names": [
+                "Organic matter",
+                "Vegetable cultivation"
+            ],
+            "related_links": {
+                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden",
+                "vegetable_cultivation": "https://www.rhs.org.uk/vegetables"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Climber and wall shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required; pick pods regularly to encourage further production",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to blackfly (black aphid), slugs and snails; birds may damage seedlings and young plants",
+            "link_names": [
+                "Blackfly (black aphid)",
+                "Slugs",
+                "Birds"
+            ],
+            "related_links": {
+                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to foot and root rot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Phaseolus vulgaris 'Marona'",
+    "display_name": "Bean (dwarf french) 'marona'"
 }

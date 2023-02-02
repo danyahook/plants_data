@@ -94,18 +94,62 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Best grown in fertile, moist but well-drained soil that is neutral, in full sun or partial shade. Can tolerate clay and drought. Apply a mulch in spring",
-        "propagation": "Propagate by division in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Ground cover",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "Deadhead faded flower spikes. Remove dead or untidy foliage. Can lift out of ground easily so annual mulching recommended",
-        "pests": "May be susceptible to vine weevil and leaf and bud eelworms",
-        "diseases": "May be susceptible to rust"
-    }
+        "cultivation": {
+            "text": "Best grown in fertile, moist but well-drained soil that is neutral, in full sun or partial shade. Can tolerate clay and drought. Apply a mulch in spring",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Ground cover",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead faded flower spikes. Remove dead or untidy foliage. Can lift out of ground easily so annual mulching recommended",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevil and leaf and bud eelworms",
+            "link_names": [
+                "Vine weevil",
+                "Leaf and bud eelworms"
+            ],
+            "related_links": {
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rust",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Heuchera 'Wild Rose' (Primo Series)",
+    "display_name": "Alum root 'wild rose'"
 }

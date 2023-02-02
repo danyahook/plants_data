@@ -93,20 +93,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a fertile, moist but well-drained, neutral soil in sun or partial shade. Mulch annually.",
-        "propagation": "Propagate by division in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Flower borders and beds",
-            "Garden edging",
-            "Ground cover",
-            "Underplanting of roses and shrubs",
-            "Banks and slopes"
-        ],
-        "pruning": "Remove faded flower spikes and faded leaves as required.",
-        "pests": "May be susceptible to vine weevils and leaf and bud eelworm",
-        "diseases": "May be affected by heuchera rust"
-    }
+        "cultivation": {
+            "text": "Grow in a fertile, moist but well-drained, neutral soil in sun or partial shade. Mulch annually.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in autumn",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Flower borders and beds",
+                "Garden edging",
+                "Ground cover",
+                "Underplanting of roses and shrubs",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded flower spikes and faded leaves as required.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to vine weevils and leaf and bud eelworm",
+            "link_names": [
+                "Vine weevils",
+                "Leaf and bud eelworm"
+            ],
+            "related_links": {
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil",
+                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
+            }
+        },
+        "diseases": {
+            "text": "May be affected by heuchera rust",
+            "link_names": [
+                "Heuchera rust"
+            ],
+            "related_links": {
+                "heuchera_rust": "https://www.rhs.org.uk/disease/heuchera-rust"
+            }
+        }
+    },
+    "main_name_original": "Heuchera Key Lime Pie ('Tnheu042') (Dolce Series)",
+    "display_name": "Alum root [key lime pie]"
 }

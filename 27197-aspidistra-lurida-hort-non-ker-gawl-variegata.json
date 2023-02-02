@@ -100,16 +100,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow under glass or in a frost-free enviroment. Tolerant of some neglect",
-        "propagation": "Propagate by division",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be attacked by mealybugs, glasshouse red spider mites, scale insects, thrips and vine weevils",
-        "diseases": "Generally disease free"
-    }
+        "cultivation": {
+            "text": "Grow under glass or in a frost-free enviroment. Tolerant of some neglect",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by mealybugs, glasshouse red spider mites, scale insects, thrips and vine weevils",
+            "link_names": [
+                "Mealybugs",
+                "Scale insects",
+                "Thrips",
+                "Vine weevils"
+            ],
+            "related_links": {
+                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Aspidistra lurida hort. non Ker-Gawl. 'Variegata'",
+    "display_name": "Variegated bar-room plant"
 }

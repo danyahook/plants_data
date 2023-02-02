@@ -92,17 +92,63 @@
         "name_status": "Unresolved"
     },
     "how_to_grow": {
-        "cultivation": "Grow in light, ideally slightly acidic, well-drained soil in full sun. Ideal for coastal situations in southern or mild counties, but may need protection in colder areas with heavy frosts. May be short-lived for a shrub",
-        "propagation": "Propagate by basal or softwood cuttings in mid-spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Minimal pruning required; can be trimmed to shape after flowering but avoid cutting into old wood",
-        "pests": "May be susceptible to lupin aphid, slugs and snails",
-        "diseases": "May be susceptible to powdery mildews, lupin anthracnose and virus diseases"
-    }
+        "cultivation": {
+            "text": "Grow in light, ideally slightly acidic, well-drained soil in full sun. Ideal for coastal situations in southern or mild counties, but may need protection in colder areas with heavy frosts. May be short-lived for a shrub",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by basal or softwood cuttings in mid-spring",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Minimal pruning required; can be trimmed to shape after flowering but avoid cutting into old wood",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to lupin aphid, slugs and snails",
+            "link_names": [
+                "Lupin aphid",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "lupin_aphid": "https://www.rhs.org.uk/biodiversity/lupin-aphid",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to powdery mildews, lupin anthracnose and virus diseases",
+            "link_names": [
+                "Powdery mildews",
+                "Lupin anthracnose",
+                "Virus diseases"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "lupin_anthracnose": "https://www.rhs.org.uk/disease/lupin-anthracnose",
+                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Lupinus arboreus 'Chelsea Blue'",
+    "display_name": ""
 }

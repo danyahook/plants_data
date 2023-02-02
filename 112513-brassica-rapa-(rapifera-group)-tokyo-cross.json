@@ -77,13 +77,61 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist but well drained soil in full sun. Sow early from March to May for an early Summer harvest or sow July to August for a late Summer and Autumn harvest. Suitable for container growing. See Vegetable Cultivation",
-        "propagation": "Propagate by seed",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to birds, cabbage caterpillar, cabbage root fly, cabbage whitefly, flea beetles, slugs and snails",
-        "diseases": "May be susceptible to black rot, clubroot, downy mildew, grey mould, leaf spot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist but well drained soil in full sun. Sow early from March to May for an early Summer harvest or sow July to August for a late Summer and Autumn harvest. Suitable for container growing. See Vegetable Cultivation",
+            "link_names": [
+                "Container"
+            ],
+            "related_links": {
+                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to birds, cabbage caterpillar, cabbage root fly, cabbage whitefly, flea beetles, slugs and snails",
+            "link_names": [
+                "Birds",
+                "Cabbage root fly",
+                "Cabbage whitefly",
+                "Flea beetles",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
+                "cabbage_root_fly": "https://www.rhs.org.uk/biodiversity/cabbage-root-fly",
+                "cabbage_whitefly": "https://www.rhs.org.uk/biodiversity/cabbage-whitefly",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to black rot, clubroot, downy mildew, grey mould, leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Brassica rapa (Rapifera Group) 'Tokyo Cross'",
+    "display_name": "Turnip 'tokyo cross'"
 }

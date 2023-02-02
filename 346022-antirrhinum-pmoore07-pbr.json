@@ -84,17 +84,65 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Hardy to -8°C if grown in a sunny position in well-drained soil. Protect with a dry mulch during very wet winters",
-        "propagation": "Propagate by softwood cuttings in summer. Overwinter young plants under glass",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to prolong the flowering display",
-        "pests": "May be attacked by aphids",
-        "diseases": "May suffer from powdery mildews. Has good resistance to antirrhinum rust but may be prone to infection in dry summers"
-    }
+        "cultivation": {
+            "text": "Hardy to -8°C if grown in a sunny position in well-drained soil. Protect with a dry mulch during very wet winters",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in summer. Overwinter young plants under glass",
+            "link_names": [
+                "Softwood"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to prolong the flowering display",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May suffer from powdery mildews. Has good resistance to antirrhinum rust but may be prone to infection in dry summers",
+            "link_names": [
+                "Powdery mildews",
+                "Antirrhinum rust"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
+                "antirrhinum_rust": "https://www.rhs.org.uk/disease/antirrhinum-rust"
+            }
+        }
+    },
+    "main_name_original": "Antirrhinum 'Pmoore07'PBR",
+    "display_name": "Snapdragon [pretty in pink]"
 }

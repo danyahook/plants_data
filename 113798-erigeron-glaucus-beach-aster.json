@@ -94,17 +94,53 @@
         "plant_range": "W USA"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil that does not dry out in summer, in full sun. Ideal for seaside locations",
-        "propagation": "Propagate by division or from basal softwood cuttings in the mid to late summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Rock garden",
-            "Ground cover",
-            "Banks and slopes",
-            "Garden edging"
-        ],
-        "pruning": "Deadhead to encourage further flowering. Cut back to ground level in autumn to maintain neat growth",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil that does not dry out in summer, in full sun. Ideal for seaside locations",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division or from basal softwood cuttings in the mid to late summer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Rock garden",
+                "Ground cover",
+                "Banks and slopes",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to encourage further flowering. Cut back to ground level in autumn to maintain neat growth",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Erigeron glaucus beach aster",
+    "display_name": "Beach aster"
 }

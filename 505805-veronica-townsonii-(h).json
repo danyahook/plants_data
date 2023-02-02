@@ -89,18 +89,68 @@
         "plant_range": "New Zealand (South Island)"
     },
     "how_to_grow": {
-        "cultivation": "Grow in poor to moderately fertile, well-drained, neutral to slightly alkaline soil in a sunny position with shelter from cold, drying wind. See Hebe cultivation",
-        "propagation": "Propagate by seed sown in containers in a cold frame as soon as ripe, or by semi-ripe cuttings with bottom heat in late summer or early autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Coastal",
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead to improve appearance and encourage more flowers; pruning group 9 if needed",
-        "pests": "May be susceptible to aphids",
-        "diseases": "May be susceptible to downy mildews, leaf spot and Phytophthora. High Risk Host for Xylella fastidiosa"
+        "cultivation": {
+            "text": "Grow in poor to moderately fertile, well-drained, neutral to slightly alkaline soil in a sunny position with shelter from cold, drying wind. See Hebe cultivation",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe, or by semi-ripe cuttings with bottom heat in late summer or early autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Coastal",
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead to improve appearance and encourage more flowers; pruning group 9 if needed",
+            "link_names": [
+                "Deadhead",
+                "Pruning group 9"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants",
+                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
+            "link_names": [
+                "High risk host for xylella fastidiosa",
+                "Downy mildews",
+                "Phytophthora",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
+                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
+                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Veronica_townsonii.html",
@@ -129,5 +179,7 @@
         "class_data": {},
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Veronica townsonii (H)",
+    "display_name": ""
 }

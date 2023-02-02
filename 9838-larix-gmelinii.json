@@ -90,15 +90,55 @@
         "plant_range": "NE Asia"
     },
     "how_to_grow": {
-        "cultivation": "An exceptionally hardy tree that does best in areas with very cold winters and cool summers. In milder areas it is easily damaged by late spring frosts",
-        "propagation": "Propagate by seed in containers in early spring, grafting in winter, or root semi-ripe cuttings in summer under mist; cuttings are difficult to root",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Low Maintenance"
-        ],
-        "pruning": "No pruning necessary",
-        "pests": "May be attacked by adelgids",
-        "diseases": "Honey fungus may be a problem and canker may cause dieback"
+        "cultivation": {
+            "text": "An exceptionally hardy tree that does best in areas with very cold winters and cool summers. In milder areas it is easily damaged by late spring frosts",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in early spring, grafting in winter, or root semi-ripe cuttings in summer under mist; cuttings are difficult to root",
+            "link_names": [
+                "Propagate by seed",
+                "Grafting",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Low Maintenance"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by adelgids",
+            "link_names": [
+                "Adelgids"
+            ],
+            "related_links": {
+                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
+            }
+        },
+        "diseases": {
+            "text": "Honey fungus may be a problem and canker may cause dieback",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Larix_gmelinii.html",
@@ -138,5 +178,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Larix gmelinii",
+    "display_name": "Dahurian larch"
 }

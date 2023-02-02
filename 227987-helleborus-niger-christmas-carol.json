@@ -86,17 +86,63 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Thrives in neutral to alkaline soils that are moist, fertile and humus-rich. Partial shade is ideal but can tolerate full sun. Provide shelter from strong, cold winds. Mulch annually in autumn.",
-        "propagation": "Propagate by division in spring or summer. Usually comes true from seed.",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove faded or damaged foliage as the flowers appear",
-        "pests": "May be susceptible to Hellebore aphid, hellebore leaf miner and snail, particularly on developing flower buds.",
-        "diseases": "May be subject to hellebore leaf spot and hellebore black death"
-    }
+        "cultivation": {
+            "text": "Thrives in neutral to alkaline soils that are moist, fertile and humus-rich. Partial shade is ideal but can tolerate full sun. Provide shelter from strong, cold winds. Mulch annually in autumn.",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division in spring or summer. Usually comes true from seed.",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove faded or damaged foliage as the flowers appear",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to Hellebore aphid, hellebore leaf miner and snail, particularly on developing flower buds.",
+            "link_names": [
+                "Hellebore aphid",
+                "Hellebore leaf miner"
+            ],
+            "related_links": {
+                "hellebore_aphid": "https://www.rhs.org.uk/biodiversity/hellebore-aphid",
+                "hellebore_leaf_miner": "https://www.rhs.org.uk/biodiversity/hellebore-leaf-miner"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to hellebore leaf spot and hellebore black death",
+            "link_names": [
+                "Hellebore leaf spot",
+                "Hellebore black death"
+            ],
+            "related_links": {
+                "hellebore_leaf_spot": "https://www.rhs.org.uk/disease/hellebore-leaf-spot",
+                "hellebore_black_death": "https://www.rhs.org.uk/disease/hellebore-black-death"
+            }
+        }
+    },
+    "main_name_original": "Helleborus niger 'Christmas Carol'",
+    "display_name": ""
 }

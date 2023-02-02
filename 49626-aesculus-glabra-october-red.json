@@ -87,14 +87,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in deep, fertile, moist but well-drained soil in sun or partial shade; suitable for medium-sized gardens. For further information, see our advice on tree cultivation",
-        "propagation": "Propagate by semi-ripe cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "Banks and slopes"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "May be susceptible to Horse chestnut scale and leaf-mining moth",
-        "diseases": "May be susceptible to coral spot, canker and leaf spot"
-    }
+        "cultivation": {
+            "text": "Grows best in deep, fertile, moist but well-drained soil in sun or partial shade; suitable for medium-sized gardens. For further information, see our advice on tree cultivation",
+            "link_names": [
+                "Tree cultivation"
+            ],
+            "related_links": {
+                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by semi-ripe cuttings",
+            "link_names": [
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "Banks and slopes"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to horse chestnut scale and leaf-mining moth",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to coral spot, canker, leaf spot and honey fungus",
+            "link_names": [
+                "Coral spot",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Aesculus glabra 'October Red'",
+    "display_name": "Ohio buckeye 'october red'"
 }

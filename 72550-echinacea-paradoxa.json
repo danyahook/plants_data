@@ -87,19 +87,53 @@
         "plant_range": "S North America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in humus-rich well-drained soil in full sun; poor drainage in winter will lead to losses. A dry mulch in winter is advisable in very cold areas. Leave plants to develop into substantial clumps as they resent disturbance",
-        "propagation": "Propagate by seed in spring, but may need a cold spell before it will germinate. Root cuttings can be taken in late autumn or early winter. Propagate by division in spring but this can be unreliable as they resent disturbance",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Wildlife gardens",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back flowered stems to encourage a long flowering display",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in humus-rich well-drained soil in full sun; poor drainage in winter will lead to losses. A dry mulch in winter is advisable in very cold areas. Leave plants to develop into substantial clumps as they resent disturbance",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed in spring, but may need a cold spell before it will germinate. Root cuttings can be taken in late autumn or early winter. Propagate by division in spring but this can be unreliable as they resent disturbance",
+            "link_names": [
+                "Propagate by seed",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Wildlife gardens",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back flowered stems to encourage a long flowering display",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Echinacea_paradoxa.html",
@@ -144,5 +178,7 @@
             "Leaf beetles",
             "Wilting after blooming"
         ]
-    }
+    },
+    "main_name_original": "Echinacea paradoxa",
+    "display_name": "Bush's purple coneflower"
 }

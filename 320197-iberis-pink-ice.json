@@ -86,22 +86,60 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained neutral to alkaline soil in full sun",
-        "propagation": "Propagate by softwood cuttings in late spring or propagate by semi-ripe cuttings in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Prairie planting",
-            "Rock garden",
-            "Banks and slopes",
-            "Flower borders and beds",
-            "Garden edging",
-            "Underplanting of roses and shrubs",
-            "Wall side borders"
-        ],
-        "pruning": "Trim after flowering to maintain compact plants",
-        "pests": "May be susceptible to slugs, snails and occasionally caterpillars",
-        "diseases": "May be susceptible to clubroot"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained neutral to alkaline soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by softwood cuttings in late spring or propagate by semi-ripe cuttings in summer",
+            "link_names": [
+                "Softwood",
+                "Semi-ripe"
+            ],
+            "related_links": {
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Prairie planting",
+                "Rock garden",
+                "Banks and slopes",
+                "Flower borders and beds",
+                "Garden edging",
+                "Underplanting of roses and shrubs",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Trim after flowering to maintain compact plants",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to slugs, snails and occasionally caterpillars",
+            "link_names": [
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to clubroot",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Iberis 'Pink Ice'",
+    "display_name": ""
 }

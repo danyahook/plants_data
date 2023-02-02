@@ -93,19 +93,69 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile well-drained soil in a sheltered position in full sun; ideal for patio containers grown in a loam-based potting compost (JI No.2) and may be overwintered under glass in colder areas. See Gerbera cultivation for further information",
-        "propagation": "Propagate for home use by division in early spring or by basal cuttings, or heel cuttings from side shoots, in summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Patio and container plants",
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Wall side borders",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Deadhead spent flowers",
-        "pests": "May be susceptible to aphids, leaf miners and glasshouse whitefly",
-        "diseases": "In low winter temperatures, plants may be susceptible to powdery mildews and grey moulds; may be affected by a leaf spot or root rot"
-    }
+        "cultivation": {
+            "text": "Grow in fertile well-drained soil in a sheltered position in full sun; ideal for patio containers grown in a loam-based potting compost (JI No.2) and may be overwintered under glass in colder areas. See Gerbera cultivation for further information",
+            "link_names": [
+                "Containers",
+                "Gerbera cultivation"
+            ],
+            "related_links": {
+                "containers": "https://www.rhs.org.uk/container-gardening/maintenance",
+                "gerbera_cultivation": "https://www.rhs.org.uk/plants/gerbera/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate for home use by division in early spring or by basal cuttings, or heel cuttings from side shoots, in summer",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Patio and container plants",
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Wall side borders",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Deadhead spent flowers",
+            "link_names": [
+                "Deadhead"
+            ],
+            "related_links": {
+                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, leaf miners and glasshouse whitefly",
+            "link_names": [
+                "Aphids",
+                "Glasshouse whitefly"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
+            }
+        },
+        "diseases": {
+            "text": "In low winter temperatures, plants may be susceptible to powdery mildews and grey moulds; may be affected by a leaf spot or root rot",
+            "link_names": [
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Gerbera Everlast White ('Amgerbwhi') (Everlast Series)",
+    "display_name": "Gerbera [everlast white]"
 }

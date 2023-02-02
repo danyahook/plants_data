@@ -80,15 +80,61 @@
         "plant_range": "W China"
     },
     "how_to_grow": {
-        "cultivation": "Grow in partial shade in deep, humus-rich, moist neutral to acid soil. Will tolerate sun if soil remains moist at all times",
-        "propagation": "Propagate by seed in containers in a frame as soon as ripe or in late winter or in early spring; propagate by division in early spring; root offsets in autumn or take root cuttings in winter when dormant",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning necessary, tidy old or diseased leaves",
-        "pests": "May be affected by aphids, caterpillars, slugs and vine weevil",
-        "diseases": "Brown core of primulas, grey moulds, leaf spot (fungal) and a virus may be a problem"
+        "cultivation": {
+            "text": "Grow in partial shade in deep, humus-rich, moist neutral to acid soil. Will tolerate sun if soil remains moist at all times",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in a frame as soon as ripe or in late winter or in early spring; propagate by division in early spring; root offsets in autumn or take root cuttings in winter when dormant",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning necessary, tidy old or diseased leaves",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, caterpillars, slugs and vine weevil",
+            "link_names": [
+                "Aphids",
+                "Slugs",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to brown core, grey moulds, leaf spot (fungal) and a virus",
+            "link_names": [
+                "Grey moulds",
+                "A virus"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Primula_secundiflora.html",
@@ -127,5 +173,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Primula secundiflora (Pf)",
+    "display_name": "Secund-flowered primrose"
 }

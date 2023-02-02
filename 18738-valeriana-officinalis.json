@@ -102,18 +102,50 @@
         "plant_range": "Eurasia"
     },
     "how_to_grow": {
-        "cultivation": "Grow in any moist soil in full sun or dappled shade",
-        "propagation": "Propagate by seed in containers in the open, or take basal cuttings (see softwood cuttings) in spring. Can also be propagated by division in spring or autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildflower meadow",
-            "City and courtyard gardens",
-            "Coastal",
-            "Flower borders and beds"
-        ],
-        "pruning": "None pruning required, other than cutting back to ground level in autumn",
-        "pests": "Generally trouble free",
-        "diseases": "Generally trouble free"
+        "cultivation": {
+            "text": "Grow in any moist soil in full sun or dappled shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed in containers in the open, or take basal cuttings (see softwood cuttings) in spring. Can also be propagated by division in spring or autumn",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood",
+                "Division"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildflower meadow",
+                "City and courtyard gardens",
+                "Coastal",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None pruning required, other than cutting back to ground level in autumn",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Valeriana_officinalis.html",
@@ -293,5 +325,7 @@
             "Fruit Spot",
             "Thrips"
         ]
-    }
+    },
+    "main_name_original": "Valeriana officinalis",
+    "display_name": "Common valerian"
 }

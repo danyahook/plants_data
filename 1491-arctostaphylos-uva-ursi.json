@@ -120,17 +120,51 @@
         "plant_range": "Temp. N. Hemisphere"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, moderately fertile, lime-free soil in full-sun or partial shade.",
-        "propagation": "Propagate from seed soaked in boilding water for 20 seconds. Sow seed in autumn in containers and keep in a cold frame. Root semi-ripe cuttings in summer or by layering shoots in autumn.",
-        "suggested_planting_locations_and_garden_types": [
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Ground cover"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Generally pest-free",
-        "diseases": "Maybe susceptible to leaf spot"
+        "cultivation": {
+            "text": "Grow in moist but well-drained, moderately fertile, lime-free soil in full-sun or partial shade.",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate from seed soaked in boilding water for 20 seconds. Sow seed in autumn in containers and keep in a cold frame. Root semi-ripe cuttings in summer or by layering shoots in autumn.",
+            "link_names": [
+                "Semi-ripe",
+                "Layering"
+            ],
+            "related_links": {
+                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
+                "layering": "https://www.rhs.org.uk/propagation/layering"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Ground cover"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "Maybe susceptible to leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Arctostaphylos_uva-ursi.html",
@@ -197,5 +231,7 @@
             "Leaf beetles",
             "Aged yellow and dry"
         ]
-    }
+    },
+    "main_name_original": "Arctostaphylos uva-ursi",
+    "display_name": "Bearberry"
 }

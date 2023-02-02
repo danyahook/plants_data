@@ -89,17 +89,55 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moist but well-drained, neutral to acid, humus-rich soil in partial shade",
-        "propagation": "Propagate by division of offsets in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Rock garden",
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants"
-        ],
-        "pruning": "No pruning required",
-        "pests": "Slugs, snails and aphids may be seen",
-        "diseases": "Root rot may occur"
-    }
+        "cultivation": {
+            "text": "Grow in moist but well-drained, neutral to acid, humus-rich soil in partial shade",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division of offsets in spring",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Rock garden",
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Slugs, snails and aphids may be seen",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Aphids"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Root rot may occur",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Gentiana 'Lucerna'",
+    "display_name": "Gentian 'lucerna'"
 }

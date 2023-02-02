@@ -81,18 +81,56 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 10cm deep in fertile, humus-rich, well-drained soil that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
-        "propagation": "Propagate by division after flowering",
-        "suggested_planting_locations_and_garden_types": [
-            "Rock garden",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Underplanting of roses and shrubs",
-            "Flower borders and beds"
-        ],
-        "pruning": "None required",
-        "pests": "May be attacked by slugs",
-        "diseases": "Generally trouble free"
-    }
+        "cultivation": {
+            "text": "Plant 10cm deep in fertile, humus-rich, well-drained soil that does not dry out. Bulbs in storage must be kept slightly damp. See bulb cultivation",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by division after flowering",
+            "link_names": [
+                "Division"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Rock garden",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Underplanting of roses and shrubs",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "None required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be attacked by slugs",
+            "link_names": [
+                "Slugs"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
+            }
+        },
+        "diseases": {
+            "text": "Generally trouble free",
+            "link_names": [],
+            "related_links": {}
+        }
+    },
+    "main_name_original": "Erythronium 'Kondo'",
+    "display_name": "Fawn lily 'kondo'"
 }

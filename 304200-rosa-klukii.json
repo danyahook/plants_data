@@ -100,16 +100,72 @@
         "plant_range": "Europe"
     },
     "how_to_grow": {
-        "cultivation": "Grows best in full sun with fertile, humus-rich, moist but well-drained soil. For best flowering apply a balanced fertiliser and mulch in late winter or early spring. Tolerant of poor soil and shade, suitable for hedging",
-        "propagation": "Propagate by hardwood cuttings in autumn or by suckers",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Hedging and screens"
-        ],
-        "pruning": "Pruning group 22 (roses)",
-        "pests": "May be attacked by aphids, leafhoppers, glasshouse red spider mite, scale insects, caterpillars, rose leaf-rolling sawfly, leaf cutting bees, rabbits and deer",
-        "diseases": "May be affected by rose rust and powdery mildews"
-    }
+        "cultivation": {
+            "text": "Grows best in full sun with fertile, humus-rich, moist but well-drained soil. For best flowering apply a balanced fertiliser and mulch in late winter or early spring. Tolerant of poor soil and shade, suitable for hedging",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn or by suckers",
+            "link_names": [
+                "Hardwood",
+                "Suckers"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Hedging and screens"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 22 (roses)",
+            "link_names": [
+                "Pruning group 22"
+            ],
+            "related_links": {
+                "pruning_group_22": "https://www.rhs.org.uk/plants/roses/shrub/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leafhoppers, glasshouse red spider mite, scale insects, caterpillars, rose leaf-rolling sawfly, leaf cutting bees, rabbits and deer",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Rabbits",
+                "Deer"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits",
+                "deer": "https://www.rhs.org.uk/biodiversity/deer"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rose rust and powdery mildews",
+            "link_names": [
+                "Rose rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Rosa klukii",
+    "display_name": "Sweet briar"
 }

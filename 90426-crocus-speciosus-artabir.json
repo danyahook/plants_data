@@ -79,21 +79,65 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Plant 8-10cm deep in late summer in gritty, poor to moderately fertile, well-drained soil, in full sun; for more advice, see bulb cultivation",
-        "propagation": "Propagate by removing cormlets during dormancy; for more advice, see bulb propagation",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Rock garden",
-            "Mediterranean climate plants",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be affected by mice, voles and squirrels feeding on corms",
-        "diseases": "Generally disease-free but corms in storage may be affected by Pencillium blue mould, gladiolus core rot, gladiolus dry rot, grey moulds, narcissus basal rot, tulip grey bulb rot, and violet root rot"
-    }
+        "cultivation": {
+            "text": "Plant 8-10cm deep in late summer in gritty, poor to moderately fertile, well-drained soil, in full sun; for more advice, see bulb cultivation",
+            "link_names": [
+                "Bulb cultivation"
+            ],
+            "related_links": {
+                "bulb_cultivation": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by removing cormlets during dormancy; for more advice, see bulb propagation",
+            "link_names": [
+                "Bulb propagation"
+            ],
+            "related_links": {
+                "bulb_propagation": "https://www.rhs.org.uk/plants/types/bulbs/propagation"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Rock garden",
+                "Mediterranean climate plants",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to mice, voles and squirrels feeding on corms",
+            "link_names": [
+                "Squirrels"
+            ],
+            "related_links": {
+                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Pencillium blue mould, gladiolus core rot, gladiolus dry rot, grey moulds, narcissus basal rot, tulip grey bulb rot and violet root rot of corms in storage but generally disease-free",
+            "link_names": [
+                "Grey moulds",
+                "Narcissus basal rot"
+            ],
+            "related_links": {
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
+                "narcissus_basal_rot": "https://www.rhs.org.uk/disease/narcissus-basal-rot"
+            }
+        }
+    },
+    "main_name_original": "Crocus speciosus 'Artabir'",
+    "display_name": ""
 }

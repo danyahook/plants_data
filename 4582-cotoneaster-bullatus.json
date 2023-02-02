@@ -94,16 +94,68 @@
         "plant_range": "China (Sichuan)"
     },
     "how_to_grow": {
-        "cultivation": "This plant is listed on Schedule 9 of the UK Wildlife & Countryside Act as an invasive non-native species. While this does not prevent it from being sold in the UK, or from being grown in gardens, the RHS encourages those that do grow it to take great care with managing it and with disposing of unwanted material. The RHS also encourages gardeners to find alternative plants to grow to those listed on Schedule 9. For suggested alternative plants see the Plantlife/RHS guide: Gardening without harmful invasive plants",
-        "propagation": "Propagate by seed sown as soon as ripe in autumn in containers in a cold frame or by softwood cuttings in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Cut flowers"
-        ],
-        "pruning": "Pruning group 1 or pruning group 13 for wall-trained specimens",
-        "pests": "May be attacked by scale insects and woolly aphids",
-        "diseases": "May be subject to fireblight"
+        "cultivation": {
+            "text": "This plant is listed on Schedule 9 of the UK Wildlife & Countryside Act as an invasive non-native species. While this does not prevent it from being sold in the UK, or from being grown in gardens, the RHS encourages those that do grow it to take great care with managing it and with disposing of unwanted material. The RHS also encourages gardeners to find alternative plants to grow to those listed on Schedule 9. For suggested alternative plants see the Plantlife/RHS guide: Gardening without harmful invasive plants",
+            "link_names": [
+                "Invasive non-native species"
+            ],
+            "related_links": {
+                "invasive_non-native_species": "https://www.rhs.org.uk/prevention-protection/invasive-non-native-plants"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by seed sown as soon as ripe in autumn in containers in a cold frame or by softwood cuttings in early summer",
+            "link_names": [
+                "Propagate by seed",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Cut flowers"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 13 for wall-trained specimens",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 13"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to scale insects and woolly aphids",
+            "link_names": [
+                "Scale insects",
+                "Aphids"
+            ],
+            "related_links": {
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to fireblight and honey fungus",
+            "link_names": [
+                "Fireblight",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cotoneaster_bullatus.html",
@@ -150,5 +202,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Cotoneaster bullatus",
+    "display_name": "Hollyberry cotoneaster"
 }

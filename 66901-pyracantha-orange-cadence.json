@@ -99,16 +99,64 @@
         "name_status": "Trade"
     },
     "how_to_grow": {
-        "cultivation": "Easy to grow in fertile soil in sun or partial shade. Tolerant of pollution",
-        "propagation": "Propagate by semi-hardwood cuttings from late-spring onwards",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Hedging and screens",
-            "Wall side borders"
-        ],
-        "pruning": "Pruning group 1",
-        "pests": "Can get aphids, woolly aphid, caterpillars, brown scale and leaf-mining moths",
-        "diseases": "Claimed to be resistant to fireblight and scab"
-    }
+        "cultivation": {
+            "text": "Easy to grow in fertile soil in sun or partial shade. Tolerant of pollution",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by semi-hardwood cuttings from late-spring onwards",
+            "link_names": [
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Hedging and screens",
+                "Wall side borders"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1",
+            "link_names": [
+                "Pruning group 1"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, woolly aphid, caterpillars, brown scale and leaf-mining moths",
+            "link_names": [
+                "Aphids",
+                "Woolly aphid",
+                "Brown scale"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
+                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to pyracantha scab, honey fungus and fireblight",
+            "link_names": [
+                "Honey fungus",
+                "Fireblight"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
+                "fireblight": "https://www.rhs.org.uk/disease/fireblight"
+            }
+        }
+    },
+    "main_name_original": "Pyracantha 'Orange Cadence'",
+    "display_name": "Firethorn saphyr orange"
 }

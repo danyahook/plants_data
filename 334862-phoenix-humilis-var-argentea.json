@@ -99,19 +99,63 @@
         "plant_range": "Morocco"
     },
     "how_to_grow": {
-        "cultivation": "Under glass, grow in pots of multipurpose compost in bright, filtered light with protection from direct summer sun. Water moderately in growth and apply a balanced liquid feed every month during the growing season; mist daily to increase humidity. See palm cultivation indoors for further information. In mild areas grow outdoors in freely-draining soil in sun or partial shade; see palm cultivation outdoors for further information",
-        "propagation": "Propagate by sowing seed in spring at 25°C",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Sub-tropical",
-            "Mediterranean climate plants",
-            "Bedding",
-            "Conservatory and greenhouse"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to glasshouse red spider mite, thrips and scale insects",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Under glass, grow in pots of multipurpose compost in bright, filtered light with protection from direct summer sun. Water moderately in growth and apply a balanced liquid feed every month during the growing season; mist daily to increase humidity. See palm cultivation indoors for further information. In mild areas grow outdoors in freely-draining soil in sun or partial shade; see palm cultivation outdoors for further information",
+            "link_names": [
+                "Palm cultivation indoors",
+                "Palm cultivation outdoors"
+            ],
+            "related_links": {
+                "palm_cultivation_indoors": "https://www.rhs.org.uk/plants/types/trees/indoor-palms",
+                "palm_cultivation_outdoors": "https://www.rhs.org.uk/plants/types/trees/hardy-palms"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by sowing seed in spring at 25°C",
+            "link_names": [],
+            "related_links": {}
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Sub-tropical",
+                "Mediterranean climate plants",
+                "Bedding",
+                "Conservatory and greenhouse"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to glasshouse red spider mite, thrips and scale insects",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Thrips",
+                "Scale insects"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus (rarely)",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Phoenix humilis var. argentea",
+    "display_name": "Blue mediterranean fan palm"
 }

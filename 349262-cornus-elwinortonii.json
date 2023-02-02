@@ -92,16 +92,64 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, humus-rich well-drained soil in sun or partial shade. For more advice, see flowering dogwood cultivation",
-        "propagation": "Propagate by grafting or from semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "Architectural",
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 1 or pruning group 2",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, humus-rich well-drained soil in sun or partial shade. For more advice, see flowering dogwood cultivation",
+            "link_names": [
+                "Flowering dogwood cultivation"
+            ],
+            "related_links": {
+                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by grafting or from semi-hardwood cuttings",
+            "link_names": [
+                "Grafting",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Architectural",
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 1 or pruning group 2",
+            "link_names": [
+                "Pruning group 1",
+                "Pruning group 2"
+            ],
+            "related_links": {
+                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
+                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
+            }
+        },
+        "pests": {
+            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to cornus anthracnose and honey fungus",
+            "link_names": [
+                "Cornus anthracnose",
+                "Honey fungus"
+            ],
+            "related_links": {
+                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Cornus × elwinortonii",
+    "display_name": ""
 }

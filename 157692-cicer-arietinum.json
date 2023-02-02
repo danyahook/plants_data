@@ -91,15 +91,51 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, loamy, well-drained soil in full sun. Although plants can be grown in partial shade, yield will be reduced. Feed regularly with a high potassium and phosphorus feed throughout the growing season",
-        "propagation": "Propagate by seed indoors or sow outdoors as early as 2 to 3 weeks before the last frost in spring. Resent root disturbance so sow individually in compostable pots so you can plant directly into the garden",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden"
-        ],
-        "pruning": "No pruning required",
-        "pests": "May be susceptible to aphids, bean beetles, flea beetles, leaf hoppers and mites",
-        "diseases": "May be susceptible to anthracnose, blight and mosaic virus"
+        "cultivation": {
+            "text": "Grow in fertile, loamy, well-drained soil in full sun. Although plants can be grown in partial shade, yield will be reduced. Feed regularly with a high potassium and phosphorus feed throughout the growing season",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed indoors or sow outdoors as early as 2 to 3 weeks before the last frost in spring. Resent root disturbance so sow individually in compostable pots so you can plant directly into the garden",
+            "link_names": [
+                "Propagate by seed",
+                "Outdoors"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "No pruning required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids, bean beetles, flea beetles, leaf hoppers and mites",
+            "link_names": [
+                "Aphids",
+                "Flea beetles"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to anthracnose, blight and mosaic virus",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Cicer_arietinum.html",
@@ -176,5 +212,7 @@
             "Thrips",
             "Fruit withering"
         ]
-    }
+    },
+    "main_name_original": "Cicer arietinum",
+    "display_name": "Calavanche"
 }

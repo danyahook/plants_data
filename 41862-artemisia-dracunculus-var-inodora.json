@@ -91,17 +91,53 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in a moist but well drained loamy soil in full sun or partial shade. It is vigorous and fast growing. Prune back in Autumn to encourage healthy, vigorous growth the following Spring",
-        "propagation": "Propagate by seed with a period of cold stratification or by semi-hardwood cuttings",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Prune back growth to 5-10cm above ground level in Autumn. Remove flower heads to prevent self-seeding",
-        "pests": "Generally pest-free",
-        "diseases": "Generally disease-free"
-    }
+        "cultivation": {
+            "text": "Grow in a moist but well drained loamy soil in full sun or partial shade. It is vigorous and fast growing. Prune back in Autumn to encourage healthy, vigorous growth the following Spring",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed with a period of cold stratification or by semi-hardwood cuttings",
+            "link_names": [
+                "Propagate by seed",
+                "Semi-hardwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Prune back growth to 5-10cm above ground level in Autumn. Remove flower heads to prevent self-seeding",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Generally pest-free",
+            "link_names": [],
+            "related_links": {}
+        },
+        "diseases": {
+            "text": "May be susceptible to honey fungus",
+            "link_names": [
+                "Honey fungus"
+            ],
+            "related_links": {
+                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
+            }
+        }
+    },
+    "main_name_original": "Artemisia dracunculus var. inodora",
+    "display_name": "Russian tarragon"
 }

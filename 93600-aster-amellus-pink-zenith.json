@@ -89,18 +89,68 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in well-drained, open, moderately fertile soil in full sun. Thrives in alkaline soil",
-        "propagation": "Propagate by seed sown in containers in a cold frame in spring or autumn, or by division or basal softwood cuttings in spring",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Cottage and informal garden",
-            "Low Maintenance",
-            "Cut flowers",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering",
-        "pests": "May be susceptible to leaf and bud eelworms, aphids, slugs and snails",
-        "diseases": "May be susceptible to Fusarium wilt, leaf spot and grey moulds"
-    }
+        "cultivation": {
+            "text": "Grow in well-drained, open, moderately fertile soil in full sun. Thrives in alkaline soil",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in containers in a cold frame in spring or autumn, or by division or basal softwood cuttings in spring",
+            "link_names": [
+                "Propagate by seed",
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Cottage and informal garden",
+                "Low Maintenance",
+                "Cut flowers",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to leaf and bud eelworms, aphids, slugs and snails",
+            "link_names": [
+                "Leaf and bud eelworms",
+                "Aphids",
+                "Slugs",
+                "Snails"
+            ],
+            "related_links": {
+                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to Fusarium wilt, leaf spot and grey moulds",
+            "link_names": [
+                "Fusarium wilt",
+                "Grey moulds"
+            ],
+            "related_links": {
+                "fusarium_wilt": "https://www.rhs.org.uk/disease/fusarium-wilts",
+                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
+            }
+        }
+    },
+    "main_name_original": "Aster amellus Pink Zenith",
+    "display_name": "Italian aster 'rosa erfüllung'"
 }

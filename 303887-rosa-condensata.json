@@ -118,16 +118,70 @@
         "plant_range": "Europe, N Africa, SW Asia"
     },
     "how_to_grow": {
-        "cultivation": "'Dog Rose', a wild rose native to Britain with abundant orange-red hips in autumn. Grow in full sun with moderately fertile, humus-rich, moist but well-drained soil. For best flowering apply a balanced fertiliser and mulch in late winter or early spring. Tolerant of poor soil",
-        "propagation": "Propagate by hardwood cuttings in autumn",
-        "suggested_planting_locations_and_garden_types": [
-            "Wildlife gardens",
-            "Wildflower meadow",
-            "Cottage and informal garden",
-            "Flower borders and beds"
-        ],
-        "pruning": "Pruning group 21 (roses)",
-        "pests": "May be attacked by aphids, leafhoppers, glasshouse red spider mite, scale insects, caterpillars, rose leaf-rolling sawfly, leaf cutting bees, rabbits and deer",
-        "diseases": "May be affected by rose rust and powdery mildews"
-    }
+        "cultivation": {
+            "text": "'Dog Rose', a wild rose native to Britain with abundant orange-red hips in autumn. Grow in full sun with moderately fertile, humus-rich, moist but well-drained soil. For best flowering apply a balanced fertiliser and mulch in late winter or early spring. Tolerant of poor soil",
+            "link_names": [
+                "Mulch"
+            ],
+            "related_links": {
+                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
+            }
+        },
+        "propagation": {
+            "text": "Propagate by hardwood cuttings in autumn",
+            "link_names": [
+                "Hardwood"
+            ],
+            "related_links": {
+                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Wildlife gardens",
+                "Wildflower meadow",
+                "Cottage and informal garden",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Pruning group 21 (roses)",
+            "link_names": [
+                "Pruning group 21"
+            ],
+            "related_links": {
+                "pruning_group_21": "https://www.rhs.org.uk/plants/roses/shrub/pruning-guide"
+            }
+        },
+        "pests": {
+            "text": "May be susceptible to leafhoppers, glasshouse red spider mite, scale insects, caterpillars, rose leaf-rolling sawfly, leaf cutting bees, rabbits and deer",
+            "link_names": [
+                "Glasshouse red spider mite",
+                "Scale insects",
+                "Rabbits",
+                "Deer"
+            ],
+            "related_links": {
+                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
+                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
+                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits",
+                "deer": "https://www.rhs.org.uk/biodiversity/deer"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to rose rust and powdery mildews",
+            "link_names": [
+                "Rose rust",
+                "Powdery mildews"
+            ],
+            "related_links": {
+                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
+                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
+            }
+        }
+    },
+    "main_name_original": "Rosa condensata",
+    "display_name": "Dog rose"
 }

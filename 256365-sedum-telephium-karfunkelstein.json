@@ -97,20 +97,58 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow in moderately fertile, well-drained, neutral to slightly alkaline soil. Best in full sun. A drought-tolerant plant but will benefit from mulching. A good nectar source for pollinating insects",
-        "propagation": "Propagate by division in spring. Propagate by softwood cuttings of non-flowering shoots in early summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Gravel garden",
-            "Patio and container plants",
-            "Coastal",
-            "Cottage and informal garden",
-            "Flower borders and beds",
-            "Garden edging"
-        ],
-        "pruning": "If later flowering is required, cut one in every three stems back to the ground around the last week in May, a technique known as the Chelsea Chop. Cut back during border tidy ups in late winter before new growth emerges",
-        "pests": "May be damaged by slugs, snails and vine weevil",
-        "diseases": "May be subject to root rot in poor-draining conditions"
+        "cultivation": {
+            "text": "Grow in moderately fertile, well-drained, neutral to slightly alkaline soil. Best in full sun. A drought-tolerant plant but will benefit from mulching. A good nectar source for pollinating insects",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by division in spring. Propagate by softwood cuttings of non-flowering shoots in early summer",
+            "link_names": [
+                "Division",
+                "Softwood"
+            ],
+            "related_links": {
+                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
+                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Gravel garden",
+                "Patio and container plants",
+                "Coastal",
+                "Cottage and informal garden",
+                "Flower borders and beds",
+                "Garden edging"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "If later flowering is required, cut one in every three stems back to the ground around the last week in May, a technique known as the Chelsea Chop. Cut back during border tidy ups in late winter before new growth emerges",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be damaged by slugs, snails and vine weevil",
+            "link_names": [
+                "Slugs",
+                "Snails",
+                "Vine weevil"
+            ],
+            "related_links": {
+                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
+                "snails": "https://www.rhs.org.uk/biodiversity/snails",
+                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to root rot in poor-draining conditions",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Sedum_telephium__Karfunkelstein_.html",
@@ -142,5 +180,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Sedum telephium 'Karfunkelstein'",
+    "display_name": "Orpine 'karfunkelstein'"
 }

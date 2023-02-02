@@ -91,17 +91,49 @@
         "plant_range": "Western N America"
     },
     "how_to_grow": {
-        "cultivation": "Grow in gritty, sharply drained soil in full sun, protect from excess winter wet. Dislikes high humidity",
-        "propagation": "Propagate by seed, sown in an open frame as soon as ripe. May self-seed in place if spent flowers are not removed",
-        "suggested_planting_locations_and_garden_types": [
-            "Cottage and informal garden",
-            "Gravel garden",
-            "Banks and slopes",
-            "Flower borders and beds"
-        ],
-        "pruning": "Cut back after flowering if seeds are not required",
-        "pests": "May be susceptible to aphids",
-        "diseases": "Generally disease-free"
+        "cultivation": {
+            "text": "Grow in gritty, sharply drained soil in full sun, protect from excess winter wet. Dislikes high humidity",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed, sown in an open frame as soon as ripe. May self-seed in place if spent flowers are not removed",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "Cottage and informal garden",
+                "Gravel garden",
+                "Banks and slopes",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Cut back after flowering if seeds are not required",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "Generally disease-free",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Hymenoxys_hoopesii.html",
@@ -143,5 +175,7 @@
         },
         "toxic_data": [],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Hymenoxys hoopesii",
+    "display_name": "Owl's-claws"
 }

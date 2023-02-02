@@ -99,15 +99,55 @@
         "name_status": "Correct"
     },
     "how_to_grow": {
-        "cultivation": "Grow in fertile, moist, but well-drained soil in full sun or partial shade. Normally grown as an annual it can be overwintered although leaves become coarser in the second year",
-        "propagation": "Propagate by seed sown in situ, in succession from late spring through summer",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Cottage and informal garden",
-            "Patio and container plants"
-        ],
-        "pruning": "Remove flowers unless wanted for seed",
-        "pests": "May be susceptible to carrot fly, aphids and celery leaf miner",
-        "diseases": "May be susceptible to a leaf spot and a virus"
-    }
+        "cultivation": {
+            "text": "Grow in fertile, moist, but well-drained soil in full sun or partial shade. Normally grown as an annual it can be overwintered although leaves become coarser in the second year",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by seed sown in situ, in succession from late spring through summer",
+            "link_names": [
+                "Propagate by seed"
+            ],
+            "related_links": {
+                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Cottage and informal garden",
+                "Patio and container plants"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove flowers unless wanted for seed",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "May be susceptible to carrot fly, aphids and celery leaf miner",
+            "link_names": [
+                "Carrot fly",
+                "Aphids"
+            ],
+            "related_links": {
+                "carrot_fly": "https://www.rhs.org.uk/biodiversity/carrot-fly",
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be susceptible to a leaf spot and a virus",
+            "link_names": [
+                "A virus"
+            ],
+            "related_links": {
+                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
+            }
+        }
+    },
+    "main_name_original": "Petroselinum crispum 'Italian'",
+    "display_name": "Flat-leaved parsley"
 }

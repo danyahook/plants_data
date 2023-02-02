@@ -87,20 +87,54 @@
         "name_status": "Accepted"
     },
     "how_to_grow": {
-        "cultivation": "Grow outdoors in any well-drained soil in full sun",
-        "propagation": "Propagate by removing rooted suckers or take root cuttings in winter",
-        "suggested_planting_locations_and_garden_types": [
-            "City and courtyard gardens",
-            "Coastal",
-            "Architectural",
-            "Gravel garden",
-            "Mediterranean climate plants",
-            "Low Maintenance",
-            "Flower borders and beds"
-        ],
-        "pruning": "Remove spent flowering stems",
-        "pests": "Flower spikes may be attacked by aphids",
-        "diseases": "May be subject to a leaf spot"
+        "cultivation": {
+            "text": "Grow outdoors in any well-drained soil in full sun",
+            "link_names": [],
+            "related_links": {}
+        },
+        "propagation": {
+            "text": "Propagate by removing rooted suckers or take root cuttings in winter",
+            "link_names": [
+                "Suckers",
+                "Root cuttings"
+            ],
+            "related_links": {
+                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
+                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
+            }
+        },
+        "suggested_planting_locations_and_garden_types": {
+            "text": [
+                "City and courtyard gardens",
+                "Coastal",
+                "Architectural",
+                "Gravel garden",
+                "Mediterranean climate plants",
+                "Low Maintenance",
+                "Flower borders and beds"
+            ],
+            "link_names": [],
+            "related_links": {}
+        },
+        "pruning": {
+            "text": "Remove spent flowering stems",
+            "link_names": [],
+            "related_links": {}
+        },
+        "pests": {
+            "text": "Flower spikes may be attacked by aphids",
+            "link_names": [
+                "Aphids"
+            ],
+            "related_links": {
+                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
+            }
+        },
+        "diseases": {
+            "text": "May be subject to a leaf spot",
+            "link_names": [],
+            "related_links": {}
+        }
     },
     "pt_data": {
         "pt_link": "https://www.picturethisai.com/wiki/Yucca_filamentosa__Color_Guard_.html",
@@ -136,5 +170,7 @@
             ""
         ],
         "diseases_data": []
-    }
+    },
+    "main_name_original": "Yucca filamentosa 'Color Guard' (v)",
+    "display_name": "Variegated needle palm 'color guard'"
 }
