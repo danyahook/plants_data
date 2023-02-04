@@ -190,17 +190,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Korean pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Longhorn beetles",
+            "Aged yellow and dry",
             "Plant dried up",
-            "Aged yellow and dry"
+            "Dieback"
         ]
     },
     "main_name_original": "Pinus koraiensis",

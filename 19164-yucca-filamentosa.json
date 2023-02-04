@@ -220,20 +220,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Yuccas",
             "species": "Adam's needle"
         },
         "toxic_data": [
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs"
         ],
         "diseases_data": [
-            "Wilting after blooming",
-            "Plant dried up",
             "Fruit withering",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Wilting after blooming",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Yucca filamentosa",

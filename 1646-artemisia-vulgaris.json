@@ -181,7 +181,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Mugworts",
             "species": "Common mugwort"
@@ -190,10 +193,10 @@
         "diseases_data": [
             "Underwatering",
             "Thrips",
-            "Plant dried up",
-            "Leaf rot",
+            "Nutrient deficiencies",
             "Leaf beetles",
-            "Nutrient deficiencies"
+            "Leaf rot",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Artemisia vulgaris",

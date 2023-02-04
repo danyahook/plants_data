@@ -207,7 +207,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Blueberries",
             "species": "Evergreen huckleberry"
@@ -215,11 +218,11 @@
         "toxic_data": [],
         "diseases_data": [
             "Caterpillars",
-            "Brown spot",
             "Leaf Weevils",
-            "Leaf beetles",
+            "Nutrient deficiencies",
             "Aged yellow and dry",
-            "Nutrient deficiencies"
+            "Leaf beetles",
+            "Brown spot"
         ]
     },
     "main_name_original": "Vaccinium ovatum",

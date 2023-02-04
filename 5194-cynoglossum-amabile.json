@@ -168,17 +168,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Boraginales",
+            "order": [
+                "Boraginales"
+            ],
             "family": "Borage",
             "genus": "Hound's-tongue",
             "species": "Hound's tongue"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
-            "Leaf rot",
-            "Leaf beetles"
+            "Flower withering",
+            "Leaf beetles",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Cynoglossum amabile",

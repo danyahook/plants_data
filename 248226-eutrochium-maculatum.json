@@ -177,17 +177,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Joe-pye weeds",
             "species": "Spotted Joe-pyeweed"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Sap-sucking insects",
             "Caterpillars",
-            "Leaf beetles"
+            "Flower withering",
+            "Leaf beetles",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Eutrochium maculatum",

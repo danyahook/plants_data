@@ -240,19 +240,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Tansies",
             "species": "Feverfew"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
             "Thrips",
-            "Leaf beetles",
+            "Nutrient deficiencies",
             "Aged yellow and dry",
-            "Nutrient deficiencies"
+            "Leaf beetles",
+            "Flower withering"
         ]
     },
     "main_name_original": "Tanacetum parthenium",

@@ -182,22 +182,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Syngonium",
             "species": "Arrowhead plant"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
             "Underwatering",
-            "Brown spot",
-            "Leaf rot",
+            "Aged yellow and dry",
             "Leaf beetles",
-            "Aged yellow and dry"
+            "Leaf rot",
+            "Brown spot"
         ]
     },
     "main_name_original": "Syngonium podophyllum",

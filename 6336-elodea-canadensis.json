@@ -216,7 +216,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Tape-grass",
             "genus": "Waterweeds",
             "species": "Canadian waterweed"
@@ -224,8 +227,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Stem rot",
-            "Crown gall",
-            "Fire ants"
+            "Fire ants",
+            "Crown gall"
         ]
     },
     "main_name_original": "Elodea canadensis",

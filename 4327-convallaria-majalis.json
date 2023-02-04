@@ -243,19 +243,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Lily of the valley",
             "species": "Lily of the valley"
         },
         "toxic_data": [
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs"
         ],
         "diseases_data": [
-            "Brown spot",
             "Leaf beetles",
-            "Leaf rot"
+            "Leaf rot",
+            "Brown spot"
         ]
     },
     "main_name_original": "Convallaria majalis",

@@ -176,7 +176,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asphodel",
             "genus": "Haworthiopsis",
             "species": "Zebra plant"
@@ -184,8 +187,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Low light",
             "Stem rot",
+            "Low light",
             "Plant dried up"
         ]
     },

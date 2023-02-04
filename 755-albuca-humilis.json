@@ -150,7 +150,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Slime lilies",
             "species": "Albuca humilis"
@@ -158,8 +161,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf scorch",
             "Aged yellow and dry",
+            "Leaf scorch",
             "Brown spot"
         ]
     },

@@ -222,17 +222,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Firs",
             "species": "White fir"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Longhorn beetles",
             "Branch blight",
-            "Fire ants"
+            "Fire ants",
+            "Dieback"
         ]
     },
     "main_name_original": "Abies concolor",

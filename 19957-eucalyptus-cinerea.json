@@ -192,22 +192,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Myrtle order",
+            "order": [
+                "Myrtle order"
+            ],
             "family": "Myrtle",
             "genus": "Eucalypts",
             "species": "Argyle apple"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Mealybugs",
-            "Brown spot",
-            "Black spot",
             "Powdery Mildew",
             "Leaf mites",
-            "Leaf beetles"
+            "Black spot",
+            "Leaf beetles",
+            "Brown spot",
+            "Mealybugs"
         ]
     },
     "main_name_original": "Eucalyptus cinerea",

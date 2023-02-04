@@ -204,17 +204,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Hollies and allies",
+            "order": [
+                "Hollies",
+                "Allies"
+            ],
             "family": "Holly",
             "genus": "Ilex",
             "species": "Kurogane holly"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Black spot",
             "Branch blight",
-            "Leaf beetles",
-            "Plant dried up"
+            "Black spot",
+            "Plant dried up",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Ilex rotunda",

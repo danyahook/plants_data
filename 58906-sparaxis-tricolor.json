@@ -184,7 +184,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Iris",
             "genus": "Harlequin flowers",
             "species": "Harlequin flower"
@@ -192,8 +195,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Scars",
             "Petal blight",
+            "Scars",
             "Brown spot"
         ]
     },

@@ -203,20 +203,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Laceleaf",
             "species": "Flamingo flower"
         },
         "toxic_data": [
-            ""
+            "Slightly Toxic to Humans"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Underwatering",
             "Caterpillars",
+            "Underwatering",
+            "Leaf rot",
             "Brown spot",
-            "Leaf rot"
+            "Flower withering"
         ]
     },
     "main_name_original": "Anthurium andraeanum",

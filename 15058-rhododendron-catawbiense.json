@@ -182,18 +182,7 @@
             "Rhododendron russelianum",
             "Rhododendron catawbiense"
         ],
-        "ru_data": {
-            "common_names": [
-                "Рододендрон кэтевбинский",
-                "Рододендрон катевбинский"
-            ],
-            "synonyms": [
-                "Hymenanthes catawbiensis",
-                "Azalea catawbiensis",
-                "Rhododendron russelianum",
-                "Rhododendron catawbiense"
-            ]
-        },
+        "ru_data": null,
         "rank": 1427,
         "items_data": {
             "water": "Every 1-2 weeks",
@@ -203,13 +192,16 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Azaleas",
             "species": "Catawba rosebay"
         },
         "toxic_data": [
-            ""
+            "Toxic to Dogs"
         ],
         "diseases_data": [
             "Caterpillars",

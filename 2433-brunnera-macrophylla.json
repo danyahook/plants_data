@@ -175,17 +175,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Boraginales",
+            "order": [
+                "Boraginales"
+            ],
             "family": "Borage",
             "genus": "Brunnera",
             "species": "Siberian bugloss"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Sap-sucking insects",
-            "Caterpillars",
             "Thrips",
-            "Leaf beetles"
+            "Caterpillars",
+            "Leaf beetles",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Brunnera macrophylla",

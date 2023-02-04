@@ -171,16 +171,7 @@
         "synonyms": [
             "Eucalyptus gunnii"
         ],
-        "ru_data": {
-            "common_names": [
-                "Эвкалипт Ганна",
-                "Эвкалипт Гунна",
-                "Эвкалипт Гунни"
-            ],
-            "synonyms": [
-                "Eucalyptus gunnii"
-            ]
-        },
+        "ru_data": null,
         "rank": 1395,
         "items_data": {
             "sunlight": "Full sun",
@@ -193,19 +184,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Myrtle order",
+            "order": [
+                "Myrtle order"
+            ],
             "family": "Myrtle",
             "genus": "Eucalypts",
             "species": "Cider gum"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Mealybugs",
-            "Brown spot",
             "Powdery Mildew",
-            "Leaf mites"
+            "Leaf mites",
+            "Mealybugs",
+            "Brown spot"
         ]
     },
     "main_name_original": "Eucalyptus gunnii",

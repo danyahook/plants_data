@@ -245,7 +245,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Wood fern",
             "genus": "Wood ferns",
             "species": "Spinulose woodfern"
@@ -253,8 +255,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Leaf tips withering",
-            "Leaf rot",
             "Leaf beetles",
+            "Leaf rot",
             "Brown spot"
         ]
     },

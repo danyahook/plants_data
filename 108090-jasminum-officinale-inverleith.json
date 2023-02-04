@@ -208,18 +208,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Jasmine",
             "species": "Common jasmine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Scars",
-            "Brown spot",
             "Nutrient deficiencies",
-            "Yellow spot"
+            "Yellow spot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Jasminum officinale 'Inverleith'",

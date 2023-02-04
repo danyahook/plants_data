@@ -207,17 +207,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Verbena",
             "genus": "Shrub verbenas",
             "species": "Trailing lantana"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Caterpillars",
-            "Leaf beetles"
+            "Flower withering",
+            "Leaf beetles",
+            "Brown spot"
         ]
     },
     "main_name_original": "Lantana montevidensis",

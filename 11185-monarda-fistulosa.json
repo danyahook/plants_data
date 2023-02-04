@@ -179,19 +179,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Bergamot",
             "species": "Wild bergamot"
         },
         "toxic_data": [],
         "diseases_data": [
+            "Caterpillars",
             "Powdery Mildew",
-            "Flower withering",
             "Wilting after blooming",
-            "Leaf beetles",
             "Thrips",
-            "Caterpillars"
+            "Leaf beetles",
+            "Flower withering"
         ]
     },
     "main_name_original": "Monarda fistulosa",

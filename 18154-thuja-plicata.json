@@ -191,17 +191,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Arborvitaes",
             "species": "Western red cedar"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Aged yellow and dry",
-            "Dieback",
-            "Branch blight"
+            "Branch blight",
+            "Flower withering",
+            "Dieback"
         ]
     },
     "main_name_original": "Thuja plicata",

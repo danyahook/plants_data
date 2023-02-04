@@ -194,18 +194,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Marigolds",
             "species": "African marigold"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Plant dried up",
-            "Brown spot",
             "Wilting after blooming",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Brown spot",
+            "Flower withering",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Tagetes erecta",

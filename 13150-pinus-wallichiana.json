@@ -185,7 +185,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Himalayan pine"
@@ -193,9 +196,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Longhorn beetles",
-            "Crown gall",
             "Fruit withering",
-            "Dieback"
+            "Dieback",
+            "Crown gall"
         ]
     },
     "main_name_original": "Pinus wallichiana",

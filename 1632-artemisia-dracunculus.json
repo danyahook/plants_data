@@ -229,20 +229,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Mugworts",
             "species": "Tarragon"
         },
         "toxic_data": [
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Cats"
         ],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
+            "Plant dried up",
             "Leaf beetles",
-            "Plant dried up"
+            "Leaf rot"
         ]
     },
     "main_name_original": "Artemisia dracunculus",

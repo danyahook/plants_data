@@ -203,19 +203,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Junipers",
             "species": "Creeping juniper"
         },
         "toxic_data": [
-            ""
+            "Slightly Toxic to Humans"
         ],
         "diseases_data": [
             "Underwatering",
-            "Dieback",
             "Longhorn beetles",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Dieback"
         ]
     },
     "main_name_original": "Juniperus horizontalis",

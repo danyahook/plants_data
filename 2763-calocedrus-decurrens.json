@@ -198,17 +198,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Incense cedars",
             "species": "Incense cedar"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Underwatering",
-            "Branch blight",
             "Fruit withering",
-            "Aged yellow and dry"
+            "Underwatering",
+            "Aged yellow and dry",
+            "Branch blight"
         ]
     },
     "main_name_original": "Calocedrus decurrens",

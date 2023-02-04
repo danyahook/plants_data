@@ -157,7 +157,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Swordfern",
             "genus": "Boston ferns",
             "species": "Boston fern"
@@ -165,10 +167,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Plant dried up",
-            "Brown spot",
-            "Leaf rot",
             "Aged yellow and dry",
+            "Leaf rot",
+            "Brown spot",
+            "Plant dried up",
             "Leaf scorch"
         ]
     },

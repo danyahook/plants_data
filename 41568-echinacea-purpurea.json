@@ -215,19 +215,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Coneflowers",
             "species": "Purple coneflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Underwatering",
             "Caterpillars",
-            "Brown spot",
+            "Underwatering",
             "Wilting after blooming",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Echinacea purpurea",

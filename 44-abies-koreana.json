@@ -182,17 +182,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Firs",
             "species": "Korean fir"
         },
         "toxic_data": [],
         "diseases_data": [
+            "Branch blight",
             "Scale insects",
-            "Dieback",
             "Longhorn beetles",
-            "Branch blight"
+            "Dieback"
         ]
     },
     "main_name_original": "Abies koreana",

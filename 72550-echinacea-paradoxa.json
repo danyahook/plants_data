@@ -165,17 +165,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Coneflowers",
             "species": "Yellow coneflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Underwatering",
-            "Caterpillars",
             "Leaf beetles",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Caterpillars",
+            "Underwatering"
         ]
     },
     "main_name_original": "Echinacea paradoxa",

@@ -175,15 +175,17 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Polypody",
             "genus": "Polypodies",
             "species": "Common polypody"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Leaf rot",
             "Leaf deformity",
+            "Leaf rot",
             "Brown spot"
         ]
     },

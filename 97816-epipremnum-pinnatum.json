@@ -258,7 +258,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Tongavines",
             "species": "Centipede tongavine"
@@ -266,8 +269,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
             "Aged yellow and dry",
+            "Leaf rot",
             "Brown spot"
         ]
     },

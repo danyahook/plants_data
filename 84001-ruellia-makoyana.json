@@ -169,7 +169,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Acanthus",
             "genus": "Wild petunias",
             "species": "Monkey plant"
@@ -177,9 +180,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
+            "Wilting after blooming",
             "Petal blight",
-            "Leaf beetles",
-            "Wilting after blooming"
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Ruellia makoyana",

@@ -187,17 +187,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Vitales",
+            "order": [
+                "Vitales"
+            ],
             "family": "Grape",
             "genus": "Parthenocissus",
             "species": "Silvervein creeper"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Sap-sucking insects",
             "Caterpillars",
-            "Plant dried up"
+            "Scars",
+            "Plant dried up",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Parthenocissus henryana",

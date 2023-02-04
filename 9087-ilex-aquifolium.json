@@ -269,23 +269,26 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Hollies and allies",
+            "order": [
+                "Hollies",
+                "Allies"
+            ],
             "family": "Holly",
             "genus": "Ilex",
             "species": "Common holly"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Plant dried up",
-            "Brown spot",
+            "Branch blight",
+            "Aged yellow and dry",
             "Black spot",
             "Leaf beetles",
-            "Branch blight",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Ilex aquifolium",

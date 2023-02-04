@@ -225,21 +225,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Catnips",
             "species": "Catnip"
         },
         "toxic_data": [
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Sap-sucking insects",
-            "Flower withering",
-            "Wilting after blooming",
             "Underwatering",
-            "Nutrient deficiencies"
+            "Wilting after blooming",
+            "Nutrient deficiencies",
+            "Sap-sucking insects",
+            "Flower withering"
         ]
     },
     "main_name_original": "Nepeta cataria",

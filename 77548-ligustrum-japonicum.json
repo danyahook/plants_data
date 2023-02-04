@@ -240,21 +240,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Privets",
             "species": "Japanese privet"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Leaf Weevils",
             "Yellow spot",
-            "Leaf deformity",
             "Brown spot",
-            "Scars",
-            "Leaf Weevils"
+            "Leaf deformity",
+            "Scars"
         ]
     },
     "main_name_original": "Ligustrum japonicum",

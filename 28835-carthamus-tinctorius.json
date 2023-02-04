@@ -174,7 +174,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Distaff thistles",
             "species": "Safflower"
@@ -182,8 +185,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Sap-sucking insects",
-            "Leaf Weevils"
+            "Leaf Weevils",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Carthamus tinctorius",

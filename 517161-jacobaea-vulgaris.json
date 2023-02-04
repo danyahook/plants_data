@@ -188,17 +188,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Jacobaea",
             "species": "Tansy ragwort"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Leaf beetles",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Jacobaea vulgaris",

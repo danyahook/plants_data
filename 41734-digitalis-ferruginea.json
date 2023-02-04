@@ -166,18 +166,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "Foxgloves",
             "species": "Rusty foxglove"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
-            "Brown spot",
             "Sap-sucking insects",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Digitalis ferruginea",

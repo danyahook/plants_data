@@ -184,18 +184,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Cycads",
-            "order": "Cycads",
+            "order": [
+                "Cycads"
+            ],
             "family": "Cycad",
             "genus": "Cycas",
             "species": "Sago palm"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
+            "Flower withering",
             "Leaf scorch",
             "Brown spot"
         ]

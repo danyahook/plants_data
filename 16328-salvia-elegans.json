@@ -207,16 +207,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Sages",
             "species": "Pineapple sage"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Caterpillars",
             "Wilting after blooming",
+            "Caterpillars",
+            "Flower withering",
             "Brown spot"
         ]
     },

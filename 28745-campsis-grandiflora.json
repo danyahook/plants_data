@@ -209,7 +209,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Bignonia",
             "genus": "Trumpet vine",
             "species": "Chinese trumpet creeper"
@@ -217,10 +220,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Brown spot",
-            "Black spot",
             "Wilting after blooming",
-            "Leaf beetles"
+            "Black spot",
+            "Leaf beetles",
+            "Brown spot"
         ]
     },
     "main_name_original": "Campsis grandiflora",

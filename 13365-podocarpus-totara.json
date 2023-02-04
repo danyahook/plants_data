@@ -169,15 +169,18 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Podocarpus",
             "genus": "Plum pines",
             "species": "Totara"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Plant dried up",
             "Branch blight",
+            "Plant dried up",
             "Leaf scorch",
             "Brown spot"
         ]

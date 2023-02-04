@@ -203,17 +203,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Junipers",
             "species": "Rocky mountain juniper"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Longhorn beetles",
+            "Aged yellow and dry",
             "Branch blight",
-            "Aged yellow and dry"
+            "Dieback"
         ]
     },
     "main_name_original": "Juniperus scopulorum",

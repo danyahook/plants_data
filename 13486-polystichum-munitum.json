@@ -188,16 +188,18 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Wood fern",
             "genus": "christmas dagger",
             "species": "Western swordfern"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Caterpillars",
             "Thrips",
+            "Caterpillars",
+            "Scars",
             "Leaf beetles"
         ]
     },

@@ -166,19 +166,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Japanese black pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Plant dried up",
-            "Longhorn beetles",
+            "Dieback",
             "Fruit withering",
-            "Crown gall",
             "Aged yellow and dry",
-            "Dieback"
+            "Crown gall",
+            "Longhorn beetles",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Pinus thunbergii",

@@ -233,7 +233,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Ocimum",
             "species": "Holy basil"
@@ -241,10 +244,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf deformity",
-            "Brown spot",
+            "Aged yellow and dry",
             "Leaf rot",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Leaf deformity"
         ]
     },
     "main_name_original": "Ocimum tenuiflorum",

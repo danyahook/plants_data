@@ -215,15 +215,18 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Glebionis",
             "species": "Crown daisy"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
+            "Flower withering",
             "Leaf rot"
         ]
     },

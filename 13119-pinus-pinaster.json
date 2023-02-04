@@ -174,17 +174,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Maritime pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Plant dried up",
-            "Crown gall",
             "Fruit withering",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Plant dried up",
+            "Crown gall"
         ]
     },
     "main_name_original": "Pinus pinaster",

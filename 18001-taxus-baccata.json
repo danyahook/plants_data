@@ -204,18 +204,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Yew",
             "genus": "Yews",
             "species": "Common yew"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Longhorn beetles",
             "Scars",
-            "Dieback",
-            "Longhorn beetles"
+            "Dieback"
         ]
     },
     "main_name_original": "Taxus baccata",

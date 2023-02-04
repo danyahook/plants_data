@@ -173,7 +173,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Chrysogonum",
             "species": "Green and gold"
@@ -181,10 +184,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Caterpillars",
-            "Brown spot",
             "Black spot",
+            "Leaf beetles",
             "Leaf rot",
-            "Leaf beetles"
+            "Brown spot"
         ]
     },
     "main_name_original": "Chrysogonum virginianum",

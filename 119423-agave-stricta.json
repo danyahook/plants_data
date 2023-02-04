@@ -145,20 +145,7 @@
             "Agave striata f. stricta",
             "Agave stricta"
         ],
-        "ru_data": {
-            "common_names": [
-                "Агава прямая"
-            ],
-            "synonyms": [
-                "Agave striata var. stricta",
-                "Agave striata subsp. stricta",
-                "Bonapartea stricta",
-                "Agave striata var. echinoides",
-                "Agave echinoides",
-                "Agave striata f. stricta",
-                "Agave stricta"
-            ]
-        },
+        "ru_data": null,
         "rank": 5443,
         "items_data": {
             "sunlight": "Full sun",
@@ -171,16 +158,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Agaves",
             "species": "Hedgehog agave"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Low light",
             "Flower withering",
+            "Low light",
+            "Scars",
             "Brown spot"
         ]
     },

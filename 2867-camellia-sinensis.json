@@ -219,19 +219,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Tea",
             "genus": "Camellias",
             "species": "Tea"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Brown spot",
-            "Leaf Weevils",
             "Petal blight",
-            "Anthracnose",
+            "Leaf Weevils",
             "Nutrient deficiencies",
-            "Yellow spot"
+            "Yellow spot",
+            "Anthracnose",
+            "Brown spot"
         ]
     },
     "main_name_original": "Camellia sinensis",

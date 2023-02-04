@@ -206,17 +206,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Araucaria",
             "genus": "Araucaria",
             "species": "Parana pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Leaf scorch",
+            "Aged yellow and dry",
             "Branch blight",
-            "Aged yellow and dry"
+            "Dieback"
         ]
     },
     "main_name_original": "Araucaria angustifolia",

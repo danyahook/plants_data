@@ -161,29 +161,7 @@
             "Salvia coccinea",
             "Salvia superba"
         ],
-        "ru_data": {
-            "common_names": [
-                "Шалфей ярко-красный",
-                "Сальвия красная",
-                "Сальвия ярко-красная",
-                "Шалфей красный"
-            ],
-            "synonyms": [
-                "Salvia mollissima",
-                "Salvia rosea",
-                "Salvia glaucescens",
-                "Salvia galeottii",
-                "Salvia coccinea var. minima",
-                "Salvia coccinea f. pseudococcinea",
-                "Salvia coccinea var. pseudococcinea",
-                "Salvia ciliata",
-                "Salvia pseudococcinea",
-                "Horminum coccineum",
-                "Salvia filamentosa",
-                "Salvia coccinea",
-                "Salvia superba"
-            ]
-        },
+        "ru_data": null,
         "rank": 3069,
         "items_data": {
             "water": "Every week",
@@ -193,17 +171,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Sages",
             "species": "Scarlet sage"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Leaf beetles",
+            "Aged yellow and dry",
             "Wilting after blooming",
-            "Aged yellow and dry"
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Salvia coccinea",

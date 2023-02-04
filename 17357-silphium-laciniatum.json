@@ -175,7 +175,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Rosinweeds",
             "species": "Compassplant"
@@ -184,8 +187,8 @@
         "diseases_data": [
             "Underwatering",
             "Black spot",
-            "Leaf rot",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Silphium laciniatum",

@@ -158,23 +158,7 @@
             "Salvia farinacea",
             "Salvia trichostyle"
         ],
-        "ru_data": {
-            "common_names": [
-                "Шалфей мучнистый",
-                "Сальвия мучнистая"
-            ],
-            "synonyms": [
-                "Salvia amabilis",
-                "Salvia farinacea var. heteranthera",
-                "Salvia caesia",
-                "Salvia earlei",
-                "Salvia virgata",
-                "Salvia farinacea var. latifolia",
-                "Salvia linearis",
-                "Salvia farinacea",
-                "Salvia trichostyle"
-            ]
-        },
+        "ru_data": null,
         "rank": 1180,
         "items_data": {
             "water": "Every week",
@@ -188,19 +172,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Sages",
             "species": "Mealycup sage"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
-            "Brown spot",
             "Wilting after blooming",
+            "Aged yellow and dry",
             "Leaf beetles",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Salvia farinacea",

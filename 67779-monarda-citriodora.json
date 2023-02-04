@@ -176,17 +176,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Bergamot",
             "species": "Lemon beebalm"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Thrips",
-            "Powdery Mildew",
-            "Leaf beetles"
+            "Flower withering",
+            "Leaf beetles",
+            "Powdery Mildew"
         ]
     },
     "main_name_original": "Monarda citriodora",

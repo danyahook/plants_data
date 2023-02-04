@@ -192,17 +192,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Catnips",
             "species": "Caucasus catmint"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Sap-sucking insects",
             "Underwatering",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Nepeta grandiflora",

@@ -188,17 +188,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Glorybowers",
             "species": "Bleeding-heart vine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Sap-sucking insects",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Brown spot"
         ]
     },
     "main_name_original": "Clerodendrum thomsoniae",

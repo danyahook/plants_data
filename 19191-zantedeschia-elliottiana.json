@@ -180,7 +180,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Zantedeschia",
             "species": "Golden calla lily"
@@ -188,8 +191,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Sap-sucking insects",
-            "Leaf rot",
             "Wilting after blooming",
+            "Leaf rot",
             "Brown spot"
         ]
     },

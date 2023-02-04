@@ -177,17 +177,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Monterey pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Longhorn beetles",
+            "Aged yellow and dry",
             "Crown gall",
-            "Aged yellow and dry"
+            "Dieback"
         ]
     },
     "main_name_original": "Pinus radiata",

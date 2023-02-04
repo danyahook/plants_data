@@ -204,7 +204,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Brake",
             "genus": "Maidenhair ferns",
             "species": "Southern maidenhair fern"
@@ -212,10 +214,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Brown spot",
+            "Aged yellow and dry",
             "Leaf rot",
-            "Leaf scorch",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Adiantum capillus-veneris",

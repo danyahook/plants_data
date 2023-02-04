@@ -178,7 +178,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Sunflowers",
             "species": "Maximilian sunflower"
@@ -186,11 +189,11 @@
         "toxic_data": [],
         "diseases_data": [
             "Caterpillars",
-            "Plant dried up",
-            "Brown spot",
             "Sap-sucking insects",
+            "Leaf beetles",
             "Leaf rot",
-            "Leaf beetles"
+            "Brown spot",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Helianthus maximiliani",

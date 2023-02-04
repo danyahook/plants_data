@@ -202,7 +202,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Glebionis",
             "species": "Corn marigold"
@@ -210,8 +213,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Flower withering",
-            "Leaf rot",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Glebionis segetum",

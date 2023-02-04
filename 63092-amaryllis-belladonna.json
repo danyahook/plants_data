@@ -248,22 +248,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Amaryllis",
             "species": "Belladonna lily"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Wilting after blooming",
             "Aged yellow and dry",
-            "Leaf rot",
-            "Flower withering",
-            "Brown spot",
             "Leaf beetles",
-            "Wilting after blooming"
+            "Leaf rot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Amaryllis belladonna",

@@ -177,7 +177,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Spruces",
             "species": "White spruce"
@@ -185,11 +188,11 @@
         "toxic_data": [],
         "diseases_data": [
             "Fire ants",
-            "Longhorn beetles",
-            "Fruit withering",
-            "Crown gall",
+            "Dieback",
             "Branch blight",
-            "Dieback"
+            "Fruit withering",
+            "Longhorn beetles",
+            "Crown gall"
         ]
     },
     "main_name_original": "Picea glauca",

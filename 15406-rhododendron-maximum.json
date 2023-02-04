@@ -185,24 +185,7 @@
             "Rhododendron maximum",
             "Rhododendron purpureum"
         ],
-        "ru_data": {
-            "common_names": [
-                "Рододе́ндрон крупне́йший"
-            ],
-            "synonyms": [
-                "Rhododendron ashleyi",
-                "Rhododendron bigener hort. ex",
-                "Rhododendron maximum f. apetalum",
-                "Rhododendron fragrans hort. ex",
-                "Rhododendron procerum",
-                "Rhododendron maximum var. leachii",
-                "Hymenanthes maxima",
-                "Rhododendron tigrinum hort. ex",
-                "Rhododendron purshii",
-                "Rhododendron maximum",
-                "Rhododendron purpureum"
-            ]
-        },
+        "ru_data": null,
         "rank": 1107,
         "items_data": {
             "sunlight": "Partial sun",
@@ -215,19 +198,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Azaleas",
             "species": "Great laurel"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Caterpillars",
             "Flower withering",
-            "Brown spot",
             "Petal blight",
-            "Caterpillars"
+            "Brown spot"
         ]
     },
     "main_name_original": "Rhododendron maximum",

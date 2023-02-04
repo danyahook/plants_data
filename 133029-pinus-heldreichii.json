@@ -193,7 +193,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pines",
             "species": "Bosnian pine"
@@ -201,9 +204,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Longhorn beetles",
-            "Crown gall",
+            "Plant dried up",
             "Fruit withering",
-            "Plant dried up"
+            "Crown gall"
         ]
     },
     "main_name_original": "Pinus heldreichii",

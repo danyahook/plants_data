@@ -208,19 +208,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Mugworts",
             "species": "Common wormwood"
         },
         "toxic_data": [
-            ""
+            "Slightly Toxic to Humans"
         ],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
             "Thrips",
-            "Plant dried up"
+            "Plant dried up",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Artemisia absinthium",

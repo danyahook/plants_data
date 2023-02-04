@@ -173,18 +173,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Spruces",
             "species": "Oriental spruce"
         },
         "toxic_data": [],
         "diseases_data": [
+            "Dieback",
+            "Branch blight",
             "Fruit withering",
             "Longhorn beetles",
-            "Crown gall",
-            "Dieback",
-            "Branch blight"
+            "Crown gall"
         ]
     },
     "main_name_original": "Picea orientalis",

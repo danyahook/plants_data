@@ -164,7 +164,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Sensitive fern",
             "genus": "Ostrich Fern",
             "species": "Ostrich fern"
@@ -172,10 +174,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Caterpillars",
-            "Brown spot",
+            "Fruit deformity",
             "Leaf rot",
-            "Leaf scorch",
-            "Fruit deformity"
+            "Brown spot",
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Matteuccia struthiopteris",

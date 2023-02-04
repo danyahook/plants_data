@@ -197,19 +197,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Blood lilies",
             "species": "Blood flower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Flower withering",
-            "Brown spot",
-            "Leaf rot",
+            "Soil mold",
             "Rust disease",
-            "Soil mold"
+            "Flower withering",
+            "Leaf rot",
+            "Brown spot",
+            "Scars"
         ]
     },
     "main_name_original": "Haemanthus coccineus",

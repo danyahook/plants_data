@@ -195,16 +195,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Spruces",
             "species": "Sitka spruce"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
-            "Crown gall",
             "Fruit withering",
+            "Crown gall",
+            "Dieback",
             "Fire ants"
         ]
     },

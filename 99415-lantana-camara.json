@@ -191,23 +191,26 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Verbena",
             "genus": "Shrub verbenas",
             "species": "Common lantana"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
-            "Brown spot",
             "Leaf miners",
+            "Aged yellow and dry",
             "Leaf beetles",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Lantana camara",

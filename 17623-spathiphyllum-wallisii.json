@@ -169,22 +169,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Peace lilies",
             "species": "Peace lily"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Plant dried up",
+            "Flower withering",
+            "Leaf rot",
             "Brown spot",
-            "Leaf rot"
+            "Plant dried up"
         ]
     },
     "main_name_original": "Spathiphyllum wallisii",

@@ -183,22 +183,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Yuccas",
             "species": "Spanish dagger"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Plant dried up",
-            "Brown spot",
-            "Fruit withering",
             "Wilting after blooming",
-            "Leaf scorch",
-            "Aged yellow and dry"
+            "Fruit withering",
+            "Aged yellow and dry",
+            "Brown spot",
+            "Plant dried up",
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Yucca gloriosa",

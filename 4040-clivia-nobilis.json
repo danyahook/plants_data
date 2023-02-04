@@ -168,19 +168,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Natal lilies",
             "species": "Bush lily"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Brown spot",
-            "Scars",
             "Underwatering",
-            "Leaf rot"
+            "Scars",
+            "Leaf rot",
+            "Brown spot"
         ]
     },
     "main_name_original": "Clivia nobilis",

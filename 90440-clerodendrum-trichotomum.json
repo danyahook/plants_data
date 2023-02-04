@@ -208,17 +208,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Glorybowers",
             "species": "Harlequin glorybower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Sap-sucking insects",
-            "Leaf beetles",
             "Wilting after blooming",
-            "Nutrient deficiencies"
+            "Nutrient deficiencies",
+            "Leaf beetles",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Clerodendrum trichotomum",

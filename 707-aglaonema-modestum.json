@@ -176,19 +176,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Chinese evergreens",
             "species": "Chinese evergreen"
         },
         "toxic_data": [
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Brown spot",
             "Underwatering",
-            "Nutrient deficiencies"
+            "Nutrient deficiencies",
+            "Brown spot"
         ]
     },
     "main_name_original": "Aglaonema modestum",

@@ -182,19 +182,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Cucurbitales",
+            "order": [
+                "Cucurbitales"
+            ],
             "family": "Begonia",
             "genus": "Begonias",
             "species": "Bolivian begonia"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Aged yellow and dry",
-            "Leaf beetles",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Begonia boliviensis",

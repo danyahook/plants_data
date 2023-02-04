@@ -212,21 +212,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Monsteras",
             "species": "Swiss cheese plant"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Brown spot",
             "Underwatering",
+            "Aged yellow and dry",
             "Leaf scorch",
-            "Aged yellow and dry"
+            "Brown spot"
         ]
     },
     "main_name_original": "Monstera deliciosa",

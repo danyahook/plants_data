@@ -172,7 +172,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Curio",
             "species": "String of pearls"
@@ -180,8 +183,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Curio rowleyanus",

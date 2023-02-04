@@ -260,17 +260,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Nerines",
             "species": "Guernsey lily"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Leaf rot",
-            "Wilting after blooming",
-            "Brown spot"
+            "Brown spot",
+            "Flower withering",
+            "Wilting after blooming"
         ]
     },
     "main_name_original": "Nerine sarniensis",

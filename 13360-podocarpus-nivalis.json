@@ -167,17 +167,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Podocarpus",
             "genus": "Plum pines",
             "species": "Alpine totara"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Brown spot",
             "Branch blight",
             "Plant dried up",
-            "Leaf scorch"
+            "Leaf scorch",
+            "Brown spot"
         ]
     },
     "main_name_original": "Podocarpus nivalis",

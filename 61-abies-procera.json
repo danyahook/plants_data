@@ -188,7 +188,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Firs",
             "species": "Noble fir"
@@ -196,10 +199,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Fire ants",
-            "Longhorn beetles",
-            "Fruit withering",
+            "Dieback",
             "Branch blight",
-            "Dieback"
+            "Fruit withering",
+            "Longhorn beetles"
         ]
     },
     "main_name_original": "Abies procera",

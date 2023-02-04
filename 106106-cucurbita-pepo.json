@@ -270,7 +270,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Cucurbitales",
+            "order": [
+                "Cucurbitales"
+            ],
             "family": "Gourd",
             "genus": "Squashes",
             "species": "Field pumpkin"
@@ -278,11 +280,11 @@
         "toxic_data": [],
         "diseases_data": [
             "Caterpillars",
-            "Fruit Spot",
-            "Brown spot",
             "Powdery Mildew",
+            "Fruit Spot",
+            "Leaf beetles",
             "Leaf rot",
-            "Leaf beetles"
+            "Brown spot"
         ]
     },
     "main_name_original": "Cucurbita pepo",

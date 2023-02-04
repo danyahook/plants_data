@@ -175,23 +175,26 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Hyacinths",
             "species": "Common hyacinth"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Scars",
             "Caterpillars",
-            "Brown spot",
+            "Scars",
             "Wilting after blooming",
-            "Yellow spot"
+            "Yellow spot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Hyacinthus orientalis",

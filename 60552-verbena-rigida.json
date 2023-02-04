@@ -210,17 +210,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Verbena",
             "genus": "Vervains",
             "species": "Slender vervain"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Leaf beetles",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Verbena rigida",

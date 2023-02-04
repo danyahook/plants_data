@@ -177,17 +177,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Sequoia",
             "species": "Coast redwood"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Branch blight",
-            "Crown gall",
-            "Fire ants"
+            "Fire ants",
+            "Dieback",
+            "Crown gall"
         ]
     },
     "main_name_original": "Sequoia sempervirens",

@@ -176,17 +176,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Feverfews",
             "species": "Wild quinine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Leaf beetles",
-            "Leaf miners"
+            "Leaf miners",
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Parthenium integrifolium",

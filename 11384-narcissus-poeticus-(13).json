@@ -212,20 +212,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Daffodils",
             "species": "Poet's narcissus"
         },
         "toxic_data": [
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs"
         ],
         "diseases_data": [
-            "Aged yellow and dry",
-            "Scars",
             "Fruit withering",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Aged yellow and dry",
+            "Scars"
         ]
     },
     "main_name_original": "Narcissus poeticus",

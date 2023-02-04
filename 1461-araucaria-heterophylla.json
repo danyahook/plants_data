@@ -189,19 +189,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Araucaria",
             "genus": "Araucaria",
             "species": "Norfolk island pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Fruit withering",
+            "Dieback",
             "Branch blight",
+            "Fruit withering",
             "Aged yellow and dry",
-            "Leaf scorch",
-            "Dieback"
+            "Scars",
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Araucaria heterophylla",

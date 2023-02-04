@@ -172,17 +172,7 @@
             "Ajax pseudonarcissus",
             "Narcissus pseudonarcissus"
         ],
-        "ru_data": {
-            "common_names": [
-                "Нарци́сс ло́жный",
-                "Нарцисс жёлтый",
-                "Нарцисс недушистый"
-            ],
-            "synonyms": [
-                "Ajax pseudonarcissus",
-                "Narcissus pseudonarcissus"
-            ]
-        },
+        "ru_data": null,
         "rank": 332,
         "items_data": {
             "water": "Every 1-2 weeks",
@@ -192,20 +182,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Daffodils",
             "species": "Wild daffodil"
         },
         "toxic_data": [
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs"
         ],
         "diseases_data": [
-            "Aged yellow and dry",
-            "Scars",
             "Fruit withering",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Aged yellow and dry",
+            "Scars"
         ]
     },
     "main_name_original": "Narcissus pseudonarcissus",

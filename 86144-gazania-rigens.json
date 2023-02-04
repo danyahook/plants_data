@@ -216,7 +216,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Treasure flowers",
             "species": "Treasure flower"
@@ -224,8 +227,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Powdery Mildew",
-            "Nutrient deficiencies",
             "Plant dried up",
+            "Nutrient deficiencies",
             "Brown spot"
         ]
     },

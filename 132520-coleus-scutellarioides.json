@@ -265,18 +265,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Coleus",
             "species": "Common coleus"
         },
         "toxic_data": [
-            ""
+            "Toxic to Dogs"
         ],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
             "Aged yellow and dry",
+            "Leaf rot",
             "Brown spot"
         ]
     },

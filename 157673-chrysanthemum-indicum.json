@@ -289,21 +289,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Mums",
             "species": "Indian chrysanthemum"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
+            "Petal blight",
             "Wilting after blooming",
             "Leaf beetles",
-            "Petal blight"
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Chrysanthemum indicum",

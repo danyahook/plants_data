@@ -150,14 +150,7 @@
         "synonyms": [
             "Agave attenuata"
         ],
-        "ru_data": {
-            "common_names": [
-                "Агава оттянутая"
-            ],
-            "synonyms": [
-                "Agave attenuata"
-            ]
-        },
+        "ru_data": null,
         "rank": 108,
         "items_data": {
             "water": "Every 3 weeks",
@@ -168,19 +161,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Agaves",
             "species": "Foxtail agave"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
             "Flower withering",
-            "Plant dried up",
-            "Brown spot",
             "Low light",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Brown spot",
+            "Scars",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Agave attenuata",

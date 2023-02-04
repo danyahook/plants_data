@@ -171,7 +171,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Brake",
             "genus": "Maidenhair ferns",
             "species": "Aleutian maidenhair"
@@ -179,8 +181,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
             "Aged yellow and dry",
+            "Leaf rot",
             "Brown spot"
         ]
     },

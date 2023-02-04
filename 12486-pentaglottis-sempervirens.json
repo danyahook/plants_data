@@ -179,17 +179,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Boraginales",
+            "order": [
+                "Boraginales"
+            ],
             "family": "Borage",
             "genus": "Green Alkanet",
             "species": "Evergreen bugloss"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Wilting after blooming",
-            "Leaf beetles",
             "Fruit withering",
-            "Leaf deformity"
+            "Leaf deformity",
+            "Wilting after blooming",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Pentaglottis sempervirens",

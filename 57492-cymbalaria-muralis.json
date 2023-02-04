@@ -195,7 +195,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "Cymbalaria",
             "species": "Kenilworth ivy"
@@ -203,8 +206,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Leaf rot"
         ]
     },
     "main_name_original": "Cymbalaria muralis",

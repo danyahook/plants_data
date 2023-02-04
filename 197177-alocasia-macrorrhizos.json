@@ -270,20 +270,23 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Elephant's-ears",
             "species": "Giant taro"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
             "Underwatering",
-            "Yellow spot",
             "Aged yellow and dry",
+            "Yellow spot",
             "Brown spot"
         ]
     },

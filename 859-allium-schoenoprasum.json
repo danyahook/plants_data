@@ -328,17 +328,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Onions",
             "species": "Chives"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Fruit withering",
+            "Flower withering",
             "Root deformity",
             "Brown spot"
         ]

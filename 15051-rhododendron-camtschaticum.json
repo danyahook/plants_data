@@ -173,14 +173,7 @@
         "synonyms": [
             "Rhododendron camtschaticum"
         ],
-        "ru_data": {
-            "common_names": [
-                "Rhododendron camtschaticum"
-            ],
-            "synonyms": [
-                "Rhododendron camtschaticum"
-            ]
-        },
+        "ru_data": null,
         "rank": 9985,
         "items_data": {
             "sunlight": "Partial sun"
@@ -188,13 +181,16 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Azaleas",
             "species": "Kamchatka rhododendron"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": []
     },

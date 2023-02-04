@@ -169,7 +169,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Acanthus",
             "genus": "Pachystachys",
             "species": "Golden shrimp plant"
@@ -177,8 +180,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf beetles",
-            "Nutrient deficiencies"
+            "Nutrient deficiencies",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Pachystachys lutea",

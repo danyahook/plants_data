@@ -234,18 +234,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ginkgos",
-            "order": "Ginkgos",
+            "order": [
+                "Ginkgos"
+            ],
             "family": "Ginkgo",
             "genus": "Ginkgo",
             "species": "Maidenhair tree"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Leaf scorch",
+            "Underwatering",
+            "Nutrient deficiencies",
             "Leaf rot",
             "Brown spot",
-            "Underwatering",
-            "Nutrient deficiencies"
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Ginkgo biloba",

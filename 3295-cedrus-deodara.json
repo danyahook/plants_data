@@ -189,19 +189,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Cedars",
             "species": "Deodar cedar"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Plant dried up",
-            "Brown spot",
-            "Longhorn beetles",
+            "Dieback",
             "Fruit withering",
             "Aged yellow and dry",
-            "Dieback"
+            "Brown spot",
+            "Longhorn beetles",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Cedrus deodara",

@@ -250,18 +250,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Privets",
             "species": "Glossy privet"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Leaf deformity",
-            "Brown spot",
             "Leaf Weevils",
-            "Yellow spot"
+            "Yellow spot",
+            "Brown spot",
+            "Leaf deformity",
+            "Scars"
         ]
     },
     "main_name_original": "Ligustrum lucidum",

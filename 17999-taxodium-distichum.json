@@ -197,19 +197,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Cypresses",
             "species": "Bald cypress"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Underwatering",
-            "Fruit Spot",
-            "Plant dried up",
-            "Brown spot",
             "Crown gall",
-            "Branch blight"
+            "Underwatering",
+            "Branch blight",
+            "Fruit Spot",
+            "Brown spot",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Taxodium distichum",

@@ -164,7 +164,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Agaves",
             "species": "Yant"
@@ -172,9 +175,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Flower withering",
-            "Plant dried up",
             "Low light",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Agave utahensis",

@@ -160,7 +160,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asphodel",
             "genus": "Haworthias",
             "species": "Fairy washboard"
@@ -168,9 +171,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
+            "Low light",
             "Soft rot",
-            "Leaf rot",
-            "Low light"
+            "Leaf rot"
         ]
     },
     "main_name_original": "Haworthia limifolia",

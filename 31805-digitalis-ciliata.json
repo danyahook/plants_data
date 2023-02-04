@@ -154,14 +154,7 @@
         "synonyms": [
             "Digitalis ciliata"
         ],
-        "ru_data": {
-            "common_names": [
-                "Наперстянка реснитчатая"
-            ],
-            "synonyms": [
-                "Digitalis ciliata"
-            ]
-        },
+        "ru_data": null,
         "rank": 105486,
         "items_data": {
             "sunlight": "Full sun"
@@ -169,7 +162,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "Foxgloves",
             "species": "Digitalis ciliata"

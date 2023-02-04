@@ -212,17 +212,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Orchid",
             "genus": "Slipper orchids",
             "species": "Lady's slipper orchid"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Leaf scorch",
-            "Leaf deformity"
+            "Leaf deformity",
+            "Flower withering",
+            "Leaf scorch"
         ]
     },
     "main_name_original": "Cypripedium calceolus",

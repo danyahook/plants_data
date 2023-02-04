@@ -191,7 +191,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Polypody",
             "genus": "Golden polypodies",
             "species": "Golden polypody"
@@ -199,8 +201,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Leaf rot",
             "Leaf beetles",
+            "Leaf rot",
             "Brown spot"
         ]
     },

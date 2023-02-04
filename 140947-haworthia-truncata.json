@@ -161,17 +161,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asphodel",
             "genus": "Haworthias",
             "species": "Horse's teeth"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Soft rot",
             "Low light",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Soft rot",
+            "Scars"
         ]
     },
     "main_name_original": "Haworthia truncata",

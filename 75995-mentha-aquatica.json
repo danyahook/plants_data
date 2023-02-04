@@ -733,21 +733,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Mints",
             "species": "Water mint"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
             "Thrips",
-            "Brown spot",
-            "Leaf rot",
+            "Yellow spot",
             "Leaf beetles",
-            "Yellow spot"
+            "Leaf rot",
+            "Brown spot"
         ]
     },
     "main_name_original": "Mentha aquatica",

@@ -208,17 +208,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Giant sequoia",
             "species": "Giant sequoia"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Longhorn beetles",
             "Branch blight",
-            "Fruit withering"
+            "Fruit withering",
+            "Dieback"
         ]
     },
     "main_name_original": "Sequoiadendron giganteum",

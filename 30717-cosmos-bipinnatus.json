@@ -208,18 +208,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Cosmos",
             "species": "Garden cosmos"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Thrips",
-            "Plant dried up",
             "Wilting after blooming",
-            "Leaf beetles"
+            "Thrips",
+            "Leaf beetles",
+            "Flower withering",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Cosmos bipinnatus",

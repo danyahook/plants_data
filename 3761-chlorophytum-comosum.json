@@ -254,7 +254,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Spider plants",
             "species": "Spider plant"
@@ -262,10 +265,10 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Scars",
-            "Brown spot",
             "Leaf tips withering",
             "Leaf rot",
+            "Brown spot",
+            "Scars",
             "Leaf scorch"
         ]
     },

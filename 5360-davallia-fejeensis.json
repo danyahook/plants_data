@@ -164,7 +164,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Ferns",
-            "order": "Polypodiales",
+            "order": [
+                "Polypodiales"
+            ],
             "family": "Hanging fern",
             "genus": "Deersfoot ferns",
             "species": "Fiji davallia"
@@ -172,8 +174,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Leaf tips withering",
-            "Leaf rot",
             "Plant dried up",
+            "Leaf rot",
             "Brown spot"
         ]
     },

@@ -174,21 +174,7 @@
             "Campanula mayi auct.",
             "Campanula isophylla"
         ],
-        "ru_data": {
-            "common_names": [
-                "Колокольчик равнолистный",
-                "Кампанула равнолистная",
-                "Жених и невеста",
-                "Итальянский колокольчик",
-                "Кампанула изофилла"
-            ],
-            "synonyms": [
-                "Campanula floribunda",
-                "Campanula isophylla f. alba",
-                "Campanula mayi auct.",
-                "Campanula isophylla"
-            ]
-        },
+        "ru_data": null,
         "rank": 3725,
         "items_data": {
             "sunlight": "Full sun",
@@ -201,17 +187,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Bellflower",
             "genus": "Bellflowers",
             "species": "Italian bellflower"
         },
         "toxic_data": [],
         "diseases_data": [
+            "Wilting after blooming",
             "Flower withering",
             "Aged yellow and dry",
-            "Petal blight",
-            "Wilting after blooming"
+            "Petal blight"
         ]
     },
     "main_name_original": "Campanula isophylla",

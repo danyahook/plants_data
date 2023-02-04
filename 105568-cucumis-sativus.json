@@ -181,17 +181,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Cucurbitales",
+            "order": [
+                "Cucurbitales"
+            ],
             "family": "Gourd",
             "genus": "Melon",
             "species": "Cucumber"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Sap-sucking insects",
-            "Leaf rot",
+            "Brown spot",
             "Leaf beetles",
-            "Brown spot"
+            "Leaf rot",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Cucumis sativus",

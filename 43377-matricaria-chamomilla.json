@@ -242,18 +242,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Mayweed",
             "species": "German chamomile"
         },
         "toxic_data": [
-            ""
+            "Slightly Toxic to Humans"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Wilting after blooming",
             "Aged yellow and dry",
+            "Wilting after blooming",
+            "Flower withering",
             "Fire ants"
         ]
     },

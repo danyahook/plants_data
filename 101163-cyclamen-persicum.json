@@ -201,22 +201,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Primrose",
             "genus": "Alpine violet",
             "species": "Persian cyclamen"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Wilting after blooming",
+            "Aged yellow and dry",
             "Leaf rot",
-            "Aged yellow and dry"
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Cyclamen persicum",

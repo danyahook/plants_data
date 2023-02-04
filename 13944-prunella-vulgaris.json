@@ -199,17 +199,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Selfheals",
             "species": "Common selfheal"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Underwatering",
             "Leaf beetles",
             "Fruit withering",
-            "Plant dried up"
+            "Plant dried up",
+            "Underwatering"
         ]
     },
     "main_name_original": "Prunella vulgaris",

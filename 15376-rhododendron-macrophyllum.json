@@ -181,18 +181,7 @@
             "Hymenanthes macrophylla",
             "Rhododendron macrophyllum"
         ],
-        "ru_data": {
-            "common_names": [
-                "Рододендрон крупнолистный"
-            ],
-            "synonyms": [
-                "Rhododendron maximum",
-                "Rhododendron washingtonianum",
-                "Azalea macrophylla",
-                "Hymenanthes macrophylla",
-                "Rhododendron macrophyllum"
-            ]
-        },
+        "ru_data": null,
         "rank": 1854,
         "items_data": {
             "sunlight": "Full sun",
@@ -210,17 +199,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Azaleas",
             "species": "Pacific rhododendron"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
+            "Flower withering",
             "Petal blight",
             "Brown spot"
         ]

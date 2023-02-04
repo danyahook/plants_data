@@ -210,16 +210,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Sunflowers",
             "species": "Giant sunflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Leaf rot",
-            "Leaf beetles",
             "Plant dried up",
+            "Leaf beetles",
+            "Leaf rot",
             "Brown spot"
         ]
     },

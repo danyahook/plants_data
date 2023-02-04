@@ -165,19 +165,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Araucaria",
             "genus": "Araucaria",
             "species": "Hoop Pine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Fruit withering",
-            "Branch blight",
-            "Aged yellow and dry",
             "Leaf scorch",
-            "Dieback"
+            "Branch blight",
+            "Dieback",
+            "Fruit withering",
+            "Aged yellow and dry",
+            "Scars"
         ]
     },
     "main_name_original": "Araucaria cunninghamii",

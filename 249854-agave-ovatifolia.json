@@ -169,16 +169,7 @@
             "Agave noah",
             "Agave ovatifolia"
         ],
-        "ru_data": {
-            "common_names": [
-                "Агава яйцелистная",
-                "Гигант"
-            ],
-            "synonyms": [
-                "Agave noah",
-                "Agave ovatifolia"
-            ]
-        },
+        "ru_data": null,
         "rank": 6137,
         "items_data": {
             "water": "Every 3 weeks",
@@ -193,19 +184,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Agaves",
             "species": "Whale's Tongue Agave"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Aged yellow and dry",
-            "Plant dried up",
-            "Low light",
             "Flower withering",
+            "Low light",
+            "Aged yellow and dry",
             "Brown spot",
-            "Scars"
+            "Scars",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Agave ovatifolia",

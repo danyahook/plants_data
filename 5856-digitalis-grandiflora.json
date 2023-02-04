@@ -171,22 +171,7 @@
             "Digitalis ochroleuca",
             "Digitalis grandiflora"
         ],
-        "ru_data": {
-            "common_names": [
-                "Наперстянка крупноцветковая"
-            ],
-            "synonyms": [
-                "Digitalis ambigua",
-                "Digitalis lutea-major",
-                "Digitalis flava",
-                "Digitalis magniflora",
-                "Digitalis orientalis",
-                "Digitalis lutea",
-                "Digitalis milleri",
-                "Digitalis ochroleuca",
-                "Digitalis grandiflora"
-            ]
-        },
+        "ru_data": null,
         "rank": 5966,
         "items_data": {
             "sunlight": "Full sun",
@@ -200,17 +185,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "Foxgloves",
             "species": "Yellow foxglove"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Sap-sucking insects",
-            "Nutrient deficiencies"
+            "Flower withering",
+            "Nutrient deficiencies",
+            "Brown spot"
         ]
     },
     "main_name_original": "Digitalis grandiflora",

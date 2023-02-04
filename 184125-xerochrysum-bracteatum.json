@@ -220,17 +220,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Xerochrysum",
             "species": "Strawflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Underwatering",
-            "Leaf deformity"
+            "Flower withering",
+            "Leaf deformity",
+            "Brown spot"
         ]
     },
     "main_name_original": "Xerochrysum bracteatum",

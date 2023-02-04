@@ -180,16 +180,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Lopseed",
             "genus": "Mimulus",
             "species": "Allegheny Monkeyflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Wilting after blooming",
             "Fruit withering",
+            "Wilting after blooming",
+            "Flower withering",
             "Leaf beetles"
         ]
     },

@@ -197,19 +197,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Lavender",
             "species": "French lavender"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Plant dried up",
-            "Brown spot",
             "Wilting after blooming",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Brown spot",
+            "Flower withering",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Lavandula dentata",

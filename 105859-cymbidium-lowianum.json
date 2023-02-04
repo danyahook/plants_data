@@ -171,7 +171,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Orchid",
             "genus": "Boat orchid",
             "species": "Low's boat orchid"
@@ -179,8 +182,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Scars",
-            "Anthracnose",
-            "Leaf scorch"
+            "Leaf scorch",
+            "Anthracnose"
         ]
     },
     "main_name_original": "Cymbidium lowianum",

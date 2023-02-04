@@ -205,18 +205,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Buxales",
+            "order": [
+                "Buxales"
+            ],
             "family": "Boxwood",
             "genus": "Boxes",
             "species": "Japanese box"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Leaf scorch",
             "Sap-sucking insects",
             "Branch blight",
+            "Leaf scorch",
             "Brown spot"
         ]
     },

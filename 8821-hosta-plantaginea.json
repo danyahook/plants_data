@@ -219,22 +219,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Asparagus",
             "genus": "Hostas",
             "species": "Fragrant plantain lily"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
+            "Slug or snails",
             "Caterpillars",
-            "Brown spot",
-            "Leaf rot",
             "Leaf beetles",
-            "Slug or snails"
+            "Leaf rot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Hosta plantaginea",

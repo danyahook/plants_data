@@ -183,17 +183,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Cypresses",
             "species": "Monterey cypress"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Underwatering",
-            "Dieback",
             "Longhorn beetles",
-            "Branch blight"
+            "Underwatering",
+            "Branch blight",
+            "Dieback"
         ]
     },
     "main_name_original": "Cupressus macrocarpa",

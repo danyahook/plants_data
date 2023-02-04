@@ -176,7 +176,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Zantedeschia",
             "species": "Spotted calla lily"
@@ -184,11 +187,11 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Brown spot",
-            "Sap-sucking insects",
             "Wilting after blooming",
+            "Nutrient deficiencies",
+            "Sap-sucking insects",
             "Leaf rot",
-            "Nutrient deficiencies"
+            "Brown spot"
         ]
     },
     "main_name_original": "Zantedeschia albomaculata",

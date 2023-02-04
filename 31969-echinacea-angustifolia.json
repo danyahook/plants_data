@@ -172,17 +172,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Coneflowers",
             "species": "Blacksamson echinacea"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Leaf beetles",
-            "Wilting after blooming"
+            "Wilting after blooming",
+            "Flower withering",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Echinacea angustifolia",

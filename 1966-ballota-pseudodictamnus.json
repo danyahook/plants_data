@@ -172,17 +172,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Horehounds",
             "species": "False dittany"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Sap-sucking insects",
             "Underwatering",
-            "Caterpillars"
+            "Caterpillars",
+            "Flower withering",
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Ballota pseudodictamnus",

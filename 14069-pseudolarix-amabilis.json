@@ -181,15 +181,18 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Pseudolarix",
             "species": "Golden larch"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Soft rot",
             "Branch blight",
+            "Soft rot",
             "Nutrient deficiencies",
             "Fire ants"
         ]

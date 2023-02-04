@@ -205,22 +205,24 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Cucurbitales",
+            "order": [
+                "Cucurbitales"
+            ],
             "family": "Begonia",
             "genus": "Begonias",
             "species": "Polka dot begonia"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Wilting after blooming",
-            "Leaf rot",
+            "Aged yellow and dry",
             "Leaf beetles",
-            "Aged yellow and dry"
+            "Leaf rot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Begonia maculata",

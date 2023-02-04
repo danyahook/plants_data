@@ -166,7 +166,9 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Buxales",
+            "order": [
+                "Buxales"
+            ],
             "family": "Boxwood",
             "genus": "Pachysandra",
             "species": "Japanese pachysandra"
@@ -174,8 +176,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Petal blight",
-            "Anthracnose",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Anthracnose"
         ]
     },
     "main_name_original": "Pachysandra terminalis",

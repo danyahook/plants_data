@@ -219,19 +219,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Vitales",
+            "order": [
+                "Vitales"
+            ],
             "family": "Grape",
             "genus": "Parthenocissus",
             "species": "Boston ivy"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
             "Caterpillars",
-            "Plant dried up",
-            "Brown spot",
             "Sap-sucking insects",
-            "Leaf beetles"
+            "Leaf beetles",
+            "Brown spot",
+            "Scars",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Parthenocissus tricuspidata",

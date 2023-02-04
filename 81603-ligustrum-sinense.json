@@ -197,16 +197,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Privets",
             "species": "Chinese privet"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scars",
-            "Leaf Weevils",
             "Leaf deformity",
+            "Leaf Weevils",
+            "Scars",
             "Brown spot"
         ]
     },

@@ -204,19 +204,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Junipers",
             "species": "Common juniper"
         },
         "toxic_data": [
-            ""
+            "Slightly Toxic to Humans"
         ],
         "diseases_data": [
-            "Plant dried up",
             "Longhorn beetles",
-            "Dieback",
-            "Branch blight"
+            "Branch blight",
+            "Plant dried up",
+            "Dieback"
         ]
     },
     "main_name_original": "Juniperus communis",

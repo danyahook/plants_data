@@ -180,21 +180,7 @@
             "Eucalyptus glandulosa",
             "Eucalyptus numerosa"
         ],
-        "ru_data": {
-            "common_names": [
-                "Эвкалипт белый",
-                "Эвкалипт беловатый"
-            ],
-            "synonyms": [
-                "Eucalyptus calyculata",
-                "Eucalyptus amygdalina var. alpina",
-                "Eucalyptus salicifolia",
-                "Eucalyptus amygdalina var. numerosa",
-                "Eucalyptus amygdalina",
-                "Eucalyptus glandulosa",
-                "Eucalyptus numerosa"
-            ]
-        },
+        "ru_data": null,
         "rank": 999999,
         "items_data": {
             "sunlight": "Full sun"
@@ -202,13 +188,15 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Myrtle order",
+            "order": [
+                "Myrtle order"
+            ],
             "family": "Myrtle",
             "genus": "Eucalypts",
             "species": "Black peppermint"
         },
         "toxic_data": [
-            ""
+            "Toxic to Dogs"
         ],
         "diseases_data": []
     },

@@ -202,7 +202,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Cosmos",
             "species": "Sulfur cosmos"
@@ -210,8 +213,8 @@
         "toxic_data": [],
         "diseases_data": [
             "Thrips",
-            "Leaf beetles",
-            "Plant dried up"
+            "Plant dried up",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Cosmos sulphureus",

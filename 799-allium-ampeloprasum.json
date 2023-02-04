@@ -309,19 +309,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Asparagus and allies",
+            "order": [
+                "Asparagus",
+                "Allies"
+            ],
             "family": "Amaryllis",
             "genus": "Onions",
             "species": "Broadleaf wild leek"
         },
         "toxic_data": [
-            ""
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Brown spot",
             "Flower withering",
             "Fruit withering",
-            "Root deformity",
-            "Brown spot"
+            "Root deformity"
         ]
     },
     "main_name_original": "Allium ampeloprasum",

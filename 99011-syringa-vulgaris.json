@@ -278,7 +278,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Lilacs",
             "species": "Common lilac"
@@ -286,9 +289,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Black spot",
             "Caterpillars",
-            "Nutrient deficiencies"
+            "Nutrient deficiencies",
+            "Black spot"
         ]
     },
     "main_name_original": "Syringa vulgaris",

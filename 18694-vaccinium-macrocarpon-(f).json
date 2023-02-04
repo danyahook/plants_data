@@ -173,17 +173,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Blueberries",
             "species": "Large cranberry"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Brown spot",
-            "Caterpillars",
             "Leaf Weevils",
-            "Nutrient deficiencies"
+            "Caterpillars",
+            "Nutrient deficiencies",
+            "Brown spot"
         ]
     },
     "main_name_original": "Vaccinium macrocarpon",

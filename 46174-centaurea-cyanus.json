@@ -227,19 +227,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Asters bellflowers fanflowers and allies",
+            "order": [
+                "Asters bellflowers fanflowers",
+                "Allies"
+            ],
             "family": "Daisy",
             "genus": "Centaury",
             "species": "Cornflower"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Underwatering",
-            "Plant dried up",
-            "Brown spot",
             "Powdery Mildew",
-            "Leaf rot"
+            "Underwatering",
+            "Leaf rot",
+            "Brown spot",
+            "Flower withering",
+            "Plant dried up"
         ]
     },
     "main_name_original": "Centaurea cyanus",

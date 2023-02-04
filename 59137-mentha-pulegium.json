@@ -352,19 +352,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Mints",
             "species": "Pennyroyal"
         },
         "toxic_data": [
-            "",
-            ""
+            "Slightly Toxic to Humans",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Yellow spot",
             "Thrips",
-            "Leaf rot"
+            "Leaf rot",
+            "Yellow spot"
         ]
     },
     "main_name_original": "Mentha pulegium",

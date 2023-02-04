@@ -217,23 +217,26 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Monocotyledons",
-            "order": "Water plantains and allies",
+            "order": [
+                "Water plantains",
+                "Allies"
+            ],
             "family": "Arum",
             "genus": "Zantedeschia",
             "species": "Calla lily"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Highly Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
+            "Underwatering",
+            "Wilting after blooming",
+            "Nutrient deficiencies",
             "Sap-sucking insects",
             "Leaf rot",
-            "Brown spot",
-            "Wilting after blooming",
-            "Underwatering",
-            "Nutrient deficiencies"
+            "Brown spot"
         ]
     },
     "main_name_original": "Zantedeschia aethiopica",

@@ -231,22 +231,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "Azaleas",
             "species": "Red azalea"
         },
         "toxic_data": [
-            "",
-            ""
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
             "Caterpillars",
-            "Brown spot",
-            "Wilting after blooming",
             "Petal blight",
-            "Lace bugs"
+            "Wilting after blooming",
+            "Lace bugs",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Rhododendron simsii",

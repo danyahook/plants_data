@@ -180,7 +180,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Cypresses",
             "species": "Mediterranean cypress"
@@ -188,9 +191,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Longhorn beetles",
-            "Crown gall",
             "Underwatering",
-            "Branch blight"
+            "Branch blight",
+            "Crown gall"
         ]
     },
     "main_name_original": "Cupressus sempervirens",

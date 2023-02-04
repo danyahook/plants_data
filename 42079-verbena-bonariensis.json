@@ -204,16 +204,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Verbena",
             "genus": "Vervains",
             "species": "Purpletop vervain"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Leaf rot",
             "Leaf beetles",
+            "Flower withering",
             "Wilting after blooming"
         ]
     },

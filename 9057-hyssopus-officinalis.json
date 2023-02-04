@@ -173,18 +173,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Hyssop",
             "species": "Hyssop"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
-            "Scars",
-            "Fruit withering",
             "Leaf rot",
-            "Leaf beetles"
+            "Flower withering",
+            "Fruit withering",
+            "Leaf beetles",
+            "Scars"
         ]
     },
     "main_name_original": "Hyssopus officinalis",

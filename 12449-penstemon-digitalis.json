@@ -174,17 +174,7 @@
             "Chelone digitalis",
             "Penstemon digitalis"
         ],
-        "ru_data": {
-            "common_names": [
-                "Пенстемон наперстянковый"
-            ],
-            "synonyms": [
-                "Penstemon laevigatus var. angustus",
-                "Penstemon laevigatus subsp. digitalis",
-                "Chelone digitalis",
-                "Penstemon digitalis"
-            ]
-        },
+        "ru_data": null,
         "rank": 2351,
         "items_data": {
             "water": "Every week",
@@ -197,7 +187,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "Penstemon",
             "species": "Foxglove beardtongue"

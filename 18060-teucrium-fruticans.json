@@ -197,7 +197,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Germanders",
             "species": "Tree germander"
@@ -205,9 +208,9 @@
         "toxic_data": [],
         "diseases_data": [
             "Underwatering",
-            "Sap-sucking insects",
+            "Nutrient deficiencies",
             "Leaf rot",
-            "Nutrient deficiencies"
+            "Sap-sucking insects"
         ]
     },
     "main_name_original": "Teucrium fruticans",

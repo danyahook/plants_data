@@ -190,22 +190,25 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Heathers and allies",
+            "order": [
+                "Heathers",
+                "Allies"
+            ],
             "family": "Heath",
             "genus": "sheep laurel",
             "species": "Mountain laurel"
         },
         "toxic_data": [
-            "",
-            "",
-            ""
+            "Moderate Toxic to Humans",
+            "Toxic to Dogs",
+            "Toxic to Cats"
         ],
         "diseases_data": [
-            "Flower withering",
-            "Brown spot",
             "Leaf Weevils",
             "Aged yellow and dry",
-            "Anthracnose"
+            "Anthracnose",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Kalmia latifolia",

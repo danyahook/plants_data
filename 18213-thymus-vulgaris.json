@@ -188,7 +188,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Thymes",
             "species": "Garden thyme"
@@ -197,9 +200,9 @@
         "diseases_data": [
             "Underwatering",
             "Thrips",
-            "Brown spot",
             "Sap-sucking insects",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Brown spot"
         ]
     },
     "main_name_original": "Thymus vulgaris",

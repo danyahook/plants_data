@@ -195,7 +195,10 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Mint",
             "genus": "Melissa",
             "species": "Lemon balm"
@@ -204,8 +207,8 @@
         "diseases_data": [
             "Underwatering",
             "Thrips",
-            "Leaf beetles",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Leaf beetles"
         ]
     },
     "main_name_original": "Melissa officinalis",

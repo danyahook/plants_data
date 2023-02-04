@@ -195,16 +195,19 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Cypress",
             "genus": "Cypresses",
             "species": "Lawson's cypress"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Dieback",
             "Fruit withering",
-            "Aged yellow and dry"
+            "Aged yellow and dry",
+            "Dieback"
         ]
     },
     "main_name_original": "Chamaecyparis lawsoniana",

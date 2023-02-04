@@ -233,17 +233,20 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Conifers",
-            "order": "Pines and allies",
+            "order": [
+                "Pines",
+                "Allies"
+            ],
             "family": "Pine",
             "genus": "Firs",
             "species": "Silver fir"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Scale insects",
             "Longhorn beetles",
             "Branch blight",
-            "Fruit withering"
+            "Fruit withering",
+            "Scale insects"
         ]
     },
     "main_name_original": "Abies alba",

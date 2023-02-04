@@ -248,18 +248,21 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Olive",
             "genus": "Jasmine",
             "species": "Arabian jasmine"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Yellow spot",
-            "Flower withering",
-            "Brown spot",
             "Scars",
-            "Nutrient deficiencies"
+            "Nutrient deficiencies",
+            "Yellow spot",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Jasminum sambac",

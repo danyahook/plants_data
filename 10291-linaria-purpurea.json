@@ -192,19 +192,22 @@
         "class_data": {
             "phylum": "Vascular plants",
             "class": "Dicotyledons",
-            "order": "Mints plantains olives and allies",
+            "order": [
+                "Mints plantains olives",
+                "Allies"
+            ],
             "family": "Plantain",
             "genus": "wild snapdragon",
             "species": "Purple toadflax"
         },
         "toxic_data": [],
         "diseases_data": [
-            "Flower withering",
             "Underwatering",
-            "Brown spot",
-            "Sap-sucking insects",
             "Wilting after blooming",
-            "Aged yellow and dry"
+            "Sap-sucking insects",
+            "Aged yellow and dry",
+            "Brown spot",
+            "Flower withering"
         ]
     },
     "main_name_original": "Linaria purpurea",
