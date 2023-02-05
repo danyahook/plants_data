@@ -1,26 +1,45 @@
 {
-    "id": "a2bca679-dcfa-4361-898c-e008bf5857be",
-    "link": "https://www.rhs.org.uk/plants/106242/solanum-tuberosum/details",
+    "latin_name": "Solanum tuberosum",
+    "main_common_name": {
+        "en": "Potato",
+        "ru": "Картофель"
+    },
+    "common_names": {
+        "en": [
+            "Potato",
+            "Tattie",
+            "Underground onion",
+            "Tater",
+            "White potato",
+            "Irish potato",
+            "Spud"
+        ],
+        "ru": [
+            "Картофель",
+            "Паслён клубненосный",
+            "Картофель клубненосный",
+            "Картошка",
+            "Картофель чилийский",
+            "Картофель европейский"
+        ]
+    },
+    "synonyms": [
+        "Solanum tuberosum var. vulgare",
+        "Solanum tuberosum"
+    ],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "Irish potato",
-            "underground onion",
-            "white potato"
-        ],
-        "synonyms": [
-            "Solanum tuberosum var. vulgare"
-        ]
-    },
+    "genus_description": "Solanum can be annuals, perennials, evergreen or deciduous shrubs or twining climbers, with simple or pinnnately lobed leaves and star- or bowl-shaped, 5-lobed flowers with prominent stamens, followed by fleshy fruits",
+    "rank": 1229,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -35,7 +54,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -71,137 +109,40 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [
+        "Toxic to Cats"
+    ],
+    "how_to_grow": {
+        "cultivation": "Grow in an open, frost-free site with deep, fertile, moisture-retentive soil for high quality and heavy yields. Improve soil by adding organic matter, such as well-rotted manure, in the autumn. Draw earth up around the stems as they emerge, to exclude light and prevent the potatoes from becoming green. Water well in dry periods. Potatoes can also be grown in large containers or potato gro-bags. See potato cultivation for further advice.",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Cottage and informal garden"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Sap-sucking insects",
+        "Nutrient deficiencies",
+        "Brown spot",
+        "Leaf deformity"
+    ],
+    "scientific_classification": {
+        "family": "Nightshade",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Nightshades",
+            "Bindweeds",
+            "Gooseweeds",
+            "And allies"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "genus": "Nightshades",
+        "species": "Potato"
     },
     "botanical_details": {
-        "family": "Solanaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy, Clump forming",
-        "genus": "Solanum can be annuals, perennials, evergreen or deciduous shrubs or twining climbers, with simple or pinnnately lobed leaves and star- or bowl-shaped, 5-lobed flowers with prominent stamens, followed by fleshy fruits",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in an open, frost-free site with deep, fertile, moisture-retentive soil for high quality and heavy yields. Improve soil by adding organic matter, such as well-rotted manure, in the autumn. Draw earth up around the stems as they emerge, to exclude light and prevent the potatoes from becoming green. Water well in dry periods. Potatoes can also be grown in large containers or potato gro-bags. See potato cultivation for further advice.",
-            "link_names": [
-                "Potato cultivation"
-            ],
-            "related_links": {
-                "potato_cultivation": "https://www.rhs.org.uk/vegetables/potatoes/grow-your-own"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by chitting tubers or 'seed potatoes'. This is done by standing the tubers 'rose-end' up (the end with the most eyes) in egg boxes or trays in a cool, light place. After two to three weeks the shoots will begin to sprout. Plant out after frosts have passed, from about mid March to mid April.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Cottage and informal garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to cutworms, slugs, wireworms, leaf and bud eelworm, Potato cyst nematodes",
-            "link_names": [
-                "Potato cyst nematodes"
-            ],
-            "related_links": {
-                "potato_cyst_nematodes": "https://www.rhs.org.uk/biodiversity/potato-cyst-nematodes"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Potato scab, Potato blight, Potato rot, Potato blackleg and stem canker",
-            "link_names": [
-                "Potato scab",
-                "Potato blight",
-                "Potato rot",
-                "Potato blackleg"
-            ],
-            "related_links": {
-                "potato_scab": "https://www.rhs.org.uk/disease/potato-scabs",
-                "potato_blight": "https://www.rhs.org.uk/disease/potato-and-tomato-blight",
-                "potato_rot": "https://www.rhs.org.uk/disease/potato-tuber-rots",
-                "potato_blackleg": "https://www.rhs.org.uk/disease/potato-blackleg"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Solanum_tuberosum.html",
-        "filename": "106242-solanum-tuberosum.json",
-        "latin_name": "Solanum tuberosum",
-        "common_names": [
-            "Potato",
-            "Irish potato",
-            "Tater",
-            "Tattie",
-            "Spud"
-        ],
-        "synonyms": [
-            "Solanum tuberosum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Картофель",
-                "Паслён клубненосный",
-                "Картофель клубненосный",
-                "Картошка",
-                "Картофель чилийский",
-                "Картофель европейский"
-            ],
-            "synonyms": [
-                "Solanum tuberosum"
-            ]
-        },
-        "rank": 1229,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 10",
-            "planting_time": "Spring"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Nightshades",
-                "Bindweeds",
-                "Gooseweeds",
-                "And allies"
-            ],
-            "family": "Nightshade",
-            "genus": "Nightshades",
-            "species": "Potato"
-        },
-        "toxic_data": [
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Nutrient deficiencies",
-            "Brown spot",
-            "Leaf deformity"
-        ]
-    },
-    "main_name_original": "Solanum tuberosum",
-    "display_name": "Potato",
-    "clear_main_name": "Solanum tuberosum",
-    "pt_search_main_name": "Solanum tuberosum"
+        "habit": "Bushy, Clump forming"
+    }
 }

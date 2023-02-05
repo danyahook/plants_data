@@ -1,32 +1,39 @@
 {
-    "id": "1ae0bc2b-cc2f-42ed-93c5-0a23826e94e5",
-    "link": "https://www.rhs.org.uk/plants/186689/amelanchier-rotundifolia-dum-cours/details",
+    "latin_name": "Amelanchier rotundifolia Dum. Cours.",
+    "main_common_name": {
+        "en": "Snowy mespilus",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Medlar bush",
+            "Common amelanchier",
+            "Glandular thorn",
+            "Oval-leaved amelanchier"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Amelanchier rotundifolia dum. cours.",
+        "Mespilus amelanchier",
+        "Amelanchier vulgaris",
+        "Crataegus rotundifolia lam."
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "common amelanchier",
-            "medlar bush",
-            "oval-leaved amelanchier",
-            "glandular thorn"
-        ],
-        "synonyms": [
-            "Amelanchier vulgaris",
-            "Amelanchier rotundifolia Dum. Cours.",
-            "Mespilus amelanchier",
-            "Crataegus rotundifolia Lam."
-        ]
-    },
+    "genus_description": "Amelanchier are small deciduous trees or shrubs with showy white flowers in early spring, red to purple fruits and often good autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -42,7 +49,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "North–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -80,84 +106,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in a moist, acidic or neutral, well-drained soil but will tolerate a lime soil",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "North–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe, N Africa, SW Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Amelanchier are small deciduous trees or shrubs with showy white flowers in early spring, red to purple fruits and often good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Europe, N Africa, SW Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in a moist, acidic or neutral, well-drained soil but will tolerate a lime soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed and semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fireblight and honey fungus",
-            "link_names": [
-                "Fireblight",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Amelanchier rotundifolia Dum. Cours.",
-    "display_name": "Snowy mespilus",
-    "clear_main_name": "Amelanchier rotundifolia Dum. Cours.",
-    "pt_search_main_name": "Amelanchier rotundifolia Dum. Cours."
+        "habit": "Bushy"
+    }
 }

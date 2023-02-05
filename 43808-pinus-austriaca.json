@@ -1,24 +1,32 @@
 {
-    "id": "2ae32919-1bca-4f5f-b795-ec3aa655571c",
-    "link": "https://www.rhs.org.uk/plants/43808/pinus-austriaca/details",
+    "latin_name": "Pinus austriaca",
+    "main_common_name": {
+        "en": "Austrian pine",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Pinus nigra var. austriaca",
+        "Pinus austriaca"
+    ],
     "tags": [
         "Trees",
         "Conifers",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Pinus nigra var. austriaca",
-            "Pinus austriaca"
-        ]
-    },
+    "genus_description": "Pinus can be shrubs or large, evergreen trees, some species with attractive bark, developing an irregular outline with age and bearing long needle-like leaves in bundles of 2, 3 or 5; conspicuous cones may fall or remain on the tree for years",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -76,83 +100,34 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained soil, in full sun. Tolerates poor, dry soil and salt wind",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden",
+            "Coastal",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SE Europe",
         "foliage": "Evergreen",
-        "genus": "Pinus can be shrubs or large, evergreen trees, some species with attractive bark, developing an irregular outline with age and bearing long needle-like leaves in bundles of 2, 3 or 5; conspicuous cones may fall or remain on the tree for years",
-        "name_status": "Correct",
-        "plant_range": "SE Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil, in full sun. Tolerates poor, dry soil and salt wind",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in spring",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden",
-                "Coastal",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids, conifer aphid, sawfly larvae, and pine shoot moth",
-            "link_names": [
-                "Adelgids",
-                "Conifer aphid"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus and needle cast diseases",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Pinus austriaca",
-    "display_name": "Austrian pine",
-    "clear_main_name": "Pinus austriaca",
-    "pt_search_main_name": "Pinus austriaca"
+        "habit": null
+    }
 }

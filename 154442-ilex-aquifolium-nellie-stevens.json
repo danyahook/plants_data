@@ -1,23 +1,31 @@
 {
-    "id": "d4a5b496-fa33-4a77-beb7-229f10715e17",
-    "link": "https://www.rhs.org.uk/plants/154442/ilex-aquifolium-nellie-stevens/details",
+    "latin_name": "Ilex aquifolium 'Nellie Stevens'",
+    "main_common_name": {
+        "en": "Holly 'nellie r. stevens'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Ilex myrtifolia 'nellie r. stevens'",
+        "Ilex aquifolium 'nellie stevens'"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Ilex myrtifolia 'Nellie R. Stevens'",
-            "Ilex aquifolium 'Nellie Stevens'"
-        ]
-    },
+    "genus_description": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Sand",
             "Loam",
             "Clay",
@@ -32,7 +40,26 @@
             "Acid"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -71,92 +98,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained soil in full sun or part shade",
+        "propagation": [
+            "Semi-ripe",
+            "Hardwood"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "North–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1",
+            "Trim hedges"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Aquifoliaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Aquifoliaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun or part shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
-            "link_names": [
-                "Semi-ripe",
-                "Hardwood"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; trim hedges in early spring",
-            "link_names": [
-                "Pruning group 1",
-                "Trim hedges"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
-            "link_names": [
-                "Scale insects",
-                "Holly leaf miner",
-                "Aphids"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "holly_leaf_miner": "https://www.rhs.org.uk/biodiversity/holly-leaf-miner",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to holly leaf blight",
-            "link_names": [
-                "Holly leaf blight"
-            ],
-            "related_links": {
-                "holly_leaf_blight": "https://www.rhs.org.uk/disease/holly-leaf-blight"
-            }
-        }
-    },
-    "main_name_original": "Ilex aquifolium 'Nellie Stevens'",
-    "display_name": "Holly 'nellie r. stevens'",
-    "clear_main_name": "Ilex aquifolium Nellie Stevens",
-    "pt_search_main_name": "Ilex aquifolium 'Nellie Stevens'"
+        "habit": "Bushy"
+    }
 }

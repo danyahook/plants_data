@@ -1,21 +1,29 @@
 {
-    "id": "07df7869-7b9d-432d-80bc-0ec631bc3bb2",
-    "link": "https://www.rhs.org.uk/plants/160704/prunus-japonica/details",
+    "latin_name": "Prunus japonica",
+    "main_common_name": {
+        "en": "Dwarf flowering cherry",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Oriental bush cherry"
+        ],
+        "ru": null
+    },
+    "synonyms": [],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "oriental bush cherry"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +38,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade",
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -67,95 +93,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade",
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moist but well-drained, moderately fertile soil preferably in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Softwood",
+            "Layering"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 5"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moist but well-drained, moderately fertile soil preferably in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers outdoors in autumn, by softwood cuttings, with bottom heat, in early summer or by layering",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Softwood",
-                "Layering"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 5",
-            "link_names": [
-                "Pruning group 5"
-            ],
-            "related_links": {
-                "pruning_group_5": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and caterpillars",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus. High Risk Host for Xylella fastidiosa",
-            "link_names": [
-                "Peach leaf curl",
-                "Silver leaf",
-                "Bacterial canker",
-                "Honey fungus",
-                "High risk host for xylella fastidiosa"
-            ],
-            "related_links": {
-                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
-            }
-        }
-    },
-    "main_name_original": "Prunus japonica",
-    "display_name": "Dwarf flowering cherry",
-    "clear_main_name": "Prunus japonica",
-    "pt_search_main_name": "Prunus japonica"
+        "habit": "Bushy"
+    }
 }

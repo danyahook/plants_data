@@ -1,32 +1,51 @@
 {
-    "id": "bd8c46db-78bb-4375-a51c-98b9f1676e65",
-    "link": "https://www.rhs.org.uk/plants/21060/cornus-florida/details",
+    "latin_name": "Cornus florida",
+    "main_common_name": {
+        "en": "Flowering dogwood",
+        "ru": "Кизил цветущий"
+    },
+    "common_names": {
+        "en": [
+            "False box wood",
+            "American box",
+            "Blood twig dogwood",
+            "Flowering cornel",
+            "American boxwood",
+            "North american green osier",
+            "Virginian dogwood",
+            "Flowering dogwood",
+            "Common white dogwood",
+            "Eastern flowering dogwood"
+        ],
+        "ru": [
+            "Кизил цветущий",
+            "Дёрен цветущий",
+            "Циноксилон цветущий"
+        ]
+    },
+    "synonyms": [
+        "Cornus candidissima mill.",
+        "Benthamidia florida spach",
+        "Cornus florida",
+        "Benthamia florida",
+        "Benthamidia florida nakai",
+        "Cynoxylon floridum",
+        "Benthamidia florida"
+    ],
     "tags": [
         "Shrubs",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "American box",
-            "blood twig dogwood",
-            "common white dogwood",
-            "eastern flowering dogwood",
-            "false box wood",
-            "North American green osier"
-        ],
-        "synonyms": [
-            "Cornus candidissima Mill.",
-            "Benthamidia florida Spach",
-            "Benthamidia florida Nakai"
-        ]
-    },
+    "genus_description": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
+    "rank": 143,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -40,7 +59,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -79,143 +119,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Cornaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
-        "name_status": "Correct",
-        "plant_range": "E N America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained, neutral to acid soil in sun or partial shade. Keep roots cool with a mulch in summer and provide shelter in exposed locations. For more advice, see flowering dogwood cultivation",
-            "link_names": [
-                "Mulch",
-                "Flowering dogwood cultivation"
-            ],
-            "related_links": {
-                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch",
-                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in summer",
-            "link_names": [
-                "Softwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to cornus anthracnose and honey fungus",
-            "link_names": [
-                "Cornus anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cornus_florida.html",
-        "filename": "21060-cornus-florida.json",
-        "latin_name": "Cornus florida",
-        "common_names": [
-            "Flowering dogwood",
-            "American boxwood",
-            "Flowering cornel",
-            "Virginian dogwood"
+        "cultivation": "Grow in fertile, well-drained, neutral to acid soil in sun or partial shade. Keep roots cool with a mulch in summer and provide shelter in exposed locations. For more advice, see flowering dogwood cultivation",
+        "propagation": [
+            "Softwood"
         ],
-        "synonyms": [
-            "Cynoxylon floridum",
-            "Benthamidia florida",
-            "Cornus florida",
-            "Benthamia florida"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Кизил цветущий",
-                "Дёрен цветущий",
-                "Циноксилон цветущий"
-            ],
-            "synonyms": [
-                "Cynoxylon floridum",
-                "Benthamidia florida",
-                "Cornus florida",
-                "Benthamia florida"
-            ]
-        },
-        "rank": 143,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "water": "Every 1-2 weeks",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Dogwoods",
-                "Hydrangeas",
-                "And allies"
-            ],
-            "family": "Dogwood",
-            "genus": "Dogwoods",
-            "species": "Flowering dogwood"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Brown spot",
-            "Leaf beetles",
-            "Leaf scorch"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Cornus florida",
-    "display_name": "Flowering dogwood",
-    "clear_main_name": "Cornus florida",
-    "pt_search_main_name": "Cornus florida"
+    "diseases_and_pests": [
+        "Leaf scorch",
+        "Leaf beetles",
+        "Scars",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Dogwood",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Dogwoods",
+            "Hydrangeas",
+            "And allies"
+        ],
+        "genus": "Dogwoods",
+        "species": "Flowering dogwood"
+    },
+    "botanical_details": {
+        "plant_range": "E N America",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

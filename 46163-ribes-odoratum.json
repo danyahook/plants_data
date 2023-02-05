@@ -1,26 +1,33 @@
 {
-    "id": "bc856ae2-0c8b-4eef-8770-f6c66315298a",
-    "link": "https://www.rhs.org.uk/plants/46163/ribes-odoratum/details",
+    "latin_name": "Ribes odoratum",
+    "main_common_name": {
+        "en": "Buffalo currant",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Clove currant",
+            "Missouri currant"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Ribes fragrans lodd.",
+        "Ribes aureum misapplied"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "clove currant",
-            "Missouri currant"
-        ],
-        "synonyms": [
-            "Ribes fragrans Lodd.",
-            "Ribes aureum misapplied"
-        ]
-    },
+    "genus_description": "Ribes can be deciduous or evergreen shrubs, sometimes spiny, with simple, usually palmately lobed leaves and small tubular or bell-shaped, solitary or racemose flowers borne in spring or summer, followed by juicy, sometimes edible berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -34,6 +41,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -72,85 +95,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile well-drained soil in full sun",
+        "propagation": [
+            "Hardwood"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 2"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Grossulariaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Grossulariaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Central USA",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Ribes can be deciduous or evergreen shrubs, sometimes spiny, with simple, usually palmately lobed leaves and small tubular or bell-shaped, solitary or racemose flowers borne in spring or summer, followed by juicy, sometimes edible berries",
-        "name_status": "Correct",
-        "plant_range": "Central USA"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by hardwood cuttings in winter",
-            "link_names": [
-                "Hardwood"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 2",
-            "link_names": [
-                "Pruning group 2"
-            ],
-            "related_links": {
-                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to gall mites, gall midge and aphids",
-            "link_names": [
-                "Gall mites",
-                "Aphids"
-            ],
-            "related_links": {
-                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to a leaf spot, powdery mildews, coral spot and sometimes honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Coral spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Ribes odoratum",
-    "display_name": "Buffalo currant",
-    "clear_main_name": "Ribes odoratum",
-    "pt_search_main_name": "Ribes odoratum"
+        "habit": "Bushy"
+    }
 }

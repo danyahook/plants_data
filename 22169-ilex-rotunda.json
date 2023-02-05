@@ -1,17 +1,43 @@
 {
-    "id": "6f2dcbb9-266e-47dd-8007-9cc57a14b25f",
-    "link": "https://www.rhs.org.uk/plants/22169/ilex-rotunda/details",
+    "latin_name": "Ilex rotunda",
+    "main_common_name": {
+        "en": "Kurogane holly",
+        "ru": "Падуб круглый"
+    },
+    "common_names": {
+        "en": [
+            "Round leaf holly",
+            "Small-fruited holly",
+            "Kurogane holly"
+        ],
+        "ru": [
+            "Падуб круглый"
+        ]
+    },
+    "synonyms": [
+        "Ilex sasakii",
+        "Ilex rotunda var. piligera",
+        "Ilex rotunda var. microcarpa",
+        "Ilex rotunda",
+        "Ilex microcarpa",
+        "Ilex laevigata",
+        "Ilex koshunensis",
+        "Synstima rotundifolia",
+        "Ilex unicanaliculata"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {},
+    "genus_description": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
+    "rank": 1141,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -27,7 +53,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,162 +114,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Aquifoliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy, Columnar upright",
-        "potentially_harmful": "Berries may cause mild stomach upset if ingested. Wear gloves and other protective equipment when handling",
-        "genus": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun or part shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
-            "link_names": [
-                "Semi-ripe",
-                "Hardwood"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; trim hedges in early spring",
-            "link_names": [
-                "Pruning group 1",
-                "Trim hedges"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
-            "link_names": [
-                "Scale insects",
-                "Holly leaf miner",
-                "Aphids"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "holly_leaf_miner": "https://www.rhs.org.uk/biodiversity/holly-leaf-miner",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to holly leaf blight, Phytophthora root rot and sometimes honey fungus",
-            "link_names": [
-                "Holly leaf blight",
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "holly_leaf_blight": "https://www.rhs.org.uk/disease/holly-leaf-blight",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Ilex_rotunda.html",
-        "filename": "22169-ilex-rotunda.json",
-        "latin_name": "Ilex rotunda",
-        "common_names": [
-            "Kurogane holly",
-            "Round leaf holly",
-            "Small-fruited holly"
+        "cultivation": "Grow in moist but well-drained soil in full sun or part shade",
+        "propagation": [
+            "Semi-ripe",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Synstima rotundifolia",
-            "Ilex sasakii",
-            "Ilex unicanaliculata",
-            "Ilex rotunda var. piligera",
-            "Ilex laevigata",
-            "Ilex microcarpa",
-            "Ilex rotunda var. microcarpa",
-            "Ilex rotunda",
-            "Ilex koshunensis"
+        "suggested_panting_places": [
+            "Architectural",
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Падуб круглый"
-            ],
-            "synonyms": [
-                "Synstima rotundifolia",
-                "Ilex sasakii",
-                "Ilex unicanaliculata",
-                "Ilex rotunda var. piligera",
-                "Ilex laevigata",
-                "Ilex microcarpa",
-                "Ilex rotunda var. microcarpa",
-                "Ilex rotunda",
-                "Ilex koshunensis"
-            ]
-        },
-        "rank": 1141,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "6 - 9",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Hollies",
-                "Allies"
-            ],
-            "family": "Holly",
-            "genus": "Ilex",
-            "species": "Kurogane holly"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Black spot",
-            "Plant dried up",
-            "Branch blight",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 1",
+            "Trim hedges"
         ]
     },
-    "main_name_original": "Ilex rotunda",
-    "display_name": "",
-    "clear_main_name": "Ilex rotunda",
-    "pt_search_main_name": "Ilex rotunda"
+    "diseases_and_pests": [
+        "Leaf beetles",
+        "Black spot",
+        "Branch blight",
+        "Plant dried up"
+    ],
+    "scientific_classification": {
+        "family": "Holly",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Hollies",
+            "Allies"
+        ],
+        "genus": "Ilex",
+        "species": "Kurogane holly"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Evergreen",
+        "habit": "Bushy, Columnar upright"
+    }
 }

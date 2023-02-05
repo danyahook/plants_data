@@ -1,21 +1,42 @@
 {
-    "id": "4335f4fe-3f94-4abf-b5b5-9e5a42431645",
-    "link": "https://www.rhs.org.uk/plants/3278/ceanothus-thyrsiflorus/details",
+    "latin_name": "Ceanothus thyrsiflorus",
+    "main_common_name": {
+        "en": "Blueblossom",
+        "ru": "Краснокоренник метельчатоцветный"
+    },
+    "common_names": {
+        "en": [
+            "Blue brush",
+            "Blue blossom ceanothus",
+            "California lilac",
+            "Blueblossom",
+            "San luis obispo ceanothus",
+            "Carmel ceanothus",
+            "Blue brush"
+        ],
+        "ru": [
+            "Краснокоренник метельчатоцветный",
+            "Краснокоренник кистецветный",
+            "Цеанотус кистецветный"
+        ]
+    },
+    "synonyms": [
+        "Ceanothus thyrsiflorus var. repens",
+        "Ceanothus thyrsiflorus"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "blue brush"
-        ]
-    },
+    "genus_description": "Ceanothus can be evergreen or deciduous shrubs or small trees, with simple leaves and small blue, pink or white flowers in profuse axillary or terminal clusters. They are fast-growing but may be short-lived",
+    "rank": 1311,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -29,7 +50,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -65,146 +107,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Rhamnaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Ceanothus can be evergreen or deciduous shrubs or small trees, with simple leaves and small blue, pink or white flowers in profuse axillary or terminal clusters. They are fast-growing but may be short-lived",
-        "name_status": "Correct",
-        "plant_range": "W US"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in a sheltered position in full sun. See ceanothus cultivation",
-            "link_names": [
-                "Ceanothus cultivation"
-            ],
-            "related_links": {
-                "ceanothus_cultivation": "https://www.rhs.org.uk/plants/ceanothus/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings in mid- to late summer",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Mediterranean climate plants",
-                "Wall side borders",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus and Phytophthora root disease",
-            "link_names": [
-                "Honey fungus",
-                "Phytophthora"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Ceanothus_thyrsiflorus.html",
-        "filename": "3278-ceanothus-thyrsiflorus.json",
-        "latin_name": "Ceanothus thyrsiflorus",
-        "common_names": [
-            "Blueblossom",
-            "California Lilac",
-            "Blue blossom ceanothus",
-            "Blue brush",
-            "Carmel ceanothus",
-            "San Luis Obispo Ceanothus"
+        "cultivation": "Grow in well-drained soil in a sheltered position in full sun. See ceanothus cultivation",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Ceanothus thyrsiflorus var. repens",
-            "Ceanothus thyrsiflorus"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Mediterranean climate plants",
+            "Wall side borders",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Краснокоренник метельчатоцветный",
-                "Краснокоренник кистецветный",
-                "Цеанотус кистецветный"
-            ],
-            "synonyms": [
-                "Ceanothus thyrsiflorus var. repens",
-                "Ceanothus thyrsiflorus"
-            ]
-        },
-        "rank": 1311,
-        "items_data": {
-            "sunlight": "Full sun",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ],
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Buckthorn",
-            "genus": "Redroots",
-            "species": "Blueblossom"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Leaf deformity",
-            "Brown spot",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 8"
         ]
     },
-    "main_name_original": "Ceanothus thyrsiflorus",
-    "display_name": "Blue blossom",
-    "clear_main_name": "Ceanothus thyrsiflorus",
-    "pt_search_main_name": "Ceanothus thyrsiflorus"
+    "diseases_and_pests": [
+        "Leaf deformity",
+        "Aged yellow and dry",
+        "Brown spot",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Buckthorn",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Redroots",
+        "species": "Blueblossom"
+    },
+    "botanical_details": {
+        "plant_range": "W US",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

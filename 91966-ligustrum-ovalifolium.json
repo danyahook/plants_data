@@ -1,24 +1,44 @@
 {
-    "id": "869fb896-9bba-4174-8bff-668572268235",
-    "link": "https://www.rhs.org.uk/plants/91966/ligustrum-ovalifolium/details",
+    "latin_name": "Ligustrum ovalifolium",
+    "main_common_name": {
+        "en": "California privet",
+        "ru": "Бирючина овальнолистная"
+    },
+    "common_names": {
+        "en": [
+            "California privet",
+            "Golden privet",
+            "Oval-leaf privet",
+            "Oval-leaved privet",
+            "Privet",
+            "Korean privet",
+            "Garden privet",
+            "Oval-leaved privet"
+        ],
+        "ru": [
+            "Бирючина овальнолистная",
+            "Бирючина овалолистная",
+            "Бирючина круглолистная"
+        ]
+    },
+    "synonyms": [
+        "Ligustrum japonicum var. ovalifolium",
+        "Ligustrum ovalifolium"
+    ],
     "tags": [
         "Shrubs",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "California privet",
-            "oval-leaf privet",
-            "oval-leaved privet"
-        ]
-    },
+    "genus_description": "Ligustrum can be decidous or evergreen shrubs or small trees, with simple, entire leaves and panicles of small, often unpleasantly scented white flowers in spring or summer, followed by black or deep purple berries",
+    "rank": 1624,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,6 +52,26 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "North–facing",
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -71,149 +111,48 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "North–facing",
-            "South–facing",
-            "East–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Oleaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Semi evergreen",
-        "habit": "Bushy, Columnar upright",
-        "potentially_harmful": "Somewhat poisonous if ingested. Wear gloves and other protective equipment and wash hands after handling",
-        "genus": "Ligustrum can be decidous or evergreen shrubs or small trees, with simple, entire leaves and panicles of small, often unpleasantly scented white flowers in spring or summer, followed by black or deep purple berries",
-        "name_status": "Correct",
-        "plant_range": "Japan"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained, or moist but well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by hardwood cuttings, semi-hardwood cuttings or by seed",
-            "link_names": [
-                "Hardwood",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Hedging and screens",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1. If grown as a hedge, pruning group 3. Pruning suppresses flowering. Prune two or three times during growing season. Cease pruning in late summer avoid frost damage on new growth",
-            "link_names": [
-                "Pruning group 1",
-                "Hedge",
-                "Pruning group 3"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide",
-                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, leaf mining moths and thrips",
-            "link_names": [
-                "Thrips"
-            ],
-            "related_links": {
-                "thrips": "https://www.rhs.org.uk/biodiversity/thrips"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Ligustrum_ovalifolium.html",
-        "filename": "91966-ligustrum-ovalifolium.json",
-        "latin_name": "Ligustrum ovalifolium",
-        "common_names": [
-            "California privet",
-            "Garden privet",
-            "Korean privet",
-            "Oval-leaved privet",
-            "Privet",
-            "Golden privet"
+        "cultivation": "Grow in any well-drained, or moist but well-drained soil in sun or partial shade",
+        "propagation": [
+            "Hardwood",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Ligustrum japonicum var. ovalifolium",
-            "Ligustrum ovalifolium"
+        "suggested_panting_places": [
+            "Architectural",
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Hedging and screens",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Бирючина овальнолистная",
-                "Бирючина овалолистная",
-                "Бирючина круглолистная"
-            ],
-            "synonyms": [
-                "Ligustrum japonicum var. ovalifolium",
-                "Ligustrum ovalifolium"
-            ]
-        },
-        "rank": 1624,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 7",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Olive",
-            "genus": "Privets",
-            "species": "California privet"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Yellow spot",
-            "Scars",
-            "Leaf deformity",
-            "Leaf Weevils",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1",
+            "Hedge",
+            "Pruning group 3"
         ]
     },
-    "main_name_original": "Ligustrum ovalifolium",
-    "display_name": "Garden privet",
-    "clear_main_name": "Ligustrum ovalifolium",
-    "pt_search_main_name": "Ligustrum ovalifolium"
+    "diseases_and_pests": [
+        "Leaf Weevils",
+        "Yellow spot",
+        "Scars",
+        "Leaf deformity",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Olive",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Privets",
+        "species": "California privet"
+    },
+    "botanical_details": {
+        "plant_range": "Japan",
+        "foliage": "Semi evergreen",
+        "habit": "Bushy, Columnar upright"
+    }
 }

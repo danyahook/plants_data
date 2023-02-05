@@ -1,28 +1,53 @@
 {
-    "id": "a7cfdfed-ac46-415c-9294-a91fa2649857",
-    "link": "https://www.rhs.org.uk/plants/6643/erica-carnea/details",
+    "latin_name": "Erica carnea",
+    "main_common_name": {
+        "en": "Winter heath",
+        "ru": "Эрика травянистая"
+    },
+    "common_names": {
+        "en": [
+            "Mediterranean heath",
+            "Winter heath",
+            "Spring heath",
+            "Snow heather",
+            "Winter-flowering heather",
+            "Herbaceous heath",
+            "Winter heath",
+            "Alpine heath",
+            "Spring heath"
+        ],
+        "ru": [
+            "Эрика травянистая",
+            "Эрика румяная",
+            "Эрика травяная"
+        ]
+    },
+    "synonyms": [
+        "Erica bracteata",
+        "Erica saxatilis",
+        "Ericodes herbaceum",
+        "Erica mediterranea",
+        "Erica mediterranea l.",
+        "Erica herbacea f. alba",
+        "Erica carnea",
+        "Erica herbacea",
+        "Erica lugubris",
+        "Erica herbacea var. alba",
+        "Gypsocallis carnea"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "Mediterranean heath",
-            "spring heath",
-            "winter heath",
-            "herbaceous heath"
-        ],
-        "synonyms": [
-            "Erica herbacea",
-            "Erica mediterranea L."
-        ]
-    },
+    "genus_description": "Erica can be prostrate or erect, evergreen shrubs with fine, needle-like leaves in whorls, and racemes or panicles of small, bell-shaped or tubular flowers",
+    "rank": 4805,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -37,7 +62,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -79,153 +122,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Ericaceae",
-        "native_to_the_uk": "Yes",
-        "foliage": "Evergreen",
-        "habit": "Matforming, Trailing",
-        "genus": "Erica can be prostrate or erect, evergreen shrubs with fine, needle-like leaves in whorls, and racemes or panicles of small, bell-shaped or tubular flowers",
-        "name_status": "Correct",
-        "plant_range": "C & S Europe"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "A lime tolerant heather, prefers well-drained, neutral to acid soil in full sun but will tolerate alkaline soils and some shade. See Hardy heathers for further advice",
-            "link_names": [
-                "Hardy heathers"
-            ],
-            "related_links": {
-                "hardy_heathers": "https://www.rhs.org.uk/plants/types/heathers/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings in mid- or late summer; mound-layer in spring",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Garden edging",
-                "Ground cover",
-                "Banks and slopes",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 10 after flowering",
-            "link_names": [
-                "Pruning group 10"
-            ],
-            "related_links": {
-                "pruning_group_10": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fungal diseases, including honey fungus (rarely), and Phytophthora root rot, in wet conditions",
-            "link_names": [
-                "Honey fungus",
-                "Phytophthora"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Erica_carnea.html",
-        "filename": "6643-erica-carnea.json",
-        "latin_name": "Erica carnea",
-        "common_names": [
-            "Winter heath",
-            "Winter-flowering heather",
-            "Spring heath",
-            "Alpine heath",
-            "Snow heather"
+        "cultivation": "A lime tolerant heather, prefers well-drained, neutral to acid soil in full sun but will tolerate alkaline soils and some shade. See Hardy heathers for further advice",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Erica lugubris",
-            "Gypsocallis carnea",
-            "Erica saxatilis",
-            "Erica bracteata",
-            "Erica herbacea var. alba",
-            "Erica herbacea f. alba",
-            "Erica mediterranea",
-            "Erica herbacea",
-            "Erica carnea",
-            "Ericodes herbaceum"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Garden edging",
+            "Ground cover",
+            "Banks and slopes",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Эрика травянистая",
-                "Эрика румяная",
-                "Эрика травяная"
-            ],
-            "synonyms": [
-                "Erica lugubris",
-                "Gypsocallis carnea",
-                "Erica saxatilis",
-                "Erica bracteata",
-                "Erica herbacea var. alba",
-                "Erica herbacea f. alba",
-                "Erica mediterranea",
-                "Erica herbacea",
-                "Erica carnea",
-                "Ericodes herbaceum"
-            ]
-        },
-        "rank": 4805,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Heathers",
-                "Allies"
-            ],
-            "family": "Heath",
-            "genus": "Heaths",
-            "species": "Winter heath"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Wilting after blooming"
+        "pruning": [
+            "Pruning group 10"
         ]
     },
-    "main_name_original": "Erica carnea",
-    "display_name": "Alpine heath",
-    "clear_main_name": "Erica carnea",
-    "pt_search_main_name": "Erica carnea"
+    "diseases_and_pests": [
+        "Wilting after blooming",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Heath",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Heathers",
+            "Allies"
+        ],
+        "genus": "Heaths",
+        "species": "Winter heath"
+    },
+    "botanical_details": {
+        "plant_range": "C & S Europe",
+        "foliage": "Evergreen",
+        "habit": "Matforming, Trailing"
+    }
 }

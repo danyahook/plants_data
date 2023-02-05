@@ -1,22 +1,44 @@
 {
-    "id": "c0e75583-c04a-484e-acc2-341f33196aa3",
-    "link": "https://www.rhs.org.uk/plants/3950/clematis-integrifolia-(i)/details",
+    "latin_name": "Clematis integrifolia",
+    "main_common_name": {
+        "en": "Solitary clematis",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Virgins-bower",
+            "Entire-leaved clematis",
+            "Solitary virgin's-bower",
+            "Solitary clematis",
+            "Simple-leaved clematis"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Clematis latifolia hort.",
+        "Valvaria integrifolia",
+        "Clematitis integrifolia",
+        "Clematis inclinata",
+        "Clematis elongata",
+        "Clematis nutans",
+        "Clematis integrifolia",
+        "Anemone integrifolia",
+        "Coriflora integrifolia",
+        "Clematis integrifolia var. normalis"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "entire-leaved clematis",
-            "virgins-bower"
-        ]
-    },
+    "genus_description": "Clematis can be deciduous or evergreen shrubs or herbaceous perennials, mostly climbing by twining leaf-stalks, and often with showy flowers. Some have attractive fluffy seedheads in autumn",
+    "rank": 3882,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +53,30 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [
+            "Summer",
+            "Fall"
+        ],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,143 +115,51 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Ranunculaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Clematis can be deciduous or evergreen shrubs or herbaceous perennials, mostly climbing by twining leaf-stalks, and often with showy flowers. Some have attractive fluffy seedheads in autumn",
-        "name_status": "Correct",
-        "horticultural_group": "Integrifolia Group clematis are woody-based subshrubs with non-climbing or semi-climbing herbaceous stems, and bell-shaped or flat flowers on the current year's growth, in summer and early autumn",
-        "plant_range": "C Europe to C Asia"
-    },
+    "toxicity": [
+        "Toxic to Dogs",
+        "Toxic to Cats"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Plant in a moisture-retentive, well-drained soil, with the roots and base of the plant kept cool and shaded by other plants. Plant with the crown of the clematis level with the soil. Ideal for growing through plants in the herbaceous border or through low shrubs",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division or take basal softwood cuttings, in spring",
-            "link_names": [
-                "Division",
-                "Softwood"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Flower borders and beds",
-                "Underplanting of roses and shrubs",
-                "Cut flowers"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Clematis pruning: group three",
-            "link_names": [
-                "Clematis pruning: group three"
-            ],
-            "related_links": {
-                "clematis_pruning:_group_three": "https://www.rhs.org.uk/plants/clematis/group-three-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Young shoots may be susceptible to aphids and caterpillars; petals can be eaten by earwigs",
-            "link_names": [
-                "Aphids",
-                "Earwigs"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "earwigs": "https://www.rhs.org.uk/biodiversity/earwigs"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildew or fungal leaf spot",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Clematis_integrifolia.html",
-        "filename": "3950-clematis-integrifolia-(i).json",
-        "latin_name": "Clematis integrifolia",
-        "common_names": [
-            "Solitary clematis",
-            "Simple-leaved clematis",
-            "Solitary virgin's-bower"
+        "cultivation": "Plant in a moisture-retentive, well-drained soil, with the roots and base of the plant kept cool and shaded by other plants. Plant with the crown of the clematis level with the soil. Ideal for growing through plants in the herbaceous border or through low shrubs",
+        "propagation": [
+            "Division",
+            "Softwood"
         ],
-        "synonyms": [
-            "Clematitis integrifolia",
-            "Clematis integrifolia var. normalis",
-            "Clematis nutans",
-            "Clematis latifolia hort.",
-            "Clematis inclinata",
-            "Anemone integrifolia",
-            "Coriflora integrifolia",
-            "Clematis elongata",
-            "Valvaria integrifolia",
-            "Clematis integrifolia"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Flower borders and beds",
+            "Underplanting of roses and shrubs",
+            "Cut flowers"
         ],
-        "ru_data": null,
-        "rank": 3882,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 7",
-            "planting_time": "Spring",
-            "harvest_time": [
-                "Summer",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Buttercups",
-                "Poppies",
-                "Allies"
-            ],
-            "family": "Buttercup",
-            "genus": "Clematis",
-            "species": "Solitary clematis"
-        },
-        "toxic_data": [
-            "Toxic to Dogs",
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Anthracnose",
-            "Flower withering",
-            "Plant dried up",
-            "Nutrient deficiencies",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Clematis pruning: group three"
         ]
     },
-    "main_name_original": "Clematis integrifolia",
-    "display_name": "Solitary clematis",
-    "clear_main_name": "Clematis integrifolia",
-    "pt_search_main_name": "Clematis integrifolia"
+    "diseases_and_pests": [
+        "Plant dried up",
+        "Leaf beetles",
+        "Anthracnose",
+        "Nutrient deficiencies",
+        "Brown spot",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Buttercup",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Buttercups",
+            "Poppies",
+            "Allies"
+        ],
+        "genus": "Clematis",
+        "species": "Solitary clematis"
+    },
+    "botanical_details": {
+        "plant_range": "C Europe to C Asia",
+        "foliage": "Deciduous",
+        "habit": "Clump forming"
+    }
 }

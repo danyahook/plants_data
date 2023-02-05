@@ -1,22 +1,49 @@
 {
-    "id": "de7be2f1-ea90-4aa7-9297-77d1385481d9",
-    "link": "https://www.rhs.org.uk/plants/125951/spiraea-tomentosa/details",
+    "latin_name": "Spiraea tomentosa",
+    "main_common_name": {
+        "en": "Steeplebush",
+        "ru": "Спирея войлочная"
+    },
+    "common_names": {
+        "en": [
+            "Rosy meadowsweet",
+            "Hardhack [3]",
+            "Hardhack",
+            "Steeplebush",
+            "Meadowsweet",
+            "Steeplebush"
+        ],
+        "ru": [
+            "Спирея войлочная",
+            "Таволга войлочная"
+        ]
+    },
+    "synonyms": [
+        "Spiraea parvifolia",
+        "Spiraea tomentosa",
+        "Drimopogon glomerata",
+        "Drimopogon tomentosa",
+        "Drimopogon rosea",
+        "Spiraea tomentosa var. rosea",
+        "Spiraea rosea",
+        "Drimopogon parvifolia",
+        "Drimopogon ferruginea",
+        "Spiraea ferruginea",
+        "Spiraea glomerata"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "steeplebush",
-            "hardhack [3]"
-        ]
-    },
+    "genus_description": "Spiraea are deciduous shrubs, sometimes suckering, with simple leaves and short racemes, panicles or corymbs of small, 5-petalled white or pink flowers in spring or summer",
+    "rank": 5876,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +59,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,148 +120,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Suckering",
-        "genus": "Spiraea are deciduous shrubs, sometimes suckering, with simple leaves and short racemes, panicles or corymbs of small, 5-petalled white or pink flowers in spring or summer",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun or light shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in late autumn or early spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Flower borders and beds",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 6 for spiraea flowering on current years stems, deadhead after flowering. Keep neat and compact by cutting all stems back to within 30cm of ground level",
-            "link_names": [
-                "Pruning group 6",
-                "Deadhead"
-            ],
-            "related_links": {
-                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide",
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free but may be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Spiraea_tomentosa.html",
-        "filename": "125951-spiraea-tomentosa.json",
-        "latin_name": "Spiraea tomentosa",
-        "common_names": [
-            "Steeplebush",
-            "Hardhack",
-            "Rosy Meadowsweet",
-            "Meadowsweet"
+        "cultivation": "Grow in moist but well-drained soil in full sun or light shade",
+        "propagation": [
+            "Division"
         ],
-        "synonyms": [
-            "Drimopogon glomerata",
-            "Spiraea tomentosa var. rosea",
-            "Spiraea rosea",
-            "Spiraea parvifolia",
-            "Drimopogon rosea",
-            "Drimopogon ferruginea",
-            "Drimopogon tomentosa",
-            "Drimopogon parvifolia",
-            "Spiraea glomerata",
-            "Spiraea tomentosa",
-            "Spiraea ferruginea"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Flower borders and beds",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Спирея войлочная",
-                "Таволга войлочная"
-            ],
-            "synonyms": [
-                "Drimopogon glomerata",
-                "Spiraea tomentosa var. rosea",
-                "Spiraea rosea",
-                "Spiraea parvifolia",
-                "Drimopogon rosea",
-                "Drimopogon ferruginea",
-                "Drimopogon tomentosa",
-                "Drimopogon parvifolia",
-                "Spiraea glomerata",
-                "Spiraea tomentosa",
-                "Spiraea ferruginea"
-            ]
-        },
-        "rank": 5876,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 7"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Spirea",
-            "species": "Steeplebush"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Nutrient deficiencies",
-            "Brown spot",
-            "Branch blight",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 6",
+            "Deadhead"
         ]
     },
-    "main_name_original": "Spiraea tomentosa",
-    "display_name": "Staple bush",
-    "clear_main_name": "Spiraea tomentosa",
-    "pt_search_main_name": "Spiraea tomentosa"
+    "diseases_and_pests": [
+        "Nutrient deficiencies",
+        "Aged yellow and dry",
+        "Branch blight",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Spirea",
+        "species": "Steeplebush"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": "Suckering"
+    }
 }

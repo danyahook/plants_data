@@ -1,21 +1,29 @@
 {
-    "id": "df626c1a-9b91-4240-85d3-f03add9dc287",
-    "link": "https://www.rhs.org.uk/plants/301001/drimys-andina/details",
+    "latin_name": "Drimys andina",
+    "main_common_name": {
+        "en": "Dwarf winter's bark",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Drimys winteri var. andina"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Drimys winteri var. andina"
-        ]
-    },
+    "genus_description": "Drimys are evergreen trees and shrubs with attractive, aromatic, leathery leaves and terminal clusters of small, star-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -29,6 +37,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower, Foliage",
@@ -68,78 +93,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a well-drained soil in a sheltered position in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": [
+            "Pruning group 8"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Winteraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Winteraceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Chile W Argentina",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Drimys are evergreen trees and shrubs with attractive, aromatic, leathery leaves and terminal clusters of small, star-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Chile W Argentina"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a well-drained soil in a sheltered position in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Drimys andina",
-    "display_name": "Dwarf winter's bark",
-    "clear_main_name": "Drimys andina",
-    "pt_search_main_name": "Drimys andina"
+        "habit": "Bushy"
+    }
 }

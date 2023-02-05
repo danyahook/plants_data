@@ -1,25 +1,32 @@
 {
-    "id": "15ebe4c8-951e-4886-b272-bbd269997c84",
-    "link": "https://www.rhs.org.uk/plants/16460/sarmienta-scandens/details",
+    "latin_name": "Sarmienta scandens",
+    "main_common_name": {
+        "en": "Climbing chilean pitcher flower",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Chilean pitcher flower"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Sarmienta repens"
+    ],
     "tags": [
         "Houseplants",
         "Conservatory Greenhouse"
     ],
-    "names": {
-        "other_common_names": [
-            "Chilean pitcher flower"
-        ],
-        "synonyms": [
-            "Sarmienta repens"
-        ]
-    },
+    "genus_description": "Sarmienta are creeping epiphytic woody-based perennials with simple, paired leaves and 5-lobed flowers borne in the leaf axils",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -28,7 +35,23 @@
         ],
         "ph": []
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -64,70 +87,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in 2 parts loamless potting compost and 1 part each fine-grade granulated bark and leafmould, or grow epiphytically. Provide bright, indirect light. Water freely in growth and apply a balanced liquid fertiliser monthly. Water sparingly in winter",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Patio and container plants"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Gesneriaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Gesneriaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Chile",
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Sarmienta are creeping epiphytic woody-based perennials with simple, paired leaves and 5-lobed flowers borne in the leaf axils",
-        "name_status": "Correct",
-        "plant_range": "Chile"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in 2 parts loamless potting compost and 1 part each fine-grade granulated bark and leafmould, or grow epiphytically. Provide bright, indirect light. Water freely in growth and apply a balanced liquid fertiliser monthly. Water sparingly in winter",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, or root stem-tip cuttings in late summer. Separate rooted stems in spring",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Glasshouse red spider mite may occur",
-            "link_names": [
-                "Glasshouse red spider mite"
-            ],
-            "related_links": {
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Sarmienta scandens",
-    "display_name": "Climbing chilean pitcher flower",
-    "clear_main_name": "Sarmienta scandens",
-    "pt_search_main_name": "Sarmienta scandens"
+        "habit": "Matforming"
+    }
 }

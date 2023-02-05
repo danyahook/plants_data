@@ -1,22 +1,30 @@
 {
-    "id": "45bcf0dd-4af3-48bd-b238-ee064174ae05",
-    "link": "https://www.rhs.org.uk/plants/323301/cotoneaster-applanatus/details",
+    "latin_name": "Cotoneaster applanatus",
+    "main_common_name": {
+        "en": "Diels' cotoneaster",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Cotoneaster applanatus"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Cotoneaster applanatus"
-        ]
-    },
+    "genus_description": "Cotoneaster can be deciduous or evergreen shrubs or small trees, with simple, entire leaves and clusters of small white or pink flowers in spring and summer, followed by showy red, purple or black berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +39,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,94 +94,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China (Sichuan, Hubei)",
         "foliage": "Deciduous or Semi evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "Fruit is for ornamental purposes only. Ingestion may cause mild stomach upset. Wear gloves and other protective equipment when handling",
-        "genus": "Cotoneaster can be deciduous or evergreen shrubs or small trees, with simple, entire leaves and clusters of small white or pink flowers in spring and summer, followed by showy red, purple or black berries",
-        "name_status": "Correct",
-        "plant_range": "China (Sichuan, Hubei)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame as soon as ripe in autumn or propagate by softwood cuttings (greenwood cuttings) in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, woolly aphid, scale insects and cotoneaster webber caterpillar",
-            "link_names": [
-                "Aphids",
-                "Woolly aphid",
-                "Scale insects",
-                "Cotoneaster webber caterpillar"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to fireblight and honey fungus",
-            "link_names": [
-                "Fireblight",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Cotoneaster applanatus",
-    "display_name": "Diels' cotoneaster",
-    "clear_main_name": "Cotoneaster applanatus",
-    "pt_search_main_name": "Cotoneaster applanatus"
+        "habit": "Bushy"
+    }
 }

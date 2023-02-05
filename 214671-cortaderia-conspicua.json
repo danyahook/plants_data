@@ -1,30 +1,37 @@
 {
-    "id": "d08984f7-a94e-4d8d-8101-6f15c7adb17c",
-    "link": "https://www.rhs.org.uk/plants/214671/cortaderia-conspicua/details",
+    "latin_name": "Cortaderia conspicua",
+    "main_common_name": {
+        "en": "Hunangamoho grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Plumed tussock grass",
+            "Toc-toc",
+            "New zealand silvery reed grass",
+            "Hunangemoho grass",
+            "New zealand plume grass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Arundo conspicua",
+        "Cortaderia conspicua"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "hunangemoho grass",
-            "plumed tussock grass",
-            "New Zealand plume grass",
-            "New Zealand silvery reed grass",
-            "toc-toc"
-        ],
-        "synonyms": [
-            "Cortaderia conspicua",
-            "Arundo conspicua"
-        ]
-    },
+    "genus_description": "Chionochloa are compact, tufted evergreen grasses with narrowly linear, often attractively coloured leaves and tall stems bearing lax panicles of small flowering spikelets in summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -39,7 +46,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -88,72 +113,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained, light, fertile soil in full sun or partial shade. Protect from cold winds and excessive winter wet",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Prairie planting",
+            "Cut flowers",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Tufted, Clump forming",
-        "genus": "Chionochloa are compact, tufted evergreen grasses with narrowly linear, often attractively coloured leaves and tall stems bearing lax panicles of small flowering spikelets in summer",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained, light, fertile soil in full sun or partial shade. Protect from cold winds and excessive winter wet",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in pots in a cold frame in spring or by division in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Prairie planting",
-                "Cut flowers",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back old, flowered stems at the bases in early winter",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Cortaderia conspicua",
-    "display_name": "Hunangamoho grass",
-    "clear_main_name": "Cortaderia conspicua",
-    "pt_search_main_name": "Cortaderia conspicua"
+        "habit": "Tufted, Clump forming"
+    }
 }

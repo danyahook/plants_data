@@ -1,32 +1,39 @@
 {
-    "id": "8e9d9fb8-bbb2-43df-a417-a48b4f944dbe",
-    "link": "https://www.rhs.org.uk/plants/158655/eruca-sativa/details",
+    "latin_name": "Eruca sativa",
+    "main_common_name": {
+        "en": "Garden rocket",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Edible rocket",
+            "Salad rocket",
+            "Rucola",
+            "Arugula",
+            "Roquette",
+            "Jamba"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Eruca sativa",
+        "Rucola silvatica"
+    ],
     "tags": [
         "Annual Biennial",
         "Herbs - Culinary",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "arugula",
-            "jamba",
-            "salad rocket",
-            "edible rocket",
-            "roquette",
-            "rucola"
-        ],
-        "synonyms": [
-            "Eruca sativa",
-            "Rucola silvatica"
-        ]
-    },
+    "genus_description": "Eruca is a genus of annual flowering plants in the brassica family which includes rocket. Flowers are creamy-white with purple veins and yellow stamens.",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -41,6 +48,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -77,74 +101,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any soil in part shade, from seed. cropping can be within 40 days. Tolerates sun, but likes some shade from summer sun. Fairly drought resistant",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Brassicaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Brassicaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Mediterranean",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Eruca is a genus of annual flowering plants in the brassica family which includes rocket. Flowers are creamy-white with purple veins and yellow stamens.",
-        "name_status": "Correct",
-        "plant_range": "Mediterranean"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any soil in part shade, from seed. cropping can be within 40 days. Tolerates sun, but likes some shade from summer sun. Fairly drought resistant",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed. Sow every few weeks through the growing season to have a ready supply of tender leaves",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "flea beetles can attack brassicas such as rocket",
-            "link_names": [
-                "Flea beetles"
-            ],
-            "related_links": {
-                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
-            }
-        },
-        "diseases": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Eruca sativa",
-    "display_name": "Garden rocket",
-    "clear_main_name": "Eruca sativa",
-    "pt_search_main_name": "Eruca sativa"
+        "habit": "Bushy"
+    }
 }

@@ -1,26 +1,33 @@
 {
-    "id": "47eee9a6-9a32-47a3-b380-1d9baa3a08b0",
-    "link": "https://www.rhs.org.uk/plants/324884/fagus-americana/details",
+    "latin_name": "Fagus americana",
+    "main_common_name": {
+        "en": "American beech",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Purple beech"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Fagus americana",
+        "Fagus ferruginea"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "purple beech"
-        ],
-        "synonyms": [
-            "Fagus americana",
-            "Fagus ferruginea"
-        ]
-    },
+    "genus_description": "Fagus are large deciduous trees with smooth grey bark, ovate leaves colouring well in autumn, and inconspicuous flowers followed by usually spiny fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +43,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,91 +96,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Suitable for large gardens. Grow in any deep fertile soil in good light. For more information see tree cultivation.",
+        "propagation": [
+            "Propagate by seed",
+            "Propagate from seed (tree/shrub"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Banks and slopes"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E N America",
         "foliage": "Deciduous",
-        "habit": "Suckering",
-        "genus": "Fagus are large deciduous trees with smooth grey bark, ovate leaves colouring well in autumn, and inconspicuous flowers followed by usually spiny fruits",
-        "name_status": "Correct",
-        "plant_range": "E N America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Suitable for large gardens. Grow in any deep fertile soil in good light. For more information see tree cultivation.",
-            "link_names": [
-                "Tree cultivation"
-            ],
-            "related_links": {
-                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed. For more advice see our information on how to propagate from seed (tree/shrub",
-            "link_names": [
-                "Propagate by seed",
-                "Propagate from seed (tree/shrub"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and beech scale",
-            "link_names": [
-                "Aphids",
-                "Beech scale"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "beech_scale": "https://www.rhs.org.uk/biodiversity/beech-scale"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to beech bark disease, fungi (particulary bracket fungi) and powdery mildews. Sometimes susceptible to honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Fagus americana",
-    "display_name": "American beech",
-    "clear_main_name": "Fagus americana",
-    "pt_search_main_name": "Fagus americana"
+        "habit": "Suckering"
+    }
 }

@@ -1,21 +1,36 @@
 {
-    "id": "d3af0b41-509e-4f16-9555-34196e67f2ba",
-    "link": "https://www.rhs.org.uk/plants/134274/wollemia-nobilis/details",
+    "latin_name": "Wollemia nobilis",
+    "main_common_name": {
+        "en": "Wollemi pine",
+        "ru": "Воллемия"
+    },
+    "common_names": {
+        "en": [
+            "Wollemia",
+            "Wollemi pine"
+        ],
+        "ru": [
+            "Воллемия",
+            "Воллемия благородная"
+        ]
+    },
+    "synonyms": [
+        "Wollemia nobilis",
+        "Pinus woollimii"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Pinus woollimii"
-        ]
-    },
+    "genus_description": "Wollemia was first discovered in an Australian rainforest in 1994 and is considered a \"living fossil\"; a monotypic genus",
+    "rank": 3894,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam"
         ],
@@ -28,7 +43,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -62,108 +96,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in a neutral to acid, moist but well-drained soil in partial shade, but can adapt to sunny position (foliage may yellow at first). Needs a sheltered position. An ideal architectural specimen tree. Slow-growing; growing 2-3m in 5 years",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Araucaria",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Wollemia",
+        "species": "Wollemi pine"
     },
     "botanical_details": {
-        "family": "Araucariaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Australia (NS Wales)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Wollemia was first discovered in an Australian rainforest in 1994 and is considered a \"living fossil\"; a monotypic genus",
-        "name_status": "Correct",
-        "plant_range": "Australia (NS Wales)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in a neutral to acid, moist but well-drained soil in partial shade, but can adapt to sunny position (foliage may yellow at first). Needs a sheltered position. An ideal architectural specimen tree. Slow-growing; growing 2-3m in 5 years",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or propagate by cuttings",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Wollemia_nobilis.html",
-        "filename": "134274-wollemia-nobilis.json",
-        "latin_name": "Wollemia nobilis",
-        "common_names": [
-            "Wollemi pine",
-            "Wollemia"
-        ],
-        "synonyms": [
-            "Wollemia nobilis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Воллемия",
-                "Воллемия благородная"
-            ],
-            "synonyms": [
-                "Wollemia nobilis"
-            ]
-        },
-        "rank": 3894,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "hardiness_zones": "9 - 11"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Araucaria",
-            "genus": "Wollemia",
-            "species": "Wollemi pine"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Wollemia nobilis",
-    "display_name": "Wollemi pine",
-    "clear_main_name": "Wollemia nobilis",
-    "pt_search_main_name": "Wollemia nobilis"
+        "habit": "Bushy"
+    }
 }

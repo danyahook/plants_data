@@ -1,26 +1,50 @@
 {
-    "id": "c6dcaa78-6573-4bb1-b9ba-c11a86242356",
-    "link": "https://www.rhs.org.uk/plants/13977/prunus-laurocerasus/details",
+    "latin_name": "Prunus laurocerasus",
+    "main_common_name": {
+        "en": "Cherry laurel",
+        "ru": "Лавровишня лекарственная"
+    },
+    "common_names": {
+        "en": [
+            "English laurel",
+            "Versailles laurel",
+            "Versailles laurel",
+            "Common laurel",
+            "Laurel cherry",
+            "Common laurel",
+            "Laurel cherry",
+            "Cherry laurel"
+        ],
+        "ru": [
+            "Лавровишня лекарственная",
+            "Лавровишенник",
+            "Лавровишня аптечная",
+            "Лавровишня обыкновенная"
+        ]
+    },
+    "synonyms": [
+        "Prunus laurocerasus",
+        "Prunus grandifolia",
+        "Laurocerasus officinalis var. sipkaensis",
+        "Cerasus laurocerasus",
+        "Laurocerasus otinii",
+        "Laurocerasus vulgaris",
+        "Padus laurocerasus",
+        "Laurocerasus officinalis"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "common laurel",
-            "laurel cherry",
-            "Versailles laurel"
-        ],
-        "synonyms": [
-            "Cerasus laurocerasus"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 173,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,6 +58,27 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -76,166 +121,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "North–facing",
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "Leaves and fruit can be harmful if ingested. Wear gloves and wash hands after handling",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Correct",
-        "plant_range": "E Europe, SW Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in any moist but well-drained moderately fertile soil in sun or partial shade. Superb hedging shrub but may become chlorotic on poorer, shallow chalky soils. Fast-growing, forming dense walls of foliage if not pruned and has the potential to become a nuisance",
-            "link_names": [
-                "Potential to become a nuisance"
-            ],
-            "related_links": {
-                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings from late summer to autumn or hardwood cuttings from late autumn to late winter; propagate by seed in autumn",
-            "link_names": [
-                "Semi-ripe",
-                "Hardwood"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 including hedges in late spring or early summer",
-            "link_names": [
-                "Pruning group 8",
-                "Hedges"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
-                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Leaves may be damaged by vine weevil and leaf-mining moths",
-            "link_names": [
-                "Vine weevil"
-            ],
-            "related_links": {
-                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by powdery mildews and other laurel leaf diseases. High Risk Host for Xylella fastidiosa",
-            "link_names": [
-                "Powdery mildews",
-                "Laurel leaf diseases",
-                "High risk host for xylella fastidiosa"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "laurel_leaf_diseases": "https://www.rhs.org.uk/disease/laurel-leaf-diseases",
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Prunus_laurocerasus.html",
-        "filename": "13977-prunus-laurocerasus.json",
-        "latin_name": "Prunus laurocerasus",
-        "common_names": [
-            "Cherry laurel",
-            "Laurel Cherry",
-            "Versailles Laurel",
-            "English laurel",
-            "Common laurel"
+        "cultivation": "Easy to grow in any moist but well-drained moderately fertile soil in sun or partial shade. Superb hedging shrub but may become chlorotic on poorer, shallow chalky soils. Fast-growing, forming dense walls of foliage if not pruned and has the potential to become a nuisance",
+        "propagation": [
+            "Semi-ripe",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Laurocerasus otinii",
-            "Padus laurocerasus",
-            "Prunus grandifolia",
-            "Laurocerasus officinalis",
-            "Laurocerasus officinalis var. sipkaensis",
-            "Cerasus laurocerasus",
-            "Laurocerasus vulgaris",
-            "Prunus laurocerasus"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Лавровишня лекарственная",
-                "Лавровишенник",
-                "Лавровишня аптечная",
-                "Лавровишня обыкновенная"
-            ],
-            "synonyms": [
-                "Laurocerasus otinii",
-                "Padus laurocerasus",
-                "Prunus grandifolia",
-                "Laurocerasus officinalis",
-                "Laurocerasus officinalis var. sipkaensis",
-                "Cerasus laurocerasus",
-                "Laurocerasus vulgaris",
-                "Prunus laurocerasus"
-            ]
-        },
-        "rank": 173,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "hardiness_zones": "4 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Prunus",
-            "species": "Cherry laurel"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Shot hole disease",
-            "Brown spot",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 8",
+            "Hedges"
         ]
     },
-    "main_name_original": "Prunus laurocerasus",
-    "display_name": "Cherry laurel",
-    "clear_main_name": "Prunus laurocerasus",
-    "pt_search_main_name": "Prunus laurocerasus"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Leaf beetles",
+        "Shot hole disease",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Prunus",
+        "species": "Cherry laurel"
+    },
+    "botanical_details": {
+        "plant_range": "E Europe, SW Asia",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

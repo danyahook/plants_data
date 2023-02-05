@@ -1,22 +1,38 @@
 {
-    "id": "4a3f3d2e-b881-4c82-88c4-5e3368f5a30e",
-    "link": "https://www.rhs.org.uk/plants/28982/cercis-chinensis/details",
+    "latin_name": "Cercis chinensis",
+    "main_common_name": {
+        "en": "Chinese redbud",
+        "ru": "Багрянник китайский"
+    },
+    "common_names": {
+        "en": [
+            "Chinese redbud"
+        ],
+        "ru": [
+            "Багрянник китайский",
+            "Багряник китайский",
+            "Церцис китайский"
+        ]
+    },
+    "synonyms": [
+        "Cercis pauciflora",
+        "Cercis japonica",
+        "Cercis chinensis"
+    ],
     "tags": [
         "Shrubs",
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Cercis japonica"
-        ]
-    },
+    "genus_description": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
+    "rank": 2536,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +47,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -65,133 +100,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
-        "name_status": "Correct",
-        "plant_range": "C China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn, or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leafhoppers and scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to verticillium wilt, coral spot and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Coral spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cercis_chinensis.html",
-        "filename": "28982-cercis-chinensis.json",
-        "latin_name": "Cercis chinensis",
-        "common_names": [
-            "Chinese redbud"
+        "cultivation": "Grow in well-drained soil in sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Cercis pauciflora",
-            "Cercis chinensis"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Багрянник китайский",
-                "Багряник китайский",
-                "Церцис китайский"
-            ],
-            "synonyms": [
-                "Cercis pauciflora",
-                "Cercis chinensis"
-            ]
-        },
-        "rank": 2536,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "hardiness_zones": "6 - 9",
-            "planting_time": "Spring"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Legumes",
-                "Milkworts",
-                "Allies"
-            ],
-            "family": "Legume",
-            "genus": "Redbuds",
-            "species": "Chinese redbud"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Yellow spot",
-            "Longhorn beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Cercis chinensis",
-    "display_name": "Chinese redbud",
-    "clear_main_name": "Cercis chinensis",
-    "pt_search_main_name": "Cercis chinensis"
+    "diseases_and_pests": [
+        "Yellow spot",
+        "Longhorn beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Legume",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Legumes",
+            "Milkworts",
+            "Allies"
+        ],
+        "genus": "Redbuds",
+        "species": "Chinese redbud"
+    },
+    "botanical_details": {
+        "plant_range": "C China",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

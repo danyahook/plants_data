@@ -1,18 +1,35 @@
 {
-    "id": "3c3c465f-531a-4060-b086-19e6724d9c91",
-    "link": "https://www.rhs.org.uk/plants/11920/origanum-rotundifolium/details",
+    "latin_name": "Origanum rotundifolium",
+    "main_common_name": {
+        "en": "Origanum rotundifolium",
+        "ru": "Origanum rotundifolium"
+    },
+    "common_names": {
+        "en": [
+            "Origanum rotundifolium"
+        ],
+        "ru": [
+            "Origanum rotundifolium"
+        ]
+    },
+    "synonyms": [
+        "Amaracus rotundifolius",
+        "Origanum rotundifolium"
+    ],
     "tags": [
         "Alpine Rockery",
         "Herbaceous Perennial"
     ],
-    "names": {},
+    "genus_description": "Origanum may be herbaceous perennials or deciduous or evergreen sub-shrubs, with aromatic foliage and spikes of small tubular flowers usually with conspicuous bracts",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk"
         ],
         "moisture": [
@@ -21,6 +38,21 @@
         "ph": [
             "Alkaline"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -63,110 +95,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in poor to moderately fertile, well-drained, preferably alkaline soil in full sun. Protect from winter wet",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Patio and container plants",
+            "Rock garden",
+            "Wildlife gardens",
+            "Coastal",
+            "Gravel garden",
+            "Mediterranean climate plants"
         ],
-        "exposure": "Exposed",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Mint",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Marjorams",
+        "species": "Round-leaved oregano"
     },
     "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Turkey",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Origanum may be herbaceous perennials or deciduous or evergreen sub-shrubs, with aromatic foliage and spikes of small tubular flowers usually with conspicuous bracts",
-        "name_status": "Correct",
-        "plant_range": "Turkey"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in poor to moderately fertile, well-drained, preferably alkaline soil in full sun. Protect from winter wet",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in pots in a cold frame in autumn",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Patio and container plants",
-                "Rock garden",
-                "Wildlife gardens",
-                "Coastal",
-                "Gravel garden",
-                "Mediterranean climate plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back old flowered stems in early spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Origanum_rotundifolium.html",
-        "filename": "11920-origanum-rotundifolium.json",
-        "latin_name": "Origanum rotundifolium",
-        "common_names": [
-            "Origanum rotundifolium"
-        ],
-        "synonyms": [
-            "Origanum rotundifolium",
-            "Amaracus rotundifolius"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Origanum rotundifolium"
-            ],
-            "synonyms": [
-                "Origanum rotundifolium",
-                "Amaracus rotundifolius"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Mint",
-            "genus": "Marjorams",
-            "species": "Round-leaved oregano"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Origanum rotundifolium",
-    "display_name": "Round-leaved oregano",
-    "clear_main_name": "Origanum rotundifolium",
-    "pt_search_main_name": "Origanum rotundifolium"
+        "habit": "Bushy"
+    }
 }

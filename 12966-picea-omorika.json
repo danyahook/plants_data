@@ -1,18 +1,38 @@
 {
-    "id": "0e80d7b9-9f06-4e59-aee4-20f118c34314",
-    "link": "https://www.rhs.org.uk/plants/12966/picea-omorika/details",
+    "latin_name": "Picea omorika",
+    "main_common_name": {
+        "en": "Serbian spruce",
+        "ru": "Ель сербская"
+    },
+    "common_names": {
+        "en": [
+            "Bosnian spruce",
+            "Serbian spruce",
+            "Omorica"
+        ],
+        "ru": [
+            "Ель сербская"
+        ]
+    },
+    "synonyms": [
+        "Pinus omorika",
+        "Abies omorika",
+        "Picea omorika"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {},
+    "genus_description": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
+    "rank": 104169,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -26,7 +46,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -60,131 +98,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained soil. Will tolerate alkaline soils. Shelter from cold drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Branch blight",
+        "Longhorn beetles",
+        "Crown gall",
+        "Fire ants"
+    ],
+    "scientific_classification": {
+        "family": "Pine",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Spruces",
+        "species": "Serbian spruce"
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Bosnia, Serbia",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
-        "name_status": "Correct",
-        "plant_range": "Bosnia, Serbia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil. Will tolerate alkaline soils. Shelter from cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids, red spider mite and conifer aphid",
-            "link_names": [
-                "Adelgids",
-                "Red spider mite",
-                "Conifer aphid"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Picea_omorika.html",
-        "filename": "12966-picea-omorika.json",
-        "latin_name": "Picea omorika",
-        "common_names": [
-            "Serbian spruce",
-            "Bosnian spruce",
-            "Omorica"
-        ],
-        "synonyms": [
-            "Abies omorika",
-            "Pinus omorika",
-            "Picea omorika"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Ель сербская"
-            ],
-            "synonyms": [
-                "Abies omorika",
-                "Pinus omorika",
-                "Picea omorika"
-            ]
-        },
-        "rank": 104169,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "2 - 6"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Pine",
-            "genus": "Spruces",
-            "species": "Serbian spruce"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Crown gall",
-            "Longhorn beetles",
-            "Fire ants",
-            "Branch blight"
-        ]
-    },
-    "main_name_original": "Picea omorika",
-    "display_name": "Serbian spruce",
-    "clear_main_name": "Picea omorika",
-    "pt_search_main_name": "Picea omorika"
+        "habit": "Columnar upright"
+    }
 }

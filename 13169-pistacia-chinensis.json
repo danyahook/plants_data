@@ -1,17 +1,34 @@
 {
-    "id": "ae1a865c-5535-4563-86c7-bd5428d20d23",
-    "link": "https://www.rhs.org.uk/plants/13169/pistacia-chinensis/details",
+    "latin_name": "Pistacia chinensis",
+    "main_common_name": {
+        "en": "Chinese pistache",
+        "ru": "Фисташка китайская"
+    },
+    "common_names": {
+        "en": [
+            "Chinese pistache",
+            "Chinese pistachio"
+        ],
+        "ru": [
+            "Фисташка китайская"
+        ]
+    },
+    "synonyms": [
+        "Pistacia chinensis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {},
+    "genus_description": null,
+    "rank": 1823,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -24,6 +41,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -65,122 +99,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H3"
-    },
-    "botanical_details": {
-        "family": "Anacardiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "name_status": "Correct",
-        "plant_range": "C & W China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, sharply drained soil in a sunny, sheltered spot. A good specimen tree for mild, frost free areas",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by softwood cuttings in late spring or early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fungal root rot and coral spot",
-            "link_names": [
-                "Coral spot"
-            ],
-            "related_links": {
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Pistacia_chinensis.html",
-        "filename": "13169-pistacia-chinensis.json",
-        "latin_name": "Pistacia chinensis",
-        "common_names": [
-            "Chinese pistache",
-            "Chinese pistachio"
+        "cultivation": "Grow in moderately fertile, sharply drained soil in a sunny, sheltered spot. A good specimen tree for mild, frost free areas",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "synonyms": [
-            "Pistacia chinensis"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "ru_data": {
-            "common_names": [
-                "Фисташка китайская"
-            ],
-            "synonyms": [
-                "Pistacia chinensis"
-            ]
-        },
-        "rank": 1823,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 1-2 weeks",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Maples",
-                "Mangos",
-                "Mahogany",
-                "Citrus",
-                "And allies"
-            ],
-            "family": "Cashew",
-            "genus": "Pistacia",
-            "species": "Chinese pistache"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Brown spot",
-            "Plant dried up"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Pistacia chinensis",
-    "display_name": "Chinese pistachio",
-    "clear_main_name": "Pistacia chinensis",
-    "pt_search_main_name": "Pistacia chinensis"
+    "diseases_and_pests": [
+        "Plant dried up",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Cashew",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Maples",
+            "Mangos",
+            "Mahogany",
+            "Citrus",
+            "And allies"
+        ],
+        "genus": "Pistacia",
+        "species": "Chinese pistache"
+    },
+    "botanical_details": {
+        "plant_range": "C & W China",
+        "foliage": "Deciduous",
+        "habit": "Columnar upright"
+    }
 }

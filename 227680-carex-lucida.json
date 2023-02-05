@@ -1,23 +1,31 @@
 {
-    "id": "50826721-5549-4758-9a05-437e08fac84d",
-    "link": "https://www.rhs.org.uk/plants/227680/carex-lucida/details",
+    "latin_name": "Carex lucida",
+    "main_common_name": {
+        "en": "Glen murray tussock sedge",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Carex lucida",
+        "Carex flagellaris 'cyperacea'"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Carex flagellaris 'Cyperacea'",
-            "Carex lucida"
-        ]
-    },
+    "genus_description": "Carex can be deciduous or evergreen, rhizomatous or tufted perennials, with triangular stems bearing linear or strap-shaped leaves and short or long spikes of tiny green or brown flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -73,75 +100,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most well-drained fertile soils. Will not tolerate excessive winter wet",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Prairie planting",
+            "Architectural",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cyperaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cyperaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand, Tas.",
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Carex can be deciduous or evergreen, rhizomatous or tufted perennials, with triangular stems bearing linear or strap-shaped leaves and short or long spikes of tiny green or brown flowers",
-        "name_status": "Correct",
-        "plant_range": "New Zealand, Tas."
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most well-drained fertile soils. Will not tolerate excessive winter wet",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown in containers in a cold frame in spring or by division in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Prairie planting",
-                "Architectural",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "In summer cut out any dead leaves",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphid damage on stem bases",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Carex lucida",
-    "display_name": "Glen murray tussock sedge",
-    "clear_main_name": "Carex lucida",
-    "pt_search_main_name": "Carex lucida"
+        "habit": "Tufted"
+    }
 }

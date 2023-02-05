@@ -1,32 +1,39 @@
 {
-    "id": "57927006-8084-4a43-a919-7a714bb54426",
-    "link": "https://www.rhs.org.uk/plants/87619/matricaria-parthenium/details",
+    "latin_name": "Matricaria parthenium",
+    "main_common_name": {
+        "en": "Feverfew",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Maids",
+            "Pale maids",
+            "Maithes",
+            "Bachelor's buttons (double form)",
+            "Pellitory"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Matricaria parthenium",
+        "Chrysanthemum parthenium",
+        "Leucanthemum parthenium"
+    ],
     "tags": [
         "Herbs - Culinary",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bachelor's buttons (double form)",
-            "maids",
-            "maithes",
-            "pale maids",
-            "pellitory"
-        ],
-        "synonyms": [
-            "Chrysanthemum parthenium",
-            "Matricaria parthenium",
-            "Leucanthemum parthenium"
-        ]
-    },
+    "genus_description": "Tanacetum can be annuals, evergreen or herbaceous perennials or sub-shrubs, with simple or pinnately divided leaves and solitary or clustered, terminal, daisy-like or button-like flower-heads",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -38,6 +45,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -75,83 +98,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any light, well-drained soil in full sun. Will not tolerate heavy, wet soils",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "City and courtyard gardens",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asteraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Balkans",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Contact may irritate the skin. Wear gloves and other protective equipment when handling",
-        "genus": "Tanacetum can be annuals, evergreen or herbaceous perennials or sub-shrubs, with simple or pinnately divided leaves and solitary or clustered, terminal, daisy-like or button-like flower-heads",
-        "name_status": "Correct",
-        "plant_range": "Balkans"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any light, well-drained soil in full sun. Will not tolerate heavy, wet soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in situ in spring, division or take basal cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "City and courtyard gardens",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back after flowering. Deadhead to prevent excessive self-seeding",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "May be attacked by aphids, leaf and bud eelworms and leaf-mining flies",
-            "link_names": [
-                "Aphids",
-                "Leaf and bud eelworms"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Matricaria parthenium",
-    "display_name": "Feverfew",
-    "clear_main_name": "Matricaria parthenium",
-    "pt_search_main_name": "Matricaria parthenium"
+        "habit": "Bushy"
+    }
 }

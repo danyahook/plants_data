@@ -1,21 +1,29 @@
 {
-    "id": "2752fea9-b414-4c6f-8012-63b5ffbe229c",
-    "link": "https://www.rhs.org.uk/plants/41496/viburnum-setigerum/details",
+    "latin_name": "Viburnum setigerum",
+    "main_common_name": {
+        "en": "Bristly viburnum",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Viburnum theiferum"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Viburnum theiferum"
-        ]
-    },
+    "genus_description": "Viburnum can be deciduous or evergreen shrubs with opposite, simple or palmately lobed leaves and clusters of small, often fragrant white or pink flowers, followed by red, blue or black berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +39,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,90 +102,33 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows well in most moderately fertile, humus-rich, well-drained soils",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance",
+            "Banks and slopes",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Viburnaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Viburnaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "C & W China",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "The fruit can cause a mild stomach upset if eaten. Wear gloves and wash hands after handling",
-        "genus": "Viburnum can be deciduous or evergreen shrubs with opposite, simple or palmately lobed leaves and clusters of small, often fragrant white or pink flowers, followed by red, blue or black berries",
-        "name_status": "Correct",
-        "plant_range": "C & W China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows well in most moderately fertile, humus-rich, well-drained soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings in summer",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance",
-                "Banks and slopes",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and viburnum beetle",
-            "link_names": [
-                "Aphids",
-                "Viburnum beetle"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
-            "link_names": [
-                "Phytophthora",
-                "Honey fungus",
-                "Grey moulds"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
-            }
-        }
-    },
-    "main_name_original": "Viburnum setigerum",
-    "display_name": "Bristly viburnum",
-    "clear_main_name": "Viburnum setigerum",
-    "pt_search_main_name": "Viburnum setigerum"
+        "habit": "Bushy"
+    }
 }

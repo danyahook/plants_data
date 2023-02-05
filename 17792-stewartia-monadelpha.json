@@ -1,17 +1,33 @@
 {
-    "id": "eb24d33d-6638-4b49-8f3e-3037b5b5a779",
-    "link": "https://www.rhs.org.uk/plants/17792/stewartia-monadelpha/details",
+    "latin_name": "Stewartia monadelpha",
+    "main_common_name": {
+        "en": "Orange-bark stewartia",
+        "ru": "Стюартия однобратственная"
+    },
+    "common_names": {
+        "en": [
+            "Orange-bark stewartia"
+        ],
+        "ru": [
+            "Стюартия однобратственная"
+        ]
+    },
+    "synonyms": [
+        "Stewartia monadelpha"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {},
+    "genus_description": "Stewartia are deciduous trees or shrubs, often with attractive peeling bark, ovate leaves and showy white flowers; good autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -24,7 +40,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -67,110 +101,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well drained humus rich,neutral to acid soil. In full sun or dappled shade. Shelter from strong winds.",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Tea",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Heathers",
+            "Allies"
+        ],
+        "genus": "Stewartia",
+        "species": "Orange-bark stewartia"
     },
     "botanical_details": {
-        "family": "Theaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan, Korea",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Stewartia are deciduous trees or shrubs, often with attractive peeling bark, ovate leaves and showy white flowers; good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Japan, Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well drained humus rich,neutral to acid soil. In full sun or dappled shade. Shelter from strong winds.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in a cold frame in autumn. Also layering,softwood cuttings and semi-ripe cuttings",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1. Little or no pruning",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Stewartia_monadelpha.html",
-        "filename": "17792-stewartia-monadelpha.json",
-        "latin_name": "Stewartia monadelpha",
-        "common_names": [
-            "Orange-bark stewartia"
-        ],
-        "synonyms": [
-            "Stewartia monadelpha"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Стюартия однобратственная"
-            ],
-            "synonyms": [
-                "Stewartia monadelpha"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {
-            "water": "Every 1-2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Heathers",
-                "Allies"
-            ],
-            "family": "Tea",
-            "genus": "Stewartia",
-            "species": "Orange-bark stewartia"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Stewartia monadelpha",
-    "display_name": "",
-    "clear_main_name": "Stewartia monadelpha",
-    "pt_search_main_name": "Stewartia monadelpha"
+        "habit": "Columnar upright"
+    }
 }

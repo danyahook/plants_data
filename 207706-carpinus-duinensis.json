@@ -1,23 +1,31 @@
 {
-    "id": "1e4ddf89-1d4a-454d-b4aa-9c29ef535ad9",
-    "link": "https://www.rhs.org.uk/plants/207706/carpinus-duinensis/details",
+    "latin_name": "Carpinus duinensis",
+    "main_common_name": {
+        "en": "Oriental hornbeam",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Carpinus duinensis"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Carpinus duinensis"
-        ]
-    },
+    "genus_description": "Carpinus are deciduous shrubs and trees with attractive foliage and hop-like fruit clusters in late summer and autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -72,87 +98,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moderately fertile soil in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Betulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SE Europe, Turkey",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Carpinus are deciduous shrubs and trees with attractive foliage and hop-like fruit clusters in late summer and autumn",
-        "name_status": "Correct",
-        "plant_range": "SE Europe, Turkey"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moderately fertile soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by softwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to caterpillars and aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews, coral spot and sometimes honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Coral spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Carpinus duinensis",
-    "display_name": "Oriental hornbeam",
-    "clear_main_name": "Carpinus duinensis",
-    "pt_search_main_name": "Carpinus duinensis"
+        "habit": "Bushy"
+    }
 }

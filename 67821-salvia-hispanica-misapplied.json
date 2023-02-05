@@ -1,25 +1,33 @@
 {
-    "id": "67c0f553-2cd9-407e-9b05-8690e6889352",
-    "link": "https://www.rhs.org.uk/plants/67821/salvia-hispanica-misapplied/details",
+    "latin_name": "Salvia hispanica misapplied",
+    "main_common_name": {
+        "en": "Lavender-leaved sage",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Salvia officinalis prostrata",
+        "Salvia hispanica misapplied",
+        "Salvia officinalis narrow-leaved"
+    ],
     "tags": [
         "Shrubs",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Salvia officinalis prostrata",
-            "Salvia hispanica misapplied",
-            "Salvia officinalis narrow-leaved"
-        ]
-    },
+    "genus_description": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -32,6 +40,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -79,88 +102,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position but usually overwinters if given full sun and good drainage. Drought tolerant",
+        "propagation": [
+            "Softwood",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Patio and container plants",
+            "City and courtyard gardens",
+            "Coastal",
+            "Mediterranean climate plants",
+            "Wall side borders",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 9"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Lamiaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Spain, S France",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
-        "name_status": "Correct",
-        "plant_range": "Spain, S France"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in light, moderately fertile, well-drained soil. Needs a sheltered position but usually overwinters if given full sun and good drainage. Drought tolerant",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings or semi-ripe cuttings",
-            "link_names": [
-                "Softwood",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Patio and container plants",
-                "City and courtyard gardens",
-                "Coastal",
-                "Mediterranean climate plants",
-                "Wall side borders",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
-            "link_names": [
-                "Honey fungus",
-                "Powdery mildews",
-                "Verticillium wilt"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
-            }
-        }
-    },
-    "main_name_original": "Salvia hispanica misapplied",
-    "display_name": "Lavender-leaved sage",
-    "clear_main_name": "Salvia hispanica misapplied",
-    "pt_search_main_name": "Salvia hispanica misapplied"
+        "habit": "Bushy"
+    }
 }

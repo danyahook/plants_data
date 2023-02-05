@@ -1,25 +1,33 @@
 {
-    "id": "73aa87a8-f057-4289-a381-433d8c119d54",
-    "link": "https://www.rhs.org.uk/plants/85566/hyacinthus-azureus/details",
+    "latin_name": "Hyacinthus azureus",
+    "main_common_name": {
+        "en": "Azure grape hyacinth",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Hyacinthus azureus",
+        "Hyacinthella azurea",
+        "Pseudomuscari azureum",
+        "Bellevalia azurea"
+    ],
     "tags": [
         "Bulbs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Hyacinthus azureus",
-            "Pseudomuscari azureum",
-            "Bellevalia azurea",
-            "Hyacinthella azurea"
-        ]
-    },
+    "genus_description": "Muscari are bulbous perennials with linear or strap-shaped leaves and small bell-shaped, tubular or urn-shaped flowers borne in a dense raceme on an erect leafless stem",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +43,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -67,83 +94,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Plant 10cm deep in autumn in any moderately fertile, well-drained soil. Lift and divide (when dormant in summer) congested clumps to maintain vigour. May be invasive",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "North–facing",
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden",
+            "Wildflower meadow",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Garden edging",
+            "Ground cover",
+            "Underplanting of roses and shrubs"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asparagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asparagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Turkey",
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Muscari are bulbous perennials with linear or strap-shaped leaves and small bell-shaped, tubular or urn-shaped flowers borne in a dense raceme on an erect leafless stem",
-        "name_status": "Correct",
-        "plant_range": "Turkey"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Plant 10cm deep in autumn in any moderately fertile, well-drained soil. Lift and divide (when dormant in summer) congested clumps to maintain vigour. May be invasive",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown in autumn, in containers in a cold frame or separate offsets in summer",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden",
-                "Wildflower meadow",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Garden edging",
-                "Ground cover",
-                "Underplanting of roses and shrubs"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be subject to a virus",
-            "link_names": [
-                "A virus"
-            ],
-            "related_links": {
-                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "main_name_original": "Hyacinthus azureus",
-    "display_name": "Azure grape hyacinth",
-    "clear_main_name": "Hyacinthus azureus",
-    "pt_search_main_name": "Hyacinthus azureus"
+        "habit": "Tufted"
+    }
 }

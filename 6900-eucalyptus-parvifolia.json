@@ -1,22 +1,30 @@
 {
-    "id": "a14e57a0-107a-47b6-8910-69c2bdbf572a",
-    "link": "https://www.rhs.org.uk/plants/6900/eucalyptus-parvifolia/details",
+    "latin_name": "Eucalyptus parvifolia",
+    "main_common_name": {
+        "en": "Kybean gum",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Eucalyptus parvifolia"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Eucalyptus parvifolia"
-        ]
-    },
+    "genus_description": "Eucalyptus are evergreen trees or large shrubs, often fast-growing, some with attractive bark, most with aromatic foliage, and clusters of small, white, yellow or red flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,88 +98,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in slightly acidic soil with full sun and shelter when young",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1",
+            "Pruning group 7"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Myrtaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Myrtaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Australia (New South Wales)",
         "foliage": "Evergreen",
-        "genus": "Eucalyptus are evergreen trees or large shrubs, often fast-growing, some with attractive bark, most with aromatic foliage, and clusters of small, white, yellow or red flowers",
-        "name_status": "Correct",
-        "plant_range": "Australia (New South Wales)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in slightly acidic soil with full sun and shelter when young",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed at 13-18°C in spring and summer",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, or for the best display of juvenile foliage use Pruning group 7.",
-            "link_names": [
-                "Pruning group 1",
-                "Pruning group 7"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to eucalyptus gall wasp and eucalyptus sucker",
-            "link_names": [
-                "Eucalyptus gall wasp",
-                "Eucalyptus sucker"
-            ],
-            "related_links": {
-                "eucalyptus_gall_wasp": "https://www.rhs.org.uk/biodiversity/eucalyptus-gall-wasp",
-                "eucalyptus_sucker": "https://www.rhs.org.uk/biodiversity/eucalyptus-sucker"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to silver leaf, oedema and honey fungus",
-            "link_names": [
-                "Silver leaf",
-                "Oedema",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "oedema": "https://www.rhs.org.uk/problems/oedema",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Eucalyptus parvifolia",
-    "display_name": "Kybean gum",
-    "clear_main_name": "Eucalyptus parvifolia",
-    "pt_search_main_name": "Eucalyptus parvifolia"
+        "habit": null
+    }
 }

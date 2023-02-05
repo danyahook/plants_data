@@ -1,23 +1,53 @@
 {
-    "id": "7a1371c0-9138-4462-b081-c474a5320c90",
-    "link": "https://www.rhs.org.uk/plants/276/acer-rubrum/details",
+    "latin_name": "Acer rubrum",
+    "main_common_name": {
+        "en": "Red maple",
+        "ru": "Клён красный"
+    },
+    "common_names": {
+        "en": [
+            "Swamp maple",
+            "Red maple",
+            "Scarlet maple",
+            "Soft maple",
+            "Water maple",
+            "Canadian maple",
+            "Swamp maple",
+            "Maple tree"
+        ],
+        "ru": [
+            "Клён красный"
+        ]
+    },
+    "synonyms": [
+        "Acer virginianum hort.",
+        "Acer hypoleucum hort. ex",
+        "Acer fulgens",
+        "Acer rubrum var. viride",
+        "Acer rubrum f. viride",
+        "Acer coccineum",
+        "Acer wagneri",
+        "Acer glaucum",
+        "Acer leucophyllum hort.",
+        "Acer splendens hort. ex",
+        "Acer rubrum",
+        "Acer sanguineum",
+        "Acer stenocarpum",
+        "Rufacer rubrum"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Canadian maple",
-            "scarlet maple",
-            "swamp maple"
-        ]
-    },
+    "genus_description": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
+    "rank": 34,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +62,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing",
+            "North–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,170 +118,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing",
-            "North–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Sapindaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
-        "name_status": "Correct",
-        "plant_range": "E & C N America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a moist but well-drained soil. Acid soils will give the best autumn colour",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed and by grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Acer leaf scorch",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Acer_rubrum.html",
-        "filename": "276-acer-rubrum.json",
-        "latin_name": "Acer rubrum",
-        "common_names": [
-            "Red maple",
-            "Maple tree",
-            "Swamp maple",
-            "Soft maple",
-            "Water maple"
+        "cultivation": "Grow in a moist but well-drained soil. Acid soils will give the best autumn colour",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "synonyms": [
-            "Acer stenocarpum",
-            "Acer leucophyllum hort.",
-            "Rufacer rubrum",
-            "Acer fulgens",
-            "Acer sanguineum",
-            "Acer glaucum",
-            "Acer wagneri",
-            "Acer splendens hort. ex",
-            "Acer virginianum hort.",
-            "Acer rubrum var. viride",
-            "Acer coccineum",
-            "Acer hypoleucum hort. ex",
-            "Acer rubrum f. viride",
-            "Acer rubrum"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Клён красный"
-            ],
-            "synonyms": [
-                "Acer stenocarpum",
-                "Acer leucophyllum hort.",
-                "Rufacer rubrum",
-                "Acer fulgens",
-                "Acer sanguineum",
-                "Acer glaucum",
-                "Acer wagneri",
-                "Acer splendens hort. ex",
-                "Acer virginianum hort.",
-                "Acer rubrum var. viride",
-                "Acer coccineum",
-                "Acer hypoleucum hort. ex",
-                "Acer rubrum f. viride",
-                "Acer rubrum"
-            ]
-        },
-        "rank": 34,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Maples",
-                "Mangos",
-                "Mahogany",
-                "Citrus",
-                "And allies"
-            ],
-            "family": "Soapberry",
-            "genus": "Maples",
-            "species": "Red maple"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Plant dried up",
-            "Underwatering",
-            "Fruit withering",
-            "Brown spot",
-            "Black spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Acer rubrum",
-    "display_name": "Red maple",
-    "clear_main_name": "Acer rubrum",
-    "pt_search_main_name": "Acer rubrum"
+    "diseases_and_pests": [
+        "Black spot",
+        "Scars",
+        "Plant dried up",
+        "Fruit withering",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Soapberry",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Maples",
+            "Mangos",
+            "Mahogany",
+            "Citrus",
+            "And allies"
+        ],
+        "genus": "Maples",
+        "species": "Red maple"
+    },
+    "botanical_details": {
+        "plant_range": "E & C N America",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

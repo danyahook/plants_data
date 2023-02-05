@@ -1,30 +1,37 @@
 {
-    "id": "06417ac6-23c9-4374-8645-7b6f6472f496",
-    "link": "https://www.rhs.org.uk/plants/212849/cissus-rocheana/details",
+    "latin_name": "Cissus rocheana",
+    "main_common_name": {
+        "en": "Marine ivy",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Possum grape",
+            "Sorrel vine",
+            "Marine vine"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Cissus incisa",
+        "Cissus acida",
+        "Cissus rocheana"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Houseplants",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "marine vine",
-            "possum grape",
-            "sorrel vine"
-        ],
-        "synonyms": [
-            "Cissus rocheana",
-            "Cissus acida",
-            "Cissus incisa"
-        ]
-    },
+    "genus_description": "Cissus can be perennials, shrubs or climbers, sometimes with succulent stems or rootstocks, and with simple or palmately lobed or divided, evergreen leaves and clusters of insignificant flowers followed by small berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -38,7 +45,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,77 +95,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in pots of loam-based compost with extra added grit in bright, filtered light. Water freely while in growth and apply a balanced liquid feed monthly; water sparingly in winter. Pot every 2-3 years and top dress in spring",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Conservatory and greenhouse"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Vitaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Vitaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S US, N Mexico",
         "foliage": "Semi evergreen",
-        "habit": "Climbing",
-        "genus": "Cissus can be perennials, shrubs or climbers, sometimes with succulent stems or rootstocks, and with simple or palmately lobed or divided, evergreen leaves and clusters of insignificant flowers followed by small berries",
-        "name_status": "Correct",
-        "plant_range": "S US, N Mexico"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in pots of loam-based compost with extra added grit in bright, filtered light. Water freely while in growth and apply a balanced liquid feed monthly; water sparingly in winter. Pot every 2-3 years and top dress in spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in summer",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Conservatory and greenhouse"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "See pruning group 11; pinch out young plants to encourage bushiness",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to glasshouse red spider mite, glasshouse whitefly and mealybugs",
-            "link_names": [
-                "Glasshouse red spider mite",
-                "Glasshouse whitefly",
-                "Mealybugs"
-            ],
-            "related_links": {
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Cissus rocheana",
-    "display_name": "Marine ivy",
-    "clear_main_name": "Cissus rocheana",
-    "pt_search_main_name": "Cissus rocheana"
+        "habit": "Climbing"
+    }
 }

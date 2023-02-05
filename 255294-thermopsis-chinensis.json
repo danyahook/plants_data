@@ -1,17 +1,33 @@
 {
-    "id": "0fd5d8d0-8e16-4a07-b765-7eff1aae8aa8",
-    "link": "https://www.rhs.org.uk/plants/255294/thermopsis-chinensis/details",
+    "latin_name": "Thermopsis chinensis",
+    "main_common_name": {
+        "en": "Thermopsis chinensis",
+        "ru": "Thermopsis chinensis"
+    },
+    "common_names": {
+        "en": [
+            "Thermopsis chinensis"
+        ],
+        "ru": [
+            "Thermopsis chinensis"
+        ]
+    },
+    "synonyms": [
+        "Thermopsis chinensis"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {},
+    "genus_description": "Thermopsis are lupin-like rhizomatous herbaceous perennials with erect stems, leaves with three leaflets, and yellow or purple flowers",
+    "rank": 13560,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -26,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -60,114 +94,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in light, fertile, well-drained, loamy soil in full sun, but tolerates a range of conditions. Usually long-lived, with tough roots that resent disturbance",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Legume",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Legumes",
+            "Milkworts",
+            "Allies"
+        ],
+        "genus": "False-lupines",
+        "species": "Chinese false lupin"
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Thermopsis are lupin-like rhizomatous herbaceous perennials with erect stems, leaves with three leaflets, and yellow or purple flowers",
-        "name_status": "Correct",
-        "plant_range": "Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in light, fertile, well-drained, loamy soil in full sun, but tolerates a range of conditions. Usually long-lived, with tough roots that resent disturbance",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in spring",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Slugs and aphids may be a problem",
-            "link_names": [
-                "Slugs",
-                "Aphids"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Thermopsis_chinensis.html",
-        "filename": "255294-thermopsis-chinensis.json",
-        "latin_name": "Thermopsis chinensis",
-        "common_names": [
-            "Thermopsis chinensis"
-        ],
-        "synonyms": [
-            "Thermopsis chinensis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Thermopsis chinensis"
-            ],
-            "synonyms": [
-                "Thermopsis chinensis"
-            ]
-        },
-        "rank": 13560,
-        "items_data": {
-            "water": "Every week"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Legumes",
-                "Milkworts",
-                "Allies"
-            ],
-            "family": "Legume",
-            "genus": "False-lupines",
-            "species": "Chinese false lupin"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Thermopsis chinensis",
-    "display_name": "Chinese false lupin",
-    "clear_main_name": "Thermopsis chinensis",
-    "pt_search_main_name": "Thermopsis chinensis"
+        "habit": "Bushy"
+    }
 }

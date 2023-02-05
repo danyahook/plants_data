@@ -1,29 +1,36 @@
 {
-    "id": "4f5d01b2-c537-4135-a690-1b4719144101",
-    "link": "https://www.rhs.org.uk/plants/105508/crepis-virens/details",
+    "latin_name": "Crepis virens",
+    "main_common_name": {
+        "en": "Smooth crepis",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Smooth hawk's beard"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Crepis virens var. diffusa",
+        "Lapsana capillaris",
+        "Crepis virens",
+        "Crepis diffusa"
+    ],
     "tags": [
         "Annual Biennial",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "smooth hawk's beard"
-        ],
-        "synonyms": [
-            "Lapsana capillaris",
-            "Crepis virens",
-            "Crepis virens var. diffusa",
-            "Crepis diffusa"
-        ]
-    },
+    "genus_description": "Crepis can be annuals or perennials, with simple or pinnately lobed leaves and dandelion-like flower-heads that may be solitary or on open, branched stems",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -37,7 +44,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,66 +95,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in a well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Wildflower meadow"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asteraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Crepis can be annuals or perennials, with simple or pinnately lobed leaves and dandelion-like flower-heads that may be solitary or on open, branched stems",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in a well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Crepis virens",
-    "display_name": "Smooth crepis",
-    "clear_main_name": "Crepis virens",
-    "pt_search_main_name": "Crepis virens"
+        "habit": "Bushy"
+    }
 }

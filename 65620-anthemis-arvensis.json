@@ -1,17 +1,36 @@
 {
-    "id": "aa089c04-41f5-416a-9095-217c0b36f751",
-    "link": "https://www.rhs.org.uk/plants/65620/anthemis-arvensis/details",
+    "latin_name": "Anthemis arvensis",
+    "main_common_name": {
+        "en": "Corn chamomile",
+        "ru": "Пупавка полевая"
+    },
+    "common_names": {
+        "en": [
+            "Scentless chamomile",
+            "Field chamomile",
+            "Mayweed",
+            "Corn chamomile"
+        ],
+        "ru": [
+            "Пупавка полевая"
+        ]
+    },
+    "synonyms": [
+        "Anthemis arvensis"
+    ],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {},
+    "genus_description": "Anthemis can be perennials or annuals, with finely divided, aromatic leaves and showy white or yellow daisies",
+    "rank": 4223,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -23,6 +42,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -58,104 +92,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Occurs naturally on disturbed, free-draining, chalk soils",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Wildflower meadow"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Daisy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Asters bellflowers fanflowers",
+            "Allies"
+        ],
+        "genus": "Chamomile",
+        "species": "Corn chamomile"
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Anthemis can be perennials or annuals, with finely divided, aromatic leaves and showy white or yellow daisies",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Occurs naturally on disturbed, free-draining, chalk soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Anthemis_arvensis.html",
-        "filename": "65620-anthemis-arvensis.json",
-        "latin_name": "Anthemis arvensis",
-        "common_names": [
-            "Corn chamomile",
-            "Field chamomile",
-            "Mayweed",
-            "Scentless chamomile"
-        ],
-        "synonyms": [
-            "Anthemis arvensis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Пупавка полевая"
-            ],
-            "synonyms": [
-                "Anthemis arvensis"
-            ]
-        },
-        "rank": 4223,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Asters bellflowers fanflowers",
-                "Allies"
-            ],
-            "family": "Daisy",
-            "genus": "Chamomile",
-            "species": "Corn chamomile"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Anthemis arvensis",
-    "display_name": "Corn chamomile",
-    "clear_main_name": "Anthemis arvensis",
-    "pt_search_main_name": "Anthemis arvensis"
+        "habit": "Bushy"
+    }
 }

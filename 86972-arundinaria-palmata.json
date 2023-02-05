@@ -1,23 +1,31 @@
 {
-    "id": "165ed65b-135f-49d6-ac65-d6c6793d79c7",
-    "link": "https://www.rhs.org.uk/plants/86972/arundinaria-palmata/details",
+    "latin_name": "Arundinaria palmata",
+    "main_common_name": {
+        "en": "Broad-leaved bamboo",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Bambusa palmata",
+        "Arundinaria palmata"
+    ],
     "tags": [
         "Bamboos",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Bambusa palmata",
-            "Arundinaria palmata"
-        ]
-    },
+    "genus_description": "Sasa are small bamboos with vigorously-running, rapidly-spreading rhizomes, forming a thicket of erect stems bearing relatively broad leaves",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -31,7 +39,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,86 +94,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, humus-rich, moist but well-drained soil, best in partial shade. Protect from cold drying winds. Rampant, creeping rootstock can become very invasive in warm, moist or favourable conditions and need restraining ; see bamboo control and bamboo cultivation",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Hedging and screens",
+            "Ground cover"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Bamboo cultivation"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan & Russia",
         "foliage": "Evergreen",
-        "habit": "Suckering, Clump forming",
-        "genus": "Sasa are small bamboos with vigorously-running, rapidly-spreading rhizomes, forming a thicket of erect stems bearing relatively broad leaves",
-        "name_status": "Correct",
-        "plant_range": "Japan & Russia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, humus-rich, moist but well-drained soil, best in partial shade. Protect from cold drying winds. Rampant, creeping rootstock can become very invasive in warm, moist or favourable conditions and need restraining ; see bamboo control and bamboo cultivation",
-            "link_names": [
-                "Bamboo control",
-                "Bamboo cultivation"
-            ],
-            "related_links": {
-                "bamboo_control": "https://www.rhs.org.uk/plants/types/grasses/bamboo-control",
-                "bamboo_cultivation": "https://www.rhs.org.uk/plants/types/grasses/bamboo/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by young rhizome cuttings and the division of established plants in Spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Hedging and screens",
-                "Ground cover"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Remove weak, dead, damaged or spindly stems in spring and thin to show off stems to best effect. Cut out any flowering shoots promptly to discourage more from forming - see bamboo cultivation",
-            "link_names": [
-                "Bamboo cultivation"
-            ],
-            "related_links": {
-                "bamboo_cultivation": "https://www.rhs.org.uk/plants/types/grasses/bamboo/growing-guide"
-            }
-        },
-        "pests": {
-            "text": "Slugs may damage new shoots",
-            "link_names": [
-                "Slugs"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Arundinaria palmata",
-    "display_name": "Broad-leaved bamboo",
-    "clear_main_name": "Arundinaria palmata",
-    "pt_search_main_name": "Arundinaria palmata"
+        "habit": "Suckering, Clump forming"
+    }
 }

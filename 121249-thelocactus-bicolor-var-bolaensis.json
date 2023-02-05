@@ -1,28 +1,35 @@
 {
-    "id": "0720a1d4-56d9-4381-9f04-033bd1df4f27",
-    "link": "https://www.rhs.org.uk/plants/121249/thelocactus-bicolor-var-bolaensis/details",
+    "latin_name": "Thelocactus bicolor var. bolaensis",
+    "main_common_name": {
+        "en": "Glory of texas",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Straw spine cactus",
+            "Texas pride"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Thelocactus bicolor var. bolaensis"
+    ],
     "tags": [
         "Cactus Succulent",
         "Houseplants",
         "Conservatory Greenhouse",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "straw spine cactus",
-            "Texas pride"
-        ],
-        "synonyms": [
-            "Thelocactus bicolor var. bolaensis"
-        ]
-    },
+    "genus_description": "Thelocactus are cacti with ribbed, spiny, globose or shortly cylindrical stems and large funnel-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -35,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -63,71 +86,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in a standard cactus compost in full light with low humidity. Water moderately in summer and apply a liquid fertiliser 2-3 times. Keep dry in winter",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Patio and container plants"
         ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H1C"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cactaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cactaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Texas to Mexico",
         "foliage": "Evergreen",
-        "habit": "Clump forming",
-        "genus": "Thelocactus are cacti with ribbed, spiny, globose or shortly cylindrical stems and large funnel-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Texas to Mexico"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a standard cactus compost in full light with low humidity. Water moderately in summer and apply a liquid fertiliser 2-3 times. Keep dry in winter",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or offsets",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Mealybugs may be a problem",
-            "link_names": [
-                "Mealybugs"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Thelocactus bicolor var. bolaensis",
-    "display_name": "Glory of texas",
-    "clear_main_name": "Thelocactus bicolor var. bolaensis",
-    "pt_search_main_name": "Thelocactus bicolor var. bolaensis"
+        "habit": "Clump forming"
+    }
 }

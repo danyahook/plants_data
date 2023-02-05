@@ -1,26 +1,33 @@
 {
-    "id": "1dbf8606-94a5-4e60-8759-70e1b5307de4",
-    "link": "https://www.rhs.org.uk/plants/160892/rhus-lancea/details",
+    "latin_name": "Rhus lancea",
+    "main_common_name": {
+        "en": "Karee",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Willow rhus"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Rhus lancea"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "willow rhus"
-        ],
-        "synonyms": [
-            "Rhus lancea"
-        ]
-    },
+    "genus_description": null,
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -79,86 +105,36 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained soil. Tolerates salt spray and drought once established. For more information see tree cultivation.",
+        "propagation": [
+            "Softwood",
+            "Propagate from seed (tree/shrub"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "City and courtyard gardens",
+            "Prairie planting",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed",
-        "drought resistance": "Yes",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Anacardiaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Anacardiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil. Tolerates salt spray and drought once established. For more information see tree cultivation.",
-            "link_names": [
-                "Tree cultivation"
-            ],
-            "related_links": {
-                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings or by sowing seed. For more advice see our information on how to propagate from seed (tree/shrub",
-            "link_names": [
-                "Softwood",
-                "Propagate from seed (tree/shrub"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "propagate_from_seed_(tree/shrub": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "City and courtyard gardens",
-                "Prairie planting",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 but lower branches can be cleared to maintain a clear base, or more tree-like form",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to verticillium wilt",
-            "link_names": [
-                "Verticillium wilt"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
-            }
-        }
-    },
-    "main_name_original": "Rhus lancea",
-    "display_name": "Karee",
-    "clear_main_name": "Rhus lancea",
-    "pt_search_main_name": "Rhus lancea"
+        "habit": "Bushy"
+    }
 }

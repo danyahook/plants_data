@@ -1,28 +1,50 @@
 {
-    "id": "68849de9-7406-4259-a47a-29f0f3d2bc5e",
-    "link": "https://www.rhs.org.uk/plants/4385/cornus-capitata/details",
+    "latin_name": "Cornus capitata",
+    "main_common_name": {
+        "en": "Bentham's cornel",
+        "ru": "Клубничное дерево"
+    },
+    "common_names": {
+        "en": [
+            "Himalayan strawberry-tree",
+            "Bentham's cornel",
+            "Headed-flowered dogwood",
+            "Himalayan flowering dogwood",
+            "Strawberry dogwood",
+            "Evergreen dogwood"
+        ],
+        "ru": [
+            "Клубничное дерево",
+            "Циноксилон головчатый",
+            "Бентамидия головчатая",
+            "Дендробентамия головчатая",
+            "Дёрен головчатый",
+            "Кизил головчатый"
+        ]
+    },
+    "synonyms": [
+        "Benthamia capitata",
+        "Benthamia.1 fragifera",
+        "Cynoxylon capitatum",
+        "Benthamidia capitata",
+        "Cornus capitata",
+        "Dendrobenthamia capitata",
+        "Benthamidia fragifera"
+    ],
     "tags": [
         "Shrubs",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Bentham's cornel",
-            "headed-flowered dogwood"
-        ],
-        "synonyms": [
-            "Benthamidia fragifera",
-            "Benthamidia capitata",
-            "Benthamia.1 fragifera"
-        ]
-    },
+    "genus_description": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
+    "rank": 3400,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -36,7 +58,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -81,144 +121,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Cornaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Himalaya China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, humus-rich well-drained neutral to acid soil in sun or partial shade. For more advice, see flowering dogwood cultivation",
-            "link_names": [
-                "Flowering dogwood cultivation"
-            ],
-            "related_links": {
-                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed in autumn or stratify and sow in spring or propagate by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 but best with minimal pruning",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to cornus anthracnose and honey fungus",
-            "link_names": [
-                "Cornus anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cornus_capitata.html",
-        "filename": "4385-cornus-capitata.json",
-        "latin_name": "Cornus capitata",
-        "common_names": [
-            "Bentham's cornel",
-            "Himalayan strawberry-tree",
-            "Himalayan flowering dogwood",
-            "Evergreen dogwood",
-            "Strawberry dogwood"
+        "cultivation": "Grow in fertile, humus-rich well-drained neutral to acid soil in sun or partial shade. For more advice, see flowering dogwood cultivation",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Benthamidia capitata",
-            "Benthamia capitata",
-            "Dendrobenthamia capitata",
-            "Cynoxylon capitatum",
-            "Cornus capitata"
+        "suggested_panting_places": [
+            "Cottage and informal garden"
         ],
-        "ru_data": {
-            "common_names": [
-                "Клубничное дерево",
-                "Циноксилон головчатый\n",
-                "Бентамидия головчатая\n",
-                "Дендробентамия головчатая\n",
-                "Дёрен головчатый",
-                "Кизил головчатый"
-            ],
-            "synonyms": [
-                "Benthamidia capitata",
-                "Benthamia capitata",
-                "Dendrobenthamia capitata",
-                "Cynoxylon capitatum",
-                "Cornus capitata"
-            ]
-        },
-        "rank": 3400,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 9"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Dogwoods",
-                "Hydrangeas",
-                "And allies"
-            ],
-            "family": "Dogwood",
-            "genus": "Dogwoods",
-            "species": "Bentham's cornel"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Brown spot",
-            "Leaf beetles",
-            "Leaf scorch"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Cornus capitata",
-    "display_name": "Himalayan evergreen dogwood",
-    "clear_main_name": "Cornus capitata",
-    "pt_search_main_name": "Cornus capitata"
+    "diseases_and_pests": [
+        "Leaf scorch",
+        "Leaf beetles",
+        "Scars",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Dogwood",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Dogwoods",
+            "Hydrangeas",
+            "And allies"
+        ],
+        "genus": "Dogwoods",
+        "species": "Bentham's cornel"
+    },
+    "botanical_details": {
+        "plant_range": "Himalaya China",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

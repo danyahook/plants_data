@@ -1,27 +1,35 @@
 {
-    "id": "70923edd-5af6-444e-82ae-4c0c84c31fa2",
-    "link": "https://www.rhs.org.uk/plants/91028/athyrium-goeringianum-pictum/details",
+    "latin_name": "Athyrium goeringianum 'Pictum'",
+    "main_common_name": {
+        "en": "Painted lady fern",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Athyrium niponicum f. metallicum",
+        "Athyrium iseanum hort. 'metallicum'",
+        "Athyrium niponicum var. pictum 'metallicum'",
+        "Anthurium nipponicum 'metallicum'",
+        "Athyrium niponicum 'pictum'",
+        "Athyrium goeringianum 'pictum'"
+    ],
     "tags": [
         "Ferns",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Athyrium niponicum var. pictum 'Metallicum'",
-            "Athyrium goeringianum 'Pictum'",
-            "Athyrium iseanum hort. 'Metallicum'",
-            "Anthurium nipponicum 'Metallicum'",
-            "Athyrium niponicum 'Pictum'",
-            "Athyrium niponicum f. metallicum"
-        ]
-    },
+    "genus_description": "Athyrium are deciduous ferns with erect or creeping rhizomes bearing usually pinnate to tripinnate fronds, often of thin texture, and they are especially shade-tolerant",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -34,7 +42,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,70 +97,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in moist, fertile neutral to acid soil enriched with leaf mould or garden compost in a shady, sheltered site",
+        "propagation": [
+            "Divide"
         ],
-        "aspect_position": [
-            "North–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Rock garden",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Woodsiaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Woodsiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Athyrium are deciduous ferns with erect or creeping rhizomes bearing usually pinnate to tripinnate fronds, often of thin texture, and they are especially shade-tolerant",
-        "name_status": "Correct",
-        "plant_range": "E Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in moist, fertile neutral to acid soil enriched with leaf mould or garden compost in a shady, sheltered site",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate from spores as soon as ripe or divide in spring",
-            "link_names": [
-                "Divide"
-            ],
-            "related_links": {
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Rock garden",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut down fronds as necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Athyrium goeringianum 'Pictum'",
-    "display_name": "Painted lady fern",
-    "clear_main_name": "Athyrium goeringianum Pictum",
-    "pt_search_main_name": "Athyrium goeringianum 'Pictum'"
+        "habit": "Bushy"
+    }
 }

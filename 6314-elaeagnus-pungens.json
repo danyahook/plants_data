@@ -1,17 +1,44 @@
 {
-    "id": "fe8d9c98-3c30-470c-ab13-f0e838d5f002",
-    "link": "https://www.rhs.org.uk/plants/6314/elaeagnus-pungens/details",
+    "latin_name": "Elaeagnus pungens",
+    "main_common_name": {
+        "en": "Thorny olive",
+        "ru": "Лох колючий"
+    },
+    "common_names": {
+        "en": [
+            "Silverthorn",
+            "Thorny olive",
+            "Autumn elaeagnus",
+            "Autumn-olive",
+            "Spiny oleaster"
+        ],
+        "ru": [
+            "Лох колючий",
+            "Колючая олива",
+            "Русская маслина",
+            "Колючий олеастр",
+            "Серебряный шип"
+        ]
+    },
+    "synonyms": [
+        "Elaeagnus pungens f. variegata",
+        "Elaeagnus pungens var. variegata",
+        "Elaeagnus pungens",
+        "Elaeagnus sinensis"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {},
+    "genus_description": "Elaeagnus can be deciduous or evergreen shrubs or small trees, with simple, often silvery-scaled leaves, and small fragrant tubular flowers borne in clusters in the leaf axils, and followed by small juicy fruit",
+    "rank": 1724,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Sand",
             "Loam",
             "Clay",
@@ -25,6 +52,27 @@
             "Neutral",
             "Acid",
             "Alkaline"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered or Exposed",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -70,152 +118,48 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "North–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered or Exposed",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Elaeagnaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Elaeagnus can be deciduous or evergreen shrubs or small trees, with simple, often silvery-scaled leaves, and small fragrant tubular flowers borne in clusters in the leaf axils, and followed by small juicy fruit",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil, except shallow chalk, in sun or partial shade. Is especially useful as a heding or screening plant in coastal areas",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in summer",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Coastal",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free but may be susceptible to elaeagnus sucker",
-            "link_names": [
-                "Elaeagnus sucker"
-            ],
-            "related_links": {
-                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, coral spot or leaf spot (fungal) see leaf damage on woody plants",
-            "link_names": [
-                "Honey fungus",
-                "Coral spot"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Elaeagnus_pungens.html",
-        "filename": "6314-elaeagnus-pungens.json",
-        "latin_name": "Elaeagnus pungens",
-        "common_names": [
-            "Thorny olive",
-            "Spiny oleaster",
-            "Silverthorn",
-            "Autumn elaeagnus",
-            "Autumn-olive"
+        "cultivation": "Grow in any well-drained soil, except shallow chalk, in sun or partial shade. Is especially useful as a heding or screening plant in coastal areas",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Elaeagnus pungens var. variegata",
-            "Elaeagnus sinensis",
-            "Elaeagnus pungens f. variegata",
-            "Elaeagnus pungens"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Coastal",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Лох колючий",
-                "Колючая олива",
-                "Русская маслина",
-                "Колючий олеастр",
-                "Серебряный шип"
-            ],
-            "synonyms": [
-                "Elaeagnus pungens var. variegata",
-                "Elaeagnus sinensis",
-                "Elaeagnus pungens f. variegata",
-                "Elaeagnus pungens"
-            ]
-        },
-        "rank": 1724,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 10",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Oleaster",
-            "genus": "Silverberries",
-            "species": "Thorny olive"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Plant dried up",
-            "Sap-sucking insects",
-            "Aged yellow and dry",
-            "Leaf beetles",
-            "Brown spot",
-            "Leaf mites"
+        "pruning": [
+            "Pruning group 9"
         ]
     },
-    "main_name_original": "Elaeagnus pungens",
-    "display_name": "Silverthorn",
-    "clear_main_name": "Elaeagnus pungens",
-    "pt_search_main_name": "Elaeagnus pungens"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Plant dried up",
+        "Leaf beetles",
+        "Sap-sucking insects",
+        "Leaf mites",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Oleaster",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Silverberries",
+        "species": "Thorny olive"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

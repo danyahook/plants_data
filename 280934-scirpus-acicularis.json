@@ -1,29 +1,36 @@
 {
-    "id": "6f245866-a6b8-41dd-a14e-2642372ee373",
-    "link": "https://www.rhs.org.uk/plants/280934/scirpus-acicularis/details",
+    "latin_name": "Scirpus acicularis",
+    "main_common_name": {
+        "en": "Hair grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Slender spike-rush",
+            "Needle spike-rush",
+            "Needle rush"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Scirpus acicularis",
+        "Heleocharis acicularis"
+    ],
     "tags": [
         "Aquatic",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "needle rush",
-            "needle spike-rush",
-            "slender spike-rush"
-        ],
-        "synonyms": [
-            "Scirpus acicularis",
-            "Heleocharis acicularis"
-        ]
-    },
+    "genus_description": null,
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -35,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,71 +94,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moisture-retentive situations such as bog garden, pond margins or submerged to a depth of 40cm. See pond plants for further information",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cyperaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cyperaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Temp N Hemis to W S Amer.",
         "foliage": "Evergreen",
-        "habit": "Submerged, Tufted",
-        "name_status": "Correct",
-        "plant_range": "Temp N Hemis to W S Amer."
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moisture-retentive situations such as bog garden, pond margins or submerged to a depth of 40cm. See pond plants for further information",
-            "link_names": [
-                "Pond plants"
-            ],
-            "related_links": {
-                "pond_plants": "https://www.rhs.org.uk/ponds/pond-plants"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed or by division",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Scirpus acicularis",
-    "display_name": "Hair grass",
-    "clear_main_name": "Scirpus acicularis",
-    "pt_search_main_name": "Scirpus acicularis"
+        "habit": "Submerged, Tufted"
+    }
 }

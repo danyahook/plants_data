@@ -1,26 +1,33 @@
 {
-    "id": "03061c65-6394-47f2-8665-305d13240b4c",
-    "link": "https://www.rhs.org.uk/plants/13364/podocarpus-salignus/details",
+    "latin_name": "Podocarpus salignus",
+    "main_common_name": {
+        "en": "Willow-leaf podocarp",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Mañio",
+            "Willow podocarp"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Podocarpus chilinus"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "mañio",
-            "willow podocarp"
-        ],
-        "synonyms": [
-            "Podocarpus chilinus"
-        ]
-    },
+    "genus_description": "Podocarpus can be evergreen shrubs or trees, with spirally arranged, but usually 2-ranked, leaves which may be linear or narrowly lanceolate; plum-shaped fleshy fruits are produced only where male and female trees grow together",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -69,70 +93,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained soil. Protect from cool, drying winds. Very graceful as mature tree. Prefers high humidIty or high rainfall climates",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Podocarpaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Podocarpaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S Chile",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Podocarpus can be evergreen shrubs or trees, with spirally arranged, but usually 2-ranked, leaves which may be linear or narrowly lanceolate; plum-shaped fleshy fruits are produced only where male and female trees grow together",
-        "name_status": "Correct",
-        "plant_range": "S Chile"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil. Protect from cool, drying winds. Very graceful as mature tree. Prefers high humidIty or high rainfall climates",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Podocarpus salignus",
-    "display_name": "Willow-leaf podocarp",
-    "clear_main_name": "Podocarpus salignus",
-    "pt_search_main_name": "Podocarpus salignus"
+        "habit": "Bushy"
+    }
 }

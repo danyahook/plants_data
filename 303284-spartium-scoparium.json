@@ -1,32 +1,39 @@
 {
-    "id": "cf019325-98e6-4076-b767-7d64fe494840",
-    "link": "https://www.rhs.org.uk/plants/303284/spartium-scoparium/details",
+    "latin_name": "Spartium scoparium",
+    "main_common_name": {
+        "en": "Common broom",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Scots broom",
+            "Green broom",
+            "Besom",
+            "Scotch broom",
+            "Beesom"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Genista scoparia",
+        "Sarothamnus vulgaris",
+        "Spartium scoparium",
+        "Sarothamnus scoparius"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "beesom",
-            "besom",
-            "green broom",
-            "Scotch broom",
-            "Scots broom"
-        ],
-        "synonyms": [
-            "Genista scoparia",
-            "Spartium scoparium",
-            "Sarothamnus scoparius",
-            "Sarothamnus vulgaris"
-        ]
-    },
+    "genus_description": "Cytisus can be deciduous or evergreen shrubs, ranging from prostrate to erect and almost tree-like, with small, simple or 3-parted leaves and pea-like flowers spring or summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -38,7 +45,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -74,85 +97,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained soil in full sun with a little shelter from cold drying winds; broom thrives in poor acid soils and may become chlorotic on shallow chalk soils. Plant when young, resents transplanting",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 3"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "potentially_harmful": "All parts, especially the seeds, may cause mild stomach upset if ingested. Wear gloves and wash hands after handling",
-        "genus": "Cytisus can be deciduous or evergreen shrubs, ranging from prostrate to erect and almost tree-like, with small, simple or 3-parted leaves and pea-like flowers spring or summer",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil in full sun with a little shelter from cold drying winds; broom thrives in poor acid soils and may become chlorotic on shallow chalk soils. Plant when young, resents transplanting",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 3. Do not cut into old wood",
-            "link_names": [
-                "Pruning group 3"
-            ],
-            "related_links": {
-                "pruning_group_3": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to broom gall mites",
-            "link_names": [
-                "Gall mites"
-            ],
-            "related_links": {
-                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Spartium scoparium",
-    "display_name": "Common broom",
-    "clear_main_name": "Spartium scoparium",
-    "pt_search_main_name": "Spartium scoparium"
+        "habit": "Columnar upright"
+    }
 }

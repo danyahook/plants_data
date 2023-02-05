@@ -1,26 +1,50 @@
 {
-    "id": "7d7f42f1-ed7a-4642-a0a8-05b5f2264b3d",
-    "link": "https://www.rhs.org.uk/plants/1456/araucaria-araucana/details",
+    "latin_name": "Araucaria araucana",
+    "main_common_name": {
+        "en": "Monkey puzzle tree",
+        "ru": "Араукария чилийская"
+    },
+    "common_names": {
+        "en": [
+            "Chilean pine",
+            "Parana pine",
+            "Chile nut",
+            "Monkey puzzle tree",
+            "Monkey puzzle",
+            "Chile pine",
+            "Pehuen",
+            "Money puzzle tree",
+            "Pewen",
+            "Monkey tail tree"
+        ],
+        "ru": [
+            "Араукария чилийская"
+        ]
+    },
+    "synonyms": [
+        "Araucaria dombeyi",
+        "Columbea quadrifaria",
+        "Araucaria imbricata",
+        "Araucaria araucana",
+        "Dombeya chilensis",
+        "Pinus araucana",
+        "Columbea imbricata",
+        "Abies araucana"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Chile pine",
-            "money puzzle tree"
-        ],
-        "synonyms": [
-            "Araucaria imbricata"
-        ]
-    },
+    "genus_description": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
+    "rank": 2649,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -34,7 +58,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -74,147 +119,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Araucariaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
-        "name_status": "Correct",
-        "plant_range": "Chile, Argentina"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well drained soil in an open site with shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in seedbed as soon as ripe; take cuttings of vertical shoot tips in midsummer and root in a cold frame; cuttings of horizontal side branches will not form an upright tree",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; only young specimens respond well to pruning back into older wood",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Araucaria_araucana.html",
-        "filename": "1456-araucaria-araucana.json",
-        "latin_name": "Araucaria araucana",
-        "common_names": [
-            "Monkey puzzle tree",
-            "Monkey tail tree",
-            "Chilean pine",
-            "Chile pine",
-            "Chile nut",
-            "Monkey puzzle",
-            "Parana pine",
-            "Pehuen",
-            "Pewen"
+        "cultivation": "Grow in moderately fertile, moist but well drained soil in an open site with shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Columbea imbricata",
-            "Pinus araucana",
-            "Araucaria imbricata",
-            "Abies araucana",
-            "Dombeya chilensis",
-            "Araucaria dombeyi",
-            "Columbea quadrifaria",
-            "Araucaria araucana"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "ru_data": {
-            "common_names": [
-                "Араукария чилийская"
-            ],
-            "synonyms": [
-                "Columbea imbricata",
-                "Pinus araucana",
-                "Araucaria imbricata",
-                "Abies araucana",
-                "Dombeya chilensis",
-                "Araucaria dombeyi",
-                "Columbea quadrifaria",
-                "Araucaria araucana"
-            ]
-        },
-        "rank": 2649,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "8 - 10",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Araucaria",
-            "genus": "Araucaria",
-            "species": "Monkey puzzle tree"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Leaf scorch",
-            "Fruit withering",
-            "Branch blight",
-            "Dieback",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Araucaria araucana",
-    "display_name": "Monkey puzzle",
-    "clear_main_name": "Araucaria araucana",
-    "pt_search_main_name": "Araucaria araucana"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Scars",
+        "Leaf scorch",
+        "Fruit withering",
+        "Dieback",
+        "Branch blight"
+    ],
+    "scientific_classification": {
+        "family": "Araucaria",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Araucaria",
+        "species": "Monkey puzzle tree"
+    },
+    "botanical_details": {
+        "plant_range": "Chile, Argentina",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

@@ -1,21 +1,34 @@
 {
-    "id": "7e9c81de-582c-40e7-8604-b5a270ef7af4",
-    "link": "https://www.rhs.org.uk/plants/25698/amsonia-illustris/details",
+    "latin_name": "Amsonia illustris",
+    "main_common_name": {
+        "en": "Ozark bluestar",
+        "ru": "Amsonia illustris"
+    },
+    "common_names": {
+        "en": [
+            "Shining bluestar",
+            "Ozark bluestar"
+        ],
+        "ru": [
+            "Amsonia illustris"
+        ]
+    },
+    "synonyms": [
+        "Amsonia illustris"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "shining bluestar"
-        ]
-    },
+    "genus_description": "Amsonia are clump-forming perennials with milky sap, lance-shaped leaves and terminal panicles of small, starry blue flowers in spring and summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +43,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,100 +97,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist well-drained soil in full sun or light shade. Can tolerate periods of drought",
+        "propagation": [
+            "Propagate by seed",
+            "Divide",
+            "Softwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Rock garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Apocynaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Apocynaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Amsonia are clump-forming perennials with milky sap, lance-shaped leaves and terminal panicles of small, starry blue flowers in spring and summer",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist well-drained soil in full sun or light shade. Can tolerate periods of drought",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn or spring. Divide in spring or early autumn. Root softwood or basal cuttings in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Divide",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Rock garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Amsonia_illustris.html",
-        "filename": "25698-amsonia-illustris.json",
-        "latin_name": "Amsonia illustris",
-        "common_names": [
-            "Ozark bluestar"
-        ],
-        "synonyms": [
-            "Amsonia illustris"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Amsonia illustris"
-            ],
-            "synonyms": [
-                "Amsonia illustris"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {},
-        "class_data": {},
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Amsonia illustris",
-    "display_name": "Ozark bluestar",
-    "clear_main_name": "Amsonia illustris",
-    "pt_search_main_name": "Amsonia illustris"
+        "habit": "Clump forming"
+    }
 }

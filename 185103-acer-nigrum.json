@@ -1,22 +1,46 @@
 {
-    "id": "0e136f5c-6aaf-4ca8-8f2e-b1c89bc7e5b3",
-    "link": "https://www.rhs.org.uk/plants/185103/acer-nigrum/details",
+    "latin_name": "Acer nigrum",
+    "main_common_name": {
+        "en": "Black maple",
+        "ru": "Клён чёрный"
+    },
+    "common_names": {
+        "en": [
+            "Rock maple",
+            "Stripped maple",
+            "Black maple"
+        ],
+        "ru": [
+            "Клён чёрный"
+        ]
+    },
+    "synonyms": [
+        "Acer nigrum",
+        "Acer saccharophorum",
+        "Acer saccharum var. viride",
+        "Acer saccharum var. palmeri",
+        "Acer saccharum var. nigrum",
+        "Acer saccharinum var. nigrum",
+        "Saccharodendron nigrum",
+        "Acer nigrum subsp. saccharophorum",
+        "Acer nigrum var. saccharophorum",
+        "Acer saccharum subsp. nigrum",
+        "Acer nigrum var. palmeri"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Acer nigrum"
-        ]
-    },
+    "genus_description": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
+    "rank": 3501,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +55,30 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Early summer",
+            "Mid summer"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -68,163 +115,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Sapindaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil, will tolerate alkaline soils but autumn colour is better is slightly acid soils. See tree cultivation for more advice",
-            "link_names": [
-                "Tree cultivation"
-            ],
-            "related_links": {
-                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed or by grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Minimal pruning required; see pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Acer leaf scorch",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Acer_nigrum.html",
-        "filename": "185103-acer-nigrum.json",
-        "latin_name": "Acer nigrum",
-        "common_names": [
-            "Black maple",
-            "Rock maple",
-            "Stripped maple"
+        "cultivation": "Grow in moist but well-drained soil, will tolerate alkaline soils but autumn colour is better is slightly acid soils. See tree cultivation for more advice",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "synonyms": [
-            "Acer saccharinum var. nigrum",
-            "Acer saccharum var. nigrum",
-            "Acer saccharum var. viride",
-            "Saccharodendron nigrum",
-            "Acer saccharum subsp. nigrum",
-            "Acer nigrum var. palmeri",
-            "Acer saccharum var. palmeri",
-            "Acer saccharophorum",
-            "Acer nigrum",
-            "Acer nigrum subsp. saccharophorum",
-            "Acer nigrum var. saccharophorum"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Клён чёрный"
-            ],
-            "synonyms": [
-                "Acer saccharinum var. nigrum",
-                "Acer saccharum var. nigrum",
-                "Acer saccharum var. viride",
-                "Saccharodendron nigrum",
-                "Acer saccharum subsp. nigrum",
-                "Acer nigrum var. palmeri",
-                "Acer saccharum var. palmeri",
-                "Acer saccharophorum",
-                "Acer nigrum",
-                "Acer nigrum subsp. saccharophorum",
-                "Acer nigrum var. saccharophorum"
-            ]
-        },
-        "rank": 3501,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "water": "Every 1-2 weeks",
-            "planting_time": [
-                "Early summer",
-                "Mid summer"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Maples",
-                "Mangos",
-                "Mahogany",
-                "Citrus",
-                "And allies"
-            ],
-            "family": "Soapberry",
-            "genus": "Maples",
-            "species": "Black maple"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Brown spot",
-            "Plant dried up",
-            "Black spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Acer nigrum",
-    "display_name": "Black maple",
-    "clear_main_name": "Acer nigrum",
-    "pt_search_main_name": "Acer nigrum"
+    "diseases_and_pests": [
+        "Plant dried up",
+        "Brown spot",
+        "Black spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Soapberry",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Maples",
+            "Mangos",
+            "Mahogany",
+            "Citrus",
+            "And allies"
+        ],
+        "genus": "Maples",
+        "species": "Black maple"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": "Columnar upright"
+    }
 }

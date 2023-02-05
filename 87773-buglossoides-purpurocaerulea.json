@@ -1,25 +1,32 @@
 {
-    "id": "80e8eaa2-943d-463d-8571-26d71874608e",
-    "link": "https://www.rhs.org.uk/plants/87773/buglossoides-purpurocaerulea/details",
+    "latin_name": "Buglossoides purpurocaerulea",
+    "main_common_name": {
+        "en": "Purple gromwell",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Creeping gromwell"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Lithodora buglossoides",
+        "Lithospermum purpureocaeruleum"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "creeping gromwell"
-        ],
-        "synonyms": [
-            "Lithodora buglossoides",
-            "Lithospermum purpureocaeruleum"
-        ]
-    },
+    "genus_description": "Buglossoides can be annuals or perennials, with bristlyleaves and small, funnel-shaped blue or white flowers in simple or branched terminal cymes in spring or summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -32,7 +39,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -68,70 +93,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Prefers light, well-draining soil and tolerates chalk in sun or partial shade. May spread",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Banks and slopes",
+            "Underplanting of roses and shrubs"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Boraginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Boraginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "W Europe to Iran",
         "foliage": "Deciduous",
-        "habit": "Matforming",
-        "genus": "Buglossoides can be annuals or perennials, with bristlyleaves and small, funnel-shaped blue or white flowers in simple or branched terminal cymes in spring or summer",
-        "name_status": "Correct",
-        "plant_range": "W Europe to Iran"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Prefers light, well-draining soil and tolerates chalk in sun or partial shade. May spread",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division or propagate by seed",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Banks and slopes",
-                "Underplanting of roses and shrubs"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Buglossoides purpurocaerulea",
-    "display_name": "Purple gromwell",
-    "clear_main_name": "Buglossoides purpurocaerulea",
-    "pt_search_main_name": "Buglossoides purpurocaerulea"
+        "habit": "Matforming"
+    }
 }

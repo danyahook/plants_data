@@ -1,28 +1,35 @@
 {
-    "id": "9a927685-f8ba-47d1-bc4a-492bd762d3a5",
-    "link": "https://www.rhs.org.uk/plants/162933/convolvulus-minor-hort/details",
+    "latin_name": "Convolvulus minor hort.",
+    "main_common_name": {
+        "en": "Dwarf morning glory",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Bindweed [2]",
+            "Small convolvulus",
+            "Dwarf convolvulus"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Convolvulus minor hort."
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "dwarf convolvulus",
-            "small convolvulus",
-            "bindweed [2]"
-        ],
-        "synonyms": [
-            "Convolvulus minor hort."
-        ]
-    },
+    "genus_description": "Convolvulus can be annuals, perennials or shrubs, erect or scrambling, with simple or palmately divided leaves and solitary or clustered, open funnel-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -36,7 +43,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,84 +93,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in gritty, well-drained soil in a sheltered, sunny site",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Divide"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Banks and slopes",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Convolvulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Convolvulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Mediterranean",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Convolvulus can be annuals, perennials or shrubs, erect or scrambling, with simple or palmately divided leaves and solitary or clustered, open funnel-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Mediterranean"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in gritty, well-drained soil in a sheltered, sunny site",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, root softwood cuttings in late summer, or divide in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Divide"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Banks and slopes",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead to prolong flowering",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "honey fungus (rarely)",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Convolvulus minor hort.",
-    "display_name": "Dwarf morning glory",
-    "clear_main_name": "Convolvulus minor hort.",
-    "pt_search_main_name": "Convolvulus minor hort."
+        "habit": "Bushy"
+    }
 }

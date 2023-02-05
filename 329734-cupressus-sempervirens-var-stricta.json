@@ -1,26 +1,34 @@
 {
-    "id": "a9b1fed4-2b3a-44bd-8ae9-80bd2f8f06ac",
-    "link": "https://www.rhs.org.uk/plants/329734/cupressus-sempervirens-var-stricta/details",
+    "latin_name": "Cupressus sempervirens var. stricta",
+    "main_common_name": {
+        "en": "Italian cypress stricta group",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Cupressus sempervirens 'stricta'",
+        "Cupressus sempervirens var. sempervirens",
+        "Cupressus sempervirens var. stricta",
+        "Cupressus sempervirens 'pyramidalis'"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Cupressus sempervirens 'Stricta'",
-            "Cupressus sempervirens 'Pyramidalis'",
-            "Cupressus sempervirens var. sempervirens",
-            "Cupressus sempervirens var. stricta"
-        ]
-    },
+    "genus_description": "Cupressus are vigorous, evergreen trees with flaking or scaly bark, often with columnar or narrowly ovoid crowns, small, often aromatic, scale-like leaves and small, spherical female cones",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +43,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -69,75 +95,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained soil in full sun. Protect from cool, drying winds. Tolerates dry conditions",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cupressaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cupressaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Cupressus are vigorous, evergreen trees with flaking or scaly bark, often with columnar or narrowly ovoid crowns, small, often aromatic, scale-like leaves and small, spherical female cones",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun. Protect from cool, drying winds. Tolerates dry conditions",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to cypress aphid",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to coryneum canker and honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Cupressus sempervirens var. stricta",
-    "display_name": "Italian cypress stricta group",
-    "clear_main_name": "Cupressus sempervirens var. stricta",
-    "pt_search_main_name": "Cupressus sempervirens var. stricta"
+        "habit": "Columnar upright"
+    }
 }

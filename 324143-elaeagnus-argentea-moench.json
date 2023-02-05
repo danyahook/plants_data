@@ -1,30 +1,37 @@
 {
-    "id": "9accfb30-5fc8-4609-80a9-326d316eb035",
-    "link": "https://www.rhs.org.uk/plants/324143/elaeagnus-argentea-moench/details",
+    "latin_name": "Elaeagnus argentea Moench",
+    "main_common_name": {
+        "en": "Bohemian oleaster",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Trebizond date",
+            "Wild olive",
+            "Russian olive",
+            "Oleaster",
+            "Silver berry"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Elaeagnus angustifolia var. orientalis",
+        "Elaeagnus argentea moench"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "oleaster",
-            "Russian olive",
-            "silver berry",
-            "Trebizond date",
-            "wild olive"
-        ],
-        "synonyms": [
-            "Elaeagnus angustifolia var. orientalis",
-            "Elaeagnus argentea Moench"
-        ]
-    },
+    "genus_description": "Elaeagnus can be deciduous or evergreen shrubs or small trees, with simple, often silvery-scaled leaves, and small fragrant tubular flowers borne in clusters in the leaf axils, and followed by small juicy fruit",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -39,6 +46,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered or Exposed",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -83,88 +106,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in full sun, tolerant of dry soil and coastal winds but may become chlorotic on shallow chalky soils",
+        "propagation": [
+            "Semi-hardwood",
+            "Suckers"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Hedging and screens"
         ],
-        "exposure": "Sheltered or Exposed",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Elaeagnaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Elaeagnaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Elaeagnus can be deciduous or evergreen shrubs or small trees, with simple, often silvery-scaled leaves, and small fragrant tubular flowers borne in clusters in the leaf axils, and followed by small juicy fruit",
-        "name_status": "Correct",
-        "plant_range": "Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in full sun, tolerant of dry soil and coastal winds but may become chlorotic on shallow chalky soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings or remove rooted suckers in autumn",
-            "link_names": [
-                "Semi-hardwood",
-                "Suckers"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free but may be susceptible to elaeagnus sucker",
-            "link_names": [
-                "Elaeagnus sucker"
-            ],
-            "related_links": {
-                "elaeagnus_sucker": "https://www.rhs.org.uk/biodiversity/elaeagnus-sucker"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, coral spot or leaf spot (fungal) see leaf damage on woody plants",
-            "link_names": [
-                "Honey fungus",
-                "Coral spot"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
-            }
-        }
-    },
-    "main_name_original": "Elaeagnus argentea Moench",
-    "display_name": "Bohemian oleaster",
-    "clear_main_name": "Elaeagnus argentea Moench",
-    "pt_search_main_name": "Elaeagnus argentea Moench"
+        "habit": "Bushy"
+    }
 }

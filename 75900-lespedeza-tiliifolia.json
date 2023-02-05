@@ -1,24 +1,32 @@
 {
-    "id": "ba89c880-fa02-46e8-a2b6-9c2fefa64ff1",
-    "link": "https://www.rhs.org.uk/plants/75900/lespedeza-tiliifolia/details",
+    "latin_name": "Lespedeza tiliifolia",
+    "main_common_name": {
+        "en": "Elegant tick clover",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Desmodium tiliifolium",
+        "Lespedeza tiliifolia",
+        "Desmodium elegans var. tiliifolium"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Lespedeza tiliifolia",
-            "Desmodium tiliifolium",
-            "Desmodium elegans var. tiliifolium"
-        ]
-    },
+    "genus_description": "Desmodium can be herbaceous perennials or deciduous shrubs or subshrubs, with pinnate or palmate leaves and loose racemes of small, pea-like pink or white flowers in late summer and autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -69,80 +93,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows well in most soils but in colder areas may require protection from frosts and cold drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Mediterranean climate plants",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Banks and slopes"
         ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 4",
+            "Pruning group 6"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China Himalaya",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Desmodium can be herbaceous perennials or deciduous shrubs or subshrubs, with pinnate or palmate leaves and loose racemes of small, pea-like pink or white flowers in late summer and autumn",
-        "name_status": "Correct",
-        "plant_range": "China Himalaya"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows well in most soils but in colder areas may require protection from frosts and cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn or take softwood cuttings in late spring",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Mediterranean climate plants",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 4 or pruning group 6",
-            "link_names": [
-                "Pruning group 4",
-                "Pruning group 6"
-            ],
-            "related_links": {
-                "pruning_group_4": "https://www.rhs.org.uk/plants/hydrangea/pruning-guide",
-                "pruning_group_6": "https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Lespedeza tiliifolia",
-    "display_name": "Elegant tick clover",
-    "clear_main_name": "Lespedeza tiliifolia",
-    "pt_search_main_name": "Lespedeza tiliifolia"
+        "habit": "Bushy"
+    }
 }

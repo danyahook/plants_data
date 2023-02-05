@@ -1,23 +1,49 @@
 {
-    "id": "cca2d7db-c5c9-49ed-9737-ef8582cacd36",
-    "link": "https://www.rhs.org.uk/plants/105568/cucumis-sativus/details",
+    "latin_name": "Cucumis sativus",
+    "main_common_name": {
+        "en": "Cucumbers",
+        "ru": "Огурец обыкновенный"
+    },
+    "common_names": {
+        "en": [
+            "Khira",
+            "Gherkin",
+            "Common cucumber",
+            "Gherkins",
+            "Cucumbers",
+            "Immature cucumber",
+            "Garden cucumber"
+        ],
+        "ru": [
+            "Огурец обыкновенный",
+            "Огурец посевно́й",
+            "Огурец огородный"
+        ]
+    },
+    "synonyms": [
+        "Cucumis vittata",
+        "Cucumis vilmorinii",
+        "Cucumis muricatus",
+        "Cucumis sativus",
+        "Cucumis setosus",
+        "Cucumis sphaerocarpus",
+        "Cucumis esculentus",
+        "Cucumis rumphii"
+    ],
     "tags": [
         "Fruit Edible",
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "gherkin",
-            "khira"
-        ]
-    },
+    "genus_description": "Cucumis is a genus of twining plants with tendrils which includes cucumber, melons and gerkins. Around 30 species are native to Africa and 25 to India, Southeast Asia and Australia.",
+    "rank": 388,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -29,7 +55,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1B"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,139 +109,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in an acidic to neutral, moisture-retentive, well drained compost and a position in full sun, in a conservatory, greenhouse, or outdoors in summer in the UK See cucumber cultivation",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Edible fruit",
+            "Conservatory and greenhouse"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Sap-sucking insects",
+        "Leaf rot",
+        "Leaf beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Gourd",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Cucurbitales"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1B"
+        "genus": "Melon",
+        "species": "Cucumber"
     },
     "botanical_details": {
-        "family": "Cucurbitaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Climbing",
-        "genus": "Cucumis is a genus of twining plants with tendrils which includes cucumber, melons and gerkins. Around 30 species are native to Africa and 25 to India, Southeast Asia and Australia.",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in an acidic to neutral, moisture-retentive, well drained compost and a position in full sun, in a conservatory, greenhouse, or outdoors in summer in the UK See cucumber cultivation",
-            "link_names": [
-                "Cucumber cultivation"
-            ],
-            "related_links": {
-                "cucumber_cultivation": "https://www.rhs.org.uk/vegetables/cucumbers/grow-your-own"
-            }
-        },
-        "propagation": {
-            "text": "Propate by seed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Edible fruit",
-                "Conservatory and greenhouse"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "pinch out tips of leading stems once they have reached the top of thee trellis or growing support. Laterals should be pruned two leaves beyond where a fruit is developing to divert the plant's energy into the development of the fruit, rather than into the lateral's vegetative growth",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to glasshouse whitefly",
-            "link_names": [
-                "Glasshouse whitefly"
-            ],
-            "related_links": {
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Cucumber mosaic virus and powdery mildews",
-            "link_names": [
-                "Cucumber mosaic virus",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "cucumber_mosaic_virus": "https://www.rhs.org.uk/disease/cucumber-mosaic-virus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cucumis_sativus.html",
-        "filename": "105568-cucumis-sativus.json",
-        "latin_name": "Cucumis sativus",
-        "common_names": [
-            "Cucumbers",
-            "Gherkins",
-            "Immature Cucumber",
-            "Garden cucumber",
-            "Common cucumber"
-        ],
-        "synonyms": [
-            "Cucumis muricatus",
-            "Cucumis sphaerocarpus",
-            "Cucumis vilmorinii",
-            "Cucumis setosus",
-            "Cucumis esculentus",
-            "Cucumis sativus",
-            "Cucumis rumphii",
-            "Cucumis vittata"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Огурец обыкновенный",
-                "Огурец посевно́й",
-                "Огурец огородный"
-            ],
-            "synonyms": [
-                "Cucumis muricatus",
-                "Cucumis sphaerocarpus",
-                "Cucumis vilmorinii",
-                "Cucumis setosus",
-                "Cucumis esculentus",
-                "Cucumis sativus",
-                "Cucumis rumphii",
-                "Cucumis vittata"
-            ]
-        },
-        "rank": 388,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 8",
-            "planting_time": "Spring"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Cucurbitales"
-            ],
-            "family": "Gourd",
-            "genus": "Melon",
-            "species": "Cucumber"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Brown spot",
-            "Leaf rot",
-            "Leaf beetles"
-        ]
-    },
-    "main_name_original": "Cucumis sativus",
-    "display_name": "Cucumber",
-    "clear_main_name": "Cucumis sativus",
-    "pt_search_main_name": "Cucumis sativus"
+        "habit": "Climbing"
+    }
 }

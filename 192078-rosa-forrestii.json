@@ -1,28 +1,35 @@
 {
-    "id": "4fe62f20-c80b-46fc-bd32-5b9676eac231",
-    "link": "https://www.rhs.org.uk/plants/192078/rosa-forrestii/details",
+    "latin_name": "Rosa forrestii",
+    "main_common_name": {
+        "en": "Burr rose",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Chinquapin rose",
+            "Chestnut rose"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Rosa microphylla",
+        "Rosa forrestii"
+    ],
     "tags": [
         "Roses",
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "chestnut rose",
-            "Chinquapin rose"
-        ],
-        "synonyms": [
-            "Rosa microphylla",
-            "Rosa forrestii"
-        ]
-    },
+    "genus_description": "Rosa can be deciduous or semi-evergreen shrubs or scrambling climbers, with usually thorny stems bearing compound pinnate leaves and solitary or clustered flowers. Flowers may be followed by showy red or purple fruits in some varieties.",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,6 +43,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -96,98 +119,35 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in full sun in moderately fertile humus-rich soil; see rose cultivation for more advice",
+        "propagation": [
+            "Hardwood",
+            "T-budding",
+            "Grafting"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 21"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China",
         "foliage": "Deciduous",
-        "genus": "Rosa can be deciduous or semi-evergreen shrubs or scrambling climbers, with usually thorny stems bearing compound pinnate leaves and solitary or clustered flowers. Flowers may be followed by showy red or purple fruits in some varieties.",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in full sun in moderately fertile humus-rich soil; see rose cultivation for more advice",
-            "link_names": [
-                "Rose cultivation"
-            ],
-            "related_links": {
-                "rose_cultivation": "https://www.rhs.org.uk/plants/roses/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by hardwood cuttings in autumn or by T-budding and grafting in summer",
-            "link_names": [
-                "Hardwood",
-                "T-budding",
-                "Grafting"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "t-budding": "https://www.rhs.org.uk/propagation/t-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 21 (shrub roses); to retain hips, delay pruning until late winter",
-            "link_names": [
-                "Pruning group 21"
-            ],
-            "related_links": {
-                "pruning_group_21": "https://www.rhs.org.uk/plants/roses/shrub/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to rose aphids, rose leafhoppers, scale insects, caterpillars, rose leaf-rolling sawfly, leaf-cutting bees, rabbits and deer but generally pest free",
-            "link_names": [
-                "Aphids",
-                "Scale insects",
-                "Leaf-cutting bees",
-                "Rabbits",
-                "Deer"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "leaf-cutting_bees": "https://www.rhs.org.uk/biodiversity/leaf-cutting-bees",
-                "rabbits": "https://www.rhs.org.uk/biodiversity/rabbits",
-                "deer": "https://www.rhs.org.uk/biodiversity/deer"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to black spot, rose rust and rose powdery mildew but generally disease free",
-            "link_names": [
-                "Rose rust",
-                "Rose powdery mildew"
-            ],
-            "related_links": {
-                "rose_rust": "https://www.rhs.org.uk/disease/rose-rust",
-                "rose_powdery_mildew": "https://www.rhs.org.uk/disease/rose-powdery-mildew"
-            }
-        }
-    },
-    "main_name_original": "Rosa forrestii",
-    "display_name": "Burr rose",
-    "clear_main_name": "Rosa forrestii",
-    "pt_search_main_name": "Rosa forrestii"
+        "habit": null
+    }
 }

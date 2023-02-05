@@ -1,24 +1,32 @@
 {
-    "id": "b3e2e21e-4ee2-4fe0-a160-4304377ff8d4",
-    "link": "https://www.rhs.org.uk/plants/35/abies-forrestii/details",
+    "latin_name": "Abies forrestii",
+    "main_common_name": {
+        "en": "Forrest fir",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Abies delavayi var. forestii",
+        "Abies georgii",
+        "Abies delavayi var. forrestii"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Abies delavayi var. forestii",
-            "Abies georgii",
-            "Abies delavayi var. forrestii"
-        ]
-    },
+    "genus_description": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -31,7 +39,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -77,79 +103,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates.",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "City and courtyard gardens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "W China",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
-        "name_status": "Correct",
-        "plant_range": "W China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in deep, slightly acidic, moist but well-drained soils in cooler climates.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "City and courtyard gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids and aphids",
-            "link_names": [
-                "Adelgids",
-                "Aphids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free, but may be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Abies forrestii",
-    "display_name": "Forrest fir",
-    "clear_main_name": "Abies forrestii",
-    "pt_search_main_name": "Abies forrestii"
+        "habit": "Columnar upright"
+    }
 }

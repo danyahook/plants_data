@@ -1,31 +1,38 @@
 {
-    "id": "e31413f2-7a15-4f8d-9e66-024662df8868",
-    "link": "https://www.rhs.org.uk/plants/44450/picea-abies-excelsa/details",
+    "latin_name": "Picea abies 'Excelsa'",
+    "main_common_name": {
+        "en": "Norway spruce",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Spruce fir",
+            "Baltic whitewood",
+            "Burgundy pitch tree",
+            "Common spruce",
+            "White deal"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Picea rubra a. dietr.",
+        "Pinus excelsa lamb.",
+        "Picea abies 'excelsa'"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Baltic whitewood",
-            "Burgundy pitch tree",
-            "common spruce",
-            "spruce fir",
-            "white deal"
-        ],
-        "synonyms": [
-            "Picea abies 'Excelsa'",
-            "Picea rubra A. Dietr.",
-            "Pinus excelsa Lamb."
-        ]
-    },
+    "genus_description": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -38,7 +45,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,82 +101,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained, acid or neutral soil",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained, acid or neutral soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids, red spider mite and conifer aphid",
-            "link_names": [
-                "Adelgids",
-                "Red spider mite",
-                "Conifer aphid"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Picea abies 'Excelsa'",
-    "display_name": "Norway spruce",
-    "clear_main_name": "Picea abies Excelsa",
-    "pt_search_main_name": "Picea abies 'Excelsa'"
+        "habit": "Columnar upright"
+    }
 }

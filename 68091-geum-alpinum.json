@@ -1,26 +1,33 @@
 {
-    "id": "097e051e-c21f-40af-8a8a-683e05fab7e0",
-    "link": "https://www.rhs.org.uk/plants/68091/geum-alpinum/details",
+    "latin_name": "Geum alpinum",
+    "main_common_name": {
+        "en": "Alpine avens",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Yellow-flowered mountain avens"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Geum alpinum"
+    ],
     "tags": [
         "Alpine Rockery",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "yellow-flowered mountain avens"
-        ],
-        "synonyms": [
-            "Geum alpinum"
-        ]
-    },
+    "genus_description": "Geum are rhizomatous perennials, occasionally spreading by stolons, with a basal rosette of pinnately lobed leaves and saucer-shaped flowers in loose clusters",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -35,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -69,83 +94,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Suitable for the rock garden or front of borders. Avoid soil that is waterlogged",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Rock garden",
+            "Gravel garden",
+            "Mediterranean climate plants"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "C & S Europe",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Geum are rhizomatous perennials, occasionally spreading by stolons, with a basal rosette of pinnately lobed leaves and saucer-shaped flowers in loose clusters",
-        "name_status": "Correct",
-        "plant_range": "C & S Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Suitable for the rock garden or front of borders. Avoid soil that is waterlogged",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or division in autumn or spring",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Rock garden",
-                "Gravel garden",
-                "Mediterranean climate plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead regularly",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to glasshouse red spider mite, aphids and sawflies",
-            "link_names": [
-                "Glasshouse red spider mite",
-                "Aphids"
-            ],
-            "related_links": {
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Geum alpinum",
-    "display_name": "Alpine avens",
-    "clear_main_name": "Geum alpinum",
-    "pt_search_main_name": "Geum alpinum"
+        "habit": "Clump forming"
+    }
 }

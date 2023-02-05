@@ -1,24 +1,47 @@
 {
-    "id": "c5ea6ddb-1ea2-4344-8e2e-2989e824ef01",
-    "link": "https://www.rhs.org.uk/plants/28979/cercis-canadensis/details",
+    "latin_name": "Cercis canadensis",
+    "main_common_name": {
+        "en": "Eastern redbud",
+        "ru": "Багрянник канадский"
+    },
+    "common_names": {
+        "en": [
+            "American judas tree",
+            "Eastern redbud",
+            "Redbud",
+            "North american redbud",
+            "American redbud",
+            "American judas tree",
+            "American redbud",
+            "Flowering judas",
+            "Redbud",
+            "Canadian redbud",
+            "Texas redbud",
+            "Judas tree",
+            "Mexican redbud"
+        ],
+        "ru": [
+            "Багрянник канадский",
+            "Церцис канадский"
+        ]
+    },
+    "synonyms": [
+        "Cercis canadensis var. typica",
+        "Cercis canadensis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "American Judas tree",
-            "American redbud",
-            "North American redbud",
-            "redbud"
-        ]
-    },
+    "genus_description": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
+    "rank": 86,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +56,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -69,137 +113,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "genus": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
-        "name_status": "Correct",
-        "plant_range": "North America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep, fertile, moist but well-drained soil in full sun or dappled shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in containers in a cold frame in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "See pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leafhoppers and scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to verticillium wilt, coral spot and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Coral spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cercis_canadensis.html",
-        "filename": "28979-cercis-canadensis.json",
-        "latin_name": "Cercis canadensis",
-        "common_names": [
-            "Eastern redbud",
-            "American Judas Tree",
-            "American Redbud",
-            "Mexican Redbud",
-            "Texas Redbud",
-            "Redbud",
-            "Judas tree",
-            "Canadian redbud",
-            "Flowering judas"
+        "cultivation": "Grow in deep, fertile, moist but well-drained soil in full sun or dappled shade",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "synonyms": [
-            "Cercis canadensis var. typica",
-            "Cercis canadensis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Багрянник канадский",
-                "Церцис канадский"
-            ],
-            "synonyms": [
-                "Cercis canadensis var. typica",
-                "Cercis canadensis"
-            ]
-        },
-        "rank": 86,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 1-2 weeks",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Legumes",
-                "Milkworts",
-                "Allies"
-            ],
-            "family": "Legume",
-            "genus": "Redbuds",
-            "species": "Eastern redbud"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Yellow spot",
-            "Longhorn beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Cercis canadensis",
-    "display_name": "Eastern redbud",
-    "clear_main_name": "Cercis canadensis",
-    "pt_search_main_name": "Cercis canadensis"
+    "diseases_and_pests": [
+        "Yellow spot",
+        "Longhorn beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Legume",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Legumes",
+            "Milkworts",
+            "Allies"
+        ],
+        "genus": "Redbuds",
+        "species": "Eastern redbud"
+    },
+    "botanical_details": {
+        "plant_range": "North America",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

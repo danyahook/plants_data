@@ -1,31 +1,38 @@
 {
-    "id": "ced51bfb-6fb4-4c80-becc-fade139046c2",
-    "link": "https://www.rhs.org.uk/plants/186238/allium-rilaense/details",
+    "latin_name": "Allium rilaense",
+    "main_common_name": {
+        "en": "Crow garlic",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Crow onion",
+            "Wild onion",
+            "False garlic",
+            "Stag's garlic"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Allium assimile",
+        "Allium rilaense",
+        "Allium nitens",
+        "Allium compactum"
+    ],
     "tags": [
         "Bulbs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "crow onion",
-            "false garlic",
-            "stag's garlic",
-            "wild onion"
-        ],
-        "synonyms": [
-            "Allium compactum",
-            "Allium nitens",
-            "Allium assimile",
-            "Allium rilaense"
-        ]
-    },
+    "genus_description": "Allium are bulbous herbaceous perennials with a strong onion or garlic scent, linear, strap-shaped or cylindrical basal leaves and star-shaped or bell-shaped flowers in an umbel on a leafless stem",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -40,7 +47,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,64 +100,28 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Native to much of England, Wales and southern Scotland, growing in waste places, summer-dry grassland, hedgerows and roadsides.",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Wildflower meadow",
+            "Wildlife gardens"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Amaryllidaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Amaryllidaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe, N Africa, W Asia",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Allium are bulbous herbaceous perennials with a strong onion or garlic scent, linear, strap-shaped or cylindrical basal leaves and star-shaped or bell-shaped flowers in an umbel on a leafless stem",
-        "name_status": "Correct",
-        "plant_range": "Europe, N Africa, W Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Native to much of England, Wales and southern Scotland, growing in waste places, summer-dry grassland, hedgerows and roadsides.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by bulbils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildflower meadow",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Allium rilaense",
-    "display_name": "Crow garlic",
-    "clear_main_name": "Allium rilaense",
-    "pt_search_main_name": "Allium rilaense"
+        "habit": "Clump forming"
+    }
 }

@@ -1,28 +1,35 @@
 {
-    "id": "b0f193a8-af55-4840-ba4f-b0cd5bfadbb7",
-    "link": "https://www.rhs.org.uk/plants/186039/alisma-plantago/details",
+    "latin_name": "Alisma plantago",
+    "main_common_name": {
+        "en": "Water plantain",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Devil's spoons",
+            "Thumbwort",
+            "Deil's spoons",
+            "Mad dog weed [2]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Alisma plantago"
+    ],
     "tags": [
         "Aquatic",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "deil's spoons",
-            "devil's spoons",
-            "thumbwort",
-            "mad dog weed [2]"
-        ],
-        "synonyms": [
-            "Alisma plantago"
-        ]
-    },
+    "genus_description": "Alisma are rhizomatous herbaceous perennials from wet habitats, with basal rosettes of long-stalked, elliptic leaves and open panicles of small white or pink flowers in spring",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -36,7 +43,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -76,74 +101,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow at pond margins in water up to 30cm deep. Deadhead regularly in order to prevent problems from self-seeding",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Alismataceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Alismataceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Alisma are rhizomatous herbaceous perennials from wet habitats, with basal rosettes of long-stalked, elliptic leaves and open panicles of small white or pink flowers in spring",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow at pond margins in water up to 30cm deep. Deadhead regularly in order to prevent problems from self-seeding",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown as soon as ripe or by rhizome division in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead regularly in order to prevent problems from self-seeding",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Alisma plantago",
-    "display_name": "Water plantain",
-    "clear_main_name": "Alisma plantago",
-    "pt_search_main_name": "Alisma plantago"
+        "habit": "Tufted"
+    }
 }

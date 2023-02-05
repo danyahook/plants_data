@@ -1,28 +1,35 @@
 {
-    "id": "ea571cc9-471f-45c3-96ab-fb9aef622ba3",
-    "link": "https://www.rhs.org.uk/plants/29563/crocus-albiflorus/details",
+    "latin_name": "Crocus albiflorus",
+    "main_common_name": {
+        "en": "Spring crocus",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Purple crocus [2]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Crocus vernus subsp. albiflorus",
+        "Crocus vernus subsp. vernus",
+        "Crocus albiflorus",
+        "Crocus pictus 'pictus'"
+    ],
     "tags": [
         "Bulbs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "purple crocus [2]"
-        ],
-        "synonyms": [
-            "Crocus pictus 'Pictus'",
-            "Crocus albiflorus",
-            "Crocus vernus subsp. vernus",
-            "Crocus vernus subsp. albiflorus"
-        ]
-    },
+    "genus_description": "Crocus are dwarf, deciduous perennials growing from a corm, with linear leaves usually with a silvery central stripe, and goblet-shaped, sometimes fragrant flowers in autumn or early spring",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -37,7 +44,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,75 +96,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in full sun, planting 5-6cm deep in late summer or autumn. If naturalised in grass delay mowing until leaves have died back",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Low Maintenance",
+            "Banks and slopes",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Iridaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Iridaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Alps to Carpath.",
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Crocus are dwarf, deciduous perennials growing from a corm, with linear leaves usually with a silvery central stripe, and goblet-shaped, sometimes fragrant flowers in autumn or early spring",
-        "name_status": "Correct",
-        "plant_range": "E Alps to Carpath."
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in full sun, planting 5-6cm deep in late summer or autumn. If naturalised in grass delay mowing until leaves have died back",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division of clumps, or by separating cormlets",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Low Maintenance",
-                "Banks and slopes",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning needed, allow leaves to die down naturally",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Corms maybe eaten by mice, voles, squirrels or pheasants",
-            "link_names": [
-                "Squirrels"
-            ],
-            "related_links": {
-                "squirrels": "https://www.rhs.org.uk/biodiversity/grey-squirrels"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Crocus albiflorus",
-    "display_name": "Spring crocus",
-    "clear_main_name": "Crocus albiflorus",
-    "pt_search_main_name": "Crocus albiflorus"
+        "habit": "Tufted"
+    }
 }

@@ -1,25 +1,49 @@
 {
-    "id": "31813c0d-ff42-43a5-8e50-9e8a5d469dfa",
-    "link": "https://www.rhs.org.uk/plants/21746/rhus-chinensis/details",
+    "latin_name": "Rhus chinensis",
+    "main_common_name": {
+        "en": "Chinese sumac",
+        "ru": "Rhus chinensis"
+    },
+    "common_names": {
+        "en": [
+            "Nutgal sumac",
+            "Chinese gall",
+            "Galla chinensis",
+            "Nutgall tree",
+            "Chinese sumac",
+            "Nutgall"
+        ],
+        "ru": [
+            "Rhus chinensis"
+        ]
+    },
+    "synonyms": [
+        "Toxicodendron semialatum",
+        "Rhus osbeckii",
+        "Rhus semialata",
+        "Rhus javanica misapplied",
+        "Rhus japonica",
+        "Rhus javanica var. chinensis",
+        "Rhus javanica f. toyohashiensis",
+        "Schinus indicus",
+        "Rhus chinensis var. glabra",
+        "Rhus semialata var. osbeckii",
+        "Rhus javanica var. toyohashiensis",
+        "Rhus chinensis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "nutgall"
-        ],
-        "synonyms": [
-            "Rhus javanica misapplied",
-            "Rhus osbeckii"
-        ]
-    },
+    "genus_description": "Rhus can be deciduous or evergreen shrubs or trees with simple, pinnate or palmately-divided leaves often colouring brilliantly in autumn, and inconspicuous yellow flowers in spring or summer, followed by small, spherical red fruits in dense clusters",
+    "rank": 3041,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +58,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Winter",
+            "Late spring",
+            "Early summer"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,158 +117,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Anacardiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Rhus can be deciduous or evergreen shrubs or trees with simple, pinnate or palmately-divided leaves often colouring brilliantly in autumn, and inconspicuous yellow flowers in spring or summer, followed by small, spherical red fruits in dense clusters",
-        "name_status": "Correct",
-        "plant_range": "Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun to obtain best autumn colour",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, coral spot and Verticillium wilt",
-            "link_names": [
-                "Honey fungus",
-                "Coral spot",
-                "Verticillium wilt"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Rhus_chinensis.html",
-        "filename": "21746-rhus-chinensis.json",
-        "latin_name": "Rhus chinensis",
-        "common_names": [
-            "Chinese sumac",
-            "Nutgall tree",
-            "Chinese gall",
-            "Galla Chinensis",
-            "Nutgal sumac"
+        "cultivation": "Grow in moist but well-drained soil in full sun to obtain best autumn colour",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Rhus chinensis var. glabra",
-            "Schinus indicus",
-            "Rhus javanica var. chinensis",
-            "Rhus javanica var. toyohashiensis",
-            "Rhus japonica",
-            "Rhus semialata var. osbeckii",
-            "Rhus javanica f. toyohashiensis",
-            "Rhus osbeckii",
-            "Rhus semialata",
-            "Rhus chinensis",
-            "Toxicodendron semialatum"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Rhus chinensis"
-            ],
-            "synonyms": [
-                "Rhus chinensis var. glabra",
-                "Schinus indicus",
-                "Rhus javanica var. chinensis",
-                "Rhus javanica var. toyohashiensis",
-                "Rhus japonica",
-                "Rhus semialata var. osbeckii",
-                "Rhus javanica f. toyohashiensis",
-                "Rhus osbeckii",
-                "Rhus semialata",
-                "Rhus chinensis",
-                "Toxicodendron semialatum"
-            ]
-        },
-        "rank": 3041,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "7 - 10",
-            "planting_time": [
-                "Winter",
-                "Late spring",
-                "Early summer"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Maples",
-                "Mangos",
-                "Mahogany",
-                "Citrus",
-                "And allies"
-            ],
-            "family": "Cashew",
-            "genus": "Sumacs",
-            "species": "Chinese sumac"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Brown spot",
-            "Gall",
-            "Caterpillars"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Rhus chinensis",
-    "display_name": "Chinese gall",
-    "clear_main_name": "Rhus chinensis",
-    "pt_search_main_name": "Rhus chinensis"
+    "diseases_and_pests": [
+        "Gall",
+        "Scars",
+        "Brown spot",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Cashew",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Maples",
+            "Mangos",
+            "Mahogany",
+            "Citrus",
+            "And allies"
+        ],
+        "genus": "Sumacs",
+        "species": "Chinese sumac"
+    },
+    "botanical_details": {
+        "plant_range": "Asia",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

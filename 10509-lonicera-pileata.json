@@ -1,23 +1,38 @@
 {
-    "id": "38f5ab54-2376-4957-a487-6079218e97a9",
-    "link": "https://www.rhs.org.uk/plants/10509/lonicera-pileata/details",
+    "latin_name": "Lonicera pileata",
+    "main_common_name": {
+        "en": "Box-leaved honeysuckle",
+        "ru": "Lonicera pileata"
+    },
+    "common_names": {
+        "en": [
+            "Privet honeysuckle",
+            "Box-leaved honeysuckle"
+        ],
+        "ru": [
+            "Lonicera pileata"
+        ]
+    },
+    "synonyms": [
+        "Lonicera ligustrina var. pileata",
+        "Lonicera pileata",
+        "Caprifolium pileatum",
+        "Lonicera pileata var. linearis"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Lonicera pileata var. linearis",
-            "Lonicera pileata"
-        ]
-    },
+    "genus_description": "Lonicera can be deciduous and evergreen shrubs, or climbers with twining stems. The tubular or two-lipped flowers, often very fragrant, are followed by red or black berries",
+    "rank": 108176,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +48,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,143 +107,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Caprifoliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Lonicera can be deciduous and evergreen shrubs, or climbers with twining stems. The tubular or two-lipped flowers, often very fragrant, are followed by red or black berries",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil in sun or part shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings from late spring to late summer",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Coastal",
-                "Gravel garden",
-                "Low Maintenance",
-                "Banks and slopes",
-                "Ground cover",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 2",
-            "link_names": [
-                "Pruning group 2"
-            ],
-            "related_links": {
-                "pruning_group_2": "https://www.rhs.org.uk/plants/types/shrubs/pruning-early-flowering"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to honeysuckle aphids, Thrips and glasshouse whitefly",
-            "link_names": [
-                "Aphids",
-                "Thrips",
-                "Glasshouse whitefly"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews, fungal leaf spot, silver leaf and honey fungus (rarely)",
-            "link_names": [
-                "Powdery mildews",
-                "Silver leaf",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Lonicera_pileata.html",
-        "filename": "10509-lonicera-pileata.json",
-        "latin_name": "Lonicera pileata",
-        "common_names": [
-            "Box-leaved honeysuckle",
-            "Privet honeysuckle"
+        "cultivation": "Grow in any well-drained soil in sun or part shade",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Caprifolium pileatum",
-            "Lonicera ligustrina var. pileata",
-            "Lonicera pileata"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Coastal",
+            "Gravel garden",
+            "Low Maintenance",
+            "Banks and slopes",
+            "Ground cover",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Lonicera pileata"
-            ],
-            "synonyms": [
-                "Caprifolium pileatum",
-                "Lonicera ligustrina var. pileata",
-                "Lonicera pileata"
-            ]
-        },
-        "rank": 108176,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 1-2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Honeysuckles",
-                "Moschatels",
-                "Allies"
-            ],
-            "family": "Honeysuckle",
-            "genus": "Honeysuckles",
-            "species": "Box-leaved honeysuckle"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Brown spot",
-            "Caterpillars"
+        "pruning": [
+            "Pruning group 2"
         ]
     },
-    "main_name_original": "Lonicera pileata",
-    "display_name": "Box-leaved honeysuckle",
-    "clear_main_name": "Lonicera pileata",
-    "pt_search_main_name": "Lonicera pileata"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Flower withering",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Honeysuckle",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Honeysuckles",
+            "Moschatels",
+            "Allies"
+        ],
+        "genus": "Honeysuckles",
+        "species": "Box-leaved honeysuckle"
+    },
+    "botanical_details": {
+        "plant_range": "China",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

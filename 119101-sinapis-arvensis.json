@@ -1,33 +1,54 @@
 {
-    "id": "07b8409d-0848-426b-83e1-33b43fec1619",
-    "link": "https://www.rhs.org.uk/plants/119101/sinapis-arvensis/details",
+    "latin_name": "Sinapis arvensis",
+    "main_common_name": {
+        "en": "Wild mustard",
+        "ru": "Горчица полевая"
+    },
+    "common_names": {
+        "en": [
+            "Kinkle",
+            "Field kale",
+            "California rape",
+            "Kerlock",
+            "Wild mustard",
+            "Field mustard",
+            "Wild kale",
+            "Charlock",
+            "Wild mustard",
+            "Kedlock",
+            "Charlock mustard",
+            "Carlock",
+            "Corn mustard"
+        ],
+        "ru": [
+            "Горчица полевая",
+            "Сурепа",
+            "Дикая редька",
+            "Сурепка",
+            "Свирипа",
+            "Свирепка",
+            "Свербейка"
+        ]
+    },
+    "synonyms": [
+        "Brassica arvensis",
+        "Sinapis arvensis",
+        "Sinapis arvensis var. nilotica",
+        "Brassica kaber"
+    ],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "carlock",
-            "corn mustard",
-            "field kale",
-            "kedlock",
-            "kerlock",
-            "kinkle",
-            "wild kale",
-            "wild mustard",
-            "California rape"
-        ],
-        "synonyms": [
-            "Brassica arvensis",
-            "Brassica kaber"
-        ]
-    },
+    "genus_description": "Sinapis are annual herbaceous plants and include species grown for mustard. Reaching a height of between 20cm and 1m, stems are hairy, erect and branched. Leaves are petiolate and between 1 and 4cm long. Bright yellow flowers appear from May through to August/September. The seeds follow and are dark red to brown in colour.",
+    "rank": 1327,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +57,20 @@
         "moisture": [],
         "ph": []
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [],
+        "exposure": null,
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -74,113 +108,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [
+        "Slightly Toxic to Humans"
+    ],
+    "how_to_grow": {
+        "cultivation": "Occurs naturally on arable and waste ground. Provides a larval food source for butterflies and seed is a food source for birds",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [],
-        "hardiness": "H7"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Wildflower meadow"
+        ],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cruciferae",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mustards",
+            "Capers",
+            "And allies"
+        ],
+        "genus": "Mustard",
+        "species": "Wild mustard"
     },
     "botanical_details": {
-        "family": "Brassicaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Eurasia",
         "foliage": "Deciduous",
-        "habit": "Climbing",
-        "genus": "Sinapis are annual herbaceous plants and include species grown for mustard. Reaching a height of between 20cm and 1m, stems are hairy, erect and branched. Leaves are petiolate and between 1 and 4cm long. Bright yellow flowers appear from May through to August/September. The seeds follow and are dark red to brown in colour.",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Occurs naturally on arable and waste ground. Provides a larval food source for butterflies and seed is a food source for birds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Sinapis_arvensis.html",
-        "filename": "119101-sinapis-arvensis.json",
-        "latin_name": "Sinapis arvensis",
-        "common_names": [
-            "Wild mustard",
-            "Field mustard",
-            "Charlock mustard",
-            "Charlock"
-        ],
-        "synonyms": [
-            "Sinapis arvensis var. nilotica",
-            "Brassica arvensis",
-            "Sinapis arvensis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Горчица полевая",
-                "Сурепа",
-                "Дикая редька",
-                "Сурепка",
-                "Свирипа",
-                "Свирепка",
-                "Свербейка"
-            ],
-            "synonyms": [
-                "Sinapis arvensis var. nilotica",
-                "Brassica arvensis",
-                "Sinapis arvensis"
-            ]
-        },
-        "rank": 1327,
-        "items_data": {},
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mustards",
-                "Capers",
-                "And allies"
-            ],
-            "family": "Cruciferae",
-            "genus": "Mustard",
-            "species": "Wild mustard"
-        },
-        "toxic_data": [
-            "Slightly Toxic to Humans"
-        ],
-        "diseases_data": []
-    },
-    "main_name_original": "Sinapis arvensis",
-    "display_name": "Charlock",
-    "clear_main_name": "Sinapis arvensis",
-    "pt_search_main_name": "Sinapis arvensis"
+        "habit": "Climbing"
+    }
 }

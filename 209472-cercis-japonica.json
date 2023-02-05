@@ -1,23 +1,31 @@
 {
-    "id": "a15465f0-310c-441f-9080-ae3f1853a34d",
-    "link": "https://www.rhs.org.uk/plants/209472/cercis-japonica/details",
+    "latin_name": "Cercis japonica",
+    "main_common_name": {
+        "en": "Chinese redbud",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Cercis japonica"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Cercis japonica"
-        ]
-    },
+    "genus_description": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,86 +91,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "C China",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Cercis are deciduous shrubs or small trees with heart-shaped leaves and clusters of bright pink pea-flowers opening before or with the leaves, followed by flattened, deep purple pods",
-        "name_status": "Correct",
-        "plant_range": "C China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn, or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leafhoppers and scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to verticillium wilt, coral spot and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Coral spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Cercis japonica",
-    "display_name": "Chinese redbud",
-    "clear_main_name": "Cercis japonica",
-    "pt_search_main_name": "Cercis japonica"
+        "habit": "Bushy"
+    }
 }

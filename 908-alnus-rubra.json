@@ -1,26 +1,41 @@
 {
-    "id": "d634cd4a-f5f2-4453-970c-193426bdebe3",
-    "link": "https://www.rhs.org.uk/plants/908/alnus-rubra/details",
+    "latin_name": "Alnus rubra",
+    "main_common_name": {
+        "en": "Red alder",
+        "ru": "Ольха красная"
+    },
+    "common_names": {
+        "en": [
+            "Tag alder",
+            "Western alder",
+            "Californian red alder",
+            "Red alder",
+            "Oregon alder"
+        ],
+        "ru": [
+            "Ольха красная"
+        ]
+    },
+    "synonyms": [
+        "Alnus oregana",
+        "Alnus rubra var. pinnatisecta",
+        "Alnus rubra f. pinnatisecta",
+        "Alnus incana var. rubra",
+        "Alnus rubra"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Californian red alder",
-            "Oregon alder",
-            "tag alder"
-        ],
-        "synonyms": [
-            "Alnus oregana"
-        ]
-    },
+    "genus_description": "Alnus are vigorous deciduous trees and large shrubs with rounded leaves and often conspicuous catkins in winter",
+    "rank": 4308,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +50,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,139 +108,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "This genus is noted for its ability to thrive in poor, wet conditions and is widely used in land reclamation",
+        "propagation": [
+            "Propagate by seed",
+            "Hardwood",
+            "Softwood",
+            "Grafting"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Gall",
+        "Leaf beetles",
+        "Brown spot",
+        "Fruit withering"
+    ],
+    "scientific_classification": {
+        "family": "Birch",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Alders",
+        "species": "Red alder"
     },
     "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Alaska to California",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Alnus are vigorous deciduous trees and large shrubs with rounded leaves and often conspicuous catkins in winter",
-        "name_status": "Correct",
-        "plant_range": "Alaska to California"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "This genus is noted for its ability to thrive in poor, wet conditions and is widely used in land reclamation",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in a seedbed as soon as ripe. Root hardwood cuttings in winter and softwood cuttings in summer. Bud grafting can be performed in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Hardwood",
-                "Softwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Requires minimal pruning",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to Phytophthora and honey fungus",
-            "link_names": [
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Alnus_rubra.html",
-        "filename": "908-alnus-rubra.json",
-        "latin_name": "Alnus rubra",
-        "common_names": [
-            "Red alder",
-            "Western alder",
-            "Oregon alder"
-        ],
-        "synonyms": [
-            "Alnus incana var. rubra",
-            "Alnus oregana",
-            "Alnus rubra f. pinnatisecta",
-            "Alnus rubra var. pinnatisecta",
-            "Alnus rubra"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Ольха красная"
-            ],
-            "synonyms": [
-                "Alnus incana var. rubra",
-                "Alnus oregana",
-                "Alnus rubra f. pinnatisecta",
-                "Alnus rubra var. pinnatisecta",
-                "Alnus rubra"
-            ]
-        },
-        "rank": 4308,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "hardiness_zones": "6 - 10",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Birch",
-            "genus": "Alders",
-            "species": "Red alder"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Gall",
-            "Fruit withering",
-            "Brown spot",
-            "Leaf beetles"
-        ]
-    },
-    "main_name_original": "Alnus rubra",
-    "display_name": "Red alder",
-    "clear_main_name": "Alnus rubra",
-    "pt_search_main_name": "Alnus rubra"
+        "habit": "Columnar upright"
+    }
 }

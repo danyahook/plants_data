@@ -1,25 +1,33 @@
 {
-    "id": "9ac99bbb-6974-489f-b2a3-61b30a814238",
-    "link": "https://www.rhs.org.uk/plants/46540/chondrosum-gracile/details",
+    "latin_name": "Chondrosum gracile",
+    "main_common_name": {
+        "en": "Blue grama",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Mosquito grass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Bouteloua oligostachya",
+        "Chondrosum gracile"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "mosquito grass"
-        ],
-        "synonyms": [
-            "Chondrosum gracile",
-            "Bouteloua oligostachya"
-        ]
-    },
+    "genus_description": "Bouteloua can be annuals, rhizomatous or stoloniferous perennial grasses, with linear leaves and erect stems bearing distinctive flattened, horizontal flowering spikes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
+        "time_to_ultimate_height": null,
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -33,7 +41,22 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -62,71 +85,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a sharply drained soil soil in full sun. Avoid winter wet",
+        "propagation": [
+            "Propagate by seed",
+            "Divide"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Coastal",
+            "Patio and container plants",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Mexico, adjacent USA",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Bouteloua can be annuals, rhizomatous or stoloniferous perennial grasses, with linear leaves and erect stems bearing distinctive flattened, horizontal flowering spikes",
-        "name_status": "Correct",
-        "plant_range": "Mexico, adjacent USA"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a sharply drained soil soil in full sun. Avoid winter wet",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame in spring. Alternatively divide clumps from mid-spring to early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Divide"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Coastal",
-                "Patio and container plants",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back overwintered material in early spring, just before new growth begins",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Chondrosum gracile",
-    "display_name": "Blue grama",
-    "clear_main_name": "Chondrosum gracile",
-    "pt_search_main_name": "Chondrosum gracile"
+        "habit": "Bushy"
+    }
 }

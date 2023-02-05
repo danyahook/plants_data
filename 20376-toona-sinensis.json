@@ -1,26 +1,73 @@
 {
-    "id": "9b3c2f44-403e-4d33-b87b-9e6a138ef986",
-    "link": "https://www.rhs.org.uk/plants/20376/toona-sinensis/details",
+    "latin_name": "Toona sinensis",
+    "main_common_name": {
+        "en": "Chinese mahogany",
+        "ru": "Цедрела китайская"
+    },
+    "common_names": {
+        "en": [
+            "Chinese toon",
+            "Red toon",
+            "Tun tree",
+            "Bastard cedar",
+            "Chinese mahogany",
+            "Chinese cedar"
+        ],
+        "ru": [
+            "Цедрела китайская",
+            "Туна китайская",
+            "Китайский махагон",
+            "Красная туна"
+        ]
+    },
+    "synonyms": [
+        "Surenus sinensis",
+        "Toona sinensis",
+        "Cedrela glabra",
+        "Toona sinensis var. grandis",
+        "Surenus serrulata",
+        "Toona sinensis var. longifolia",
+        "Toona microcarpa var. denticulata",
+        "Cedrela serrata var. puberula",
+        "Cedrela sinensis var. lanceolata",
+        "Toona sinensis var. denticulata",
+        "Toona sinensis var. grandifolia",
+        "Toona sinensis var. hupehana",
+        "Toona serrulata",
+        "Toona sinensis var. glabra",
+        "Surenus glabra",
+        "Mioptrila odorata",
+        "Ailanthus flavescens",
+        "Toona sinensis var. schensiana",
+        "Cedrela longifolia var. kumaona",
+        "Toona longifolia",
+        "Toona sinensis var. incarvillei",
+        "Toona sinensis var. carmesinixylon",
+        "Toona microcarpa var. grandifolia",
+        "Cedrela longifolia",
+        "Toona sinensis var. puberula",
+        "Toona glabra",
+        "Cedrela sinensis var. schensiana",
+        "Cedrela serrata",
+        "Cedrela sinensis var. hupehana",
+        "Cedrela serrulata",
+        "Surenus serrata",
+        "Toona serrata",
+        "Cedrela sinensis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "bastard cedar",
-            "Chinese toon"
-        ],
-        "synonyms": [
-            "Ailanthus flavescens",
-            "Cedrela sinensis"
-        ]
-    },
+    "genus_description": "Toona is a small genus of 4 to 5 species of trees, originating from China, SE Asia and N Australia",
+    "rank": 7504,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -34,6 +81,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered or Exposed",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -72,189 +135,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered or Exposed",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Meliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "genus": "Toona is a small genus of 4 to 5 species of trees, originating from China, SE Asia and N Australia",
-        "name_status": "Correct",
-        "plant_range": "N & W China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in autumn or by root cuttings in late winter",
-            "link_names": [
-                "Propagate by seed",
-                "Root cuttings"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Toona_sinensis.html",
-        "filename": "20376-toona-sinensis.json",
-        "latin_name": "Toona sinensis",
-        "common_names": [
-            "Chinese mahogany",
-            "Chinese cedar",
-            "Tun tree",
-            "Red toon",
-            "Chinese toon"
+        "cultivation": "Grow in fertile, well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Root cuttings"
         ],
-        "synonyms": [
-            "Cedrela longifolia var. kumaona",
-            "Toona glabra",
-            "Cedrela sinensis var. schensiana",
-            "Toona sinensis var. grandis",
-            "Cedrela sinensis var. lanceolata",
-            "Cedrela serrata",
-            "Toona serrulata",
-            "Cedrela sinensis var. hupehana",
-            "Toona sinensis var. longifolia",
-            "Cedrela glabra",
-            "Cedrela sinensis",
-            "Cedrela longifolia",
-            "Toona longifolia",
-            "Surenus serrulata",
-            "Toona sinensis var. grandifolia",
-            "Toona sinensis var. puberula",
-            "Toona microcarpa var. denticulata",
-            "Toona sinensis var. glabra",
-            "Mioptrila odorata",
-            "Toona microcarpa var. grandifolia",
-            "Surenus sinensis",
-            "Cedrela serrulata",
-            "Toona sinensis var. incarvillei",
-            "Toona sinensis var. hupehana",
-            "Toona sinensis var. schensiana",
-            "Surenus glabra",
-            "Ailanthus flavescens",
-            "Toona sinensis var. carmesinixylon",
-            "Surenus serrata",
-            "Toona sinensis var. denticulata",
-            "Toona sinensis",
-            "Cedrela serrata var. puberula",
-            "Toona serrata"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Цедрела китайская",
-                "Туна китайская",
-                "Китайский Махагон",
-                "Красная Туна"
-            ],
-            "synonyms": [
-                "Cedrela longifolia var. kumaona",
-                "Toona glabra",
-                "Cedrela sinensis var. schensiana",
-                "Toona sinensis var. grandis",
-                "Cedrela sinensis var. lanceolata",
-                "Cedrela serrata",
-                "Toona serrulata",
-                "Cedrela sinensis var. hupehana",
-                "Toona sinensis var. longifolia",
-                "Cedrela glabra",
-                "Cedrela sinensis",
-                "Cedrela longifolia",
-                "Toona longifolia",
-                "Surenus serrulata",
-                "Toona sinensis var. grandifolia",
-                "Toona sinensis var. puberula",
-                "Toona microcarpa var. denticulata",
-                "Toona sinensis var. glabra",
-                "Mioptrila odorata",
-                "Toona microcarpa var. grandifolia",
-                "Surenus sinensis",
-                "Cedrela serrulata",
-                "Toona sinensis var. incarvillei",
-                "Toona sinensis var. hupehana",
-                "Toona sinensis var. schensiana",
-                "Surenus glabra",
-                "Ailanthus flavescens",
-                "Toona sinensis var. carmesinixylon",
-                "Surenus serrata",
-                "Toona sinensis var. denticulata",
-                "Toona sinensis",
-                "Cedrela serrata var. puberula",
-                "Toona serrata"
-            ]
-        },
-        "rank": 7504,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Maples",
-                "Mangos",
-                "Mahogany",
-                "Citrus",
-                "And allies"
-            ],
-            "family": "Mahogany",
-            "genus": "Toona",
-            "species": "Chinese mahogany"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Brown spot",
-            "Leaf rot",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Toona sinensis",
-    "display_name": "Chinese cedar",
-    "clear_main_name": "Toona sinensis",
-    "pt_search_main_name": "Toona sinensis"
+    "diseases_and_pests": [
+        "Leaf rot",
+        "Aged yellow and dry",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Mahogany",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Maples",
+            "Mangos",
+            "Mahogany",
+            "Citrus",
+            "And allies"
+        ],
+        "genus": "Toona",
+        "species": "Chinese mahogany"
+    },
+    "botanical_details": {
+        "plant_range": "N & W China",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

@@ -1,22 +1,30 @@
 {
-    "id": "f95a9a10-aca3-4996-b7c9-97bbcb3966c1",
-    "link": "https://www.rhs.org.uk/plants/50896/digitalis-(_lanata_-_grandiflora_-john-innes-tetra-)/details",
+    "latin_name": "Digitalis",
+    "main_common_name": {
+        "en": "Foxglove 'john innes tetra'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Digitalis (_lanata_ × _grandiflora_ 'john innes tetra')"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Digitalis (_lanata_ × _grandiflora_ 'John Innes Tetra')"
-        ]
-    },
+    "genus_description": "Digitalis can be biennials or usually short-lived perennials forming a rosette of simple leaves with bell-shaped flowers in slender, erect, usually one-sided racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -28,7 +36,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing",
+            "North–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -67,89 +94,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained humus-rich soil in sun, and add organic mulch",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing",
-            "North–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Cut flowers",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Deadheading"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plantaginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Semi evergreen",
-        "habit": "Clump forming",
-        "potentially_harmful": "All parts are toxic if eaten. Wear gloves and wash hands after handling",
-        "genus": "Digitalis can be biennials or usually short-lived perennials forming a rosette of simple leaves with bell-shaped flowers in slender, erect, usually one-sided racemes",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained humus-rich soil in sun, and add organic mulch",
-            "link_names": [
-                "Mulch"
-            ],
-            "related_links": {
-                "mulch": "https://www.rhs.org.uk/soil-composts-mulches/mulch"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed, or by division, removing offsets, in spring; it will also self-seed",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Cut flowers",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required except deadheading the flowering stems if self-seeding is not wanted, and which may encourage stronger growth the following year",
-            "link_names": [
-                "Deadheading"
-            ],
-            "related_links": {
-                "deadheading": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to caterpillars but generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fungal leaf spots, powdery mildews, downy mildews, crown rots and root rots",
-            "link_names": [
-                "Powdery mildews",
-                "Downy mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
-            }
-        }
-    },
-    "main_name_original": "Digitalis",
-    "display_name": "Foxglove 'john innes tetra'",
-    "clear_main_name": "Digitalis",
-    "pt_search_main_name": "Digitalis"
+        "habit": "Clump forming"
+    }
 }

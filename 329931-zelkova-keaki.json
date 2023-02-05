@@ -1,29 +1,36 @@
 {
-    "id": "bb7b0b1d-039e-406c-a3b1-3fe449bb59c3",
-    "link": "https://www.rhs.org.uk/plants/329931/zelkova-keaki/details",
+    "latin_name": "Zelkova keaki",
+    "main_common_name": {
+        "en": "Japanese zelkova",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Keaki",
+            "Saw-leaf zelkova",
+            "Keyaki"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Zelkova keaki",
+        "Zelkova acuminata",
+        "Planera acuminata"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "keaki",
-            "keyaki",
-            "saw-leaf zelkova"
-        ],
-        "synonyms": [
-            "Zelkova keaki",
-            "Planera acuminata",
-            "Zelkova acuminata"
-        ]
-    },
+    "genus_description": "Zelkova are large deciduous trees or shrubs with neatly serrate, ovate leaves and inconspicuous flowers and fruit; good autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam"
@@ -38,7 +45,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -76,82 +102,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in deep, fertile, moist soil and protect from cold drying winds",
+        "propagation": [
+            "Softwood",
+            "Grafting",
+            "Outdoors"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Ulmaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Ulmaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Asia",
         "foliage": "Deciduous",
-        "genus": "Zelkova are large deciduous trees or shrubs with neatly serrate, ovate leaves and inconspicuous flowers and fruit; good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "E Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep, fertile, moist soil and protect from cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings from young plants in summer, grafting in winter. Propagate from seed (tree/shrub) sown outdoors in autumn",
-            "link_names": [
-                "Softwood",
-                "Grafting",
-                "Outdoors"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to Dutch elm disease and honey fungus (rarely)",
-            "link_names": [
-                "Dutch elm disease",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "dutch_elm_disease": "https://www.rhs.org.uk/disease/dutch-elm-disease",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Zelkova keaki",
-    "display_name": "Japanese zelkova",
-    "clear_main_name": "Zelkova keaki",
-    "pt_search_main_name": "Zelkova keaki"
+        "habit": null
+    }
 }

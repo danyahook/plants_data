@@ -1,34 +1,41 @@
 {
-    "id": "fb1be1eb-c7e2-4b20-84f6-da847a1b7fdf",
-    "link": "https://www.rhs.org.uk/plants/50957/ocimum-sanctum/details",
+    "latin_name": "Ocimum sanctum",
+    "main_common_name": {
+        "en": "Holy basil",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Sacred basil",
+            "Tulsi",
+            "Thai basil",
+            "Monk's basil",
+            "Purple-stalked basil"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Ocimum basilicum 'holy'",
+        "Ocimum basilicum 'holy tulsi'",
+        "Ocimum monachorum",
+        "Ocimum basilicum 'holy basil'",
+        "Ocimum sanctum"
+    ],
     "tags": [
         "Annual Biennial",
         "Herbs - Culinary",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "monk's basil",
-            "purple-stalked basil",
-            "sacred basil",
-            "Thai basil",
-            "tulsi"
-        ],
-        "synonyms": [
-            "Ocimum basilicum 'Holy Tulsi'",
-            "Ocimum basilicum 'Holy Basil'",
-            "Ocimum basilicum 'Holy'",
-            "Ocimum monachorum",
-            "Ocimum sanctum"
-        ]
-    },
+    "genus_description": "Ocimum can be aromatic annuals, evergreen perennials or shrubs with opposite, linear to broadly-ovate leaves and small tubular white or pinkish flowers in whorls forming a spike",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -40,6 +47,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -85,81 +107,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow as an annual, indoors, in moist but well drained soil in a sheltered position in full sun. Can move outdoors in summer. Best grown in a container. See basil cultivation for more information",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Mediterranean climate plants",
+            "Patio and container plants",
+            "Conservatory and greenhouse"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Lamiaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Ocimum can be aromatic annuals, evergreen perennials or shrubs with opposite, linear to broadly-ovate leaves and small tubular white or pinkish flowers in whorls forming a spike",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow as an annual, indoors, in moist but well drained soil in a sheltered position in full sun. Can move outdoors in summer. Best grown in a container. See basil cultivation for more information",
-            "link_names": [
-                "Container",
-                "Basil cultivation"
-            ],
-            "related_links": {
-                "container": "https://www.rhs.org.uk/container-gardening/maintenance",
-                "basil_cultivation": "https://www.rhs.org.uk/herbs/basil/grow-your-own"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed in gentle heat in spring under glass or indoors",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Mediterranean climate plants",
-                "Patio and container plants",
-                "Conservatory and greenhouse"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pinch out flower heads as they appear to encourage continued leaf growth. If left to flower, cut back after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and leafhoopers",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Ocimum sanctum",
-    "display_name": "Holy basil",
-    "clear_main_name": "Ocimum sanctum",
-    "pt_search_main_name": "Ocimum sanctum"
+        "habit": "Bushy"
+    }
 }

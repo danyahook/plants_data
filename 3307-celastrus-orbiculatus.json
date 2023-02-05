@@ -1,25 +1,53 @@
 {
-    "id": "ab2271e1-08bc-4460-8278-564ca0dd90d4",
-    "link": "https://www.rhs.org.uk/plants/3307/celastrus-orbiculatus/details",
+    "latin_name": "Celastrus orbiculatus",
+    "main_common_name": {
+        "en": "Oriental bittersweet",
+        "ru": "Древогубец круглолистный"
+    },
+    "common_names": {
+        "en": [
+            "Oriental bittersweet",
+            "Round-leaved bittersweet",
+            "Asian bittersweet",
+            "Oriental bittersweet",
+            "Staff vine",
+            "Climbing spindleberry"
+        ],
+        "ru": [
+            "Древогубец круглолистный",
+            "Краснопузырник трубчатолистный"
+        ]
+    },
+    "synonyms": [
+        "Celastrus crispulus",
+        "Celastrus articulatus var. pubescens",
+        "Celastrus orbiculatus var. papillosus",
+        "Celastrus orbiculatus f. papillosus",
+        "Celastrus orbiculatus f. major",
+        "Celastrus articulatus var. orbiculata",
+        "Catha articulata",
+        "Celastrus orbiculatus",
+        "Celastrus articulata",
+        "Celastrus articulatus",
+        "Celastrus insularis",
+        "Celastrus tatarinowii",
+        "Celastrus jeholensis",
+        "Celastrus articulatus var. papillosus"
+    ],
     "tags": [
         "Climber Wall Shrub",
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "oriental bittersweet"
-        ],
-        "synonyms": [
-            "Celastrus articulatus"
-        ]
-    },
+    "genus_description": "Celastrus are fast-growing deciduous, rarely evergreen, climbers with scandent or twining stems bearing alternate leaves and inconspicuous greenish flowers followed by attractive fruits. Male and female flowers are often borne on separate plants",
+    "rank": 1259,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -33,7 +61,33 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [
+            "Summer",
+            "Fall"
+        ],
+        "planting": [
+            "Spring",
+            "Summer",
+            "Winter"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,155 +124,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Celastraceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Climbing",
-        "genus": "Celastrus are fast-growing deciduous, rarely evergreen, climbers with scandent or twining stems bearing alternate leaves and inconspicuous greenish flowers followed by attractive fruits. Male and female flowers are often borne on separate plants",
-        "name_status": "Correct",
-        "plant_range": "NE Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in well-drained soil in full sun, but will tolerate partial shade. To ensure fruit production, plant a male and a female together. Can be grown up large trees of at least 10m in height. Strong supports are needed for this vigorous species",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in an open frame as soon as ripe, or in spring as soon as ripe, or in spring. Root cuttings in winter or semi-ripe cuttings in summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 11 in spring or winter",
-            "link_names": [
-                "Pruning group 11"
-            ],
-            "related_links": {
-                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Celastrus_orbiculatus.html",
-        "filename": "3307-celastrus-orbiculatus.json",
-        "latin_name": "Celastrus orbiculatus",
-        "common_names": [
-            "Oriental bittersweet",
-            "Asian bittersweet",
-            "Staff vine",
-            "Climbing spindleberry",
-            "Round-leaved bittersweet"
+        "cultivation": "Grows best in well-drained soil in full sun, but will tolerate partial shade. To ensure fruit production, plant a male and a female together. Can be grown up large trees of at least 10m in height. Strong supports are needed for this vigorous species",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Celastrus articulatus var. papillosus",
-            "Celastrus articulatus",
-            "Celastrus articulata",
-            "Celastrus crispulus",
-            "Celastrus articulatus var. orbiculata",
-            "Celastrus orbiculatus var. papillosus",
-            "Celastrus orbiculatus f. major",
-            "Celastrus tatarinowii",
-            "Celastrus orbiculatus f. papillosus",
-            "Celastrus jeholensis",
-            "Catha articulata",
-            "Celastrus insularis",
-            "Celastrus orbiculatus",
-            "Celastrus articulatus var. pubescens"
+        "suggested_panting_places": [
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Древогубец круглолистный",
-                "Краснопузырник трубчатолистный"
-            ],
-            "synonyms": [
-                "Celastrus articulatus var. papillosus",
-                "Celastrus articulatus",
-                "Celastrus articulata",
-                "Celastrus crispulus",
-                "Celastrus articulatus var. orbiculata",
-                "Celastrus orbiculatus var. papillosus",
-                "Celastrus orbiculatus f. major",
-                "Celastrus tatarinowii",
-                "Celastrus orbiculatus f. papillosus",
-                "Celastrus jeholensis",
-                "Catha articulata",
-                "Celastrus insularis",
-                "Celastrus orbiculatus",
-                "Celastrus articulatus var. pubescens"
-            ]
-        },
-        "rank": 1259,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "planting_time": [
-                "Spring",
-                "Summer",
-                "Winter"
-            ],
-            "harvest_time": [
-                "Summer",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Spindle tree order"
-            ],
-            "family": "Bittersweet",
-            "genus": "Staff vines",
-            "species": "Oriental bittersweet"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Leaf deformity",
-            "Caterpillars",
-            "Brown spot",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 11"
         ]
     },
-    "main_name_original": "Celastrus orbiculatus",
-    "display_name": "Staff vine",
-    "clear_main_name": "Celastrus orbiculatus",
-    "pt_search_main_name": "Celastrus orbiculatus"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Leaf beetles",
+        "Leaf deformity",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Bittersweet",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Spindle tree order"
+        ],
+        "genus": "Staff vines",
+        "species": "Oriental bittersweet"
+    },
+    "botanical_details": {
+        "plant_range": "NE Asia",
+        "foliage": "Deciduous",
+        "habit": "Climbing"
+    }
 }

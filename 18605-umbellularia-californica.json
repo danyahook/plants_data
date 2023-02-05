@@ -1,29 +1,60 @@
 {
-    "id": "74fdc644-25d6-4d22-b15c-0a1bcdb8dc81",
-    "link": "https://www.rhs.org.uk/plants/18605/umbellularia-californica/details",
+    "latin_name": "Umbellularia californica",
+    "main_common_name": {
+        "en": "California bay",
+        "ru": "Умбеллюлярия калифорнийская"
+    },
+    "common_names": {
+        "en": [
+            "Californian laurel",
+            "Pepperwood",
+            "Balm of heaven",
+            "Spicebush",
+            "California bay laurel",
+            "Headache tree",
+            "Cinnamon bush",
+            "Oregon myrtle",
+            "California bay tree",
+            "Pepperwood",
+            "Mountain laurel",
+            "California bay",
+            "Californian olive tree",
+            "Californian spice tree",
+            "California laurel",
+            "Myrtle [3]",
+            "Balm of heaven",
+            "Californian sassafras tree",
+            "Peppernut tree",
+            "Californian bay"
+        ],
+        "ru": [
+            "Умбеллюлярия калифорнийская",
+            "Калифорнийский лавр",
+            "Умбеллюлярия",
+            "Умбеллулария"
+        ]
+    },
+    "synonyms": [
+        "Umbellularia californica",
+        "Tetranthera californica",
+        "Drimophyllum pauciflorum",
+        "Oreodaphne californica",
+        "Tetranthera causticans",
+        "Litsea californica"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "balm of heaven",
-            "Californian bay",
-            "Californian laurel",
-            "Californian olive tree",
-            "Californian sassafras tree",
-            "Californian spice tree",
-            "Oregon myrtle",
-            "pepperwood",
-            "myrtle [3]"
-        ]
-    },
+    "genus_description": null,
+    "rank": 3486,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,6 +67,25 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": [
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -79,141 +129,43 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Lauraceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "name_status": "Correct",
-        "plant_range": "NW North America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any fertile, well-drained soil in full sun; provide shelter from strong, cold winds when young",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Mediterranean climate plants",
-                "Patio and container plants",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Umbellularia_californica.html",
-        "filename": "18605-umbellularia-californica.json",
-        "latin_name": "Umbellularia californica",
-        "common_names": [
-            "California bay",
-            "Oregon myrtle",
-            "Pepperwood",
-            "California bay tree",
-            "California laurel",
-            "California bay laurel",
-            "Mountain laurel",
-            "Balm of heaven",
-            "Peppernut tree",
-            "Spicebush",
-            "Headache tree",
-            "Cinnamon bush"
+        "cultivation": "Grow in any fertile, well-drained soil in full sun; provide shelter from strong, cold winds when young",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Tetranthera californica",
-            "Oreodaphne californica",
-            "Tetranthera causticans",
-            "Drimophyllum pauciflorum",
-            "Litsea californica",
-            "Umbellularia californica"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Mediterranean climate plants",
+            "Patio and container plants",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Умбеллюлярия калифорнийская",
-                "Калифорнийский лавр",
-                "Умбеллюлярия",
-                "Умбеллулария "
-            ],
-            "synonyms": [
-                "Tetranthera californica",
-                "Oreodaphne californica",
-                "Tetranthera causticans",
-                "Drimophyllum pauciflorum",
-                "Litsea californica",
-                "Umbellularia californica"
-            ]
-        },
-        "rank": 3486,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "planting_time": "Fall",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Laurels",
-                "Spicebushes",
-                "Allies"
-            ],
-            "family": "Laurel",
-            "genus": "California laurel",
-            "species": "California bay"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Leaf Weevils",
-            "Branch blight",
-            "Caterpillars"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Umbellularia californica",
-    "display_name": "Headache tree",
-    "clear_main_name": "Umbellularia californica",
-    "pt_search_main_name": "Umbellularia californica"
+    "diseases_and_pests": [
+        "Leaf Weevils",
+        "Branch blight",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Laurel",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Laurels",
+            "Spicebushes",
+            "Allies"
+        ],
+        "genus": "California laurel",
+        "species": "California bay"
+    },
+    "botanical_details": {
+        "plant_range": "NW North America",
+        "foliage": "Evergreen",
+        "habit": null
+    }
 }

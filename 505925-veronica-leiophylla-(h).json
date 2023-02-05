@@ -1,22 +1,30 @@
 {
-    "id": "4890f574-bb3c-4c02-b8eb-e932e5b53046",
-    "link": "https://www.rhs.org.uk/plants/505925/veronica-leiophylla-(h)/details",
+    "latin_name": "Veronica leiophylla",
+    "main_common_name": {
+        "en": null,
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Hebe gracillima",
+        "Hebe leiophylla"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Hebe gracillima",
-            "Hebe leiophylla"
-        ]
-    },
+    "genus_description": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,7 +38,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,91 +90,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in poor or moderately fertile, well-drained, neutral to slightly alkaline soil in a sunny position with shelter from cold drying winds. See Hebe cultivation",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Deadhead",
+            "Pruning group 9"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plantaginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand (S.Island)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
-        "name_status": "Correct",
-        "plant_range": "New Zealand (S.Island)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in poor or moderately fertile, well-drained, neutral to slightly alkaline soil in a sunny position with shelter from cold drying winds. See Hebe cultivation",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame as soon as ripe, or by semi-ripe cuttings with bottom heat in late summer or early autumn",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead to improve appearance and encourage more flowers. Pruning group 9 if needed",
-            "link_names": [
-                "Deadhead",
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants",
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
-            "link_names": [
-                "High risk host for xylella fastidiosa",
-                "Downy mildews",
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Veronica leiophylla",
-    "display_name": "",
-    "clear_main_name": "Veronica leiophylla",
-    "pt_search_main_name": "Veronica leiophylla"
+        "habit": "Bushy"
+    }
 }

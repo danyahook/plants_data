@@ -1,28 +1,35 @@
 {
-    "id": "f9491e0a-b78b-4d70-89f7-9cb304ffb0d7",
-    "link": "https://www.rhs.org.uk/plants/268906/leymus-magellanicus/details",
+    "latin_name": "Leymus magellanicus",
+    "main_common_name": {
+        "en": "Magellan rye grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Magellan wheatgrass",
+            "Blue wheatgrass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Agropyron pubiflorum",
+        "Leymus magellanicus",
+        "Agropyron magellanicum"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "blue wheatgrass",
-            "Magellan wheatgrass"
-        ],
-        "synonyms": [
-            "Agropyron pubiflorum",
-            "Leymus magellanicus",
-            "Agropyron magellanicum"
-        ]
-    },
+    "genus_description": "Elymus can be tufted or rhizomatous perennial grasses, with linear, deciduous leaves, sometimes attractively coloured, and flattened flower spikes in summer and autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -37,7 +44,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -77,79 +102,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most moist, well-drained fertile soils in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Rock garden",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "South America",
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Elymus can be tufted or rhizomatous perennial grasses, with linear, deciduous leaves, sometimes attractively coloured, and flattened flower spikes in summer and autumn",
-        "name_status": "Correct",
-        "plant_range": "South America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most moist, well-drained fertile soils in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in situ in spring or autumn or by division in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Rock garden",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back to ground level in late autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to rust and powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Leymus magellanicus",
-    "display_name": "Magellan rye grass",
-    "clear_main_name": "Leymus magellanicus",
-    "pt_search_main_name": "Leymus magellanicus"
+        "habit": "Tufted"
+    }
 }

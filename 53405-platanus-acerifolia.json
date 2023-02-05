@@ -1,26 +1,33 @@
 {
-    "id": "d5c37703-a035-49ec-adac-07489e054f7a",
-    "link": "https://www.rhs.org.uk/plants/53405/platanus-acerifolia/details",
+    "latin_name": "Platanus × acerifolia",
+    "main_common_name": {
+        "en": "London plane",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Maple-leaved plane"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Platanus × acerifolia",
+        "Platanus × hybrida"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "maple-leaved plane"
-        ],
-        "synonyms": [
-            "Platanus × acerifolia",
-            "Platanus × hybrida"
-        ]
-    },
+    "genus_description": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing",
+            "North–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,80 +96,33 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in moist, humus-rich, fertile soils but avoid planting in the vacinity of buildings due to vigorous root system",
+        "propagation": [
+            "Hardwood",
+            "Suckers"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing",
-            "North–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "City and courtyard gardens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Platanaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Platanaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in moist, humus-rich, fertile soils but avoid planting in the vacinity of buildings due to vigorous root system",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate from hardwood cuttings in winter or suckers in autumn or late winter",
-            "link_names": [
-                "Hardwood",
-                "Suckers"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "City and courtyard gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to lace bugs",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to plane anthracnose and honey fungus",
-            "link_names": [
-                "Plane anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "plane_anthracnose": "https://www.rhs.org.uk/disease/plane-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Platanus × acerifolia",
-    "display_name": "London plane",
-    "clear_main_name": "Platanus × acerifolia",
-    "pt_search_main_name": "Platanus × acerifolia"
+        "habit": "Bushy"
+    }
 }

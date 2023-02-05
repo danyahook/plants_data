@@ -1,24 +1,32 @@
 {
-    "id": "e4172d15-8056-4ade-b969-fe8e190dde5a",
-    "link": "https://www.rhs.org.uk/plants/331734/prunus-serrulata-f-unifolia/details",
+    "latin_name": "Prunus serrulata f. unifolia",
+    "main_common_name": {
+        "en": "Cherry 'ichiyo'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Prunus 'pink champagne'",
+        "Prunus serrulata f. unifolia",
+        "Prunus pink champagne"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Prunus 'Pink Champagne'",
-            "Prunus serrulata f. unifolia",
-            "Prunus Pink Champagne"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,22 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,85 +89,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moist but well-drained, moderately fertile soil in full sun",
+        "propagation": [
+            "Greenwood",
+            "Chip budding",
+            "Grafting"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moist but well-drained, moderately fertile soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by greenwood cuttings in early summer, chip budding in summer or grafting in early spring",
-            "link_names": [
-                "Greenwood",
-                "Chip budding",
-                "Grafting"
-            ],
-            "related_links": {
-                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 in midsummer, so as to reduce the risk of silver leaf",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Aphids and caterpillars may be a nuisance",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Susceptible to silver leaf, honey fungus, blossom wilt and bacterial canker",
-            "link_names": [
-                "Silver leaf",
-                "Honey fungus",
-                "Bacterial canker"
-            ],
-            "related_links": {
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker"
-            }
-        }
-    },
-    "main_name_original": "Prunus serrulata f. unifolia",
-    "display_name": "Cherry 'ichiyo'",
-    "clear_main_name": "Prunus serrulata f. unifolia",
-    "pt_search_main_name": "Prunus serrulata f. unifolia"
+        "habit": "Bushy"
+    }
 }

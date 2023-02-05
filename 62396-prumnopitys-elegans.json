@@ -1,31 +1,38 @@
 {
-    "id": "54e530ea-483c-45c9-a417-2f45b9368687",
-    "link": "https://www.rhs.org.uk/plants/62396/prumnopitys-elegans/details",
+    "latin_name": "Prumnopitys elegans",
+    "main_common_name": {
+        "en": "Plum-fruited yew",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Plum yew",
+            "Chilean yew",
+            "Plum fir",
+            "Lleuque"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Podocarpus andinus",
+        "Prumnopitys spicatus",
+        "Prumnopitys elegans"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Chilean yew",
-            "lleuque",
-            "plum fir",
-            "plum yew"
-        ],
-        "synonyms": [
-            "Prumnopitys spicatus",
-            "Prumnopitys elegans",
-            "Podocarpus andinus"
-        ]
-    },
+    "genus_description": "Prumnopitys are upright, evergreen trees with yew-like foliage. Male and female cones are produced at various times of year, followed by fruit that look like small, upright plums but only have a thin fleshy layer round the seed",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -40,7 +47,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -88,79 +112,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun, with shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1",
+            "Hedges"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Podocarpaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Podocarpaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Prumnopitys are upright, evergreen trees with yew-like foliage. Male and female cones are produced at various times of year, followed by fruit that look like small, upright plums but only have a thin fleshy layer round the seed",
-        "name_status": "Correct",
-        "plant_range": "New Zealand"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well-drained soil in full sun, with shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers outdoors in spring, or by semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; clip hedges in early or midsummer",
-            "link_names": [
-                "Pruning group 1",
-                "Hedges"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Prumnopitys elegans",
-    "display_name": "Plum-fruited yew",
-    "clear_main_name": "Prumnopitys elegans",
-    "pt_search_main_name": "Prumnopitys elegans"
+        "habit": "Bushy"
+    }
 }

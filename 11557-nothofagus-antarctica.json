@@ -1,22 +1,50 @@
 {
-    "id": "5c729fd7-7eb5-4555-898b-f6798c28aea2",
-    "link": "https://www.rhs.org.uk/plants/11557/nothofagus-antarctica/details",
+    "latin_name": "Nothofagus antarctica",
+    "main_common_name": {
+        "en": "Antarctic beech",
+        "ru": "Нотофагус антарктический"
+    },
+    "common_names": {
+        "en": [
+            "Nire",
+            "Antarctic false beech",
+            "Antarctic beech",
+            "Nirre"
+        ],
+        "ru": [
+            "Нотофагус антарктический"
+        ]
+    },
+    "synonyms": [
+        "Fagus antarctica var. uliginosa",
+        "Fagus antarctica var. palustris",
+        "Calucechinus antarctica",
+        "Nothofagus uliginosa",
+        "Fagus antarctica var. sublobata",
+        "Calucechinus montagnei",
+        "Fagus antarctica",
+        "Fagus antarctica var. microphylla",
+        "Nothofagus montagnei",
+        "Fagus montagnei",
+        "Nothofagus antarctica",
+        "Fagus antarctica var. subalpina",
+        "Fagus antarctica f. latifolia",
+        "Fagus uliginosa",
+        "Fagus alpina"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "nire",
-            "nirre"
-        ]
-    },
+    "genus_description": "Nothofagus is a genus of southern hemisphere, deciduous or evergreen, trees with similarities to the northern Fagus (beech), but differing in their very short-stalked, usually much smaller leaves, and the male and female flowers being solitary or in threes rather than grouped",
+    "rank": 104121,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -28,7 +56,25 @@
             "Acid"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -60,139 +106,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, lime-free, moist but well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Southern beeches",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Southern beech",
+        "species": "Antarctic beech"
     },
     "botanical_details": {
-        "family": "Nothofagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S Chile, S Argentina",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Nothofagus is a genus of southern hemisphere, deciduous or evergreen, trees with similarities to the northern Fagus (beech), but differing in their very short-stalked, usually much smaller leaves, and the male and female flowers being solitary or in threes rather than grouped",
-        "name_status": "Correct",
-        "plant_range": "S Chile, S Argentina"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, lime-free, moist but well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in a seedbed in autumn",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Root rot may be a problem",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Nothofagus_antarctica.html",
-        "filename": "11557-nothofagus-antarctica.json",
-        "latin_name": "Nothofagus antarctica",
-        "common_names": [
-            "Antarctic beech",
-            "Antarctic false beech"
-        ],
-        "synonyms": [
-            "Fagus alpina",
-            "Calucechinus antarctica",
-            "Fagus uliginosa",
-            "Fagus antarctica var. palustris",
-            "Fagus antarctica var. microphylla",
-            "Fagus antarctica f. latifolia",
-            "Fagus antarctica",
-            "Nothofagus uliginosa",
-            "Fagus antarctica var. uliginosa",
-            "Fagus antarctica var. sublobata",
-            "Fagus montagnei",
-            "Fagus antarctica var. subalpina",
-            "Calucechinus montagnei",
-            "Nothofagus montagnei",
-            "Nothofagus antarctica"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Нотофагус антарктический"
-            ],
-            "synonyms": [
-                "Fagus alpina",
-                "Calucechinus antarctica",
-                "Fagus uliginosa",
-                "Fagus antarctica var. palustris",
-                "Fagus antarctica var. microphylla",
-                "Fagus antarctica f. latifolia",
-                "Fagus antarctica",
-                "Nothofagus uliginosa",
-                "Fagus antarctica var. uliginosa",
-                "Fagus antarctica var. sublobata",
-                "Fagus montagnei",
-                "Fagus antarctica var. subalpina",
-                "Calucechinus montagnei",
-                "Nothofagus montagnei",
-                "Nothofagus antarctica"
-            ]
-        },
-        "rank": 104121,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Southern beeches",
-            "genus": "Southern beech",
-            "species": "Antarctic beech"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Nothofagus antarctica",
-    "display_name": "Antarctic beech",
-    "clear_main_name": "Nothofagus antarctica",
-    "pt_search_main_name": "Nothofagus antarctica"
+        "habit": "Columnar upright"
+    }
 }

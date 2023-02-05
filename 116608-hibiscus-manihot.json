@@ -1,26 +1,33 @@
 {
-    "id": "2bd58d4c-9c07-4687-932c-eab7cd66f6ed",
-    "link": "https://www.rhs.org.uk/plants/116608/hibiscus-manihot/details",
+    "latin_name": "Hibiscus manihot",
+    "main_common_name": {
+        "en": "Edible hibiscus",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Aibika"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Hibiscus manihot"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "aibika"
-        ],
-        "synonyms": [
-            "Hibiscus manihot"
-        ]
-    },
+    "genus_description": "Abelmoschus are hairy annuals or perennials with large, usually palmately-lobed leaves and 5-petalled, hibiscus-like, flowers borne in the leaf axils or in terminal racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -34,7 +41,22 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,84 +93,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Start off under glass and plant out in a sunny, sheltered position with well-drained, fertile soil, after all frost risk has passed",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Sub-tropical",
+            "Cottage and informal garden",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Malvaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Malvaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SE Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Abelmoschus are hairy annuals or perennials with large, usually palmately-lobed leaves and 5-petalled, hibiscus-like, flowers borne in the leaf axils or in terminal racemes",
-        "name_status": "Correct",
-        "plant_range": "SE Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Start off under glass and plant out in a sunny, sheltered position with well-drained, fertile soil, after all frost risk has passed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, or by softwood cuttings in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Sub-tropical",
-                "Cottage and informal garden",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back stems as they finish flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be affected by slugs, snails, glasshouse red spider mite and glasshouse whitefly",
-            "link_names": [
-                "Slugs",
-                "Snails",
-                "Glasshouse red spider mite",
-                "Glasshouse whitefly"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails",
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
-            }
-        },
-        "diseases": {
-            "text": "Susceptible to powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Hibiscus manihot",
-    "display_name": "Edible hibiscus",
-    "clear_main_name": "Hibiscus manihot",
-    "pt_search_main_name": "Hibiscus manihot"
+        "habit": "Bushy"
+    }
 }

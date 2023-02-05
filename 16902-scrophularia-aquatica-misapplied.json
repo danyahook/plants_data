@@ -1,32 +1,39 @@
 {
-    "id": "1cc694a2-9c9f-4dc0-9229-dd337bef17eb",
-    "link": "https://www.rhs.org.uk/plants/16902/scrophularia-aquatica-misapplied/details",
+    "latin_name": "Scrophularia aquatica misapplied",
+    "main_common_name": {
+        "en": "Bishop's leaves",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Brook betony",
+            "Fiddlewood",
+            "Brownwort",
+            "Water betony",
+            "Water figwort",
+            "Stinking christopher"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Scrophularia balbisii hornem.",
+        "Scrophularia aquatica misapplied"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Bogs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "brook betony",
-            "brownwort",
-            "fiddlewood",
-            "stinking Christopher",
-            "water betony",
-            "water figwort"
-        ],
-        "synonyms": [
-            "Scrophularia aquatica misapplied",
-            "Scrophularia balbisii Hornem."
-        ]
-    },
+    "genus_description": "Scrophularia can be herbaceous perennials or sub-shrubs, with broad leaves in pairs on square stems, and small 2-lipped flowers in loose terminal clusters",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Chalk",
             "Loam",
@@ -43,7 +50,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade",
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -81,75 +105,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade",
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in permanently damp soil in a bog garden or wild life garden in partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Division",
+            "Division"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Scrophulariaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Scrophulariaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Eurasia",
         "foliage": "Deciduous",
-        "habit": "Columnar upright, Clump forming",
-        "genus": "Scrophularia can be herbaceous perennials or sub-shrubs, with broad leaves in pairs on square stems, and small 2-lipped flowers in loose terminal clusters",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in permanently damp soil in a bog garden or wild life garden in partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or division in spring or autumn. For more information, see Division",
-            "link_names": [
-                "Propagate by seed",
-                "Division",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back all old growth to ground level at the end of the growing season",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to slugs, caterpillars and figwort weevils",
-            "link_names": [
-                "Slugs"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Scrophularia aquatica misapplied",
-    "display_name": "Bishop's leaves",
-    "clear_main_name": "Scrophularia aquatica misapplied",
-    "pt_search_main_name": "Scrophularia aquatica misapplied"
+        "habit": "Columnar upright, Clump forming"
+    }
 }

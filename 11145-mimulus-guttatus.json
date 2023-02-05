@@ -1,28 +1,35 @@
 {
-    "id": "7d55641a-eb22-4cc0-bfa3-baa38a7a6fdf",
-    "link": "https://www.rhs.org.uk/plants/11145/mimulus-guttatus/details",
+    "latin_name": "Mimulus guttatus",
+    "main_common_name": {
+        "en": "Common large monkey flower",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Spotted monkey flower",
+            "Monkey flower",
+            "Seep monkeyflower"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Mimulus langsdorffii",
+        "Mimulus luteus guttatus"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Bogs"
     ],
-    "names": {
-        "other_common_names": [
-            "monkey flower",
-            "seep monkeyflower",
-            "spotted monkey flower"
-        ],
-        "synonyms": [
-            "Mimulus langsdorffii",
-            "Mimulus luteus guttatus"
-        ]
-    },
+    "genus_description": "Mimulus can be annuals, perennials or evergreen shrubs, with paired leaves and 2-lipped tubular or trumpet-shaped flowers in terminal racemes or in the leaf axils",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -37,7 +44,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,81 +96,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, humus-rich, permanently moist soil in sun or semi-shade",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Phrymaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Phrymaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "W North America",
         "foliage": "Deciduous",
-        "habit": "Matforming",
-        "genus": "Mimulus can be annuals, perennials or evergreen shrubs, with paired leaves and 2-lipped tubular or trumpet-shaped flowers in terminal racemes or in the leaf axils",
-        "name_status": "Correct",
-        "plant_range": "W North America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, humus-rich, permanently moist soil in sun or semi-shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by division",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning needed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Slugs and snails may be a problem",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Mimulus guttatus",
-    "display_name": "Common large monkey flower",
-    "clear_main_name": "Mimulus guttatus",
-    "pt_search_main_name": "Mimulus guttatus"
+        "habit": "Matforming"
+    }
 }

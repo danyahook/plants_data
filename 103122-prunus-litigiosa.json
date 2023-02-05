@@ -1,21 +1,29 @@
 {
-    "id": "145bcee8-96f6-448c-bcd7-7edd01006c29",
-    "link": "https://www.rhs.org.uk/plants/103122/prunus-litigiosa/details",
+    "latin_name": "Prunus litigiosa",
+    "main_common_name": {
+        "en": "Tassel cherry",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Prunus pilosiuscula var. barbata"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Prunus pilosiuscula var. barbata"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +38,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,91 +90,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moist but well-drained, moderately fertile soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moist but well-drained, moderately fertile soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers outdoors in autumn; or by softwood cuttings, with bottom heat, in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, ideally in summer to reduce the risk of silver leaf infection",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and caterpillars",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus. High Risk Host for Xylella fastidiosa",
-            "link_names": [
-                "Peach leaf curl",
-                "Silver leaf",
-                "Bacterial canker",
-                "Honey fungus",
-                "High risk host for xylella fastidiosa"
-            ],
-            "related_links": {
-                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
-            }
-        }
-    },
-    "main_name_original": "Prunus litigiosa",
-    "display_name": "Tassel cherry",
-    "clear_main_name": "Prunus litigiosa",
-    "pt_search_main_name": "Prunus litigiosa"
+        "habit": "Columnar upright"
+    }
 }

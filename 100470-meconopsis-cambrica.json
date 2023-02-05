@@ -1,22 +1,30 @@
 {
-    "id": "74865dc5-b0d6-4e64-afae-49d3d854ba52",
-    "link": "https://www.rhs.org.uk/plants/100470/meconopsis-cambrica/details",
+    "latin_name": "Meconopsis cambrica",
+    "main_common_name": {
+        "en": "Welsh poppy",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Meconopsis cambrica"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Meconopsis cambrica"
-        ]
-    },
+    "genus_description": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -29,7 +37,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,78 +96,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in areas with cool, damp summers. Suitable for wildflower garden",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Wildflower meadow",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Papaveraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Papaveraceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "W Europe",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
-        "name_status": "Correct",
-        "plant_range": "W Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in areas with cool, damp summers. Suitable for wildflower garden",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Wildflower meadow",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Slugs and snails may be a problem",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Meconopsis cambrica",
-    "display_name": "Welsh poppy",
-    "clear_main_name": "Meconopsis cambrica",
-    "pt_search_main_name": "Meconopsis cambrica"
+        "habit": "Clump forming"
+    }
 }

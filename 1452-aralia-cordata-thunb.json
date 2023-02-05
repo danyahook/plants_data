@@ -1,26 +1,33 @@
 {
-    "id": "0fd6536b-8f18-4f43-b987-933b463ad7f2",
-    "link": "https://www.rhs.org.uk/plants/1452/aralia-cordata-thunb/details",
+    "latin_name": "Aralia cordata Thunb.",
+    "main_common_name": {
+        "en": "Japanese spikenard",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Udo"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Aralia edulis",
+        "Aralia taiwaniana",
+        "Aralia nudicaulis blume"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "udo"
-        ],
-        "synonyms": [
-            "Aralia edulis",
-            "Aralia nudicaulis Blume",
-            "Aralia taiwaniana"
-        ]
-    },
+    "genus_description": "Aralia can be deciduous trees, shrubs or perennials, with large, simple or pinnately compound leaves and tiny greenish-white flowers in large terminal clusters, followed by small black fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -33,7 +40,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,71 +97,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in a moist, neutral to acidic soil in partial shade but will tolerate full shade, or full sun if kept watered",
+        "propagation": [
+            "Suckers"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Araliaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Araliaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China Japan",
         "foliage": "Deciduous",
-        "habit": "Suckering",
-        "genus": "Aralia can be deciduous trees, shrubs or perennials, with large, simple or pinnately compound leaves and tiny greenish-white flowers in large terminal clusters, followed by small black fruits",
-        "name_status": "Correct",
-        "plant_range": "China Japan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in a moist, neutral to acidic soil in partial shade but will tolerate full shade, or full sun if kept watered",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagates readily from suckers or propagate by seed",
-            "link_names": [
-                "Suckers"
-            ],
-            "related_links": {
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Aralia cordata Thunb.",
-    "display_name": "Japanese spikenard",
-    "clear_main_name": "Aralia cordata Thunb.",
-    "pt_search_main_name": "Aralia cordata Thunb."
+        "habit": "Suckering"
+    }
 }

@@ -1,32 +1,39 @@
 {
-    "id": "37534e7e-d8fa-4905-87a3-2dbef34ddd5b",
-    "link": "https://www.rhs.org.uk/plants/331893/thuja-gigantea/details",
+    "latin_name": "Thuja gigantea",
+    "main_common_name": {
+        "en": "Western red cedar",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "British columbia cedar",
+            "Giant arbor-vitae",
+            "Western arbor-vitae",
+            "Yellow cypress",
+            "Californian white cedar",
+            "Nootka sound arbor-vitae"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Thuja lobbii",
+        "Thuja gigantea"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "British Columbia cedar",
-            "Californian white cedar",
-            "giant arbor-vitae",
-            "Nootka Sound arbor-vitae",
-            "western arbor-vitae",
-            "yellow cypress"
-        ],
-        "synonyms": [
-            "Thuja gigantea",
-            "Thuja lobbii"
-        ]
-    },
+    "genus_description": "Thuja are fast-growing evergreen trees of narrowly conical habit, with flat sprays of tiny, aromatic, scale-like leaves and small knobbly cones",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -41,6 +48,24 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -77,88 +102,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in moist but well-drained soil. Protect from drying winds especially when young. Suitable for hedging or screening",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Hedge"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cupressaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cupressaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "W North America",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "potentially_harmful": "Contact with foliage may irritate the skin. Wear gloves and other protective equipment when handling",
-        "genus": "Thuja are fast-growing evergreen trees of narrowly conical habit, with flat sprays of tiny, aromatic, scale-like leaves and small knobbly cones",
-        "name_status": "Correct",
-        "plant_range": "W North America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in moist but well-drained soil. Protect from drying winds especially when young. Suitable for hedging or screening",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required, unless grown as a hedge",
-            "link_names": [
-                "Hedge"
-            ],
-            "related_links": {
-                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects and conifer aphid",
-            "link_names": [
-                "Scale insects",
-                "Conifer aphid"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus and other fungal diseases, particularly thuja blight and Coryneum canker (see conifers: brown patches)",
-            "link_names": [
-                "Honey fungus",
-                "Thuja blight"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "thuja_blight": "https://www.rhs.org.uk/disease/thuja-blight"
-            }
-        }
-    },
-    "main_name_original": "Thuja gigantea",
-    "display_name": "Western red cedar",
-    "clear_main_name": "Thuja gigantea",
-    "pt_search_main_name": "Thuja gigantea"
+        "habit": "Columnar upright"
+    }
 }

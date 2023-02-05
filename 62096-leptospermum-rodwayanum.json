@@ -1,22 +1,30 @@
 {
-    "id": "381700b9-e576-4350-b7f3-4ac41e52e839",
-    "link": "https://www.rhs.org.uk/plants/62096/leptospermum-rodwayanum/details",
+    "latin_name": "Leptospermum rodwayanum",
+    "main_common_name": {
+        "en": "Large-flowered tea tree",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Leptospermum rodwayanum"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Leptospermum rodwayanum"
-        ]
-    },
+    "genus_description": "Leptospermum are aromatic evergreen shrubs or small trees with small, often silky leaves and 5-petalled flowers in late spring and summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -28,6 +36,22 @@
             "Acid",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -74,83 +98,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, well-drained soil in full sun or part shade. Shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Low Maintenance",
+            "Wall side borders",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": [
+            "Pruning group 8"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Myrtaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Myrtaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Australia (Tasmania)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Leptospermum are aromatic evergreen shrubs or small trees with small, often silky leaves and 5-petalled flowers in late spring and summer",
-        "name_status": "Correct",
-        "plant_range": "Australia (Tasmania)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, well-drained soil in full sun or part shade. Shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or from semi-ripe cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Low Maintenance",
-                "Wall side borders",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely)",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Leptospermum rodwayanum",
-    "display_name": "Large-flowered tea tree",
-    "clear_main_name": "Leptospermum rodwayanum",
-    "pt_search_main_name": "Leptospermum rodwayanum"
+        "habit": "Bushy"
+    }
 }

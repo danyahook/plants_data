@@ -1,22 +1,45 @@
 {
-    "id": "ffa80d94-e029-429f-8d32-fbab3dca4b34",
-    "link": "https://www.rhs.org.uk/plants/100995/veronica-spicata/details",
+    "latin_name": "Veronica spicata",
+    "main_common_name": {
+        "en": "Spiked speedwell",
+        "ru": "Вероника колосистая"
+    },
+    "common_names": {
+        "en": [
+            "Spiked speedwell"
+        ],
+        "ru": [
+            "Вероника колосистая",
+            "Вероничник колосистый",
+            "Вероника колосковая",
+            "Вероника гибридная",
+            "Вероника пачоского",
+            "Псевдолизимахион пачоского",
+            "Андреев крест",
+            "Андреева трава",
+            "Полевые барашки",
+            "Синецвет",
+            "Синие батожки"
+        ]
+    },
+    "synonyms": [
+        "Veronica spicata",
+        "Veronica spicata 'blue'",
+        "Veronica kellereri"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "synonyms": [
-            "Veronica spicata 'Blue'",
-            "Veronica kellereri"
-        ]
-    },
+    "genus_description": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
+    "rank": 3014,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +55,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Early spring",
+            "Late fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,87 +109,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": null,
+        "propagation": [],
+        "suggested_panting_places": [],
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Flower withering",
+        "Fruit withering",
+        "Leaf beetles",
+        "Sap-sucking insects",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Plantain",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "genus": "Speedwells",
+        "species": "Spiked speedwell"
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe, Asia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
-        "name_status": "Correct",
-        "plant_range": "Europe, Asia"
-    },
-    "how_to_grow": {},
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Veronica_spicata.html",
-        "filename": "100995-veronica-spicata.json",
-        "latin_name": "Veronica spicata",
-        "common_names": [
-            "Spiked speedwell"
-        ],
-        "synonyms": [
-            "Veronica spicata"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Вероника колосистая",
-                "Вероничник колосистый",
-                "Вероника колосковая",
-                "Вероника гибридная",
-                "Вероника Пачоского",
-                "Псевдолизимахион Пачоского",
-                "Андреев крест",
-                "Андреева трава",
-                "Полевые барашки",
-                "Синецвет",
-                "Синие батожки"
-            ],
-            "synonyms": [
-                "Veronica spicata"
-            ]
-        },
-        "rank": 3014,
-        "items_data": {
-            "water": "Every week",
-            "hardiness_zones": "6 - 9",
-            "planting_time": [
-                "Early spring",
-                "Late fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Plantain",
-            "genus": "Speedwells",
-            "species": "Spiked speedwell"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Sap-sucking insects",
-            "Fruit withering",
-            "Leaf beetles",
-            "Brown spot"
-        ]
-    },
-    "main_name_original": "Veronica spicata",
-    "display_name": "Spiked speedwell",
-    "clear_main_name": "Veronica spicata",
-    "pt_search_main_name": "Veronica spicata"
+        "habit": "Bushy"
+    }
 }

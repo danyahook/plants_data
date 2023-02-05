@@ -1,32 +1,39 @@
 {
-    "id": "72f526ee-dc48-4c5d-bb1f-49815977af78",
-    "link": "https://www.rhs.org.uk/plants/127419/physalis-edulis/details",
+    "latin_name": "Physalis edulis",
+    "main_common_name": {
+        "en": "Cape gooseberry",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Purple ground cherry",
+            "Gooseberry tomato",
+            "Strawberry tomato [2]",
+            "Poha",
+            "Ground cherry [3]",
+            "Peruvian cape gooseberry"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Physalis edulis"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Conservatory Greenhouse",
         "Fruit Edible",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "gooseberry tomato",
-            "Peruvian Cape gooseberry",
-            "Poha",
-            "purple ground cherry",
-            "ground cherry [3]",
-            "strawberry tomato [2]"
-        ],
-        "synonyms": [
-            "Physalis edulis"
-        ]
-    },
+    "genus_description": "Physalis can be annuals or rhizomatous perennials with simple or pinnately lobed leaves and small bell-shaped flowers in the leaf axils, followed by fleshy, sometimes edible, yellow, red or purple berries, enclosed in enlarged, often colourful, calyces",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -40,7 +47,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -77,69 +100,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Sow seed indoors in early spring. Grow on in a cool greenhouse, or outdoors in milder areas once all risk of frost has passed. Needs well-drained soil in a sunny position and support for the lax branches",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Patio and container plants"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Solanaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Solanaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Only the berries are edible, other plant parts can cause mild stomach upset if eaten. Wear gloves and wash hands after handling",
-        "genus": "Physalis can be annuals or rhizomatous perennials with simple or pinnately lobed leaves and small bell-shaped flowers in the leaf axils, followed by fleshy, sometimes edible, yellow, red or purple berries, enclosed in enlarged, often colourful, calyces",
-        "name_status": "Unresolved"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Sow seed indoors in early spring. Grow on in a cool greenhouse, or outdoors in milder areas once all risk of frost has passed. Needs well-drained soil in a sunny position and support for the lax branches",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, or by division in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut down to ground level after harvesting the fruit",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Physalis edulis",
-    "display_name": "Cape gooseberry",
-    "clear_main_name": "Physalis edulis",
-    "pt_search_main_name": "Physalis edulis"
+        "habit": "Bushy"
+    }
 }

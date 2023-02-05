@@ -1,26 +1,33 @@
 {
-    "id": "ecd3a8e0-16c9-4f7e-8146-1254adce52db",
-    "link": "https://www.rhs.org.uk/plants/116467/polygonum-orientale/details",
+    "latin_name": "Polygonum orientale",
+    "main_common_name": {
+        "en": "Gentleman's cane",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Prince's feather",
+            "Princess feather"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Polygonum orientale"
+    ],
     "tags": [
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "prince's feather",
-            "princess feather"
-        ],
-        "synonyms": [
-            "Polygonum orientale"
-        ]
-    },
+    "genus_description": "Persicaria can be annuals, herbaceous or evergreen perennials or sub-shrubs with simple leaves and small bell-shaped white or pink flowers in long-lasting spikes or panicles",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,70 +96,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows in a wide range of soils and conditions, flowers best in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildflower meadow",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Polygonaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Polygonaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E&SE Asia, Australia",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Persicaria can be annuals, herbaceous or evergreen perennials or sub-shrubs with simple leaves and small bell-shaped white or pink flowers in long-lasting spikes or panicles",
-        "name_status": "Correct",
-        "plant_range": "E&SE Asia, Australia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows in a wide range of soils and conditions, flowers best in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed; self-seeds freely",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildflower meadow",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Polygonum orientale",
-    "display_name": "Gentleman's cane",
-    "clear_main_name": "Polygonum orientale",
-    "pt_search_main_name": "Polygonum orientale"
+        "habit": "Columnar upright"
+    }
 }

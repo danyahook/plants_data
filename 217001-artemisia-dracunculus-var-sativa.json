@@ -1,24 +1,32 @@
 {
-    "id": "2d6249ed-cca7-480c-908c-173d646e41eb",
-    "link": "https://www.rhs.org.uk/plants/217001/artemisia-dracunculus-var-sativa/details",
+    "latin_name": "Artemisia dracunculus var. sativa",
+    "main_common_name": {
+        "en": "French tarragon",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Artemisia dracunculus 'sativa'",
+        "Artemisia dracunculus var. sativa"
+    ],
     "tags": [
         "Herbs - Culinary",
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Artemisia dracunculus 'Sativa'",
-            "Artemisia dracunculus var. sativa"
-        ]
-    },
+    "genus_description": "Artemisia can be shrubs, perennials or annuals, evergreen or deciduous, with usually grey, aromatic, often divided foliage and rather insignificant flower-heads",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -30,6 +38,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -66,72 +89,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a well-drained soil in full sun. Will struggle in heavy, poorly-drained soil",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Gravel garden"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asteraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Artemisia can be shrubs, perennials or annuals, evergreen or deciduous, with usually grey, aromatic, often divided foliage and rather insignificant flower-heads",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a well-drained soil in full sun. Will struggle in heavy, poorly-drained soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Gravel garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back to the lowest, new shoots near the base in mid to late spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Artemisia dracunculus var. sativa",
-    "display_name": "French tarragon",
-    "clear_main_name": "Artemisia dracunculus var. sativa",
-    "pt_search_main_name": "Artemisia dracunculus var. sativa"
+        "habit": "Clump forming"
+    }
 }

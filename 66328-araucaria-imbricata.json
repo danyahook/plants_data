@@ -1,27 +1,34 @@
 {
-    "id": "160089bd-70ce-45e9-9de7-bac0b31c1b66",
-    "link": "https://www.rhs.org.uk/plants/66328/araucaria-imbricata/details",
+    "latin_name": "Araucaria imbricata",
+    "main_common_name": {
+        "en": "Monkey puzzle",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Chile pine",
+            "Money puzzle tree"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Araucaria imbricata"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Chile pine",
-            "money puzzle tree"
-        ],
-        "synonyms": [
-            "Araucaria imbricata"
-        ]
-    },
+    "genus_description": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -35,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,76 +100,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, moist but well drained soil in an open site with shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Araucariaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Araucariaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Chile, Argentina",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
-        "name_status": "Correct",
-        "plant_range": "Chile, Argentina"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well drained soil in an open site with shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in seedbed as soon as ripe; take cuttings of vertical shoot tips in midsummer and root in a cold frame; cuttings of horizontal side branches will not form an upright tree",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; only young specimens respond well to pruning back into older wood",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Araucaria imbricata",
-    "display_name": "Monkey puzzle",
-    "clear_main_name": "Araucaria imbricata",
-    "pt_search_main_name": "Araucaria imbricata"
+        "habit": "Bushy"
+    }
 }

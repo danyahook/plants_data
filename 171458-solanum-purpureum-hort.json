@@ -1,26 +1,33 @@
 {
-    "id": "0f286634-416b-4ade-a243-7d46c7be1e89",
-    "link": "https://www.rhs.org.uk/plants/171458/solanum-purpureum-hort/details",
+    "latin_name": "Solanum purpureum hort.",
+    "main_common_name": {
+        "en": "Purple devil",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Malevolence",
+            "Potato vine [4]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Solanum purpureum hort."
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "malevolence",
-            "potato vine [4]"
-        ],
-        "synonyms": [
-            "Solanum purpureum hort."
-        ]
-    },
+    "genus_description": "Solanum can be annuals, perennials, evergreen or deciduous shrubs or twining climbers, with simple or pinnnately lobed leaves and star- or bowl-shaped, 5-lobed flowers with prominent stamens, followed by fleshy fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -33,7 +40,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Purple"
@@ -75,70 +98,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained, neutral to slightly alkaline soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden",
+            "Sub-tropical",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Solanaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Solanaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Brazil",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Ingestion may cause severe discomfort. Wear gloves and wash hands after handling",
-        "genus": "Solanum can be annuals, perennials, evergreen or deciduous shrubs or twining climbers, with simple or pinnnately lobed leaves and star- or bowl-shaped, 5-lobed flowers with prominent stamens, followed by fleshy fruits",
-        "name_status": "Correct",
-        "plant_range": "Brazil"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained, neutral to slightly alkaline soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden",
-                "Sub-tropical",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Solanum purpureum hort.",
-    "display_name": "Purple devil",
-    "clear_main_name": "Solanum purpureum hort.",
-    "pt_search_main_name": "Solanum purpureum hort."
+        "habit": "Bushy"
+    }
 }

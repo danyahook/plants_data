@@ -1,30 +1,37 @@
 {
-    "id": "19e30a1b-b357-423d-b46b-5664fa68865a",
-    "link": "https://www.rhs.org.uk/plants/244831/cupressus-darjeelingensis/details",
+    "latin_name": "Cupressus darjeelingensis",
+    "main_common_name": {
+        "en": "Kashmir cypress",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Bhutan cypress"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Cupressus assamica",
+        "Cupressus himalaica",
+        "Cupressus pendula griff.",
+        "Cupressus darjeelingensis",
+        "Cupressus torulosa 'cashmeriana'"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Conifers",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Bhutan cypress"
-        ],
-        "synonyms": [
-            "Cupressus torulosa 'Cashmeriana'",
-            "Cupressus assamica",
-            "Cupressus darjeelingensis",
-            "Cupressus himalaica",
-            "Cupressus pendula Griff."
-        ]
-    },
+    "genus_description": "Cupressus are vigorous, evergreen trees with flaking or scaly bark, often with columnar or narrowly ovoid crowns, small, often aromatic, scale-like leaves and small, spherical female cones",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -38,7 +45,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -80,83 +103,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Under glass grow in loam-based potting compost (JI No.3) in full light, with good ventilation. Outdoors grow in any well-drained soil in full sun. Shelter from cold drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Architectural"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cupressaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cupressaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Bhutan",
         "foliage": "Evergreen",
-        "habit": "Pendulous weeping",
-        "genus": "Cupressus are vigorous, evergreen trees with flaking or scaly bark, often with columnar or narrowly ovoid crowns, small, often aromatic, scale-like leaves and small, spherical female cones",
-        "name_status": "Correct",
-        "plant_range": "Bhutan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass grow in loam-based potting compost (JI No.3) in full light, with good ventilation. Outdoors grow in any well-drained soil in full sun. Shelter from cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame, in spring. Root semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, especially Cypress aphid which is active during summer and may cause dieback",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus or phytophthora. Cankers may cause the death of twigs and ultimately entire trees",
-            "link_names": [
-                "Honey fungus",
-                "Phytophthora"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
-            }
-        }
-    },
-    "main_name_original": "Cupressus darjeelingensis",
-    "display_name": "Kashmir cypress",
-    "clear_main_name": "Cupressus darjeelingensis",
-    "pt_search_main_name": "Cupressus darjeelingensis"
+        "habit": "Pendulous weeping"
+    }
 }

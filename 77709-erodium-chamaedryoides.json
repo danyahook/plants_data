@@ -1,29 +1,36 @@
 {
-    "id": "2db1ed7e-42a9-4cff-a598-0cfb88512db7",
-    "link": "https://www.rhs.org.uk/plants/77709/erodium-chamaedryoides/details",
+    "latin_name": "Erodium chamaedryoides",
+    "main_common_name": {
+        "en": "Alpine geranium",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Dwarf geranium",
+            "Fairy heron's bill"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Erodium reichardii reichardii",
+        "Erodium chamaedryoides",
+        "Geranium reichardii"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Alpine Rockery",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "fairy heron's bill",
-            "dwarf geranium"
-        ],
-        "synonyms": [
-            "Geranium reichardii",
-            "Erodium reichardii reichardii",
-            "Erodium chamaedryoides"
-        ]
-    },
+    "genus_description": "Erodium can be annuals, perennials or subshrubs, some evergreen, with lobed or pinnately divided leaves and bowl-shaped, 5-petalled flowers in summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -36,7 +43,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,69 +95,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained, neutral to alkakine soils in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Geraniaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Geraniaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Majorca, Corsica",
         "foliage": "Deciduous",
-        "habit": "Matforming",
-        "genus": "Erodium can be annuals, perennials or subshrubs, some evergreen, with lobed or pinnately divided leaves and bowl-shaped, 5-petalled flowers in summer",
-        "name_status": "Correct",
-        "plant_range": "Majorca, Corsica"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained, neutral to alkakine soils in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by basal stem cuttings",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Erodium chamaedryoides",
-    "display_name": "Alpine geranium",
-    "clear_main_name": "Erodium chamaedryoides",
-    "pt_search_main_name": "Erodium chamaedryoides"
+        "habit": "Matforming"
+    }
 }

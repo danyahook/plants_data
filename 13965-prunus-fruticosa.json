@@ -1,23 +1,43 @@
 {
-    "id": "9f5c822d-e86b-4719-a84d-78c2420aab68",
-    "link": "https://www.rhs.org.uk/plants/13965/prunus-fruticosa/details",
+    "latin_name": "Prunus fruticosa",
+    "main_common_name": {
+        "en": "European dwarf cherry",
+        "ru": "Вишня кустарниковая"
+    },
+    "common_names": {
+        "en": [
+            "Ground cherry",
+            "European ground cherry",
+            "Steppe cherry",
+            "Steppe cherry",
+            "Ground cherry",
+            "European dwarf cherry",
+            "Dwarf cherry"
+        ],
+        "ru": [
+            "Вишня кустарниковая"
+        ]
+    },
+    "synonyms": [
+        "Prunus fruticosa",
+        "Cerasus fruticosa",
+        "Cerasus pumila",
+        "Cerasus humilis",
+        "Prunus chamaecerasus"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "European ground cherry",
-            "ground cherry",
-            "steppe cherry"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 13008,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +52,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,151 +108,47 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy, Suckering",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
+    "toxicity": [
+        "Toxic to Cats"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moist but well-drained, moderately fertile soil preferably in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers outdoors in autumn; or by softwood cuttings, with bottom heat, in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, ideally in summer to reduce the risk of silver leaf infection",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and caterpillars",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to peach leaf curl, silver leaf, bacterial canker, blossom wilt and honey fungus. High Risk Host for Xylella fastidiosa",
-            "link_names": [
-                "Peach leaf curl",
-                "Silver leaf",
-                "Bacterial canker",
-                "Honey fungus",
-                "High risk host for xylella fastidiosa"
-            ],
-            "related_links": {
-                "peach_leaf_curl": "https://www.rhs.org.uk/disease/peach-leaf-curl",
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Prunus_fruticosa.html",
-        "filename": "13965-prunus-fruticosa.json",
-        "latin_name": "Prunus fruticosa",
-        "common_names": [
-            "European dwarf cherry",
-            "Dwarf cherry",
-            "Ground cherry",
-            "Steppe cherry"
+        "cultivation": "Grow in any moist but well-drained, moderately fertile soil preferably in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Softwood"
         ],
-        "synonyms": [
-            "Cerasus humilis",
-            "Cerasus pumila",
-            "Cerasus fruticosa",
-            "Prunus chamaecerasus",
-            "Prunus fruticosa"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Вишня кустарниковая"
-            ],
-            "synonyms": [
-                "Cerasus humilis",
-                "Cerasus pumila",
-                "Cerasus fruticosa",
-                "Prunus chamaecerasus",
-                "Prunus fruticosa"
-            ]
-        },
-        "rank": 13008,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Prunus",
-            "species": "European dwarf cherry"
-        },
-        "toxic_data": [
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Underwatering",
-            "Brown spot",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Prunus fruticosa",
-    "display_name": "European dwarf cherry",
-    "clear_main_name": "Prunus fruticosa",
-    "pt_search_main_name": "Prunus fruticosa"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Leaf beetles",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Prunus",
+        "species": "European dwarf cherry"
+    },
+    "botanical_details": {
+        "plant_range": "Eurasia",
+        "foliage": "Deciduous",
+        "habit": "Bushy, Suckering"
+    }
 }

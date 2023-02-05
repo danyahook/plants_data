@@ -1,26 +1,33 @@
 {
-    "id": "cffc04d7-bedf-45b1-abde-a016af1d683e",
-    "link": "https://www.rhs.org.uk/plants/46406/hebe-perfoliata/details",
+    "latin_name": "Hebe perfoliata",
+    "main_common_name": {
+        "en": "Digger's speedwell",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Digger speedwell"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Parahebe perfoliata",
+        "Hebe perfoliata"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Digger speedwell"
-        ],
-        "synonyms": [
-            "Parahebe perfoliata",
-            "Hebe perfoliata"
-        ]
-    },
+    "genus_description": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +43,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,90 +101,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows well in poor well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "North–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Gravel garden",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Rock garden",
+            "Banks and slopes",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H3"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plantaginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Australia",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
-        "name_status": "Correct",
-        "plant_range": "Australia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows well in poor well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Gravel garden",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Rock garden",
-                "Banks and slopes",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
-            "link_names": [
-                "Downy mildews",
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Hebe perfoliata",
-    "display_name": "Digger's speedwell",
-    "clear_main_name": "Hebe perfoliata",
-    "pt_search_main_name": "Hebe perfoliata"
+        "habit": "Bushy"
+    }
 }

@@ -1,26 +1,33 @@
 {
-    "id": "377182e5-ccaa-4ac9-9505-a62af5e8ce3d",
-    "link": "https://www.rhs.org.uk/plants/95487/salix-elaeagnos-subsp-angustifolia/details",
+    "latin_name": "Salix elaeagnos subsp. angustifolia",
+    "main_common_name": {
+        "en": "Narrow-leaved olive willow",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Narrow-leaved rosemary willow"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Salix elaeagnos 'angustifolia'",
+        "Salix lavandulifolia var. rosmarinifolia",
+        "Salix rosmarinifolia misapplied"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "narrow-leaved rosemary willow"
-        ],
-        "synonyms": [
-            "Salix elaeagnos 'Angustifolia'",
-            "Salix lavandulifolia var. rosmarinifolia",
-            "Salix rosmarinifolia misapplied"
-        ]
-    },
+    "genus_description": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -35,7 +42,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,84 +95,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "A small, slow growing shrub for sun or partial shade",
+        "propagation": [
+            "Softwood",
+            "Hardwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Salicaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Salicaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Eurasia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "A small, slow growing shrub for sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter",
-            "link_names": [
-                "Softwood",
-                "Hardwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
-            "link_names": [
-                "Willow anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Salix elaeagnos subsp. angustifolia",
-    "display_name": "Narrow-leaved olive willow",
-    "clear_main_name": "Salix elaeagnos subsp. angustifolia",
-    "pt_search_main_name": "Salix elaeagnos subsp. angustifolia"
+        "habit": "Bushy"
+    }
 }

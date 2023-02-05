@@ -1,24 +1,44 @@
 {
-    "id": "e8d331fa-f849-412a-9017-b830dd19e633",
-    "link": "https://www.rhs.org.uk/plants/33397/gelsemium-sempervirens/details",
+    "latin_name": "Gelsemium sempervirens",
+    "main_common_name": {
+        "en": "Carolina jasmine",
+        "ru": "Гельземий вечнозелёный"
+    },
+    "common_names": {
+        "en": [
+            "Yellow jessamine",
+            "Woodbine",
+            "False jasmine",
+            "Carolina yellow jasmine",
+            "Carolina jasmine",
+            "Gelsemium",
+            "Evening trumpetflower",
+            "Yellow jessamine"
+        ],
+        "ru": [
+            "Гельземий вечнозелёный"
+        ]
+    },
+    "synonyms": [
+        "Gelsemium nitidum",
+        "Gelsemium sempervirens",
+        "Bignonia sempervirens",
+        "Jeffersonia sempervirens",
+        "Gelsemium lucidum"
+    ],
     "tags": [
         "Climber Wall Shrub"
     ],
-    "names": {
-        "other_common_names": [
-            "Carolina jasmine",
-            "Carolina yellow jasmine",
-            "false jasmine",
-            "yellow jessamine"
-        ]
-    },
+    "genus_description": "Gelsemium are twining evergreen perennials with simple, paired leaves and fragrant, funnel-shaped flowers that maybe solitary or in small clusters in spring and summer",
+    "rank": 1762,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,6 +52,24 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -72,138 +110,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
-    },
-    "botanical_details": {
-        "family": "Gelsemiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Climbing",
-        "genus": "Gelsemium are twining evergreen perennials with simple, paired leaves and fragrant, funnel-shaped flowers that maybe solitary or in small clusters in spring and summer",
-        "name_status": "Correct",
-        "plant_range": "C Americas"
-    },
+    "toxicity": [
+        "Highly Toxic to Humans"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a loam based potting compost in full or bright filtered light with shade from hot sun. Water freely when in growth applying a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors in milder areas in most moderately fertile soils but will require protection from cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown at 13 to 18°C in spring or take semi-hardwood cuttings with bottom heat in summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Mediterranean climate plants",
-                "City and courtyard gardens",
-                "Patio and container plants",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 12, after flowering",
-            "link_names": [
-                "Pruning group 12"
-            ],
-            "related_links": {
-                "pruning_group_12": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Glasshouse whitefly may be a problem",
-            "link_names": [
-                "Glasshouse whitefly"
-            ],
-            "related_links": {
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Gelsemium_sempervirens.html",
-        "filename": "33397-gelsemium-sempervirens.json",
-        "latin_name": "Gelsemium sempervirens",
-        "common_names": [
-            "Carolina jasmine",
-            "Evening trumpetflower",
-            "Yellow jessamine",
-            "Woodbine",
-            "Gelsemium"
+        "cultivation": "Grow under glass in a loam based potting compost in full or bright filtered light with shade from hot sun. Water freely when in growth applying a balanced liquid fertiliser monthly. Water sparingly in winter. Can be grown outdoors in milder areas in most moderately fertile soils but will require protection from cold drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Jeffersonia sempervirens",
-            "Gelsemium lucidum",
-            "Gelsemium nitidum",
-            "Gelsemium sempervirens",
-            "Bignonia sempervirens"
+        "suggested_panting_places": [
+            "Mediterranean climate plants",
+            "City and courtyard gardens",
+            "Patio and container plants",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Гельземий вечнозелёный"
-            ],
-            "synonyms": [
-                "Jeffersonia sempervirens",
-                "Gelsemium lucidum",
-                "Gelsemium nitidum",
-                "Gelsemium sempervirens",
-                "Bignonia sempervirens"
-            ]
-        },
-        "rank": 1762,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 1-2 weeks",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Gentians",
-                "Dogbanes",
-                "Madders",
-                "And allies"
-            ],
-            "family": "Logania",
-            "genus": "Trumpetflower",
-            "species": "Carolina jasmine"
-        },
-        "toxic_data": [
-            "Highly Toxic to Humans"
-        ],
-        "diseases_data": [
-            "Caterpillars",
-            "Brown spot",
-            "Leaf scorch"
+        "pruning": [
+            "Pruning group 12"
         ]
     },
-    "main_name_original": "Gelsemium sempervirens",
-    "display_name": "Evening trumpet flower",
-    "clear_main_name": "Gelsemium sempervirens",
-    "pt_search_main_name": "Gelsemium sempervirens"
+    "diseases_and_pests": [
+        "Leaf scorch",
+        "Brown spot",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Logania",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Gentians",
+            "Dogbanes",
+            "Madders",
+            "And allies"
+        ],
+        "genus": "Trumpetflower",
+        "species": "Carolina jasmine"
+    },
+    "botanical_details": {
+        "plant_range": "C Americas",
+        "foliage": "Evergreen",
+        "habit": "Climbing"
+    }
 }

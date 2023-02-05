@@ -1,28 +1,50 @@
 {
-    "id": "a03d0277-a49b-4416-8bb7-9510ec0c6d38",
-    "link": "https://www.rhs.org.uk/plants/2269/betula-pubescens/details",
+    "latin_name": "Betula pubescens",
+    "main_common_name": {
+        "en": "Downy birch",
+        "ru": "Берёза пушистая"
+    },
+    "common_names": {
+        "en": [
+            "Swamp birch",
+            "Common white birch",
+            "Moor birch",
+            "Hairy birch",
+            "White birch",
+            "White birch",
+            "Downy birch",
+            "Pubescent birch"
+        ],
+        "ru": [
+            "Берёза пушистая",
+            "Берёза опушённая",
+            "Берёза белая"
+        ]
+    },
+    "synonyms": [
+        "Betula alba",
+        "Betula odorata",
+        "Betula pubescens var. kusmisscheffii",
+        "Betula pubescens",
+        "Betula alba var. pubescens",
+        "Betula alba f. pubescens",
+        "Betula × kusmisscheffii",
+        "Betula pubescens var. typica",
+        "Betula alba subsp. pubescens"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "common white birch",
-            "white birch"
-        ],
-        "synonyms": [
-            "Betula pubescens var. kusmisscheffii",
-            "Betula odorata",
-            "Betula × kusmisscheffii",
-            "Betula alba"
-        ]
-    },
+    "genus_description": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
+    "rank": 3962,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -38,7 +60,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "North–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Brown",
@@ -87,144 +128,40 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in full sun or light, dappled shade in moist but well-drained soil, tolerant of poor or wet, acid soils",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "North–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden",
+            "Wildflower meadow",
+            "Wildlife gardens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Birch",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Betula",
+        "species": "Downy birch"
     },
     "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe to C Asia",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
-        "name_status": "Correct",
-        "plant_range": "Europe to C Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in full sun or light, dappled shade in moist but well-drained soil, tolerant of poor or wet, acid soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, softwood cuttings or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden",
-                "Wildflower meadow",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
-            "link_names": [
-                "Honey fungus",
-                "Tree rust",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Betula_pubescens.html",
-        "filename": "2269-betula-pubescens.json",
-        "latin_name": "Betula pubescens",
-        "common_names": [
-            "Downy birch",
-            "White birch",
-            "Swamp birch",
-            "Pubescent birch",
-            "Moor birch",
-            "Hairy birch"
-        ],
-        "synonyms": [
-            "Betula alba f. pubescens",
-            "Betula pubescens var. typica",
-            "Betula alba var. pubescens",
-            "Betula alba subsp. pubescens",
-            "Betula pubescens"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Берёза пушистая",
-                "Берёза опушённая",
-                "Берёза белая"
-            ],
-            "synonyms": [
-                "Betula alba f. pubescens",
-                "Betula pubescens var. typica",
-                "Betula alba var. pubescens",
-                "Betula alba subsp. pubescens",
-                "Betula pubescens"
-            ]
-        },
-        "rank": 3962,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Birch",
-            "genus": "Betula",
-            "species": "Downy birch"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Betula pubescens",
-    "display_name": "Downy birch",
-    "clear_main_name": "Betula pubescens",
-    "pt_search_main_name": "Betula pubescens"
+        "habit": "Columnar upright"
+    }
 }

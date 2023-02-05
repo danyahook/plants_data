@@ -1,26 +1,33 @@
 {
-    "id": "1eb1a943-ed5d-4c7e-ac56-0e9a259d456e",
-    "link": "https://www.rhs.org.uk/plants/89351/prunus-serrulata-var-spontanea/details",
+    "latin_name": "Prunus serrulata var. spontanea",
+    "main_common_name": {
+        "en": "Hill cherry",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Japanese mountain cherry"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Prunus mutabilis",
+        "Prunus serrulata var. spontanea"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Japanese mountain cherry"
-        ],
-        "synonyms": [
-            "Prunus serrulata var. spontanea",
-            "Prunus mutabilis"
-        ]
-    },
+    "genus_description": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +43,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,82 +96,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan",
         "foliage": "Deciduous",
-        "genus": "Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark",
-        "name_status": "Correct",
-        "plant_range": "Japan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers outdoors in autumn, or by softwood cuttings in early summer with bottom heat",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; prune in mid-summer to reduce risk of silver leaf infection",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to caterpillars and leaf-mining moths",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to silver leaf, bacterial canker and blossom wilt. High Risk Host for Xylella fastidiosa",
-            "link_names": [
-                "Silver leaf",
-                "Bacterial canker",
-                "High risk host for xylella fastidiosa"
-            ],
-            "related_links": {
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa"
-            }
-        }
-    },
-    "main_name_original": "Prunus serrulata var. spontanea",
-    "display_name": "Hill cherry",
-    "clear_main_name": "Prunus serrulata var. spontanea",
-    "pt_search_main_name": "Prunus serrulata var. spontanea"
+        "habit": null
+    }
 }

@@ -1,31 +1,38 @@
 {
-    "id": "2b933b2c-0d1b-4509-8a1e-f3840d4ea263",
-    "link": "https://www.rhs.org.uk/plants/217903/ulmus-nitens/details",
+    "latin_name": "Ulmus nitens",
+    "main_common_name": {
+        "en": "European field elm",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "European field elm",
+            "Smooth-leaved elm"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Ulmus carpinifolia",
+        "Ulmus nitens",
+        "Ulmus foliacea",
+        "Ulmus campestris misapplied",
+        "Ulmus minor carpinifolia",
+        "Ulmus campestris l."
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "smooth-leaved elm",
-            "European field elm"
-        ],
-        "synonyms": [
-            "Ulmus foliacea",
-            "Ulmus minor carpinifolia",
-            "Ulmus nitens",
-            "Ulmus campestris misapplied",
-            "Ulmus carpinifolia",
-            "Ulmus campestris L."
-        ]
-    },
+    "genus_description": "Ulmus are deciduous trees, often large, with elliptic or ovate leaves often colouring well in autumn; inconspicuous flowers are followed by winged fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -39,7 +46,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,97 +100,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well drained soil in full sun or partial shade",
+        "propagation": [
+            "Softwood",
+            "Chip budding",
+            "Grafting",
+            "Propagate by seed",
+            "Trees and shrubs from seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "Cottage and informal garden",
+            "Wildlife gardens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Ulmaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Ulmaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "genus": "Ulmus are deciduous trees, often large, with elliptic or ovate leaves often colouring well in autumn; inconspicuous flowers are followed by winged fruits",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well drained soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in summer. Chip budding and grafting may also be used. Propagate by seed, see trees and shrubs from seed",
-            "link_names": [
-                "Softwood",
-                "Chip budding",
-                "Grafting",
-                "Propagate by seed",
-                "Trees and shrubs from seed"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental",
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "trees_and_shrubs_from_seed": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-from-seed"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "Cottage and informal garden",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, bark beetles, horse chestnut scale and elm gall mites",
-            "link_names": [
-                "Aphids",
-                "Gall mites"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Dutch elm disease, coral spot, honey fungus and phytophthora",
-            "link_names": [
-                "Dutch elm disease",
-                "Coral spot",
-                "Honey fungus",
-                "Phytophthora"
-            ],
-            "related_links": {
-                "dutch_elm_disease": "https://www.rhs.org.uk/disease/dutch-elm-disease",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot"
-            }
-        }
-    },
-    "main_name_original": "Ulmus nitens",
-    "display_name": "European field elm",
-    "clear_main_name": "Ulmus nitens",
-    "pt_search_main_name": "Ulmus nitens"
+        "habit": null
+    }
 }

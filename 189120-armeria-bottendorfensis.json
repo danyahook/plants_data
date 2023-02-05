@@ -1,33 +1,40 @@
 {
-    "id": "c3030306-19a1-4592-b438-a3d13e5b1c06",
-    "link": "https://www.rhs.org.uk/plants/189120/armeria-bottendorfensis/details",
+    "latin_name": "Armeria bottendorfensis",
+    "main_common_name": {
+        "en": "Thrift",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Sea pink",
+            "Sea gilliflower",
+            "Lady's pincushion",
+            "Marsh daisy",
+            "Cushion pink",
+            "Lady's cushion",
+            "Cliff rose",
+            "Sea grass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Armeria vulgaris",
+        "Armeria bottendorfensis"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "cliff rose",
-            "cushion pink",
-            "lady's cushion",
-            "lady's pincushion",
-            "marsh daisy",
-            "sea gilliflower",
-            "sea grass",
-            "sea pink"
-        ],
-        "synonyms": [
-            "Armeria bottendorfensis",
-            "Armeria vulgaris"
-        ]
-    },
+    "genus_description": "Armeria are evergreen perennials forming tufts or mats of strap-shaped or linear leaves, with long-stalked, dense clusters of small cup-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -42,7 +49,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -80,78 +105,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil, suitable for rock garden and trough or the front of a border",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Rock garden",
+            "Wildflower meadow",
+            "Coastal",
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Ground cover",
+            "Flower borders and beds",
+            "Garden edging"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plumbaginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Plumbaginaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe to Siberia, Americas",
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Armeria are evergreen perennials forming tufts or mats of strap-shaped or linear leaves, with long-stalked, dense clusters of small cup-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Europe to Siberia, Americas"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil, suitable for rock garden and trough or the front of a border",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, division or basal cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Rock garden",
-                "Wildflower meadow",
-                "Coastal",
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Ground cover",
-                "Flower borders and beds",
-                "Garden edging"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Armeria bottendorfensis",
-    "display_name": "Thrift",
-    "clear_main_name": "Armeria bottendorfensis",
-    "pt_search_main_name": "Armeria bottendorfensis"
+        "habit": "Matforming"
+    }
 }

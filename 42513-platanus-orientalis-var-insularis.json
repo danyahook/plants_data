@@ -1,22 +1,30 @@
 {
-    "id": "e2fdb76a-8696-46af-84a1-79b2d2d8a46d",
-    "link": "https://www.rhs.org.uk/plants/42513/platanus-orientalis-var-insularis/details",
+    "latin_name": "Platanus orientalis var. insularis",
+    "main_common_name": {
+        "en": "Cyprian plane",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Platanus cretica",
+        "Platanus cyprius hort."
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Platanus cretica",
-            "Platanus cyprius hort."
-        ]
-    },
+    "genus_description": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +39,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Green",
@@ -86,78 +112,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, well-drained soil in full sun",
+        "propagation": [
+            "Hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Platanaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Platanaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate from hardwood cuttings in winter",
-            "link_names": [
-                "Hardwood"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to lace bugs",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to plane anthracnose and honey fungus",
-            "link_names": [
-                "Plane anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "plane_anthracnose": "https://www.rhs.org.uk/disease/plane-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Platanus orientalis var. insularis",
-    "display_name": "Cyprian plane",
-    "clear_main_name": "Platanus orientalis var. insularis",
-    "pt_search_main_name": "Platanus orientalis var. insularis"
+        "habit": "Columnar upright"
+    }
 }

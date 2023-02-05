@@ -1,26 +1,33 @@
 {
-    "id": "798d458c-51e4-4f96-a6e4-c2fbdf28a4fa",
-    "link": "https://www.rhs.org.uk/plants/159259/hordeum-vulgare-var-hexastichum/details",
+    "latin_name": "Hordeum vulgare var. hexastichum",
+    "main_common_name": {
+        "en": "Barley",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Bear barley"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Hordeum vulgare var. hexastichum",
+        "Hordeum hexastichon"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bear barley"
-        ],
-        "synonyms": [
-            "Hordeum vulgare var. hexastichum",
-            "Hordeum hexastichon"
-        ]
-    },
+    "genus_description": "Hordeum, also known as barley, are summer-flowering annual or perennial grasses that originate from temperate regions of the northern hemisphere and South America",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,65 +89,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well drained soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy, Columnar upright",
-        "genus": "Hordeum, also known as barley, are summer-flowering annual or perennial grasses that originate from temperate regions of the northern hemisphere and South America",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in situ in spring or autumn",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Hordeum vulgare var. hexastichum",
-    "display_name": "Barley",
-    "clear_main_name": "Hordeum vulgare var. hexastichum",
-    "pt_search_main_name": "Hordeum vulgare var. hexastichum"
+        "habit": "Bushy, Columnar upright"
+    }
 }

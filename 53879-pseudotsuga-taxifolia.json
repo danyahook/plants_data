@@ -1,29 +1,36 @@
 {
-    "id": "7d6006f3-7963-4d79-b87b-97d41ee1e6d2",
-    "link": "https://www.rhs.org.uk/plants/53879/pseudotsuga-taxifolia/details",
+    "latin_name": "Pseudotsuga taxifolia",
+    "main_common_name": {
+        "en": "Douglas fir",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Green douglas fir",
+            "Oregon pine"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Pseudotsuga taxifolia",
+        "Tsuga menziesii",
+        "Pseudotsuga douglasii"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "green Douglas fir",
-            "Oregon pine"
-        ],
-        "synonyms": [
-            "Pseudotsuga douglasii",
-            "Tsuga menziesii",
-            "Pseudotsuga taxifolia"
-        ]
-    },
+    "genus_description": "Pseudotsuga are large evergreen trees with leathery, linear leaves and conspicuous cones with 3-pointed bracts emerging between the cone-scales",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -36,7 +43,22 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,70 +94,30 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained, non-chalky soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "N America, Mexico",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Pseudotsuga are large evergreen trees with leathery, linear leaves and conspicuous cones with 3-pointed bracts emerging between the cone-scales",
-        "name_status": "Correct",
-        "plant_range": "N America, Mexico"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained, non-chalky soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown fresh in containers in a cold frame in late winter",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Requires little pruning. Remove competing leaders on young trees",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Douglas fir adelgids may occur",
-            "link_names": [
-                "Adelgids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Pseudotsuga taxifolia",
-    "display_name": "Douglas fir",
-    "clear_main_name": "Pseudotsuga taxifolia",
-    "pt_search_main_name": "Pseudotsuga taxifolia"
+        "habit": "Columnar upright"
+    }
 }

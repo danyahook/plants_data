@@ -1,32 +1,39 @@
 {
-    "id": "2e6f2b1e-c3bb-449b-a77c-0592701e0ee9",
-    "link": "https://www.rhs.org.uk/plants/279629/avena-lanata/details",
+    "latin_name": "Avena lanata",
+    "main_common_name": {
+        "en": "Dart grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Meadow soft grass",
+            "Velvet grass",
+            "Rot grass",
+            "Midge grass",
+            "Duffel grass",
+            "Yorkshire fog",
+            "Hose grass",
+            "Soft grass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Avena lanata"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "duffel grass",
-            "hose grass",
-            "meadow soft grass",
-            "midge grass",
-            "rot grass",
-            "soft grass",
-            "velvet grass",
-            "Yorkshire fog"
-        ],
-        "synonyms": [
-            "Avena lanata"
-        ]
-    },
+    "genus_description": "Holcus can be annual or rhizomatous perennial grasses, with soft, linear leaves and dense, pale green or pinkish flowering panicles in summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand",
@@ -41,7 +48,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered or Exposed",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -86,75 +110,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any poor to moderately fertile, moist but well-drained soil. Intolerant of full sun on poor dry soil",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Prairie planting",
+            "Wildflower meadow",
+            "Wildlife gardens"
         ],
-        "exposure": "Sheltered or Exposed",
-        "hardiness": "H7"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Eurasia",
         "foliage": "Semi evergreen or Evergreen",
-        "habit": "Tufted",
-        "genus": "Holcus can be annual or rhizomatous perennial grasses, with soft, linear leaves and dense, pale green or pinkish flowering panicles in summer",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any poor to moderately fertile, moist but well-drained soil. Intolerant of full sun on poor dry soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or propagate by division",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Prairie planting",
-                "Wildflower meadow",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Trim after flowering and deadhead to prevent self-seeding as it can be a nuisance",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Avena lanata",
-    "display_name": "Dart grass",
-    "clear_main_name": "Avena lanata",
-    "pt_search_main_name": "Avena lanata"
+        "habit": "Tufted"
+    }
 }

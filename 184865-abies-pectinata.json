@@ -1,30 +1,37 @@
 {
-    "id": "b705da2d-72b5-4ecd-b844-6197c5a72e64",
-    "link": "https://www.rhs.org.uk/plants/184865/abies-pectinata/details",
+    "latin_name": "Abies pectinata",
+    "main_common_name": {
+        "en": "European silver fir",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Silver fir",
+            "Christmas tree",
+            "White spruce",
+            "Single spruce"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Abies pectinata",
+        "Abies pardei"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Christmas tree",
-            "silver fir",
-            "single spruce",
-            "white spruce"
-        ],
-        "synonyms": [
-            "Abies pectinata",
-            "Abies pardei"
-        ]
-    },
+    "genus_description": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -38,7 +45,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered or Exposed",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -85,78 +110,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained, slightly acidic soil",
+        "propagation": [
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered or Exposed",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained, slightly acidic soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by grafting",
-            "link_names": [
-                "Grafting"
-            ],
-            "related_links": {
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning not recommended",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids and aphids",
-            "link_names": [
-                "Adelgids",
-                "Aphids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free, but may be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Abies pectinata",
-    "display_name": "European silver fir",
-    "clear_main_name": "Abies pectinata",
-    "pt_search_main_name": "Abies pectinata"
+        "habit": "Columnar upright"
+    }
 }

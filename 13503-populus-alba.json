@@ -1,25 +1,45 @@
 {
-    "id": "09d3c941-8054-42c1-a34d-bcc1c4c90036",
-    "link": "https://www.rhs.org.uk/plants/13503/populus-alba/details",
+    "latin_name": "Populus alba",
+    "main_common_name": {
+        "en": "White poplar",
+        "ru": "Тополь белый"
+    },
+    "common_names": {
+        "en": [
+            "Abbey",
+            "Silverleaf poplar",
+            "Silver-leaved poplar",
+            "White asp",
+            "Abele",
+            "Silver poplar",
+            "Abele",
+            "Dutch beech",
+            "White poplar"
+        ],
+        "ru": [
+            "Тополь белый",
+            "Тополь серебри́стый",
+            "Тополь болле",
+            "Тополь бахофена",
+            "Тополь ложно-белый"
+        ]
+    },
+    "synonyms": [
+        "Populus alba"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "abbey",
-            "abele",
-            "Dutch beech",
-            "silver-leaved poplar",
-            "white asp"
-        ]
-    },
+    "genus_description": "Populus are deciduous trees, mostly very fast-growing and large, with male and female catkins on separate trees, opening before the leaves. Male catkins are the more ornamental, female ones can be a nuisance from the cottony, wind-blown seeds",
+    "rank": 1621,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +56,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,147 +114,47 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Salicaceae",
-        "native_to_the_uk": "Yes",
-        "foliage": "Deciduous",
-        "genus": "Populus are deciduous trees, mostly very fast-growing and large, with male and female catkins on separate trees, opening before the leaves. Male catkins are the more ornamental, female ones can be a nuisance from the cottony, wind-blown seeds",
-        "name_status": "Correct",
-        "plant_range": "Europe to C Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Cultivated for their very rapid growth as specimen trees and useful for windbreaks. Tolerant of any soil other than constantly waterlogged soils. Avoid growing within 40m of buildings as the vigorous root systems may damage drains and foundations, particularly on clay soils. It has the potential to become a nuisance",
-            "link_names": [
-                "Potential to become a nuisance"
-            ],
-            "related_links": {
-                "potential_to_become_a_nuisance": "https://www.rhs.org.uk/prevention-protection/garden-thugs-potential-nuisance-plants"
-            }
-        },
-        "propagation": {
-            "text": "Propagate from hardwood cuttings in winter or suckers in autumn or late winter",
-            "link_names": [
-                "Hardwood",
-                "Suckers"
-            ],
-            "related_links": {
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 in late summer to avoid bleeding from pruning cuts but established trees need little pruning; sucker removal in autumn or winter",
-            "link_names": [
-                "Pruning group 1",
-                "Sucker removal"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "sucker_removal": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leaf beetles, sawflies and caterpillars",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to leaf spots, poplar bacterial canker, tree rusts and honey fungus",
-            "link_names": [
-                "Bacterial canker",
-                "Tree rusts",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "bacterial_canker": "https://www.rhs.org.uk/disease/bacterial-canker",
-                "tree_rusts": "https://www.rhs.org.uk/disease/tree-rusts",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Populus_alba.html",
-        "filename": "13503-populus-alba.json",
-        "latin_name": "Populus alba",
-        "common_names": [
-            "White poplar",
-            "Silver poplar",
-            "Abele",
-            "Silverleaf poplar"
+        "cultivation": "Cultivated for their very rapid growth as specimen trees and useful for windbreaks. Tolerant of any soil other than constantly waterlogged soils. Avoid growing within 40m of buildings as the vigorous root systems may damage drains and foundations, particularly on clay soils. It has the potential to become a nuisance",
+        "propagation": [
+            "Hardwood",
+            "Suckers"
         ],
-        "synonyms": [
-            "Populus alba"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Тополь белый",
-                "Тополь серебри́стый",
-                "Тополь Болле",
-                "Тополь Бахофена",
-                "Тополь ложно-белый"
-            ],
-            "synonyms": [
-                "Populus alba"
-            ]
-        },
-        "rank": 1621,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Nances",
-                "Spurges",
-                "Willows",
-                "Allies"
-            ],
-            "family": "Willow",
-            "genus": "Populus",
-            "species": "White poplar"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Plant dried up",
-            "Sap-sucking insects",
-            "Leaf rot",
-            "Underwatering",
-            "Nutrient deficiencies",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1",
+            "Sucker removal"
         ]
     },
-    "main_name_original": "Populus alba",
-    "display_name": "White poplar",
-    "clear_main_name": "Populus alba",
-    "pt_search_main_name": "Populus alba"
+    "diseases_and_pests": [
+        "Plant dried up",
+        "Sap-sucking insects",
+        "Nutrient deficiencies",
+        "Leaf rot",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Willow",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Nances",
+            "Spurges",
+            "Willows",
+            "Allies"
+        ],
+        "genus": "Populus",
+        "species": "White poplar"
+    },
+    "botanical_details": {
+        "plant_range": "Europe to C Asia",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

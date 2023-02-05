@@ -1,30 +1,52 @@
 {
-    "id": "d4628d6f-4c6c-45b0-a330-137c7f336fb6",
-    "link": "https://www.rhs.org.uk/plants/14294/quercus-robur/details",
+    "latin_name": "Quercus robur",
+    "main_common_name": {
+        "en": "English oak",
+        "ru": "Дуб черешчатый"
+    },
+    "common_names": {
+        "en": [
+            "Black oak",
+            "Slavonian oak",
+            "Pedunculate oak",
+            "Aac",
+            "Common oak",
+            "English oak",
+            "European oak",
+            "Pedunculate oak",
+            "French oak",
+            "Polish oak"
+        ],
+        "ru": [
+            "Дуб черешчатый",
+            "Дуб обыкнове́нный",
+            "Дуб ле́тний",
+            "Дуб англи́йский",
+            "Дуб имеретинский"
+        ]
+    },
+    "synonyms": [
+        "Quercus robur subsp. longipeduncula",
+        "Quercus pedunculata",
+        "Quercus robur var. typica",
+        "Quercus longaeva",
+        "Quercus robur",
+        "Quercus robur subsp. eurobur",
+        "Quercus robur var. vulgaris"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "aac",
-            "black oak",
-            "English oak",
-            "French oak",
-            "pedunculate oak",
-            "Polish oak",
-            "Slavonian oak"
-        ],
-        "synonyms": [
-            "Quercus pedunculata"
-        ]
-    },
+    "genus_description": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
+    "rank": 326,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -40,7 +62,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing",
+            "North–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -77,149 +121,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing",
-            "North–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "genus": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Europe, SW Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grows well in most deep, fertile soils and is lime tolerant",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown as soon as ripe, in a cold frame",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf-mining moths and oak gall wasps",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews and honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Quercus_robur.html",
-        "filename": "14294-quercus-robur.json",
-        "latin_name": "Quercus robur",
-        "common_names": [
-            "English oak",
-            "Common oak",
-            "Pedunculate oak",
-            "European oak"
+        "cultivation": "Grows well in most deep, fertile soils and is lime tolerant",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Quercus robur var. vulgaris",
-            "Quercus longaeva",
-            "Quercus robur subsp. eurobur",
-            "Quercus robur var. typica",
-            "Quercus robur subsp. longipeduncula",
-            "Quercus robur"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Дуб черешчатый",
-                "Дуб обыкнове́нный",
-                "Дуб ле́тний",
-                "Дуб англи́йский",
-                "Дуб имеретинский"
-            ],
-            "synonyms": [
-                "Quercus robur var. vulgaris",
-                "Quercus longaeva",
-                "Quercus robur subsp. eurobur",
-                "Quercus robur var. typica",
-                "Quercus robur subsp. longipeduncula",
-                "Quercus robur"
-            ]
-        },
-        "rank": 326,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "3 - 9",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Beech",
-            "genus": "Oaks",
-            "species": "English oak"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Yellow spot",
-            "Sap-sucking insects",
-            "Aged yellow and dry",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Quercus robur",
-    "display_name": "Common oak",
-    "clear_main_name": "Quercus robur",
-    "pt_search_main_name": "Quercus robur"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Yellow spot",
+        "Scars",
+        "Leaf beetles",
+        "Sap-sucking insects",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Beech",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Oaks",
+        "species": "English oak"
+    },
+    "botanical_details": {
+        "plant_range": "Europe, SW Asia",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

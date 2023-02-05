@@ -1,25 +1,46 @@
 {
-    "id": "fc51823f-bb5c-47b6-9934-0eced8b66c8b",
-    "link": "https://www.rhs.org.uk/plants/25081/eucalyptus-globulus/details",
+    "latin_name": "Eucalyptus globulus",
+    "main_common_name": {
+        "en": "Tasmanian blue gum",
+        "ru": "Эвкалипт шаровидный"
+    },
+    "common_names": {
+        "en": [
+            "Tasmanian blue gum",
+            "Eurabbie",
+            "Blue gum-tree",
+            "Southern blue gum",
+            "Fever gum",
+            "Eucalyptus tree",
+            "Blue gum",
+            "Fever tree",
+            "Blue gum"
+        ],
+        "ru": [
+            "Эвкалипт шаровидный",
+            "Эвкалипт голубо́й",
+            "Эвкалипт кле́йкий",
+            "Эвкалипт ша́риковый",
+            "Бессты́дница"
+        ]
+    },
+    "synonyms": [
+        "Eucalyptus globulus"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "blue gum",
-            "fever gum",
-            "fever tree",
-            "Tasmanian blue gum"
-        ]
-    },
+    "genus_description": "Eucalyptus are evergreen trees or large shrubs, often fast-growing, some with attractive bark, most with aromatic foliage, and clusters of small, white, yellow or red flowers",
+    "rank": 1567,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -30,6 +51,25 @@
         "ph": [
             "Acid",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Mid spring",
+            "Late spring",
+            "Summer"
         ]
     },
     "colour_and_scent": {
@@ -75,148 +115,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
-    },
-    "botanical_details": {
-        "family": "Myrtaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Eucalyptus are evergreen trees or large shrubs, often fast-growing, some with attractive bark, most with aromatic foliage, and clusters of small, white, yellow or red flowers",
-        "name_status": "Correct",
-        "plant_range": "NSW, Victoria, Tasmania"
-    },
+    "toxicity": [
+        "Toxic to Dogs",
+        "Toxic to Cats"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, neutral to slightly acid soil that does not dry out, in full sun; shelter from cold drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed at 13-18°C in spring and summer",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, or for the best display of juvenile foliage use Pruning group 7.",
-            "link_names": [
-                "Pruning group 1",
-                "Pruning group 7"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to eucalyptus gall wasp and eucalyptus sucker",
-            "link_names": [
-                "Eucalyptus gall wasp",
-                "Eucalyptus sucker"
-            ],
-            "related_links": {
-                "eucalyptus_gall_wasp": "https://www.rhs.org.uk/biodiversity/eucalyptus-gall-wasp",
-                "eucalyptus_sucker": "https://www.rhs.org.uk/biodiversity/eucalyptus-sucker"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to silver leaf, oedema and honey fungus",
-            "link_names": [
-                "Silver leaf",
-                "Oedema",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "silver_leaf": "https://www.rhs.org.uk/disease/silver-leaf",
-                "oedema": "https://www.rhs.org.uk/problems/oedema",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Eucalyptus_globulus.html",
-        "filename": "25081-eucalyptus-globulus.json",
-        "latin_name": "Eucalyptus globulus",
-        "common_names": [
-            "Tasmanian blue gum",
-            "Southern blue gum",
-            "Blue gum",
-            "Eucalyptus tree",
-            "Eurabbie",
-            "Blue gum-tree"
+        "cultivation": "Grow in fertile, neutral to slightly acid soil that does not dry out, in full sun; shelter from cold drying winds",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Eucalyptus globulus"
+        "suggested_panting_places": [
+            "Coastal",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Эвкалипт шаровидный",
-                "Эвкалипт голубо́й",
-                "Эвкалипт кле́йкий",
-                "Эвкалипт ша́риковый",
-                "Бессты́дница"
-            ],
-            "synonyms": [
-                "Eucalyptus globulus"
-            ]
-        },
-        "rank": 1567,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "6 - 11",
-            "planting_time": [
-                "Mid spring",
-                "Late spring",
-                "Summer"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Myrtle order"
-            ],
-            "family": "Myrtle",
-            "genus": "Eucalypts",
-            "species": "Tasmanian blue gum"
-        },
-        "toxic_data": [
-            "Toxic to Dogs",
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Mealybugs",
-            "Powdery Mildew",
-            "Leaf beetles",
-            "Brown spot",
-            "Leaf mites",
-            "Black spot"
+        "pruning": [
+            "Pruning group 1",
+            "Pruning group 7"
         ]
     },
-    "main_name_original": "Eucalyptus globulus",
-    "display_name": "Southern blue gum",
-    "clear_main_name": "Eucalyptus globulus",
-    "pt_search_main_name": "Eucalyptus globulus"
+    "diseases_and_pests": [
+        "Black spot",
+        "Powdery Mildew",
+        "Leaf beetles",
+        "Mealybugs",
+        "Leaf mites",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Myrtle",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Myrtle order"
+        ],
+        "genus": "Eucalypts",
+        "species": "Tasmanian blue gum"
+    },
+    "botanical_details": {
+        "plant_range": "NSW, Victoria, Tasmania",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

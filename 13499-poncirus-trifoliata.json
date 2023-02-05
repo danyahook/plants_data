@@ -1,32 +1,39 @@
 {
-    "id": "3f0307c7-e7dd-4b3b-af56-01ae81269334",
-    "link": "https://www.rhs.org.uk/plants/13499/poncirus-trifoliata/details",
+    "latin_name": "Poncirus trifoliata",
+    "main_common_name": {
+        "en": "Japanese bitter orange",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Hardy orange",
+            "Trifoliate orange",
+            "Bitter orange",
+            "Flying dragon",
+            "Golden apple [4]",
+            "Chinese citron"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Aegle sepiaria",
+        "Poncirus trifoliata"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bitter orange",
-            "Chinese citron",
-            "flying dragon",
-            "golden apple [4]",
-            "hardy orange",
-            "trifoliate orange"
-        ],
-        "synonyms": [
-            "Poncirus trifoliata",
-            "Aegle sepiaria"
-        ]
-    },
+    "genus_description": "Citrus are typically evergreen shrubs or trees, frequently spiny, with simple, leathery, aromatic leaves, usually with winged stalks, and often fragrant white or pink-tinged flowers, followed by large, juicy fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -39,6 +46,20 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -81,74 +102,35 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, well-drained soil in full sun, with shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Hedging and screens",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rutaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rutaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "C & S China",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Citrus are typically evergreen shrubs or trees, frequently spiny, with simple, leathery, aromatic leaves, usually with winged stalks, and often fragrant white or pink-tinged flowers, followed by large, juicy fruits",
-        "name_status": "Correct",
-        "plant_range": "C & S China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in full sun, with shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn. Alternatively, take semi-ripe cuttings with bottom heat in summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Hedging and screens",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Poncirus trifoliata",
-    "display_name": "Japanese bitter orange",
-    "clear_main_name": "Poncirus trifoliata",
-    "pt_search_main_name": "Poncirus trifoliata"
+        "habit": "Bushy"
+    }
 }

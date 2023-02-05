@@ -1,28 +1,50 @@
 {
-    "id": "5bd345e0-3e25-4783-9bbb-32920e98ded9",
-    "link": "https://www.rhs.org.uk/plants/14069/pseudolarix-amabilis/details",
+    "latin_name": "Pseudolarix amabilis",
+    "main_common_name": {
+        "en": "Golden larch",
+        "ru": "Лжелиственница кемпфера"
+    },
+    "common_names": {
+        "en": [
+            "Golden larch",
+            "Golden pine",
+            "False larch",
+            "Chinese golden larch"
+        ],
+        "ru": [
+            "Лжелиственница кемпфера",
+            "Лжелиственница золотая",
+            "Лжелиственница китайская",
+            "Лжелиственница любимая",
+            "Псевдолиственница приятная"
+        ]
+    },
+    "synonyms": [
+        "Chrysolarix amabilis",
+        "Laricopsis fortunei",
+        "Abies kaempferi",
+        "Pseudolarix fortunei",
+        "Larix amabilis",
+        "Laricopsis kaempferi",
+        "Pseudolarix kaempferi misapplied",
+        "Pseudolarix amabilis",
+        "Pseudolarix pourtetii",
+        "Pseudolarix kaempferi"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "false larch",
-            "golden pine"
-        ],
-        "synonyms": [
-            "Chrysolarix amabilis",
-            "Pseudolarix kaempferi misapplied",
-            "Pseudolarix fortunei"
-        ]
-    },
+    "genus_description": "Pseudolarix is a deciduous tree, conical when young, later becoming more spreading, with soft needle-like leaves colouring well in autumn, and ovoid cones which break up on the tree to release the seeds",
+    "rank": 7371,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -35,7 +57,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,135 +110,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Good specimen tree, best grown in a lime-free soil in a sheltered, warm position",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Nutrient deficiencies",
+        "Fire ants",
+        "Branch blight",
+        "Soft rot"
+    ],
+    "scientific_classification": {
+        "family": "Pine",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Pseudolarix",
+        "species": "Golden larch"
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E China",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Pseudolarix is a deciduous tree, conical when young, later becoming more spreading, with soft needle-like leaves colouring well in autumn, and ovoid cones which break up on the tree to release the seeds",
-        "name_status": "Correct",
-        "plant_range": "E China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Good specimen tree, best grown in a lime-free soil in a sheltered, warm position",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or softwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Pseudolarix_amabilis.html",
-        "filename": "14069-pseudolarix-amabilis.json",
-        "latin_name": "Pseudolarix amabilis",
-        "common_names": [
-            "Golden larch",
-            "Chinese golden larch"
-        ],
-        "synonyms": [
-            "Abies kaempferi",
-            "Pseudolarix pourtetii",
-            "Laricopsis kaempferi",
-            "Larix amabilis",
-            "Pseudolarix kaempferi",
-            "Chrysolarix amabilis",
-            "Pseudolarix fortunei",
-            "Laricopsis fortunei",
-            "Pseudolarix amabilis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Лжелиственница Кемпфера",
-                "Лжелиственница золотая",
-                "Лжелиственница китайская",
-                "Лжелиственница любимая",
-                "Псевдолиственница приятная"
-            ],
-            "synonyms": [
-                "Abies kaempferi",
-                "Pseudolarix pourtetii",
-                "Laricopsis kaempferi",
-                "Larix amabilis",
-                "Pseudolarix kaempferi",
-                "Chrysolarix amabilis",
-                "Pseudolarix fortunei",
-                "Laricopsis fortunei",
-                "Pseudolarix amabilis"
-            ]
-        },
-        "rank": 7371,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 7"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Pine",
-            "genus": "Pseudolarix",
-            "species": "Golden larch"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Soft rot",
-            "Nutrient deficiencies",
-            "Fire ants",
-            "Branch blight"
-        ]
-    },
-    "main_name_original": "Pseudolarix amabilis",
-    "display_name": "Golden larch",
-    "clear_main_name": "Pseudolarix amabilis",
-    "pt_search_main_name": "Pseudolarix amabilis"
+        "habit": "Columnar upright"
+    }
 }

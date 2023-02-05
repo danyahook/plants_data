@@ -1,24 +1,59 @@
 {
-    "id": "d28a46cc-cad3-4801-9bda-406b3ddc8833",
-    "link": "https://www.rhs.org.uk/plants/25869/quercus-marilandica/details",
+    "latin_name": "Quercus marilandica",
+    "main_common_name": {
+        "en": "Blackjack oak",
+        "ru": "Quercus marilandica"
+    },
+    "common_names": {
+        "en": [
+            "Barren oak",
+            "Jack oak",
+            "Blackjack oak",
+            "Ashe's blackjack oak",
+            "Jack oak",
+            "Western blackjack oak"
+        ],
+        "ru": [
+            "Quercus marilandica"
+        ]
+    },
+    "synonyms": [
+        "Quercus marilandica f. truncata",
+        "Quercus nigra var. quinqueloba",
+        "Quercus marilandica f. sublyrata",
+        "Quercus marilandica f. subtypica",
+        "Quercus marilandica f. integrifolia",
+        "Quercus marilandica",
+        "Quercus marilandica f. quinqueloba",
+        "Quercus marilandica f. incisa",
+        "Quercus marilandica f. obovata",
+        "Quercus marilandica f. subquinqueloba",
+        "Quercus ferruginea f.",
+        "Quercus marilandica var. ashei",
+        "Quercus nigra var. marilandica",
+        "Quercus marilandica f. aequilobata",
+        "Quercus cuneata",
+        "Quercus dilatata",
+        "Quercus nobilis",
+        "Quercus neoashei",
+        "Quercus nigra var. integrifolia",
+        "Quercus marilandica f. cuneata",
+        "Quercus marilandica f. paucidentata",
+        "Quercus dilatata raf."
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "jack oak"
-        ],
-        "synonyms": [
-            "Quercus dilatata Raf."
-        ]
-    },
+    "genus_description": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
+    "rank": 3362,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -31,7 +66,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -64,172 +119,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "genus": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "C & CE USA"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a well-drained, preferably acidic soil in full sun; tolerates poor soils and drought conditions",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf-mining moths and oak gall wasps",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews amd honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Quercus_marilandica.html",
-        "filename": "25869-quercus-marilandica.json",
-        "latin_name": "Quercus marilandica",
-        "common_names": [
-            "Blackjack oak",
-            "Jack oak",
-            "Barren oak",
-            "Ashe's blackjack oak",
-            "Western blackjack oak"
+        "cultivation": "Grow in a well-drained, preferably acidic soil in full sun; tolerates poor soils and drought conditions",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "synonyms": [
-            "Quercus marilandica f. subquinqueloba",
-            "Quercus marilandica f. cuneata",
-            "Quercus ferruginea f.",
-            "Quercus marilandica var. ashei",
-            "Quercus marilandica f. incisa",
-            "Quercus nigra var. quinqueloba",
-            "Quercus marilandica f. subtypica",
-            "Quercus marilandica f. obovata",
-            "Quercus dilatata",
-            "Quercus nigra var. integrifolia",
-            "Quercus nigra var. marilandica",
-            "Quercus marilandica f. sublyrata",
-            "Quercus marilandica f. truncata",
-            "Quercus marilandica f. quinqueloba",
-            "Quercus marilandica f. aequilobata",
-            "Quercus cuneata",
-            "Quercus nobilis",
-            "Quercus marilandica f. paucidentata",
-            "Quercus marilandica",
-            "Quercus marilandica f. integrifolia",
-            "Quercus neoashei"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Quercus marilandica"
-            ],
-            "synonyms": [
-                "Quercus marilandica f. subquinqueloba",
-                "Quercus marilandica f. cuneata",
-                "Quercus ferruginea f.",
-                "Quercus marilandica var. ashei",
-                "Quercus marilandica f. incisa",
-                "Quercus nigra var. quinqueloba",
-                "Quercus marilandica f. subtypica",
-                "Quercus marilandica f. obovata",
-                "Quercus dilatata",
-                "Quercus nigra var. integrifolia",
-                "Quercus nigra var. marilandica",
-                "Quercus marilandica f. sublyrata",
-                "Quercus marilandica f. truncata",
-                "Quercus marilandica f. quinqueloba",
-                "Quercus marilandica f. aequilobata",
-                "Quercus cuneata",
-                "Quercus nobilis",
-                "Quercus marilandica f. paucidentata",
-                "Quercus marilandica",
-                "Quercus marilandica f. integrifolia",
-                "Quercus neoashei"
-            ]
-        },
-        "rank": 3362,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "hardiness_zones": "5 - 9",
-            "planting_time": "Spring"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Beech",
-            "genus": "Oaks",
-            "species": "Blackjack oak"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Yellow spot",
-            "Aged yellow and dry",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Quercus marilandica",
-    "display_name": "Black jack oak",
-    "clear_main_name": "Quercus marilandica",
-    "pt_search_main_name": "Quercus marilandica"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Yellow spot",
+        "Scars",
+        "Leaf beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Beech",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Oaks",
+        "species": "Blackjack oak"
+    },
+    "botanical_details": {
+        "plant_range": "C & CE USA",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

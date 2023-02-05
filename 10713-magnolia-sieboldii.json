@@ -1,21 +1,39 @@
 {
-    "id": "93c8c034-edb6-4c56-be5b-5d450ac1756f",
-    "link": "https://www.rhs.org.uk/plants/10713/magnolia-sieboldii/details",
+    "latin_name": "Magnolia sieboldii",
+    "main_common_name": {
+        "en": "Oyama magnolia",
+        "ru": "Магнолия зибольда"
+    },
+    "common_names": {
+        "en": [
+            "Siebold's magnolia",
+            "Small flowered magnolia",
+            "Korean mountain magnolia",
+            "Oyama magnolia"
+        ],
+        "ru": [
+            "Магнолия зибольда"
+        ]
+    },
+    "synonyms": [
+        "Magnolia sieboldii",
+        "Oyama sieboldii",
+        "Magnolia parviflora",
+        "Magnolia parviflora f. variegata"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Magnolia parviflora"
-        ]
-    },
+    "genus_description": "Magnolia can be deciduous or evergreen trees or shrubs, with large, showy, often fragrant flowers, often opening before the leaves, and sometimes followed by colourful cone-like fruit",
+    "rank": 4527,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -28,6 +46,23 @@
             "Acid",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -65,148 +100,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Magnoliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Magnolia can be deciduous or evergreen trees or shrubs, with large, showy, often fragrant flowers, often opening before the leaves, and sometimes followed by colourful cone-like fruit",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well drained neutral to acid soil in full sun or light shade with shelter from cold winds. Late frost may damage the flower buds. For more information see magnolia cultivation advice",
-            "link_names": [
-                "Magnolia cultivation"
-            ],
-            "related_links": {
-                "magnolia_cultivation": "https://www.rhs.org.uk/plants/magnolia/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by taking semi-ripe cuttings or softwood cuttings. Propagate by seed",
-            "link_names": [
-                "Semi-ripe",
-                "Softwood",
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning Group 1. See magnolia pruning",
-            "link_names": [
-                "Magnolia pruning"
-            ],
-            "related_links": {
-                "magnolia_pruning": "https://www.rhs.org.uk/plants/magnolia/growing-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, horse chestnut scale and capsid bug",
-            "link_names": [
-                "Scale insects",
-                "Capsid bug"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "capsid_bug": "https://www.rhs.org.uk/biodiversity/capsid-bugs"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to coral spot, phytophthora, grey moulds, honey fungus, a virus or fungal leaf spot",
-            "link_names": [
-                "Coral spot",
-                "Phytophthora",
-                "Grey moulds",
-                "Honey fungus",
-                "A virus"
-            ],
-            "related_links": {
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Magnolia_sieboldii.html",
-        "filename": "10713-magnolia-sieboldii.json",
-        "latin_name": "Magnolia sieboldii",
-        "common_names": [
-            "Oyama magnolia",
-            "Siebold's magnolia",
-            "Korean mountain magnolia",
-            "Small flowered magnolia"
+        "cultivation": "Grow in moist but well drained neutral to acid soil in full sun or light shade with shelter from cold winds. Late frost may damage the flower buds. For more information see magnolia cultivation advice",
+        "propagation": [
+            "Semi-ripe",
+            "Softwood",
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Oyama sieboldii",
-            "Magnolia parviflora f. variegata",
-            "Magnolia sieboldii"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Магнолия Зибольда"
-            ],
-            "synonyms": [
-                "Oyama sieboldii",
-                "Magnolia parviflora f. variegata",
-                "Magnolia sieboldii"
-            ]
-        },
-        "rank": 4527,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "hardiness_zones": "6 - 9",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Magnolias",
-                "Nutmegs",
-                "And allies"
-            ],
-            "family": "Magnolia",
-            "genus": "Magnolias",
-            "species": "Oyama magnolia"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Yellow spot",
-            "Leaf Weevils",
-            "Scale insects",
-            "Black spot"
+        "pruning": [
+            "Magnolia pruning"
         ]
     },
-    "main_name_original": "Magnolia sieboldii",
-    "display_name": "Small-flowered magnolia",
-    "clear_main_name": "Magnolia sieboldii",
-    "pt_search_main_name": "Magnolia sieboldii"
+    "diseases_and_pests": [
+        "Leaf Weevils",
+        "Yellow spot",
+        "Black spot",
+        "Scale insects"
+    ],
+    "scientific_classification": {
+        "family": "Magnolia",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Magnolias",
+            "Nutmegs",
+            "And allies"
+        ],
+        "genus": "Magnolias",
+        "species": "Oyama magnolia"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

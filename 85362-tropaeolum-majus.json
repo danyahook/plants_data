@@ -1,24 +1,53 @@
 {
-    "id": "78ea1ae6-c657-4abc-bb6e-a043644b6081",
-    "link": "https://www.rhs.org.uk/plants/85362/tropaeolum-majus/details",
+    "latin_name": "Tropaeolum majus",
+    "main_common_name": {
+        "en": "Garden nasturtium",
+        "ru": "Настурция большая"
+    },
+    "common_names": {
+        "en": [
+            "Greater indian-cress",
+            "Monks cress",
+            "Yellow larkspur",
+            "Garden nasturtium",
+            "Indian cress",
+            "Climbing nasturtium",
+            "Nasturtium"
+        ],
+        "ru": [
+            "Настурция большая",
+            "Капуци́н большо́й",
+            "Настурция майская"
+        ]
+    },
+    "synonyms": [
+        "Tropaeolum pinnatum",
+        "Cardamindum majus",
+        "Tropaeolum quinquelobum",
+        "Tropaeolum majus",
+        "Tropaeolum hybridum",
+        "Trophaeum pinnatum",
+        "Tropaeolum repandifolium",
+        "Tropaeolum schillingii",
+        "Tropaeolum scheuerianum",
+        "Trophaeum majus",
+        "Tropaeolum elatum",
+        "Tropaeolum hortense"
+    ],
     "tags": [
         "Annual Biennial",
         "Climber Wall Shrub"
     ],
-    "names": {
-        "other_common_names": [
-            "greater Indian-cress",
-            "Indian cress",
-            "nasturtium"
-        ]
-    },
+    "genus_description": "Tropaeolum can be annuals or perennials, bushy, trailing or climbing by twining stems, with simple or palmately lobed leaves and showy funnel-shaped flowers with five long-clawed petals and often a spur",
+    "rank": 1303,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,6 +59,24 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Summer"
         ]
     },
     "colour_and_scent": {
@@ -73,164 +120,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H3"
-    },
-    "botanical_details": {
-        "family": "Tropaeolaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Trailing",
-        "genus": "Tropaeolum can be annuals or perennials, bushy, trailing or climbing by twining stems, with simple or palmately lobed leaves and showy funnel-shaped flowers with five long-clawed petals and often a spur",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Best grown in poor, well-drained soil in full sun, if the soil is too rich foliage will be produced at the expense of flowers",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Gravel garden",
-                "Patio and container plants",
-                "Banks and slopes",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead to prolong flowering",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "May be attacked by blackfly (black aphid), caterpillars, flea beetles, slugs and glasshouse whitefly",
-            "link_names": [
-                "Blackfly (black aphid)",
-                "Flea beetles",
-                "Slugs",
-                "Glasshouse whitefly"
-            ],
-            "related_links": {
-                "blackfly_(black_aphid)": "https://www.rhs.org.uk/biodiversity/blackfly",
-                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants",
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by a virus",
-            "link_names": [
-                "A virus"
-            ],
-            "related_links": {
-                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Tropaeolum_majus.html",
-        "filename": "85362-tropaeolum-majus.json",
-        "latin_name": "Tropaeolum majus",
-        "common_names": [
-            "Garden nasturtium",
-            "Yellow larkspur",
-            "Climbing nasturtium",
-            "Indian cress",
-            "Monks cress"
+        "cultivation": "Best grown in poor, well-drained soil in full sun, if the soil is too rich foliage will be produced at the expense of flowers",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Tropaeolum repandifolium",
-            "Tropaeolum quinquelobum",
-            "Cardamindum majus",
-            "Tropaeolum hybridum",
-            "Tropaeolum scheuerianum",
-            "Tropaeolum pinnatum",
-            "Tropaeolum hortense",
-            "Trophaeum majus",
-            "Tropaeolum schillingii",
-            "Tropaeolum elatum",
-            "Trophaeum pinnatum",
-            "Tropaeolum majus"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Gravel garden",
+            "Patio and container plants",
+            "Banks and slopes",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Настурция большая",
-                "Капуци́н большо́й",
-                "Настурция майская"
-            ],
-            "synonyms": [
-                "Tropaeolum repandifolium",
-                "Tropaeolum quinquelobum",
-                "Cardamindum majus",
-                "Tropaeolum hybridum",
-                "Tropaeolum scheuerianum",
-                "Tropaeolum pinnatum",
-                "Tropaeolum hortense",
-                "Trophaeum majus",
-                "Tropaeolum schillingii",
-                "Tropaeolum elatum",
-                "Trophaeum pinnatum",
-                "Tropaeolum majus"
-            ]
-        },
-        "rank": 1303,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every week",
-            "planting_time": [
-                "Spring",
-                "Summer"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mustards",
-                "Capers",
-                "And allies"
-            ],
-            "family": "Nasturtiums",
-            "genus": "Nasturtium",
-            "species": "Garden nasturtium"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Leaf miners",
-            "Leaf rot",
-            "Wilting after blooming"
+        "pruning": [
+            "Deadhead"
         ]
     },
-    "main_name_original": "Tropaeolum majus",
-    "display_name": "Garden nasturtium",
-    "clear_main_name": "Tropaeolum majus",
-    "pt_search_main_name": "Tropaeolum majus"
+    "diseases_and_pests": [
+        "Leaf rot",
+        "Leaf miners",
+        "Wilting after blooming",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Nasturtiums",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mustards",
+            "Capers",
+            "And allies"
+        ],
+        "genus": "Nasturtium",
+        "species": "Garden nasturtium"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": "Trailing"
+    }
 }

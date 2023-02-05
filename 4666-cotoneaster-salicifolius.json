@@ -1,17 +1,37 @@
 {
-    "id": "354a29fd-f0d6-48a3-828c-c08a3caec5a8",
-    "link": "https://www.rhs.org.uk/plants/4666/cotoneaster-salicifolius/details",
+    "latin_name": "Cotoneaster salicifolius",
+    "main_common_name": {
+        "en": "Willow-leaved cotoneaster",
+        "ru": "Кизильник иволистный"
+    },
+    "common_names": {
+        "en": [
+            "Cotoneaster",
+            "Willow-leaf cotoneaster",
+            "Willow-leaved cotoneaster"
+        ],
+        "ru": [
+            "Кизильник иволистный"
+        ]
+    },
+    "synonyms": [
+        "Cotoneaster sargentii",
+        "Pyrus sargentaster",
+        "Cotoneaster salicifolius"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {},
+    "genus_description": "Cotoneaster can be deciduous or evergreen shrubs or small trees, with simple, entire leaves and clusters of small white or pink flowers in spring and summer, followed by showy red, purple or black berries",
+    "rank": 4077,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -26,7 +46,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "North–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": [
+            "Summer"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,146 +107,47 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "North–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "Fruit may cause mild stomach upset if ingested. Wear gloves and wash hands after handling",
-        "genus": "Cotoneaster can be deciduous or evergreen shrubs or small trees, with simple, entire leaves and clusters of small white or pink flowers in spring and summer, followed by showy red, purple or black berries",
-        "name_status": "Correct",
-        "plant_range": "SW China, Tibet"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile well-drained soil in full sun or part shade; protect from cold dry winds in colder or northern areas",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in late summer",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Wildflower meadow",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 if necessary, in mid or late summer, back to the nearest fading flowers or berry cluster Pruning group 13 for wall training",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids including woolly aphid, scale insects and cotoneaster webber caterpillar",
-            "link_names": [
-                "Aphids",
-                "Woolly aphid",
-                "Scale insects",
-                "Cotoneaster webber caterpillar"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "cotoneaster_webber_caterpillar": "https://www.rhs.org.uk/biodiversity/cotoneaster-webber-caterpillars"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to fireblight and honey fungus",
-            "link_names": [
-                "Fireblight",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cotoneaster_salicifolius.html",
-        "filename": "4666-cotoneaster-salicifolius.json",
-        "latin_name": "Cotoneaster salicifolius",
-        "common_names": [
-            "Willow-leaved cotoneaster",
-            "Cotoneaster",
-            "Willow-leaf cotoneaster"
+        "cultivation": "Grow in moderately fertile well-drained soil in full sun or part shade; protect from cold dry winds in colder or northern areas",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Pyrus sargentaster",
-            "Cotoneaster sargentii",
-            "Cotoneaster salicifolius"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Wildflower meadow",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Кизильник иволистный"
-            ],
-            "synonyms": [
-                "Pyrus sargentaster",
-                "Cotoneaster sargentii",
-                "Cotoneaster salicifolius"
-            ]
-        },
-        "rank": 4077,
-        "items_data": {
-            "sunlight": "Full sun",
-            "planting_time": "Summer",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Cotoneaster",
-            "species": "Willow-leaved cotoneaster"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Nutrient deficiencies",
-            "Brown spot",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 8"
         ]
     },
-    "main_name_original": "Cotoneaster salicifolius",
-    "display_name": "Willow-leaved cotoneaster",
-    "clear_main_name": "Cotoneaster salicifolius",
-    "pt_search_main_name": "Cotoneaster salicifolius"
+    "diseases_and_pests": [
+        "Nutrient deficiencies",
+        "Aged yellow and dry",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Cotoneaster",
+        "species": "Willow-leaved cotoneaster"
+    },
+    "botanical_details": {
+        "plant_range": "SW China, Tibet",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

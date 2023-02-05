@@ -1,22 +1,30 @@
 {
-    "id": "e955101c-4972-4225-bb4f-e204a203af69",
-    "link": "https://www.rhs.org.uk/plants/274/acer-pycnanthum/details",
+    "latin_name": "Acer pycnanthum",
+    "main_common_name": {
+        "en": "Japanese red maple",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Buxus sempervirens 'silver variegated'"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Buxus sempervirens 'Silver Variegated'"
-        ]
-    },
+    "genus_description": "Buxus can be evergreen shrubs or small trees, with simple, leathery, opposite leaves and clusters of small, pale yellow flowers followed by pale green to brown fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "West–facing",
+            "North–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -78,87 +105,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a moist but well-drained soil. Acid soils will give the best autumn colour",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "West–facing",
-            "North–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Buxaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Buxaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Buxus can be evergreen shrubs or small trees, with simple, leathery, opposite leaves and clusters of small, pale yellow flowers followed by pale green to brown fruits",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a moist but well-drained soil. Acid soils will give the best autumn colour",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to Acer gall mite, aphids, caterpillars and horse chestnut scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Verticillium wilt, Acer leaf scorch and honey fungus",
-            "link_names": [
-                "Verticillium wilt",
-                "Acer leaf scorch",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "acer_leaf_scorch": "https://www.rhs.org.uk/problems/acer-leaf-scorch",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Acer pycnanthum",
-    "display_name": "Japanese red maple",
-    "clear_main_name": "Acer pycnanthum",
-    "pt_search_main_name": "Acer pycnanthum"
+        "habit": "Bushy"
+    }
 }

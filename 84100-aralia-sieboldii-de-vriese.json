@@ -1,30 +1,37 @@
 {
-    "id": "f50eeb8c-6759-48de-aae4-c5e2404d1339",
-    "link": "https://www.rhs.org.uk/plants/84100/aralia-sieboldii-de-vriese/details",
+    "latin_name": "Aralia sieboldii de Vriese",
+    "main_common_name": {
+        "en": "Japanese aralia",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Castor oil plant",
+            "Fig-leaf palm",
+            "Fatsi",
+            "Glossy-leaved paper plant"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Aralia japonica",
+        "Aralia sieboldii de vriese",
+        "Aralia sieboldii k. koch"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "castor oil plant",
-            "fatsi",
-            "fig-leaf palm",
-            "glossy-leaved paper plant"
-        ],
-        "synonyms": [
-            "Aralia sieboldii K. Koch",
-            "Aralia sieboldii de Vriese",
-            "Aralia japonica"
-        ]
-    },
+    "genus_description": "Fatsia are evergreen shrubs with stout, sparsely branched stems bearing large, leathery, palmately lobed leaves and small white flowers in terminal compound umbels, followed by small black fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -39,7 +46,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -77,89 +103,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in moist but well-drained soil in full sun or partial shade; can tolerate full shade",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Architectural",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Banks and slopes"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 9"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Araliaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Araliaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan, South Korea",
         "foliage": "Evergreen",
-        "habit": "Suckering",
-        "genus": "Fatsia are evergreen shrubs with stout, sparsely branched stems bearing large, leathery, palmately lobed leaves and small white flowers in terminal compound umbels, followed by small black fruits",
-        "name_status": "Correct",
-        "plant_range": "Japan, South Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in moist but well-drained soil in full sun or partial shade; can tolerate full shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Architectural",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, thrips and mealybugs",
-            "link_names": [
-                "Scale insects",
-                "Thrips",
-                "Mealybugs"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to a leaf spot and honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Aralia sieboldii de Vriese",
-    "display_name": "Japanese aralia",
-    "clear_main_name": "Aralia sieboldii de Vriese",
-    "pt_search_main_name": "Aralia sieboldii de Vriese"
+        "habit": "Suckering"
+    }
 }

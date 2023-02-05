@@ -1,31 +1,38 @@
 {
-    "id": "659fcebe-39f8-43f2-82af-c3a091f279c7",
-    "link": "https://www.rhs.org.uk/plants/179236/juglans-sinensis/details",
+    "latin_name": "Juglans sinensis",
+    "main_common_name": {
+        "en": "Common walnut",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Persian walnut",
+            "English walnut",
+            "Welsh nut",
+            "Ban-nut tree",
+            "French nut",
+            "Black sea walnut",
+            "Madeira nut"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Juglans sinensis"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "ban-nut tree",
-            "Black Sea walnut",
-            "English walnut",
-            "French nut",
-            "Madeira nut",
-            "Persian walnut",
-            "Welsh nut"
-        ],
-        "synonyms": [
-            "Juglans sinensis"
-        ]
-    },
+    "genus_description": "Juglans are deciduous trees with pinnate leaves, and inconspicuous flowers in catkins followed by usually edible nuts",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -41,7 +48,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "North–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -77,87 +102,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow as a specimen tree in any well-drained or moist but well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "North–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Juglandaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Juglandaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe to C Asia",
         "foliage": "Deciduous",
-        "genus": "Juglans are deciduous trees with pinnate leaves, and inconspicuous flowers in catkins followed by usually edible nuts",
-        "name_status": "Correct",
-        "plant_range": "Europe to C Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow as a specimen tree in any well-drained or moist but well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and walnut blister mite",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to walnut leaf spot, walnut leaf blotch, honey fungus and coral spot",
-            "link_names": [
-                "Walnut leaf spot",
-                "Walnut leaf blotch",
-                "Honey fungus",
-                "Coral spot"
-            ],
-            "related_links": {
-                "walnut_leaf_spot": "https://www.rhs.org.uk/disease/walnut-leaf-blotch",
-                "walnut_leaf_blotch": "https://www.rhs.org.uk/disease/walnut-leaf-blotch",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "coral_spot": "https://www.rhs.org.uk/biodiversity/coral-spot"
-            }
-        }
-    },
-    "main_name_original": "Juglans sinensis",
-    "display_name": "Common walnut",
-    "clear_main_name": "Juglans sinensis",
-    "pt_search_main_name": "Juglans sinensis"
+        "habit": null
+    }
 }

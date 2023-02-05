@@ -1,21 +1,38 @@
 {
-    "id": "9c12fbbf-a76d-44ba-ab46-8f2eb837c786",
-    "link": "https://www.rhs.org.uk/plants/1430/arabis-alpina/details",
+    "latin_name": "Arabis alpina",
+    "main_common_name": {
+        "en": "Alpine rockcress",
+        "ru": "Резуха альпийская"
+    },
+    "common_names": {
+        "en": [
+            "Alpine rockcress"
+        ],
+        "ru": [
+            "Резуха альпийская",
+            "Арабис альпийский"
+        ]
+    },
+    "synonyms": [
+        "Arabis janitrix",
+        "Arabis sicula",
+        "Arabis cuneifolia",
+        "Arabis alpina",
+        "Phlox 'chattahoochee'"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "synonyms": [
-            "Phlox 'Chattahoochee'"
-        ]
-    },
+    "genus_description": "Phlox may be evergreen or herbaceous, mat-forming or erect perennials or shrubs, with simple leaves and salver-shaped flowers in terminal clusters",
+    "rank": 4160,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -29,6 +46,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -72,128 +104,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well drained soils. Good for ground cover",
+        "propagation": [
+            "Softwood",
+            "Division"
         ],
-        "aspect_position": [
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden",
+            "Low Maintenance",
+            "Banks and slopes",
+            "Ground cover"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cruciferae",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mustards",
+            "Capers",
+            "And allies"
+        ],
+        "genus": "Rockcresses",
+        "species": "Alpine rockcress"
     },
     "botanical_details": {
-        "family": "Polemoniaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Semi evergreen",
-        "habit": "Matforming",
-        "genus": "Phlox may be evergreen or herbaceous, mat-forming or erect perennials or shrubs, with simple leaves and salver-shaped flowers in terminal clusters",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well drained soils. Good for ground cover",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in summer, or by division",
-            "link_names": [
-                "Softwood",
-                "Division"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden",
-                "Low Maintenance",
-                "Banks and slopes",
-                "Ground cover"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Trim back after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to arabis midge and flea beetles",
-            "link_names": [
-                "Flea beetles"
-            ],
-            "related_links": {
-                "flea_beetles": "https://www.rhs.org.uk/biodiversity/flea-beetles-on-brassicas-and-allied-plants"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to downy mildews, white blister, and virus diseases",
-            "link_names": [
-                "Downy mildews",
-                "White blister",
-                "Virus diseases"
-            ],
-            "related_links": {
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
-                "white_blister": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
-                "virus_diseases": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Arabis_alpina.html",
-        "filename": "1430-arabis-alpina.json",
-        "latin_name": "Arabis alpina",
-        "common_names": [
-            "Alpine rockcress"
-        ],
-        "synonyms": [
-            "Arabis sicula",
-            "Arabis cuneifolia",
-            "Arabis janitrix",
-            "Arabis alpina"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Резуха альпийская",
-                "Арабис альпийский"
-            ],
-            "synonyms": [
-                "Arabis sicula",
-                "Arabis cuneifolia",
-                "Arabis janitrix",
-                "Arabis alpina"
-            ]
-        },
-        "rank": 4160,
-        "items_data": {
-            "water": "Every week"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mustards",
-                "Capers",
-                "And allies"
-            ],
-            "family": "Cruciferae",
-            "genus": "Rockcresses",
-            "species": "Alpine rockcress"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Arabis alpina",
-    "display_name": "Mountain rock cress",
-    "clear_main_name": "Arabis alpina",
-    "pt_search_main_name": "Arabis alpina"
+        "habit": "Matforming"
+    }
 }

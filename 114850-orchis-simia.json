@@ -1,21 +1,38 @@
 {
-    "id": "6d3b8468-cf8a-44eb-b120-1f51034fc5ed",
-    "link": "https://www.rhs.org.uk/plants/114850/orchis-simia/details",
+    "latin_name": "Orchis simia",
+    "main_common_name": {
+        "en": "Monkey orchid",
+        "ru": "Ятрышник обезьяний"
+    },
+    "common_names": {
+        "en": [
+            "Ape orchid",
+            "Monkey orchid",
+            "Naked hanging man",
+            "Monkey orchid"
+        ],
+        "ru": [
+            "Ятрышник обезьяний"
+        ]
+    },
+    "synonyms": [
+        "Orchis militaris var. simia",
+        "Orchis militaris subsp. simia",
+        "Orchis simia"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "monkey orchid"
-        ]
-    },
+    "genus_description": "Orchis are tuberous, terrestrial orchids with rosettes of light to dark green leaves, sometimes purple-spotted, and dense, upright spikes of delicate, purple, red, pink, green, yellow or white flowers",
+    "rank": 5420,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -28,7 +45,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -68,118 +103,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a moist but well-drained, alkaline soil in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Wildflower meadow",
+            "Wildlife gardens",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Orchid",
+        "phylum": "Vascular plants",
+        "classify": "Monocotyledons",
+        "order": [
+            "Asparagus",
+            "Allies"
+        ],
+        "genus": "Orchis",
+        "species": "Monkey orchid"
     },
     "botanical_details": {
-        "family": "Orchidaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Orchis are tuberous, terrestrial orchids with rosettes of light to dark green leaves, sometimes purple-spotted, and dense, upright spikes of delicate, purple, red, pink, green, yellow or white flowers",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a moist but well-drained, alkaline soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildflower meadow",
-                "Wildlife gardens",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to slugs and snails",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Orchis_simia.html",
-        "filename": "114850-orchis-simia.json",
-        "latin_name": "Orchis simia",
-        "common_names": [
-            "Monkey orchid",
-            "Naked hanging man",
-            "Ape orchid"
-        ],
-        "synonyms": [
-            "Orchis militaris subsp. simia",
-            "Orchis militaris var. simia",
-            "Orchis simia"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Ятрышник обезьяний"
-            ],
-            "synonyms": [
-                "Orchis militaris subsp. simia",
-                "Orchis militaris var. simia",
-                "Orchis simia"
-            ]
-        },
-        "rank": 5420,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Monocotyledons",
-            "order": [
-                "Asparagus",
-                "Allies"
-            ],
-            "family": "Orchid",
-            "genus": "Orchis",
-            "species": "Monkey orchid"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Orchis simia",
-    "display_name": "Ape orchid",
-    "clear_main_name": "Orchis simia",
-    "pt_search_main_name": "Orchis simia"
+        "habit": "Columnar upright"
+    }
 }

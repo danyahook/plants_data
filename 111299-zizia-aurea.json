@@ -1,21 +1,40 @@
 {
-    "id": "ed990bf8-cb0d-4bfe-89b8-20062a59cf43",
-    "link": "https://www.rhs.org.uk/plants/111299/zizia-aurea/details",
+    "latin_name": "Zizia aurea",
+    "main_common_name": {
+        "en": "Golden alexander",
+        "ru": "Циция ауреа"
+    },
+    "common_names": {
+        "en": [
+            "Golden alexanders",
+            "Golden alexander",
+            "Wild parsley [2]",
+            "Golden zizia"
+        ],
+        "ru": [
+            "Циция ауреа"
+        ]
+    },
+    "synonyms": [
+        "Carum aureum",
+        "Zizia aurea",
+        "Smyrnium luteum",
+        "Smyrnium aureum",
+        "Sison aureum"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "wild parsley [2]"
-        ]
-    },
+    "genus_description": null,
+    "rank": 4576,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +49,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,118 +105,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Prairie planting",
+            "Wildlife gardens"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Leaf beetles",
+        "Branch blight",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Umbellifers",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Carrots",
+            "Ivies",
+            "Allies"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "genus": "Zizia",
+        "species": "Golden Alexander"
     },
     "botanical_details": {
-        "family": "Apiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "North America",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "name_status": "Correct",
-        "plant_range": "North America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in containers in a cold frame in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Prairie planting",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Zizia_aurea.html",
-        "filename": "111299-zizia-aurea.json",
-        "latin_name": "Zizia aurea",
-        "common_names": [
-            "Golden Alexander",
-            "Golden zizia",
-            "Golden Alexanders"
-        ],
-        "synonyms": [
-            "Carum aureum",
-            "Smyrnium aureum",
-            "Sison aureum",
-            "Smyrnium luteum",
-            "Zizia aurea"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Циция ауреа"
-            ],
-            "synonyms": [
-                "Carum aureum",
-                "Smyrnium aureum",
-                "Sison aureum",
-                "Smyrnium luteum",
-                "Zizia aurea"
-            ]
-        },
-        "rank": 4576,
-        "items_data": {
-            "water": "Every week",
-            "sunlight": "Full sun",
-            "planting_time": "Spring"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Carrots",
-                "Ivies",
-                "Allies"
-            ],
-            "family": "Umbellifers",
-            "genus": "Zizia",
-            "species": "Golden Alexander"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Brown spot",
-            "Branch blight",
-            "Leaf beetles"
-        ]
-    },
-    "main_name_original": "Zizia aurea",
-    "display_name": "Golden alexanders",
-    "clear_main_name": "Zizia aurea",
-    "pt_search_main_name": "Zizia aurea"
+        "habit": "Columnar upright"
+    }
 }

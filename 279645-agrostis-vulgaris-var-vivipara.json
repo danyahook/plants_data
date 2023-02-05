@@ -1,37 +1,44 @@
 {
-    "id": "bc2a2711-f0ba-49a9-9e7c-ea424aa8168f",
-    "link": "https://www.rhs.org.uk/plants/279645/agrostis-vulgaris-var-vivipara/details",
+    "latin_name": "Agrostis vulgaris var. vivipara",
+    "main_common_name": {
+        "en": "Brown top",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Red top grass",
+            "Common bent grass",
+            "Herd's grass",
+            "Black quitch",
+            "Colonial bent",
+            "Rhode island bent",
+            "Common bent",
+            "Monkey's grass"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Agrostis pumila",
+        "Agrostis vulgaris var. genuina",
+        "Agrostis vulgaris var. aristata",
+        "Agrostis vulgaris var. vivipara",
+        "Agrostis tenuis",
+        "Agrostis vulgaris"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "common bent",
-            "common bent grass",
-            "Rhode Island bent",
-            "black quitch",
-            "colonial bent",
-            "herd's grass",
-            "monkey's grass",
-            "red top grass"
-        ],
-        "synonyms": [
-            "Agrostis tenuis",
-            "Agrostis vulgaris var. aristata",
-            "Agrostis vulgaris var. vivipara",
-            "Agrostis pumila",
-            "Agrostis vulgaris",
-            "Agrostis vulgaris var. genuina"
-        ]
-    },
+    "genus_description": "Agrostis can be annual or perennial grasses, with narrow or bristle-like leaves and branches panicles of small flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -46,7 +53,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": null
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -80,75 +105,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "By seed. Slow to establish but will become neat and dense if mown regularly",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Coastal",
+            "Banks and slopes"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe, N Africa, SW Asia",
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Agrostis can be annual or perennial grasses, with narrow or bristle-like leaves and branches panicles of small flowers",
-        "name_status": "Correct",
-        "plant_range": "Europe, N Africa, SW Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "By seed. Slow to establish but will become neat and dense if mown regularly",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Sow seed directly into weed-free, prepared soil in spring or early autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Coastal",
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Mow regularly",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Seed may be eaten by ants, birds, chafer grubs and Leatherjackets",
-            "link_names": [
-                "Ants",
-                "Birds",
-                "Chafer grubs",
-                "Leatherjackets"
-            ],
-            "related_links": {
-                "ants": "https://www.rhs.org.uk/biodiversity/ants",
-                "birds": "https://www.rhs.org.uk/biodiversity/pigeons",
-                "chafer_grubs": "https://www.rhs.org.uk/biodiversity/chafer-grubs-in-garden-borders",
-                "leatherjackets": "https://www.rhs.org.uk/biodiversity/leatherjackets"
-            }
-        },
-        "diseases": {
-            "text": "Algae, Dollar spot, Corticium disease, Fusarium patch, fungae",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Agrostis vulgaris var. vivipara",
-    "display_name": "Brown top",
-    "clear_main_name": "Agrostis vulgaris var. vivipara",
-    "pt_search_main_name": "Agrostis vulgaris var. vivipara"
+        "habit": "Matforming"
+    }
 }

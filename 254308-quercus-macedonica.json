@@ -1,25 +1,32 @@
 {
-    "id": "b92947ac-f182-4e6c-8fdc-c9c34492bbfe",
-    "link": "https://www.rhs.org.uk/plants/254308/quercus-macedonica/details",
+    "latin_name": "Quercus macedonica",
+    "main_common_name": {
+        "en": "Macedonian oak",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Trojan oak"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Quercus macedonica"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Trojan oak"
-        ],
-        "synonyms": [
-            "Quercus macedonica"
-        ]
-    },
+    "genus_description": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,87 +97,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Suited to large gardens and parkland. Grow in any well-drained but moisture-retentive soil in good light. For more information see tree cultivation.",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Balkans, SE Italy",
         "foliage": "Semi evergreen",
-        "genus": "Quercus can be deciduous or evergreen trees or shrubs, with entire, lobed or toothed leaves; flowers inconspicuous, followed by characteristic acorns; sometimes good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Balkans, SE Italy"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Suited to large gardens and parkland. Grow in any well-drained but moisture-retentive soil in good light. For more information see tree cultivation.",
-            "link_names": [
-                "Tree cultivation"
-            ],
-            "related_links": {
-                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed soon after it drops or by semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf-mining moths and oak gall wasps",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews and honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Quercus macedonica",
-    "display_name": "Macedonian oak",
-    "clear_main_name": "Quercus macedonica",
-    "pt_search_main_name": "Quercus macedonica"
+        "habit": null
+    }
 }

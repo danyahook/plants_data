@@ -1,27 +1,34 @@
 {
-    "id": "45aa64dd-b820-4d53-917f-3036a13249f7",
-    "link": "https://www.rhs.org.uk/plants/330682/rubus-nutkanus/details",
+    "latin_name": "Rubus nutkanus",
+    "main_common_name": {
+        "en": "Native australian bramble",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Salmonberry",
+            "Thimbleberry"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Rubus nutkanus"
+    ],
     "tags": [
         "Fruit Edible",
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "salmonberry",
-            "thimbleberry"
-        ],
-        "synonyms": [
-            "Rubus nutkanus"
-        ]
-    },
+    "genus_description": "Rubus can be deciduous or evergreen shrubs, often scrambling with bristly or prickly stems bearing simple, lobed, palmate or pinnate leaves and 5-petalled flowers followed by juicy, sometimes edible fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand",
             "Clay"
@@ -34,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -74,83 +99,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moisture-retentive, fertile soil, which is well-drained and weed free. For best results, plant in a sunny position. They will tolerate light shade, but may produce a smaller crop",
+        "propagation": [
+            "Suckers",
+            "Divide"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Edible fruit",
+            "Banks and slopes"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Western N America",
         "foliage": "Deciduous",
-        "habit": "Suckering, Columnar upright",
-        "genus": "Rubus can be deciduous or evergreen shrubs, often scrambling with bristly or prickly stems bearing simple, lobed, palmate or pinnate leaves and 5-petalled flowers followed by juicy, sometimes edible fruits",
-        "name_status": "Correct",
-        "plant_range": "Western N America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moisture-retentive, fertile soil, which is well-drained and weed free. For best results, plant in a sunny position. They will tolerate light shade, but may produce a smaller crop",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Lift healthy suckers that appear between the rows and replant in a new spot. You can also divide large clumps when dormant",
-            "link_names": [
-                "Suckers",
-                "Divide"
-            ],
-            "related_links": {
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Edible fruit",
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back fruited canes to ground level soon after harvesting. Thin canes to prevent overcrowding",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to grey moulds, raspberry cane spot, a fungal leaf spot, raspberry cane blight or a virus",
-            "link_names": [
-                "Grey moulds",
-                "Raspberry cane blight",
-                "A virus"
-            ],
-            "related_links": {
-                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould",
-                "raspberry_cane_blight": "https://www.rhs.org.uk/disease/raspberry-cane-blight",
-                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "main_name_original": "Rubus nutkanus",
-    "display_name": "Native australian bramble",
-    "clear_main_name": "Rubus nutkanus",
-    "pt_search_main_name": "Rubus nutkanus"
+        "habit": "Suckering, Columnar upright"
+    }
 }

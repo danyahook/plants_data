@@ -1,31 +1,38 @@
 {
-    "id": "c305ee1e-679e-4f71-a2d8-07783f9836eb",
-    "link": "https://www.rhs.org.uk/plants/309213/trifolium-filiforme-misapplied/details",
+    "latin_name": "Trifolium filiforme misapplied",
+    "main_common_name": {
+        "en": "Lesser trefoil",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Suckling clover",
+            "Lesser yellow trefoil",
+            "Shamrock [3]",
+            "Lesser clover",
+            "Yellow clover",
+            "Low hop clover"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Trifolium minus",
+        "Trifolium filiforme misapplied"
+    ],
     "tags": [
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "lesser clover",
-            "lesser yellow trefoil",
-            "low hop clover",
-            "suckling clover",
-            "yellow clover",
-            "shamrock [3]"
-        ],
-        "synonyms": [
-            "Trifolium filiforme misapplied",
-            "Trifolium minus"
-        ]
-    },
+    "genus_description": "Trifolium are erect or creeping annuals, biennials and herbaceous perennials with trefoil leaves and small, pea-like flowers usually in clusters or short spikes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -42,7 +49,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,66 +99,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows in virtually any soil but does best in a sunny position",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Wildflower meadow"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Matforming",
-        "genus": "Trifolium are erect or creeping annuals, biennials and herbaceous perennials with trefoil leaves and small, pea-like flowers usually in clusters or short spikes",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows in virtually any soil but does best in a sunny position",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning needed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Trifolium filiforme misapplied",
-    "display_name": "Lesser trefoil",
-    "clear_main_name": "Trifolium filiforme misapplied",
-    "pt_search_main_name": "Trifolium filiforme misapplied"
+        "habit": "Matforming"
+    }
 }

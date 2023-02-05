@@ -1,26 +1,34 @@
 {
-    "id": "08cb1371-7688-4ddf-a706-30cf95028896",
-    "link": "https://www.rhs.org.uk/plants/97265/euonymus-hamiltonianus-var-yedoensis/details",
+    "latin_name": "Euonymus hamiltonianus var. yedoensis",
+    "main_common_name": {
+        "en": "Siebold spindle",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Euonymus hamiltonianus var. yedoensis",
+        "Euonymus sieboldianus",
+        "Euonymus yedoensis",
+        "Euonymus hamiltonianus subsp. hians",
+        "Euonymus hians"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Euonymus hamiltonianus subsp. hians",
-            "Euonymus hians",
-            "Euonymus hamiltonianus var. yedoensis",
-            "Euonymus sieboldianus",
-            "Euonymus yedoensis"
-        ]
-    },
+    "genus_description": "Euonymus can be deciduous or evergreen shrubs or small trees, often with fine autumn colour, and small flowers followed by colourful fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +44,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -76,91 +103,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Celastraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Celastraceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan & Korea",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Harmful if eaten. Wear gloves and other protective equipment when handling",
-        "genus": "Euonymus can be deciduous or evergreen shrubs or small trees, often with fine autumn colour, and small flowers followed by colourful fruits",
-        "name_status": "Correct",
-        "plant_range": "Japan & Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
-            "link_names": [
-                "Vine weevil",
-                "Euonymus scale"
-            ],
-            "related_links": {
-                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
-                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews, a leaf spot and sometimes honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Euonymus hamiltonianus var. yedoensis",
-    "display_name": "Siebold spindle",
-    "clear_main_name": "Euonymus hamiltonianus var. yedoensis",
-    "pt_search_main_name": "Euonymus hamiltonianus var. yedoensis"
+        "habit": "Bushy"
+    }
 }

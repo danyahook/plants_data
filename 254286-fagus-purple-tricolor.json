@@ -1,24 +1,32 @@
 {
-    "id": "fd0ab760-09eb-4047-87fe-6d973513281f",
-    "link": "https://www.rhs.org.uk/plants/254286/fagus-purple-tricolor/details",
+    "latin_name": "Fagus 'Purple Tricolor'",
+    "main_common_name": {
+        "en": "Beech 'purpurea tricolor'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Fagus 'purple tricolor'",
+        "Fagus sylvatica 'roseomarginata'",
+        "Fagus sylvatica 'tricolor' misapplied"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Fagus sylvatica 'Roseomarginata'",
-            "Fagus sylvatica 'Tricolor' misapplied",
-            "Fagus 'Purple Tricolor'"
-        ]
-    },
+    "genus_description": "Fagus are large deciduous trees with smooth grey bark, ovate leaves colouring well in autumn, and inconspicuous flowers followed by usually spiny fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +42,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,90 +97,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Suitable for large gardens. Grow in any deep fertile soil in good light. For more information see tree cultivation.",
+        "propagation": [
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1",
+            "Hedge"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "genus": "Fagus are large deciduous trees with smooth grey bark, ovate leaves colouring well in autumn, and inconspicuous flowers followed by usually spiny fruits",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Suitable for large gardens. Grow in any deep fertile soil in good light. For more information see tree cultivation.",
-            "link_names": [
-                "Tree cultivation"
-            ],
-            "related_links": {
-                "tree_cultivation": "https://www.rhs.org.uk/plants/types/trees"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by grafting",
-            "link_names": [
-                "Grafting"
-            ],
-            "related_links": {
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 or can be trimmed to a hedge",
-            "link_names": [
-                "Pruning group 1",
-                "Hedge"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "hedge": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and beech scale",
-            "link_names": [
-                "Aphids",
-                "Beech scale"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "beech_scale": "https://www.rhs.org.uk/biodiversity/beech-scale"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to beech bark disease, fungi (particulary bracket fungi) and powdery mildews. Sometimes susceptible to honey fungus",
-            "link_names": [
-                "Powdery mildews",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Fagus 'Purple Tricolor'",
-    "display_name": "Beech 'purpurea tricolor'",
-    "clear_main_name": "Fagus Purple Tricolor",
-    "pt_search_main_name": "Fagus 'Purple Tricolor'"
+        "habit": null
+    }
 }

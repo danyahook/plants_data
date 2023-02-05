@@ -1,24 +1,44 @@
 {
-    "id": "afcf16e0-cc09-486a-9b67-b28929bae4e2",
-    "link": "https://www.rhs.org.uk/plants/6735/eriobotrya-japonica-(f)/details",
+    "latin_name": "Eriobotrya japonica",
+    "main_common_name": {
+        "en": "Loquat",
+        "ru": "Эриобо́трия япо́нская"
+    },
+    "common_names": {
+        "en": [
+            "Nispero",
+            "Pipa",
+            "Nespola",
+            "Japanese medlar",
+            "Japanese plum",
+            "Japanese loquat",
+            "Loquat"
+        ],
+        "ru": [
+            "Эриобо́трия япо́нская",
+            "Мушмула́ япо́нская",
+            "Локва",
+            "Шесек"
+        ]
+    },
+    "synonyms": [
+        "Eriobotrya japonica",
+        "Photinia japonica",
+        "Mespilus japonica"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "Japanese loquat",
-            "Japanese medlar",
-            "Japanese plum",
-            "nispero"
-        ]
-    },
+    "genus_description": "Eriobotrya are spreading evergreen shrubs or trees with simple, leathery leaves and small white flowers in panicles, followed by succulent fruits",
+    "rank": 1241,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,6 +51,23 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Early summer"
         ]
     },
     "colour_and_scent": {
@@ -75,139 +112,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Eriobotrya are spreading evergreen shrubs or trees with simple, leathery leaves and small white flowers in panicles, followed by succulent fruits",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass grow in loam-based potting compost in full or bright filtered light with good ventilation. Water moderately and apply a balanced liquid fertiliser monthly when in growth and keep just moist in winter. Can be grown outdoors in most fertile soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed at 13 to 16°C in spring or take semi-hardwood cuttings in summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, may need restrictive pruning under glass",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to mealybugs under glass",
-            "link_names": [
-                "Mealybugs"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely)",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Eriobotrya_japonica.html",
-        "filename": "6735-eriobotrya-japonica-(f).json",
-        "latin_name": "Eriobotrya japonica",
-        "common_names": [
-            "Loquat",
-            "Japanese medlar",
-            "Japanese plum",
-            "Pipa",
-            "Nespola"
+        "cultivation": "Under glass grow in loam-based potting compost in full or bright filtered light with good ventilation. Water moderately and apply a balanced liquid fertiliser monthly when in growth and keep just moist in winter. Can be grown outdoors in most fertile soils",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Mespilus japonica",
-            "Photinia japonica",
-            "Eriobotrya japonica"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Эриобо́трия япо́нская",
-                "Мушмула́ япо́нская",
-                "Локва",
-                "Шесек"
-            ],
-            "synonyms": [
-                "Mespilus japonica",
-                "Photinia japonica",
-                "Eriobotrya japonica"
-            ]
-        },
-        "rank": 1241,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 1-2 weeks",
-            "planting_time": "Early summer"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Eriobotrya",
-            "species": "Loquat"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Powdery Mildew",
-            "Brown spot",
-            "Fruit Spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Eriobotrya japonica",
-    "display_name": "Japanese loquat",
-    "clear_main_name": "Eriobotrya japonica",
-    "pt_search_main_name": "Eriobotrya japonica"
+    "diseases_and_pests": [
+        "Powdery Mildew",
+        "Fruit Spot",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Eriobotrya",
+        "species": "Loquat"
+    },
+    "botanical_details": {
+        "plant_range": "China",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

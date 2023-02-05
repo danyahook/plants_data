@@ -1,22 +1,34 @@
 {
-    "id": "7ca49372-579e-41d8-ad6d-b95e043628ec",
-    "link": "https://www.rhs.org.uk/plants/135663/carex-morrowii-ice-dance/details",
+    "latin_name": "Carex morrowii 'Ice Dance'",
+    "main_common_name": {
+        "en": "Morrow's sedge 'ice dance'",
+        "ru": "Carex morrowii 'ice dance'"
+    },
+    "common_names": {
+        "en": [
+            "Morrow's sedge 'ice dance'"
+        ],
+        "ru": [
+            "Carex morrowii 'ice dance'"
+        ]
+    },
+    "synonyms": [
+        "Carex morrowii 'ice dance'"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Carex morrowii 'Ice Dance'"
-        ]
-    },
+    "genus_description": "Carex can be deciduous or evergreen, rhizomatous or tufted perennials, with triangular stems bearing linear or strap-shaped leaves and short or long spikes of tiny green or brown flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +44,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,106 +108,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most moist but well-drained fertile soils",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Rock garden",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Sedge",
+        "phylum": "Vascular plants",
+        "classify": "Monocotyledons",
+        "order": [
+            "Grasses",
+            "Sedges",
+            "Allies"
+        ],
+        "genus": "True sedges",
+        "species": null
     },
     "botanical_details": {
-        "family": "Cyperaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Carex can be deciduous or evergreen, rhizomatous or tufted perennials, with triangular stems bearing linear or strap-shaped leaves and short or long spikes of tiny green or brown flowers",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most moist but well-drained fertile soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Rock garden",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Remove dead foliage in summer",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Carex morrowii 'Ice Dance'",
-    "display_name": "Sedge 'ice dance'",
-    "clear_main_name": "Carex morrowii Ice Dance",
-    "pt_search_main_name": "Carex morrowii 'Ice Dance'",
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Carex_morrowii__Ice_Dance_.html",
-        "filename": "135663-carex-morrowii-ice-dance.json",
-        "latin_name": "Carex morrowii 'Ice Dance'",
-        "common_names": [
-            "Morrow's sedge 'Ice Dance'"
-        ],
-        "synonyms": [],
-        "ru_data": {
-            "common_names": [
-                "Carex morrowii 'Ice Dance'"
-            ],
-            "synonyms": []
-        },
-        "rank": 999999,
-        "items_data": {
-            "sunlight": "Partial sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Monocotyledons",
-            "order": [
-                "Grasses",
-                "Sedges",
-                "Allies"
-            ],
-            "family": "Sedge",
-            "genus": "True sedges"
-        },
-        "toxic_data": [],
-        "diseases_data": []
+        "habit": "Tufted"
     }
 }

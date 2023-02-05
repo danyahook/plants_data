@@ -1,23 +1,31 @@
 {
-    "id": "aa96efeb-6c28-4058-a8ff-698c076b1ece",
-    "link": "https://www.rhs.org.uk/plants/20037/escallonia-macrantha/details",
+    "latin_name": "Escallonia macrantha",
+    "main_common_name": {
+        "en": "Chilean gum box",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Escallonia sanguinea",
+        "Escallonia macrantha"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Escallonia macrantha",
-            "Escallonia sanguinea"
-        ]
-    },
+    "genus_description": "Escallonia are evergreen shrubs with glossy, leathery, toothed leaves, sometimes sticky, and 5-petalled white, pink or red flowers in terminal racemes or panicles in summer and early autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,90 +97,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in well-drained soil in a sunny position protected from cold, drying winds",
+        "propagation": [
+            "Softwood",
+            "Semi-ripe",
+            "Hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Flower borders and beds",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": [
+            "Pruning group 9"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Escalloniaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Escalloniaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Chile, Argentina",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Escallonia are evergreen shrubs with glossy, leathery, toothed leaves, sometimes sticky, and 5-petalled white, pink or red flowers in terminal racemes or panicles in summer and early autumn",
-        "name_status": "Correct",
-        "plant_range": "Chile, Argentina"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in well-drained soil in a sunny position protected from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in early summer, semi-ripe cuttings in late summer or hardwood cuttings late autumn to winter",
-            "link_names": [
-                "Softwood",
-                "Semi-ripe",
-                "Hardwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Flower borders and beds",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to escallonia leaf spot and honey fungus",
-            "link_names": [
-                "Escallonia leaf spot",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "escallonia_leaf_spot": "https://www.rhs.org.uk/disease/escallonia-leaf-spot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Escallonia macrantha",
-    "display_name": "Chilean gum box",
-    "clear_main_name": "Escallonia macrantha",
-    "pt_search_main_name": "Escallonia macrantha"
+        "habit": "Bushy"
+    }
 }

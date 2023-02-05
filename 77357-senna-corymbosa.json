@@ -1,22 +1,48 @@
 {
-    "id": "401a4cb8-c9a7-490a-8166-a3e363fb3c37",
-    "link": "https://www.rhs.org.uk/plants/77357/senna-corymbosa/details",
+    "latin_name": "Senna corymbosa",
+    "main_common_name": {
+        "en": "Argentine senna",
+        "ru": "Сенна щитковая"
+    },
+    "common_names": {
+        "en": [
+            "Argentine senna",
+            "Flowering senna",
+            "Autumn cassia",
+            "Tree senna",
+            "Argentina senna",
+            "Golden senna",
+            "Buttercup bush",
+            "Texas flowery senna"
+        ],
+        "ru": [
+            "Сенна щитковая",
+            "Кассия щитковая"
+        ]
+    },
+    "synonyms": [
+        "Cassia corymbosa lam.",
+        "Cassia corymbosa",
+        "Cassia crassifolia",
+        "Chamaefistula corymbosa",
+        "Cassia falcata",
+        "Adipera corymbosa",
+        "Senna corymbosa"
+    ],
     "tags": [
         "Shrubs",
         "Conservatory Greenhouse"
     ],
-    "names": {
-        "synonyms": [
-            "Cassia corymbosa Lam."
-        ]
-    },
+    "genus_description": "Senna can be deciduous or evergreen shrubs , trees or perennials with pinnate leaves and terminal or axillary racemes, corymbs or panicles of usually yellow, bowl-shaped, 5-petalled flowers",
+    "rank": 2058,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +58,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [
+            "Winter"
+        ],
+        "planting": [
+            "Early spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,137 +113,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
-    },
-    "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Senna can be deciduous or evergreen shrubs , trees or perennials with pinnate leaves and terminal or axillary racemes, corymbs or panicles of usually yellow, bowl-shaped, 5-petalled flowers",
-        "name_status": "Correct",
-        "plant_range": "C Americas"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass grow in loam-based compost, in full light with shade from hot sun and moderate humidity. Water freely in summer but keep just moist in winter. During growth apply a balanced liquid fertiliser monthly. Can be grown outdoors in moderately fertile, moist but well-drained soil in full sun in a sheltered frost-free area",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown at 18-24°C in spring or strike semi-hardwood cuttings in summer with bottom heat",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Patio and container plants",
-                "Mediterranean climate plants",
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1. Plants grown under glass may need restrictive pruning in late winter",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Senna_corymbosa.html",
-        "filename": "77357-senna-corymbosa.json",
-        "latin_name": "Senna corymbosa",
-        "common_names": [
-            "Argentine senna",
-            "Flowering senna",
-            "Argentina senna",
-            "Buttercup bush",
-            "Texas flowery senna",
-            "Tree senna",
-            "Autumn cassia",
-            "Golden senna"
+        "cultivation": "Under glass grow in loam-based compost, in full light with shade from hot sun and moderate humidity. Water freely in summer but keep just moist in winter. During growth apply a balanced liquid fertiliser monthly. Can be grown outdoors in moderately fertile, moist but well-drained soil in full sun in a sheltered frost-free area",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Cassia corymbosa",
-            "Cassia crassifolia",
-            "Adipera corymbosa",
-            "Cassia falcata",
-            "Chamaefistula corymbosa",
-            "Senna corymbosa"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Patio and container plants",
+            "Mediterranean climate plants",
+            "Architectural"
         ],
-        "ru_data": {
-            "common_names": [
-                "Сенна щитковая",
-                "Кассия щитковая"
-            ],
-            "synonyms": [
-                "Cassia corymbosa",
-                "Cassia crassifolia",
-                "Adipera corymbosa",
-                "Cassia falcata",
-                "Chamaefistula corymbosa",
-                "Senna corymbosa"
-            ]
-        },
-        "rank": 2058,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 10",
-            "planting_time": "Early spring",
-            "harvest_time": "Winter"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Legumes",
-                "Milkworts",
-                "Allies"
-            ],
-            "family": "Legume",
-            "genus": "Sennas",
-            "species": "Argentine senna"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Flower withering",
-            "Leaf beetles",
-            "Wilting after blooming"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Senna corymbosa",
-    "display_name": "Flowery senna",
-    "clear_main_name": "Senna corymbosa",
-    "pt_search_main_name": "Senna corymbosa"
+    "diseases_and_pests": [
+        "Flower withering",
+        "Wilting after blooming",
+        "Leaf beetles",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Legume",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Legumes",
+            "Milkworts",
+            "Allies"
+        ],
+        "genus": "Sennas",
+        "species": "Argentine senna"
+    },
+    "botanical_details": {
+        "plant_range": "C Americas",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

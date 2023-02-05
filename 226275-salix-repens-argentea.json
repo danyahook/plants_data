@@ -1,26 +1,34 @@
 {
-    "id": "ec1eba05-c49a-4406-a729-ecae4139d8cd",
-    "link": "https://www.rhs.org.uk/plants/226275/salix-repens-argentea/details",
+    "latin_name": "Salix repens 'Argentea'",
+    "main_common_name": {
+        "en": "Silvery creeping willow",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Salix argentea",
+        "Salix arenaria",
+        "Salix repens 'argentea'",
+        "Salix repens var. nitida",
+        "Salix nitida"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Salix repens 'Argentea'",
-            "Salix repens var. nitida",
-            "Salix nitida",
-            "Salix argentea",
-            "Salix arenaria"
-        ]
-    },
+    "genus_description": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -33,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "North–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,87 +99,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a moderately fertile, moist soil in full sun",
+        "propagation": [
+            "Softwood",
+            "Hardwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "North–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Low Maintenance",
+            "Banks and slopes",
+            "Ground cover"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Salicaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Salicaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a moderately fertile, moist soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in spring or hardwood cuttings in winter",
-            "link_names": [
-                "Softwood",
-                "Hardwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Low Maintenance",
-                "Banks and slopes",
-                "Ground cover"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
-            "link_names": [
-                "Willow anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Salix repens 'Argentea'",
-    "display_name": "Silvery creeping willow",
-    "clear_main_name": "Salix repens Argentea",
-    "pt_search_main_name": "Salix repens 'Argentea'"
+        "habit": "Bushy"
+    }
 }

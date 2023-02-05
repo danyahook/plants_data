@@ -1,40 +1,61 @@
 {
-    "id": "deab77ad-482d-4236-bb7c-77b3ca8d4f19",
-    "link": "https://www.rhs.org.uk/plants/4408/cornus-sanguinea/details",
+    "latin_name": "Cornus sanguinea",
+    "main_common_name": {
+        "en": "Common dogwood",
+        "ru": "Дёрен кроваво-красный"
+    },
+    "common_names": {
+        "en": [
+            "Pegwood",
+            "Common dogwood",
+            "Gadrise",
+            "Gattar tree",
+            "Dog cherry",
+            "Common cornel",
+            "Blood twig",
+            "Houndberry tree",
+            "Swamp dogwood",
+            "Prickwood",
+            "Dog tree",
+            "Blood-twig dogwood",
+            "Gatten tree",
+            "Dogberry",
+            "Skewer wood",
+            "Catteridge tree",
+            "Bloodtwig dogwood",
+            "Prick timber",
+            "Hound's tree",
+            "Red dogwood"
+        ],
+        "ru": [
+            "Дёрен кроваво-красный",
+            "Кизил кроваво-красный",
+            "Дёрен красный",
+            "Свиди́на кроваво-красная",
+            "Дёрен кровавый",
+            "Спиж красный"
+        ]
+    },
+    "synonyms": [
+        "Swida sanguinea",
+        "Cornus sylvestris",
+        "Cornus sanguinea",
+        "Cornus latifolia",
+        "Thelycrania sanguinea"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "blood twig",
-            "catteridge tree",
-            "common cornel",
-            "dog cherry",
-            "dog tree",
-            "dogberry",
-            "gadrise",
-            "gattar tree",
-            "gatten tree",
-            "houndberry tree",
-            "pegwood",
-            "prick timber",
-            "prickwood",
-            "skewer wood",
-            "swamp dogwood"
-        ],
-        "synonyms": [
-            "Cornus latifolia",
-            "Swida sanguinea",
-            "Cornus sylvestris"
-        ]
-    },
+    "genus_description": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
+    "rank": 723,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -50,7 +71,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [
+            "Fall"
+        ],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -88,148 +130,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Cornaceae",
-        "native_to_the_uk": "Yes",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Cornus can be deciduous shrubs or trees, or creeping, woody-based perennials, some with brightly coloured young stems. Tiny flowers are borne in dense clusters, sometimes with showy bracts. Many have fine autumn colour",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation or flowering dogwood cultivation",
-            "link_names": [
-                "Winter stem colour cultivation",
-                "Flowering dogwood cultivation"
-            ],
-            "related_links": {
-                "winter_stem_colour_cultivation": "https://www.rhs.org.uk/plants/cornus/for-stems/growing-guide",
-                "flowering_dogwood_cultivation": "https://www.rhs.org.uk/plants/cornus/flowering/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed or hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildflower meadow",
-                "Wildlife gardens",
-                "Flower borders and beds",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 7",
-            "link_names": [
-                "Pruning group 7"
-            ],
-            "related_links": {
-                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free but may be susceptible to horse chestnut scale",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to cornus anthracnose and honey fungus",
-            "link_names": [
-                "Cornus anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "cornus_anthracnose": "https://www.rhs.org.uk/disease/cornus-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Cornus_sanguinea.html",
-        "filename": "4408-cornus-sanguinea.json",
-        "latin_name": "Cornus sanguinea",
-        "common_names": [
-            "Common dogwood",
-            "Blood-twig dogwood",
-            "Bloodtwig dogwood",
-            "Red dogwood",
-            "Hound's tree"
+        "cultivation": "Will grow in most soil conditions in sun or partial shade. For more information see winter stem colour cultivation or flowering dogwood cultivation",
+        "propagation": [
+            "Propagate by seed",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Swida sanguinea",
-            "Cornus sanguinea",
-            "Thelycrania sanguinea"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildflower meadow",
+            "Wildlife gardens",
+            "Flower borders and beds",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Дёрен кроваво-красный",
-                "Кизил кроваво-красный",
-                "Дёрен красный",
-                "Свиди́на кроваво-красная",
-                "Дёрен кровавый",
-                "Спиж красный"
-            ],
-            "synonyms": [
-                "Swida sanguinea",
-                "Cornus sanguinea",
-                "Thelycrania sanguinea"
-            ]
-        },
-        "rank": 723,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 8",
-            "harvest_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Dogwoods",
-                "Hydrangeas",
-                "And allies"
-            ],
-            "family": "Dogwood",
-            "genus": "Dogwoods",
-            "species": "Common dogwood"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Brown spot",
-            "Leaf beetles",
-            "Leaf scorch"
+        "pruning": [
+            "Pruning group 7"
         ]
     },
-    "main_name_original": "Cornus sanguinea",
-    "display_name": "Common dogwood",
-    "clear_main_name": "Cornus sanguinea",
-    "pt_search_main_name": "Cornus sanguinea"
+    "diseases_and_pests": [
+        "Leaf scorch",
+        "Leaf beetles",
+        "Scars",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Dogwood",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Dogwoods",
+            "Hydrangeas",
+            "And allies"
+        ],
+        "genus": "Dogwoods",
+        "species": "Common dogwood"
+    },
+    "botanical_details": {
+        "plant_range": "Europe",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

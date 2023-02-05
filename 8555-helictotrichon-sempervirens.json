@@ -1,22 +1,30 @@
 {
-    "id": "14d514e2-ecfe-4fb3-a4e7-75668c667987",
-    "link": "https://www.rhs.org.uk/plants/8555/helictotrichon-sempervirens/details",
+    "latin_name": "Helictotrichon sempervirens",
+    "main_common_name": {
+        "en": "Blue oat grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Avena candida",
+        "Avena sempervirens"
+    ],
     "tags": [
         "Grass Like"
     ],
-    "names": {
-        "synonyms": [
-            "Avena sempervirens",
-            "Avena candida"
-        ]
-    },
+    "genus_description": "Helictotrichon can be deciduous or evergreen grasses, forming compact tussocks of linear leaves, with erect or arching stems bearing panicles of flowering spikelets in summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,7 +39,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,75 +101,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in poor to moderately fertile, neutral to alkaline, well-drained soil",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Architectural",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SW Europe",
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Helictotrichon can be deciduous or evergreen grasses, forming compact tussocks of linear leaves, with erect or arching stems bearing panicles of flowering spikelets in summer",
-        "name_status": "Correct",
-        "plant_range": "SW Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in poor to moderately fertile, neutral to alkaline, well-drained soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in mid-spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Architectural",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Remove dead foliage and old flowered stems in spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be affected by a rust",
-            "link_names": [
-                "A rust"
-            ],
-            "related_links": {
-                "a_rust": "https://www.rhs.org.uk/disease/rust-diseases"
-            }
-        }
-    },
-    "main_name_original": "Helictotrichon sempervirens",
-    "display_name": "Blue oat grass",
-    "clear_main_name": "Helictotrichon sempervirens",
-    "pt_search_main_name": "Helictotrichon sempervirens"
+        "habit": "Tufted"
+    }
 }

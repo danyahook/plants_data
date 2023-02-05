@@ -1,29 +1,36 @@
 {
-    "id": "1765e264-a46f-4607-b565-fe963e9047f1",
-    "link": "https://www.rhs.org.uk/plants/204548/borzicactus-aureispinus/details",
+    "latin_name": "Borzicactus aureispinus",
+    "main_common_name": {
+        "en": "Golden rat tail",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Gold-spined winterocereus",
+            "Gold-spined hildewintera"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Cleistocactus aureispinus",
+        "Hildewintera aureispina",
+        "Borzicactus aureispinus",
+        "Winterocereus aureispinus"
+    ],
     "tags": [
         "Cactus Succulent",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "gold-spined hildewintera",
-            "gold-spined winterocereus"
-        ],
-        "synonyms": [
-            "Winterocereus aureispinus",
-            "Borzicactus aureispinus",
-            "Cleistocactus aureispinus",
-            "Hildewintera aureispina"
-        ]
-    },
+    "genus_description": "Cleistocactus are erect columnar cacti with ribbed, eventually branched, cylindrical stems bearing dense spines and tubular flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Sand"
         ],
         "moisture": [
@@ -35,7 +42,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Green"
@@ -71,72 +95,27 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Under glass, grow in standard cactus compost in full light and with low humidity. In the growing season water moderately and apply a dilute low-nitrogen fertiliser monthly. Keep completely dry from mid-autumn to spring. See houseplant cacti and succulent cultivation for further information",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Conservatory and greenhouse"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H2"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cactaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cactaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Bolivia",
         "foliage": "Evergreen",
-        "habit": "Trailing",
-        "genus": "Cleistocactus are erect columnar cacti with ribbed, eventually branched, cylindrical stems bearing dense spines and tubular flowers",
-        "name_status": "Correct",
-        "plant_range": "Bolivia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass, grow in standard cactus compost in full light and with low humidity. In the growing season water moderately and apply a dilute low-nitrogen fertiliser monthly. Keep completely dry from mid-autumn to spring. See houseplant cacti and succulent cultivation for further information",
-            "link_names": [
-                "Houseplant cacti and succulent cultivation"
-            ],
-            "related_links": {
-                "houseplant_cacti_and_succulent_cultivation": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by stem cuttings in summer, or by seed sown in spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Conservatory and greenhouse"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to mealybugs",
-            "link_names": [
-                "Mealybugs"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to root rots",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Borzicactus aureispinus",
-    "display_name": "Golden rat tail",
-    "clear_main_name": "Borzicactus aureispinus",
-    "pt_search_main_name": "Borzicactus aureispinus"
+        "habit": "Trailing"
+    }
 }

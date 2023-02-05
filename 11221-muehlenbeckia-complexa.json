@@ -1,29 +1,64 @@
 {
-    "id": "8f4b1d10-5248-4f12-a216-5503d6d5b1d7",
-    "link": "https://www.rhs.org.uk/plants/11221/muehlenbeckia-complexa/details",
+    "latin_name": "Muehlenbeckia complexa",
+    "main_common_name": {
+        "en": "Maidenhair vine",
+        "ru": "Мюленбекия спутанная"
+    },
+    "common_names": {
+        "en": [
+            "Wire vine",
+            "Mattress vine",
+            "Lacy wire vine",
+            "Mattress wire weed",
+            "Wiggy bush",
+            "Creeping wire vine",
+            "Necklace vine",
+            "Wire plant",
+            "Wire vine",
+            "Angel vine",
+            "Wireplant",
+            "Mattress vine",
+            "Maidenhair vine",
+            "Pohuehue",
+            "Maidenhair vine",
+            "Australian ivy",
+            "Australian maidenhair vine"
+        ],
+        "ru": [
+            "Мюленбекия спутанная",
+            "Мюленбекия охватывающая"
+        ]
+    },
+    "synonyms": [
+        "Muehlenbeckia axillaris misapplied",
+        "Muehlenbeckia microphylla",
+        "Muehlenbeckia paucifolia",
+        "Sarcogonum complexum",
+        "Polygonum rotundifolium hort.",
+        "Polygonum camptianum",
+        "Muehlenbeckia trilobata",
+        "Muehlenbeckia complexa",
+        "Calacinum complexum",
+        "Muehlenbeckia debilis",
+        "Polygonum heterophyllum",
+        "Muehlenbeckia truncata",
+        "Polygonum complexum",
+        "Polygonum comptonianum",
+        "Muehlenbeckia austracompla"
+    ],
     "tags": [
         "Climber Wall Shrub"
     ],
-    "names": {
-        "other_common_names": [
-            "Australian ivy",
-            "Australian maidenhair vine",
-            "maidenhair vine",
-            "mattress vine",
-            "wire plant",
-            "wire vine"
-        ],
-        "synonyms": [
-            "Muehlenbeckia axillaris misapplied"
-        ]
-    },
+    "genus_description": "Muehlenbeckia are evergreen or deciduous shrubs or semi-woody climbers, with alternate leaves or sometimes none. Flowers are inconspicuous, whitish or greenish",
+    "rank": 2458,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -38,7 +73,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,155 +127,43 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
-    },
-    "botanical_details": {
-        "family": "Polygonaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Trailing",
-        "genus": "Muehlenbeckia are evergreen or deciduous shrubs or semi-woody climbers, with alternate leaves or sometimes none. Flowers are inconspicuous, whitish or greenish",
-        "name_status": "Correct",
-        "plant_range": "New Zealand"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist, well-drained soil in full sun or light shade with shelter from cold winds; suitable support will be needed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings with bottom heat in summer",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Banks and slopes",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 11",
-            "link_names": [
-                "Pruning group 11"
-            ],
-            "related_links": {
-                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Muehlenbeckia_complexa.html",
-        "filename": "11221-muehlenbeckia-complexa.json",
-        "latin_name": "Muehlenbeckia complexa",
-        "common_names": [
-            "Maidenhair vine",
-            "Angel vine",
-            "Lacy wire vine",
-            "Creeping wire vine",
-            "Wire vine",
-            "Mattress vine",
-            "Necklace vine",
-            "Wireplant",
-            "Mattress wire weed",
-            "Pohuehue",
-            "Wiggy bush"
+        "cultivation": "Grow in moist, well-drained soil in full sun or light shade with shelter from cold winds; suitable support will be needed",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Muehlenbeckia trilobata",
-            "Polygonum heterophyllum",
-            "Muehlenbeckia paucifolia",
-            "Polygonum complexum",
-            "Muehlenbeckia microphylla",
-            "Polygonum rotundifolium hort.",
-            "Muehlenbeckia debilis",
-            "Polygonum camptianum",
-            "Polygonum comptonianum",
-            "Muehlenbeckia austracompla",
-            "Muehlenbeckia truncata",
-            "Sarcogonum complexum",
-            "Muehlenbeckia complexa",
-            "Calacinum complexum"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Banks and slopes",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Мюленбекия спутанная",
-                "Мюленбекия охватывающая"
-            ],
-            "synonyms": [
-                "Muehlenbeckia trilobata",
-                "Polygonum heterophyllum",
-                "Muehlenbeckia paucifolia",
-                "Polygonum complexum",
-                "Muehlenbeckia microphylla",
-                "Polygonum rotundifolium hort.",
-                "Muehlenbeckia debilis",
-                "Polygonum camptianum",
-                "Polygonum comptonianum",
-                "Muehlenbeckia austracompla",
-                "Muehlenbeckia truncata",
-                "Sarcogonum complexum",
-                "Muehlenbeckia complexa",
-                "Calacinum complexum"
-            ]
-        },
-        "rank": 2458,
-        "items_data": {
-            "water": "Every week",
-            "sunlight": "Full sun",
-            "hardiness_zones": "7 - 10"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Pinks",
-                "Cacti",
-                "And allies"
-            ],
-            "family": "Buckwheat",
-            "genus": "Maidenhair",
-            "species": "Maidenhair vine"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Aged yellow and dry",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 11"
         ]
     },
-    "main_name_original": "Muehlenbeckia complexa",
-    "display_name": "Necklace vine",
-    "clear_main_name": "Muehlenbeckia complexa",
-    "pt_search_main_name": "Muehlenbeckia complexa"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Leaf beetles",
+        "Scars"
+    ],
+    "scientific_classification": {
+        "family": "Buckwheat",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Pinks",
+            "Cacti",
+            "And allies"
+        ],
+        "genus": "Maidenhair",
+        "species": "Maidenhair vine"
+    },
+    "botanical_details": {
+        "plant_range": "New Zealand",
+        "foliage": "Deciduous",
+        "habit": "Trailing"
+    }
 }

@@ -1,21 +1,29 @@
 {
-    "id": "1ca4fc40-62a3-4438-a8ef-77a7772f9c73",
-    "link": "https://www.rhs.org.uk/plants/19069/waldsteinia-ternata/details",
+    "latin_name": "Waldsteinia ternata",
+    "main_common_name": {
+        "en": "Siberian waldsteinia",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Ternate waldsteinia"
+        ],
+        "ru": null
+    },
+    "synonyms": [],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "ternate waldsteinia"
-        ]
-    },
+    "genus_description": "Waldsteinia are rhizomatous herbaceous or semi-evergreen perennials forming clumps of palmately divided leaves, with saucer-shaped yellow flowers in loose clusters in late spring and early summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,70 +96,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moderately fertile soil in full or partial shade; can be invasive",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Garden edging",
+            "Ground cover",
+            "Underplanting of roses and shrubs"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe, N Asia",
         "foliage": "Semi evergreen",
-        "habit": "Matforming",
-        "genus": "Waldsteinia are rhizomatous herbaceous or semi-evergreen perennials forming clumps of palmately divided leaves, with saucer-shaped yellow flowers in loose clusters in late spring and early summer",
-        "name_status": "Correct",
-        "plant_range": "Europe, N Asia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moderately fertile soil in full or partial shade; can be invasive",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in early spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Garden edging",
-                "Ground cover",
-                "Underplanting of roses and shrubs"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No regular pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Waldsteinia ternata",
-    "display_name": "Siberian waldsteinia",
-    "clear_main_name": "Waldsteinia ternata",
-    "pt_search_main_name": "Waldsteinia ternata"
+        "habit": "Matforming"
+    }
 }

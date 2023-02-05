@@ -1,21 +1,36 @@
 {
-    "id": "f0cf8c2e-6ebc-4bba-a67b-1de629c4f149",
-    "link": "https://www.rhs.org.uk/plants/139980/penstemon-digitalis-husker-red/details",
+    "latin_name": "Penstemon digitalis 'Husker Red'",
+    "main_common_name": {
+        "en": "Foxglove beardtongue 'husker red'",
+        "ru": "Penstemon digitalis 'husker red'"
+    },
+    "common_names": {
+        "en": [
+            "Talus slope penstemon 'husker red'",
+            "Foxglove beardtongue 'husker red'",
+            "Digitalis penstemon 'husker red'",
+            "White beardtongue 'husker red'"
+        ],
+        "ru": [
+            "Penstemon digitalis 'husker red'"
+        ]
+    },
+    "synonyms": [
+        "Penstemon digitalis 'purpureus'"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "synonyms": [
-            "Penstemon digitalis 'Purpureus'"
-        ]
-    },
+    "genus_description": "Penstemon may be deciduous or evergreen perennials or subshrubs, with simple, narrow leaves and racemes or panicles of bell-shaped or funnel-shaped flowers in summer and early autumn",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -29,7 +44,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Purple"
@@ -71,124 +103,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in full sun and fertile well-drained soil",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Semi-ripe",
+            "Divide"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Deadhead"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plantain",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Penstemon",
+        "species": null
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Semi evergreen",
-        "habit": "Bushy",
-        "genus": "Penstemon may be deciduous or evergreen perennials or subshrubs, with simple, narrow leaves and racemes or panicles of bell-shaped or funnel-shaped flowers in summer and early autumn",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in full sun and fertile well-drained soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed but the offspring will be variable, often with flowers of a murky shade. Propagate by softwood cuttings in early summer or semi-ripe stem tip cuttings in late summer to early autumn. Divide clumps in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Semi-ripe",
-                "Divide"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Tidy any winter damaged growth in early spring. Deadhead after flowering (unless seed is needed)",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "Slugs and snails, aphids and leaf and bud eelworm can be troublesome",
-            "link_names": [
-                "Slugs",
-                "Snails",
-                "Aphids",
-                "Leaf and bud eelworm"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "leaf_and_bud_eelworm": "https://www.rhs.org.uk/biodiversity/foliar-nematodes"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by grey mould, powdery mildew or fungal leaf spot",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Penstemon_digitalis__Husker_Red_.html",
-        "filename": "139980-penstemon-digitalis-husker-red.json",
-        "latin_name": "Penstemon digitalis 'Husker Red'",
-        "common_names": [
-            "Foxglove beardtongue 'Husker Red'",
-            "Talus slope penstemon 'Husker Red'",
-            "Digitalis penstemon 'Husker Red'",
-            "White beardtongue 'Husker Red'"
-        ],
-        "synonyms": [],
-        "ru_data": {
-            "common_names": [
-                "Penstemon digitalis 'Husker Red'"
-            ],
-            "synonyms": []
-        },
-        "rank": 999999,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Plantain",
-            "genus": "Penstemon"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Penstemon digitalis 'Husker Red'",
-    "display_name": "Penstemon 'husker red'",
-    "clear_main_name": "Penstemon digitalis Husker Red",
-    "pt_search_main_name": "Penstemon digitalis 'Husker Red'"
+        "habit": "Bushy"
+    }
 }

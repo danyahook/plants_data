@@ -1,24 +1,60 @@
 {
-    "id": "1533f9ba-d5bd-47a6-a014-bcfccd58d10a",
-    "link": "https://www.rhs.org.uk/plants/8852/hoya-carnosa/details",
+    "latin_name": "Hoya carnosa",
+    "main_common_name": {
+        "en": "Porcelainflower",
+        "ru": "Хойя мясистая"
+    },
+    "common_names": {
+        "en": [
+            "Rope hoya",
+            "Porcelainflower",
+            "Porcelain flower",
+            "Wax plant",
+            "Fleshy-leaved wax flower"
+        ],
+        "ru": [
+            "Хойя мясистая",
+            "Восковой плющ",
+            "Восковое дерево",
+            "Хойя карноза"
+        ]
+    },
+    "synonyms": [
+        "Schollia carnosa",
+        "Hoya crassifolia",
+        "Hoya carnosa var. gushanica",
+        "Hoya carnosa var. formosana",
+        "Hoya intermedia",
+        "Hoya variegata",
+        "Schollia chinensis",
+        "Schollia crassifolia",
+        "Hoya motoskei",
+        "Cynanchum carnosum",
+        "Hoya carnosa var. japonica",
+        "Stapelia chinensis",
+        "Hoya formosana",
+        "Hoya carnosa",
+        "Asclepias carnosa",
+        "Hoya chinensis",
+        "Hoya picta",
+        "Hoya rotundifolia",
+        "Hoya laurifolia"
+    ],
     "tags": [
         "Houseplants",
         "Climber Wall Shrub",
         "Conservatory Greenhouse"
     ],
-    "names": {
-        "other_common_names": [
-            "fleshy-leaved wax flower",
-            "porcelain flower"
-        ]
-    },
+    "genus_description": "Hoya are evergreen perennials, often twining climbers, with simple, leathery leaves and often fragrant flowers with 5 spreading waxy petals, followed by slender, spindle-shaped pods contained small seeds in copious silky floss",
+    "rank": 1465,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 3 weeks",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,6 +66,23 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Summer"
         ]
     },
     "colour_and_scent": {
@@ -79,172 +132,48 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
-    },
-    "botanical_details": {
-        "family": "Apocynaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Climbing",
-        "genus": "Hoya are evergreen perennials, often twining climbers, with simple, leathery leaves and often fragrant flowers with 5 spreading waxy petals, followed by slender, spindle-shaped pods contained small seeds in copious silky floss",
-        "name_status": "Correct",
-        "plant_range": "C China to Australia"
-    },
+    "toxicity": [
+        "Highly Toxic to Humans"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow outdoors in moist but well-drained soil in a sheltered, frost-free area with protection from drying winds. Grow under glass in loam-based compost in bright filtered light. Maintain moderate humidity. Provide support",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, semi-hardwood cuttings or by layering in spring or summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood",
-                "Layering"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Sub-tropical",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 11",
-            "link_names": [
-                "Pruning group 11"
-            ],
-            "related_links": {
-                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Prone to mealybugs under glass",
-            "link_names": [
-                "Mealybugs"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Hoya_carnosa.html",
-        "filename": "8852-hoya-carnosa.json",
-        "latin_name": "Hoya carnosa",
-        "common_names": [
-            "Porcelainflower",
-            "Wax plant",
-            "Rope hoya"
+        "cultivation": "Grow outdoors in moist but well-drained soil in a sheltered, frost-free area with protection from drying winds. Grow under glass in loam-based compost in bright filtered light. Maintain moderate humidity. Provide support",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood",
+            "Layering"
         ],
-        "synonyms": [
-            "Hoya picta",
-            "Cynanchum carnosum",
-            "Hoya formosana",
-            "Schollia crassifolia",
-            "Hoya carnosa var. formosana",
-            "Hoya carnosa var. gushanica",
-            "Hoya intermedia",
-            "Hoya rotundifolia",
-            "Hoya variegata",
-            "Schollia chinensis",
-            "Asclepias carnosa",
-            "Hoya chinensis",
-            "Hoya motoskei",
-            "Hoya carnosa var. japonica",
-            "Schollia carnosa",
-            "Hoya laurifolia",
-            "Hoya crassifolia",
-            "Stapelia chinensis",
-            "Hoya carnosa"
+        "suggested_panting_places": [
+            "Sub-tropical",
+            "Patio and container plants"
         ],
-        "ru_data": {
-            "common_names": [
-                "Хойя мясистая",
-                "Восковой плющ",
-                "Восковое дерево",
-                "Хойя карноза"
-            ],
-            "synonyms": [
-                "Hoya picta",
-                "Cynanchum carnosum",
-                "Hoya formosana",
-                "Schollia crassifolia",
-                "Hoya carnosa var. formosana",
-                "Hoya carnosa var. gushanica",
-                "Hoya intermedia",
-                "Hoya rotundifolia",
-                "Hoya variegata",
-                "Schollia chinensis",
-                "Asclepias carnosa",
-                "Hoya chinensis",
-                "Hoya motoskei",
-                "Hoya carnosa var. japonica",
-                "Schollia carnosa",
-                "Hoya laurifolia",
-                "Hoya crassifolia",
-                "Stapelia chinensis",
-                "Hoya carnosa"
-            ]
-        },
-        "rank": 1465,
-        "items_data": {
-            "water": "Every 3 weeks",
-            "sunlight": "Partial sun",
-            "hardiness_zones": "8 - 11",
-            "planting_time": [
-                "Spring",
-                "Summer"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Gentians",
-                "Dogbanes",
-                "Madders",
-                "And allies"
-            ],
-            "family": "Dogbane",
-            "genus": "Waxplants",
-            "species": "Porcelainflower"
-        },
-        "toxic_data": [
-            "Highly Toxic to Humans"
-        ],
-        "diseases_data": [
-            "Scars",
-            "Sap-sucking insects",
-            "Underwatering",
-            "Waterlogging",
-            "Scale insects",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 11"
         ]
     },
-    "main_name_original": "Hoya carnosa",
-    "display_name": "Wax plant",
-    "clear_main_name": "Hoya carnosa",
-    "pt_search_main_name": "Hoya carnosa"
+    "diseases_and_pests": [
+        "Scars",
+        "Scale insects",
+        "Sap-sucking insects",
+        "Waterlogging",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Dogbane",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Gentians",
+            "Dogbanes",
+            "Madders",
+            "And allies"
+        ],
+        "genus": "Waxplants",
+        "species": "Porcelainflower"
+    },
+    "botanical_details": {
+        "plant_range": "C China to Australia",
+        "foliage": "Evergreen",
+        "habit": "Climbing"
+    }
 }

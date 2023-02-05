@@ -1,25 +1,47 @@
 {
-    "id": "5e49a1b7-c68e-40c7-a173-07a54620300d",
-    "link": "https://www.rhs.org.uk/plants/2258/betula-nigra/details",
+    "latin_name": "Betula nigra",
+    "main_common_name": {
+        "en": "River birch",
+        "ru": "Берёза чёрная"
+    },
+    "common_names": {
+        "en": [
+            "River birch",
+            "Water birch",
+            "Swamp birch",
+            "Black birch",
+            "Red birch",
+            "River birch"
+        ],
+        "ru": [
+            "Берёза чёрная",
+            "Берёза речная",
+            "Берёза красная"
+        ]
+    },
+    "synonyms": [
+        "Betula rubra f.",
+        "Betula nigra var. parvifolia",
+        "Betula rubra",
+        "Betula americana",
+        "Betula nigra",
+        "Betula lanulosa",
+        "Betula nigra pendula",
+        "Betula rupestris"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "red birch",
-            "river birch"
-        ],
-        "synonyms": [
-            "Betula rubra"
-        ]
-    },
+    "genus_description": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
+    "rank": 1490,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +57,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Brown"
@@ -77,153 +121,43 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
-        "name_status": "Correct",
-        "plant_range": "C & E USA"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Will grow in a wide range of situations",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings or grafting",
-            "link_names": [
-                "Softwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
-            "link_names": [
-                "Honey fungus",
-                "Tree rust",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Betula_nigra.html",
-        "filename": "2258-betula-nigra.json",
-        "latin_name": "Betula nigra",
-        "common_names": [
-            "River birch",
-            "Black birch",
-            "Swamp birch",
-            "Water birch"
+        "cultivation": "Will grow in a wide range of situations",
+        "propagation": [
+            "Softwood",
+            "Grafting"
         ],
-        "synonyms": [
-            "Betula rupestris",
-            "Betula americana",
-            "Betula rubra f.",
-            "Betula lanulosa",
-            "Betula nigra pendula",
-            "Betula nigra var. parvifolia",
-            "Betula nigra"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Берёза чёрная",
-                "Берёза речная",
-                "Берёза красная"
-            ],
-            "synonyms": [
-                "Betula rupestris",
-                "Betula americana",
-                "Betula rubra f.",
-                "Betula lanulosa",
-                "Betula nigra pendula",
-                "Betula nigra var. parvifolia",
-                "Betula nigra"
-            ]
-        },
-        "rank": 1490,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "hardiness_zones": "2 - 7",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Birch",
-            "genus": "Betula",
-            "species": "River birch"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Plant dried up",
-            "Sap-sucking insects",
-            "Underwatering",
-            "Longhorn beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Betula nigra",
-    "display_name": "Black birch",
-    "clear_main_name": "Betula nigra",
-    "pt_search_main_name": "Betula nigra"
+    "diseases_and_pests": [
+        "Longhorn beetles",
+        "Plant dried up",
+        "Sap-sucking insects",
+        "Brown spot",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Birch",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Betula",
+        "species": "River birch"
+    },
+    "botanical_details": {
+        "plant_range": "C & E USA",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

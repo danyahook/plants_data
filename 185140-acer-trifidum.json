@@ -1,26 +1,33 @@
 {
-    "id": "4cb253e2-3fb6-4917-95ed-e86455b031c1",
-    "link": "https://www.rhs.org.uk/plants/185140/acer-trifidum/details",
+    "latin_name": "Acer trifidum",
+    "main_common_name": {
+        "en": "Trident maple",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Three-toothed maple"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Acer trifidum",
+        "Acer buergerianum var. trinerve"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "three-toothed maple"
-        ],
-        "synonyms": [
-            "Acer trifidum",
-            "Acer buergerianum var. trinerve"
-        ]
-    },
+    "genus_description": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +40,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,86 +101,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a fertile, moist but well-drained soil in full sun or part shade. Ideal in small gardens, in large containers and can be used in bonsai",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Patio and container plants",
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Sapindaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Sapindaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China, Taiwan",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. Many have fine autumn colour, and some have ornamental stems",
-        "name_status": "Correct",
-        "plant_range": "China, Taiwan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a fertile, moist but well-drained soil in full sun or part shade. Ideal in small gardens, in large containers and can be used in bonsai",
-            "link_names": [
-                "Containers"
-            ],
-            "related_links": {
-                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed in mid to late autumn or spring. Take softwood cuttings in early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Patio and container plants",
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 but prune only from late autumn to midwinter",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to Aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptiblt to Verticilium wilt",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Acer trifidum",
-    "display_name": "Trident maple",
-    "clear_main_name": "Acer trifidum",
-    "pt_search_main_name": "Acer trifidum"
+        "habit": "Bushy"
+    }
 }

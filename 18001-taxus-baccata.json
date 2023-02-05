@@ -1,23 +1,51 @@
 {
-    "id": "6d67bbb4-12af-4433-b76b-f3108089fd20",
-    "link": "https://www.rhs.org.uk/plants/18001/taxus-baccata/details",
+    "latin_name": "Taxus baccata",
+    "main_common_name": {
+        "en": "English yew",
+        "ru": "Тис ягодный"
+    },
+    "common_names": {
+        "en": [
+            "European yew",
+            "Yew",
+            "Common yew",
+            "English yew",
+            "Irish yew",
+            "Yew"
+        ],
+        "ru": [
+            "Тис ягодный",
+            "Тис обыкновенный",
+            "Тис европейский",
+            "Негной",
+            "Зеленица",
+            "Красное дерево",
+            "Негниючка"
+        ]
+    },
+    "synonyms": [
+        "Taxus baccata",
+        "Taxus communis",
+        "Taxus baccifera",
+        "Taxus pectinata",
+        "Taxus recurvata hort. ex",
+        "Taxus baccata subsp. eubaccata",
+        "Taxus lugubris"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "English yew",
-            "yew"
-        ]
-    },
+    "genus_description": "Taxus are small evergreen trees or large shrubs of rounded habit, with dense, linear leaves, insignificant flowers and, on female plants, conspicuous fleshy red arils surrounding the solitary seeds",
+    "rank": 592,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +60,30 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,159 +121,40 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [
+        "Toxic to Cats"
+    ],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained soil. Will tolerate exposure, dry soils and urban pollution. Good specimen plant for topiary and hedging",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Dieback",
+        "Longhorn beetles",
+        "Scars"
+    ],
+    "scientific_classification": {
+        "family": "Yew",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Yews",
+        "species": "Common yew"
     },
     "botanical_details": {
-        "family": "Taxaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe, W Asia, N Africa",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "Most parts, especially the seeds, are highly toxic by ingestion. Wear gloves and wash hands after handling",
-        "genus": "Taxus are small evergreen trees or large shrubs of rounded habit, with dense, linear leaves, insignificant flowers and, on female plants, conspicuous fleshy red arils surrounding the solitary seeds",
-        "name_status": "Correct",
-        "plant_range": "Europe, W Asia, N Africa"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained soil. Will tolerate exposure, dry soils and urban pollution. Good specimen plant for topiary and hedging",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No regular pruning necessary, but can be trimmed and shaped when required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to tortrix moth, vine weevil, gall mites and scale insects",
-            "link_names": [
-                "Tortrix moth",
-                "Vine weevil",
-                "Gall mites",
-                "Scale insects"
-            ],
-            "related_links": {
-                "tortrix_moth": "https://www.rhs.org.uk/biodiversity/tortrix-moth-caterpillars",
-                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
-                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to phytophthora root diseases and honey fungus (rarely)",
-            "link_names": [
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Taxus_baccata.html",
-        "filename": "18001-taxus-baccata.json",
-        "latin_name": "Taxus baccata",
-        "common_names": [
-            "English yew",
-            "Yew",
-            "European yew",
-            "Irish yew",
-            "Common yew"
-        ],
-        "synonyms": [
-            "Taxus pectinata",
-            "Taxus baccata subsp. eubaccata",
-            "Taxus communis",
-            "Taxus lugubris",
-            "Taxus recurvata hort. ex",
-            "Taxus baccifera",
-            "Taxus baccata"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Тис ягодный",
-                "Тис обыкновенный",
-                "Тис европейский",
-                "Негной",
-                "Зеленица",
-                "Красное дерево",
-                "Негниючка"
-            ],
-            "synonyms": [
-                "Taxus pectinata",
-                "Taxus baccata subsp. eubaccata",
-                "Taxus communis",
-                "Taxus lugubris",
-                "Taxus recurvata hort. ex",
-                "Taxus baccifera",
-                "Taxus baccata"
-            ]
-        },
-        "rank": 592,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 2 weeks",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Yew",
-            "genus": "Yews",
-            "species": "Common yew"
-        },
-        "toxic_data": [
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Scars",
-            "Dieback",
-            "Longhorn beetles"
-        ]
-    },
-    "main_name_original": "Taxus baccata",
-    "display_name": "Common yew",
-    "clear_main_name": "Taxus baccata",
-    "pt_search_main_name": "Taxus baccata"
+        "habit": "Bushy"
+    }
 }

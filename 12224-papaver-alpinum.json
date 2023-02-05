@@ -1,22 +1,37 @@
 {
-    "id": "0e0a5f28-f930-41ae-8508-a9fda6597c9f",
-    "link": "https://www.rhs.org.uk/plants/12224/papaver-alpinum/details",
+    "latin_name": "Papaver alpinum",
+    "main_common_name": {
+        "en": "Alpine poppy",
+        "ru": "Мак альпийский"
+    },
+    "common_names": {
+        "en": [
+            "Austrian poppy",
+            "Alpine poppy",
+            "Alpine parsley",
+            "Dwarf poppy"
+        ],
+        "ru": [
+            "Мак альпийский"
+        ]
+    },
+    "synonyms": [
+        "Papaver alpinum"
+    ],
     "tags": [
         "Alpine Rockery",
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "alpine parsley"
-        ]
-    },
+    "genus_description": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
+    "rank": 3237,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,7 +45,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,118 +96,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained, deep, fertile soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Rock garden",
+            "Cottage and informal garden",
+            "Garden edging"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poppy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Buttercups",
+            "Poppies",
+            "Allies"
+        ],
+        "genus": "Poppies",
+        "species": "Alpine poppy"
     },
     "botanical_details": {
-        "family": "Papaveraceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Mountains of Europe",
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
-        "name_status": "Correct",
-        "plant_range": "Mountains of Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained, deep, fertile soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or division",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Rock garden",
-                "Cottage and informal garden",
-                "Garden edging"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be attacked by aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be subject to a downy mildew",
-            "link_names": [
-                "A downy mildew"
-            ],
-            "related_links": {
-                "a_downy_mildew": "https://www.rhs.org.uk/disease/downy-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Papaver_alpinum.html",
-        "filename": "12224-papaver-alpinum.json",
-        "latin_name": "Papaver alpinum",
-        "common_names": [
-            "Alpine poppy",
-            "Dwarf poppy",
-            "Austrian poppy"
-        ],
-        "synonyms": [
-            "Papaver alpinum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Мак альпийский"
-            ],
-            "synonyms": [
-                "Papaver alpinum"
-            ]
-        },
-        "rank": 3237,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Buttercups",
-                "Poppies",
-                "Allies"
-            ],
-            "family": "Poppy",
-            "genus": "Poppies",
-            "species": "Alpine poppy"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Papaver alpinum",
-    "display_name": "Alpine poppy",
-    "clear_main_name": "Papaver alpinum",
-    "pt_search_main_name": "Papaver alpinum"
+        "habit": "Tufted"
+    }
 }

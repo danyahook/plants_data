@@ -1,26 +1,33 @@
 {
-    "id": "8179fcd4-6dbc-4b52-837d-a23cb6683d3c",
-    "link": "https://www.rhs.org.uk/plants/189486/aspidium-braunii/details",
+    "latin_name": "Aspidium braunii",
+    "main_common_name": {
+        "en": "Braun's holly fern",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Shield fern [2]",
+            "Bear's bed"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Aspidium braunii"
+    ],
     "tags": [
         "Ferns",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bear's bed",
-            "shield fern [2]"
-        ],
-        "synonyms": [
-            "Aspidium braunii"
-        ]
-    },
+    "genus_description": "Polystichum are mostly evergreen or semi-evergreen ferns, with short stout rhizomes and pinnately divided fronds in neat shuttlecock-like rosettes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -34,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,71 +93,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows well in moist but well-drained, cool, humus-rich soils in full or partial shade",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Dryopteridaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Dryopteridaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "N North America",
         "foliage": "Evergreen or Semi evergreen",
-        "habit": "Clump forming",
-        "genus": "Polystichum are mostly evergreen or semi-evergreen ferns, with short stout rhizomes and pinnately divided fronds in neat shuttlecock-like rosettes",
-        "name_status": "Correct",
-        "plant_range": "N North America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows well in moist but well-drained, cool, humus-rich soils in full or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division or from spores",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Remove dead or damaged fronds in early spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Aspidium braunii",
-    "display_name": "Braun's holly fern",
-    "clear_main_name": "Aspidium braunii",
-    "pt_search_main_name": "Aspidium braunii"
+        "habit": "Clump forming"
+    }
 }

@@ -1,26 +1,67 @@
 {
-    "id": "31762108-41a4-4029-b31a-505b19b04ab4",
-    "link": "https://www.rhs.org.uk/plants/384211/salvia-rosmarinus-(ro)/details",
+    "latin_name": "Salvia rosmarinus",
+    "main_common_name": {
+        "en": "Rosemary",
+        "ru": "Розмарин лекарственный"
+    },
+    "common_names": {
+        "en": [
+            "Old man [4]",
+            "Southernwood",
+            "Rose of the sea",
+            "Rosemary",
+            "Anthos"
+        ],
+        "ru": [
+            "Розмарин лекарственный",
+            "Розмарин обыкновенный"
+        ]
+    },
+    "synonyms": [
+        "Rosmarinus officinalis var. prostratus",
+        "Rosmarinus officinalis var. angustissimus",
+        "Salvia rosmarinus",
+        "Salvia fasciculata",
+        "Rosmarinus officinalis subsp. laxiflorus",
+        "Rosmarinus officinalis f. laxiflorus",
+        "Rosmarinus communis",
+        "Rosmarinus palaui",
+        "Rosmarinus officinalis var. latifolius",
+        "Rosmarinus officinalis var. vulgaris",
+        "Rosmarinus officinalis var. rigidus",
+        "Rosmarinus officinalis subsp. valentinus",
+        "Rosmarinus officinalis var. trogloditarum",
+        "Rosmarinus latifolius",
+        "Rosmarinus officinalis var. palaui",
+        "Rosmarinus officinalis subsp. palaui",
+        "Rosmarinus laxiflorus de",
+        "Rosmarinus rigidus",
+        "Rosmarinus angustifolius",
+        "Rosmarinus officinalis var. nutans",
+        "Rosmarinus officinalis var. argentatus",
+        "Rosmarinus flexuosus",
+        "Rosmarinus lavandulaceus var. trogloditarum",
+        "Rosmarinus officinalis var. auratus",
+        "Rosmarinus prostratus",
+        "Rosmarinus officinalis var. laxiflorus",
+        "Rosmarinus officinalis",
+        "Rosmarinus tenuifolius",
+        "Rosmarinus serotinus",
+        "Rosmarinus officinalis var. angustifolius"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "old man [4]",
-            "rose of the sea",
-            "southernwood"
-        ],
-        "synonyms": [
-            "Rosmarinus officinalis"
-        ]
-    },
+    "genus_description": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
+    "rank": 335,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,6 +75,25 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -79,197 +139,48 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
-        "name_status": "Correct",
-        "plant_range": "Mediterranean"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow aromatic, evergreen shrub. Prefers poor, well-drained soil and may be used as a formal or informal low hedge which should be trimmed after flowering. See rosemary cultivation for further advice",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Rock garden",
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Mediterranean climate plants",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to brown scale and rosemary leaf beetle",
-            "link_names": [
-                "Brown scale"
-            ],
-            "related_links": {
-                "brown_scale": "https://www.rhs.org.uk/biodiversity/brown-scale"
-            }
-        },
-        "diseases": {
-            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to honey fungus (rarely)",
-            "link_names": [
-                "High risk host for xylella fastidiosa",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Salvia_rosmarinus.html",
-        "filename": "384211-salvia-rosmarinus-(ro).json",
-        "latin_name": "Salvia rosmarinus",
-        "common_names": [
-            "Rosemary",
-            "Anthos"
+        "cultivation": "Easy to grow aromatic, evergreen shrub. Prefers poor, well-drained soil and may be used as a formal or informal low hedge which should be trimmed after flowering. See rosemary cultivation for further advice",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Rosmarinus officinalis",
-            "Rosmarinus palaui",
-            "Rosmarinus officinalis f. laxiflorus",
-            "Rosmarinus lavandulaceus var. trogloditarum",
-            "Rosmarinus officinalis var. latifolius",
-            "Rosmarinus officinalis subsp. laxiflorus",
-            "Rosmarinus latifolius",
-            "Rosmarinus communis",
-            "Rosmarinus prostratus",
-            "Rosmarinus officinalis var. auratus",
-            "Rosmarinus officinalis var. laxiflorus",
-            "Rosmarinus rigidus",
-            "Rosmarinus officinalis var. angustissimus",
-            "Rosmarinus angustifolius",
-            "Rosmarinus laxiflorus de",
-            "Rosmarinus flexuosus",
-            "Rosmarinus tenuifolius",
-            "Rosmarinus officinalis var. palaui",
-            "Rosmarinus officinalis subsp. palaui",
-            "Rosmarinus officinalis var. prostratus",
-            "Rosmarinus officinalis var. angustifolius",
-            "Rosmarinus officinalis var. vulgaris",
-            "Rosmarinus officinalis var. argentatus",
-            "Salvia fasciculata",
-            "Rosmarinus serotinus",
-            "Rosmarinus officinalis var. rigidus",
-            "Rosmarinus officinalis var. trogloditarum",
-            "Rosmarinus officinalis subsp. valentinus",
-            "Salvia rosmarinus",
-            "Rosmarinus officinalis var. nutans"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Rock garden",
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Mediterranean climate plants",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Розмарин лекарственный",
-                "Розмарин обыкновенный"
-            ],
-            "synonyms": [
-                "Rosmarinus officinalis",
-                "Rosmarinus palaui",
-                "Rosmarinus officinalis f. laxiflorus",
-                "Rosmarinus lavandulaceus var. trogloditarum",
-                "Rosmarinus officinalis var. latifolius",
-                "Rosmarinus officinalis subsp. laxiflorus",
-                "Rosmarinus latifolius",
-                "Rosmarinus communis",
-                "Rosmarinus prostratus",
-                "Rosmarinus officinalis var. auratus",
-                "Rosmarinus officinalis var. laxiflorus",
-                "Rosmarinus rigidus",
-                "Rosmarinus officinalis var. angustissimus",
-                "Rosmarinus angustifolius",
-                "Rosmarinus laxiflorus de",
-                "Rosmarinus flexuosus",
-                "Rosmarinus tenuifolius",
-                "Rosmarinus officinalis var. palaui",
-                "Rosmarinus officinalis subsp. palaui",
-                "Rosmarinus officinalis var. prostratus",
-                "Rosmarinus officinalis var. angustifolius",
-                "Rosmarinus officinalis var. vulgaris",
-                "Rosmarinus officinalis var. argentatus",
-                "Salvia fasciculata",
-                "Rosmarinus serotinus",
-                "Rosmarinus officinalis var. rigidus",
-                "Rosmarinus officinalis var. trogloditarum",
-                "Rosmarinus officinalis subsp. valentinus",
-                "Salvia rosmarinus",
-                "Rosmarinus officinalis var. nutans"
-            ]
-        },
-        "rank": 335,
-        "items_data": {
-            "water": "Every week",
-            "sunlight": "Full sun",
-            "hardiness_zones": "8 - 11",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Mint",
-            "genus": "Sages",
-            "species": "Rosemary"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Wilting after blooming",
-            "Caterpillars",
-            "Aged yellow and dry",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 9"
         ]
     },
-    "main_name_original": "Salvia rosmarinus",
-    "display_name": "Rosemary",
-    "clear_main_name": "Salvia rosmarinus",
-    "pt_search_main_name": "Salvia rosmarinus"
+    "diseases_and_pests": [
+        "Wilting after blooming",
+        "Aged yellow and dry",
+        "Leaf beetles",
+        "Caterpillars",
+        "Brown spot",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Mint",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Sages",
+        "species": "Rosemary"
+    },
+    "botanical_details": {
+        "plant_range": "Mediterranean",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

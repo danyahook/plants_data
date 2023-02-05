@@ -1,22 +1,37 @@
 {
-    "id": "08c07354-a13c-4d4d-91ac-c99a026aad53",
-    "link": "https://www.rhs.org.uk/plants/318959/lycopsis-arvensis/details",
+    "latin_name": "Lycopsis arvensis",
+    "main_common_name": {
+        "en": "Small bugloss",
+        "ru": "Воловик полевой"
+    },
+    "common_names": {
+        "en": [
+            "Small bugloss",
+            "Bugloss"
+        ],
+        "ru": [
+            "Воловик полевой",
+            "Кривоцвет полевой",
+            "Анхуза полевая"
+        ]
+    },
+    "synonyms": [
+        "Lycopsis arvensis"
+    ],
     "tags": [
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Lycopsis arvensis"
-        ]
-    },
+    "genus_description": "Anchusa can be erect or spreading perennials, biennials or annuals with hairy or bristly foliage and cymes of tubular or salver-shaped, usually blue flowers",
+    "rank": 6897,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,7 +45,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,105 +97,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Occurs naturally on disturbed ground on light or sandy soils in acid or calcareous situations",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Wildflower meadow"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Borage",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Boraginales"
+        ],
+        "genus": "Lycopsis",
+        "species": "Small bugloss"
     },
     "botanical_details": {
-        "family": "Boraginaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Eurasia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Anchusa can be erect or spreading perennials, biennials or annuals with hairy or bristly foliage and cymes of tubular or salver-shaped, usually blue flowers",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Occurs naturally on disturbed ground on light or sandy soils in acid or calcareous situations",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Lycopsis_arvensis.html",
-        "filename": "318959-lycopsis-arvensis.json",
-        "latin_name": "Lycopsis arvensis",
-        "common_names": [
-            "Small bugloss",
-            "Bugloss"
-        ],
-        "synonyms": [
-            "Lycopsis arvensis"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Воловик полевой",
-                "Кривоцвет полевой",
-                "Анхуза полевая"
-            ],
-            "synonyms": [
-                "Lycopsis arvensis"
-            ]
-        },
-        "rank": 6897,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Boraginales"
-            ],
-            "family": "Borage",
-            "genus": "Lycopsis",
-            "species": "Small bugloss"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Lycopsis arvensis",
-    "display_name": "Bugloss",
-    "clear_main_name": "Lycopsis arvensis",
-    "pt_search_main_name": "Lycopsis arvensis"
+        "habit": "Bushy"
+    }
 }

@@ -1,26 +1,41 @@
 {
-    "id": "cfa41dba-312a-43aa-b029-33117bf88850",
-    "link": "https://www.rhs.org.uk/plants/17836/streptosolen-jamesonii/details",
+    "latin_name": "Streptosolen jamesonii",
+    "main_common_name": {
+        "en": "Marmalade bush",
+        "ru": "Стрептосолен джеймсона"
+    },
+    "common_names": {
+        "en": [
+            "Orange browallia",
+            "Orange browallia",
+            "Fire bush",
+            "Marmalade bush",
+            "Yellow heliotrope shrub",
+            "Firebush [2]"
+        ],
+        "ru": [
+            "Стрептосолен джеймсона"
+        ]
+    },
+    "synonyms": [
+        "Browallia jamesonii",
+        "Streptosolen benthami",
+        "Streptosolen jamesonii"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Climber Wall Shrub"
     ],
-    "names": {
-        "other_common_names": [
-            "orange browallia",
-            "firebush [2]"
-        ],
-        "synonyms": [
-            "Browallia jamesonii"
-        ]
-    },
+    "genus_description": "Streptosolen are scandent evergreen shrubs with simple, alternate leaves and terminal clusters of slender-tubed, salver-shaped flowers from late spring to late summer",
+    "rank": 4981,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -33,7 +48,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,138 +104,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
-    },
-    "botanical_details": {
-        "family": "Solanaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Climbing",
-        "genus": "Streptosolen are scandent evergreen shrubs with simple, alternate leaves and terminal clusters of slender-tubed, salver-shaped flowers from late spring to late summer",
-        "name_status": "Correct",
-        "plant_range": "Colombia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in loam-based potting compost in full light with shade from hot sun. Grow outdoors in fertile moist but well-drained soil in full sun in a frost-free area. Grow against a wall or among other shrubs",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood or semi-hardwood cuttings or layering",
-            "link_names": [
-                "Softwood",
-                "Semi-hardwood",
-                "Layering"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Wall side borders",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 or pruning group 9 in late winter or pruning group 13 in spring",
-            "link_names": [
-                "Pruning group 8",
-                "Pruning group 9",
-                "Pruning group 13"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
-                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be attacked by glasshouse whitefly, aphids and glasshouse red spider mite",
-            "link_names": [
-                "Glasshouse whitefly",
-                "Aphids",
-                "Glasshouse red spider mite"
-            ],
-            "related_links": {
-                "glasshouse_whitefly": "https://www.rhs.org.uk/biodiversity/glasshouse-whitefly",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Streptosolen_jamesonii.html",
-        "filename": "17836-streptosolen-jamesonii.json",
-        "latin_name": "Streptosolen jamesonii",
-        "common_names": [
-            "Marmalade bush",
-            "Yellow Heliotrope Shrub",
-            "Orange browallia",
-            "Fire bush"
+        "cultivation": "Grow under glass in loam-based potting compost in full light with shade from hot sun. Grow outdoors in fertile moist but well-drained soil in full sun in a frost-free area. Grow against a wall or among other shrubs",
+        "propagation": [
+            "Softwood",
+            "Semi-hardwood",
+            "Layering"
         ],
-        "synonyms": [
-            "Browallia jamesonii",
-            "Streptosolen benthami",
-            "Streptosolen jamesonii"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Wall side borders",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Стрептосолен Джеймсона"
-            ],
-            "synonyms": [
-                "Browallia jamesonii",
-                "Streptosolen benthami",
-                "Streptosolen jamesonii"
-            ]
-        },
-        "rank": 4981,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Nightshades",
-                "Bindweeds",
-                "Gooseweeds",
-                "And allies"
-            ],
-            "family": "Nightshade",
-            "genus": "Marmalade bush",
-            "species": "Marmalade bush"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Leaf beetles",
-            "Wilting after blooming"
+        "pruning": [
+            "Pruning group 8",
+            "Pruning group 9",
+            "Pruning group 13"
         ]
     },
-    "main_name_original": "Streptosolen jamesonii",
-    "display_name": "Marmalade bush",
-    "clear_main_name": "Streptosolen jamesonii",
-    "pt_search_main_name": "Streptosolen jamesonii"
+    "diseases_and_pests": [
+        "Wilting after blooming",
+        "Leaf beetles",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Nightshade",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Nightshades",
+            "Bindweeds",
+            "Gooseweeds",
+            "And allies"
+        ],
+        "genus": "Marmalade bush",
+        "species": "Marmalade bush"
+    },
+    "botanical_details": {
+        "plant_range": "Colombia",
+        "foliage": "Evergreen",
+        "habit": "Climbing"
+    }
 }

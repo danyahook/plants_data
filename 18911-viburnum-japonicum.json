@@ -1,22 +1,38 @@
 {
-    "id": "13e43164-54bb-4309-a0e1-72b01eacada0",
-    "link": "https://www.rhs.org.uk/plants/18911/viburnum-japonicum/details",
+    "latin_name": "Viburnum japonicum",
+    "main_common_name": {
+        "en": "Viburnum japonicum",
+        "ru": "Viburnum japonicum"
+    },
+    "common_names": {
+        "en": [
+            "Viburnum japonicum"
+        ],
+        "ru": [
+            "Viburnum japonicum"
+        ]
+    },
+    "synonyms": [
+        "Viburnum japonicum var. fruticosum",
+        "Viburnum fusiforme",
+        "Cornus japonicum",
+        "Viburnum japonicum",
+        "Viburnum odoratissimum misapplied",
+        "Viburnum macrophyllum blume"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Viburnum odoratissimum misapplied",
-            "Viburnum macrophyllum Blume"
-        ]
-    },
+    "genus_description": "Viburnum can be deciduous or evergreen shrubs with opposite, simple or palmately lobed leaves and clusters of small, often fragrant white or pink flowers, followed by red, blue or black berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,6 +46,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -70,137 +103,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade, with protection from cold, drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe",
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": [
+            "Pruning group 8"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Moschatel",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Honeysuckles",
+            "Moschatels",
+            "Allies"
+        ],
+        "genus": "Viburnum",
+        "species": "Viburnum japonicum"
     },
     "botanical_details": {
-        "family": "Viburnaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Viburnum can be deciduous or evergreen shrubs with opposite, simple or palmately lobed leaves and clusters of small, often fragrant white or pink flowers, followed by red, blue or black berries",
-        "name_status": "Correct",
-        "plant_range": "Japan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moderately fertile, moist but well-drained soil in full sun or part shade, with protection from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown in a cold frame in autumn, by semi-ripe cuttings in summer, or by grafting in late summer or winter",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 (evergreens)",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and viburnum beetle",
-            "link_names": [
-                "Aphids",
-                "Viburnum beetle"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "viburnum_beetle": "https://www.rhs.org.uk/biodiversity/viburnum-beetle"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Phytophthora, honey fungus, grey moulds and leaf spot",
-            "link_names": [
-                "Phytophthora",
-                "Honey fungus",
-                "Grey moulds"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Viburnum_japonicum.html",
-        "filename": "18911-viburnum-japonicum.json",
-        "latin_name": "Viburnum japonicum",
-        "common_names": [
-            "Viburnum japonicum"
-        ],
-        "synonyms": [
-            "Viburnum japonicum var. fruticosum",
-            "Cornus japonicum",
-            "Viburnum fusiforme",
-            "Viburnum japonicum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Viburnum japonicum"
-            ],
-            "synonyms": [
-                "Viburnum japonicum var. fruticosum",
-                "Cornus japonicum",
-                "Viburnum fusiforme",
-                "Viburnum japonicum"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {
-            "water": "Every 1-2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Honeysuckles",
-                "Moschatels",
-                "Allies"
-            ],
-            "family": "Moschatel",
-            "genus": "Viburnum",
-            "species": "Viburnum japonicum"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Viburnum japonicum",
-    "display_name": "",
-    "clear_main_name": "Viburnum japonicum",
-    "pt_search_main_name": "Viburnum japonicum"
+        "habit": "Bushy"
+    }
 }

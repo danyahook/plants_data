@@ -1,22 +1,30 @@
 {
-    "id": "76588c26-11d2-4542-ae00-ab66aad85df4",
-    "link": "https://www.rhs.org.uk/plants/16845/scilla-italica/details",
+    "latin_name": "Scilla italica",
+    "main_common_name": {
+        "en": "Italian bluebell",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Scilla italica"
+    ],
     "tags": [
         "Bulbs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Scilla italica"
-        ]
-    },
+    "genus_description": "Hyacinthoides are bulbous perennials with linear to strap-shaped leaves and bell-shaped or star-shaped blue, violet or white flowers in spring",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0–0.1 metre"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -64,75 +90,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Plant 8cm deep in autumn in moderately fertile, humus-rich, well-drained soil that does not dry out",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Coastal",
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asparagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asparagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S Europe",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Ingestion may cause severe discomfort. Wear gloves and wash hands after handling",
-        "genus": "Hyacinthoides are bulbous perennials with linear to strap-shaped leaves and bell-shaped or star-shaped blue, violet or white flowers in spring",
-        "name_status": "Correct",
-        "plant_range": "S Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Plant 8cm deep in autumn in moderately fertile, humus-rich, well-drained soil that does not dry out",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown in pots in a cold frame when ripe, keep shaded and do not allow to dry out. Alternatively remove offsets in summer",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Coastal",
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Scilla italica",
-    "display_name": "Italian bluebell",
-    "clear_main_name": "Scilla italica",
-    "pt_search_main_name": "Scilla italica"
+        "habit": "Bushy"
+    }
 }

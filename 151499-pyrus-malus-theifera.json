@@ -1,23 +1,31 @@
 {
-    "id": "862f762b-48c2-498b-9f20-3cecabace1c7",
-    "link": "https://www.rhs.org.uk/plants/151499/pyrus-malus-theifera/details",
+    "latin_name": "Pyrus malus theifera",
+    "main_common_name": {
+        "en": "Hupeh crab",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Malus theifera",
+        "Pyrus malus theifera"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Pyrus malus theifera",
-            "Malus theifera"
-        ]
-    },
+    "genus_description": "Malus are small to medium-sized deciduous trees with showy flowers in spring and ornamental or edible fruit in autumn; some have good autumn foliage colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,6 +40,24 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -71,103 +97,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile soil; will tolerate partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Chip budding",
+            "Grafting"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "North–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China",
         "foliage": "Deciduous",
-        "genus": "Malus are small to medium-sized deciduous trees with showy flowers in spring and ornamental or edible fruit in autumn; some have good autumn foliage colour",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile soil; will tolerate partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in a seedbed in autumn or by chip budding in late summer. Grafting can be carried out in midwinter",
-            "link_names": [
-                "Propagate by seed",
-                "Chip budding",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, including woolly aphid and rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
-            "link_names": [
-                "Aphids",
-                "Woolly aphid",
-                "Rosy apple aphid",
-                "Red spider mite"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
-                "rosy_apple_aphid": "https://www.rhs.org.uk/biodiversity/rosy-apple-aphid",
-                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to apple canker, apple scab, blossom wilt, brown rot, fireblight, honey fungus and powdery mildews",
-            "link_names": [
-                "Apple canker",
-                "Apple scab",
-                "Brown rot",
-                "Fireblight",
-                "Honey fungus",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
-                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
-                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Pyrus malus theifera",
-    "display_name": "Hupeh crab",
-    "clear_main_name": "Pyrus malus theifera",
-    "pt_search_main_name": "Pyrus malus theifera"
+        "habit": null
+    }
 }

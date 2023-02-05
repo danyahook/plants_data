@@ -1,22 +1,40 @@
 {
-    "id": "84ba8c78-cfa7-4875-a275-3fb12b97b78a",
-    "link": "https://www.rhs.org.uk/plants/9134/ilex-pedunculosa/details",
+    "latin_name": "Ilex pedunculosa",
+    "main_common_name": {
+        "en": "Long-stalk holly",
+        "ru": "Падуб цветоножковый"
+    },
+    "common_names": {
+        "en": [
+            "Long-stalk holly"
+        ],
+        "ru": [
+            "Падуб цветоножковый"
+        ]
+    },
+    "synonyms": [
+        "Ilex pedunculosa",
+        "Ilex pedunculosa var. senjoensis",
+        "Ilex morii",
+        "Ilex pedunculosa f. longipedunculata",
+        "Ilex purpurea var. leveilleana",
+        "Ilex pedunculosa f. continentalis",
+        "Ilex impressivena"
+    ],
     "tags": [
         "Shrubs",
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Ilex pedunculosa f. continentalis"
-        ]
-    },
+    "genus_description": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
+    "rank": 2578,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -30,7 +48,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,152 +110,44 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Aquifoliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Columnar upright, Bushy",
-        "potentially_harmful": "Berries may cause mild stomach upset if ingested. Wear gloves and other protective equipment when handling",
-        "genus": "Ilex can be deciduous or evergreen shrubs and trees with often spiny leaves, small white flowers (male and female usually on separate plants) and, on female plants, showy berries in autumn",
-        "name_status": "Correct",
-        "plant_range": "China Japan Taiwan"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained soil in full sun or part shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in late summer or early autumn or propagate by hardwood cuttings in January with bottom heat",
-            "link_names": [
-                "Semi-ripe",
-                "Hardwood"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; trim hedges in early spring",
-            "link_names": [
-                "Pruning group 1",
-                "Trim hedges"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "trim_hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, holly leaf miner and young shoots may be susceptible to aphids",
-            "link_names": [
-                "Scale insects",
-                "Holly leaf miner",
-                "Aphids"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "holly_leaf_miner": "https://www.rhs.org.uk/biodiversity/holly-leaf-miner",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to holly leaf blight, Phytophthora root rot and sometimes honey fungus",
-            "link_names": [
-                "Holly leaf blight",
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "holly_leaf_blight": "https://www.rhs.org.uk/disease/holly-leaf-blight",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Ilex_pedunculosa.html",
-        "filename": "9134-ilex-pedunculosa.json",
-        "latin_name": "Ilex pedunculosa",
-        "common_names": [
-            "Long-stalk holly"
+        "cultivation": "Grow in moist but well-drained soil in full sun or part shade",
+        "propagation": [
+            "Semi-ripe",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Ilex impressivena",
-            "Ilex pedunculosa f. longipedunculata",
-            "Ilex purpurea var. leveilleana",
-            "Ilex morii",
-            "Ilex pedunculosa var. senjoensis",
-            "Ilex pedunculosa f. continentalis",
-            "Ilex pedunculosa"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Падуб цветоножковый"
-            ],
-            "synonyms": [
-                "Ilex impressivena",
-                "Ilex pedunculosa f. longipedunculata",
-                "Ilex purpurea var. leveilleana",
-                "Ilex morii",
-                "Ilex pedunculosa var. senjoensis",
-                "Ilex pedunculosa f. continentalis",
-                "Ilex pedunculosa"
-            ]
-        },
-        "rank": 2578,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "8 - 9",
-            "planting_time": "Fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Hollies",
-                "Allies"
-            ],
-            "family": "Holly",
-            "genus": "Ilex",
-            "species": "Long-stalk holly"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Brown spot",
-            "Plant dried up",
-            "Aged yellow and dry",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 1",
+            "Trim hedges"
         ]
     },
-    "main_name_original": "Ilex pedunculosa",
-    "display_name": "",
-    "clear_main_name": "Ilex pedunculosa",
-    "pt_search_main_name": "Ilex pedunculosa"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Plant dried up",
+        "Leaf beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Holly",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Hollies",
+            "Allies"
+        ],
+        "genus": "Ilex",
+        "species": "Long-stalk holly"
+    },
+    "botanical_details": {
+        "plant_range": "China Japan Taiwan",
+        "foliage": "Evergreen",
+        "habit": "Columnar upright, Bushy"
+    }
 }

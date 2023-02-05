@@ -1,26 +1,33 @@
 {
-    "id": "42e6ad14-51a3-4ff5-88bf-fba8dcf9479c",
-    "link": "https://www.rhs.org.uk/plants/44416/papaver-spicatum/details",
+    "latin_name": "Papaver spicatum",
+    "main_common_name": {
+        "en": "Spike-flowered hairy poppy",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Spiked poppy"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Papaver spicatum",
+        "Papaver heldreichii"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "spiked poppy"
-        ],
-        "synonyms": [
-            "Papaver spicatum",
-            "Papaver heldreichii"
-        ]
-    },
+    "genus_description": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,80 +98,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in deep, fertile, well-drained soil in a sunny position",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Patio and container plants",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Papaveraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Papaveraceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Asia Minor",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
-        "name_status": "Correct",
-        "plant_range": "Asia Minor"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep, fertile, well-drained soil in a sunny position",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame, or by division, in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Patio and container plants",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May suffer from aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by fungal wilts and downy mildews",
-            "link_names": [
-                "Downy mildews"
-            ],
-            "related_links": {
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews"
-            }
-        }
-    },
-    "main_name_original": "Papaver spicatum",
-    "display_name": "Spike-flowered hairy poppy",
-    "clear_main_name": "Papaver spicatum",
-    "pt_search_main_name": "Papaver spicatum"
+        "habit": "Bushy"
+    }
 }

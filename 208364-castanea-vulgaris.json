@@ -1,30 +1,37 @@
 {
-    "id": "51b0cd69-3069-4e13-be27-4c833b69066b",
-    "link": "https://www.rhs.org.uk/plants/208364/castanea-vulgaris/details",
+    "latin_name": "Castanea vulgaris",
+    "main_common_name": {
+        "en": "Sweet chestnut",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Sardian nut",
+            "Common chestnut",
+            "Eurasian chestnut",
+            "European chestnut",
+            "Spanish chestnut"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Castanea vulgaris",
+        "Castanea vesca"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "common chestnut",
-            "Eurasian chestnut",
-            "European chestnut",
-            "Sardian nut",
-            "Spanish chestnut"
-        ],
-        "synonyms": [
-            "Castanea vesca",
-            "Castanea vulgaris"
-        ]
-    },
+    "genus_description": "Castanea are fast-growing and large deciduous trees or large shrubs, with long, toothed leaves and conspicuous yellow catkins followed by spiny fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -36,7 +43,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,82 +96,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S. Europe, N. America, SW Asia, N. Africa",
         "foliage": "Deciduous",
-        "genus": "Castanea are fast-growing and large deciduous trees or large shrubs, with long, toothed leaves and conspicuous yellow catkins followed by spiny fruits",
-        "name_status": "Correct",
-        "plant_range": "S. Europe, N. America, SW Asia, N. Africa"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to phytophthora, leaf spot, chestnut blight and honey fungus",
-            "link_names": [
-                "Phytophthora",
-                "Chestnut blight",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "chestnut_blight": "https://www.rhs.org.uk/disease/chestnut-blight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Castanea vulgaris",
-    "display_name": "Sweet chestnut",
-    "clear_main_name": "Castanea vulgaris",
-    "pt_search_main_name": "Castanea vulgaris"
+        "habit": null
+    }
 }

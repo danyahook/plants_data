@@ -1,26 +1,33 @@
 {
-    "id": "b51dadbf-1b82-4b72-876e-4c1cf28d7006",
-    "link": "https://www.rhs.org.uk/plants/204991/briza-major/details",
+    "latin_name": "Briza major",
+    "main_common_name": {
+        "en": "Greater quaking grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Great quaking grass",
+            "Pearl grass [2]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Briza major"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "great quaking grass",
-            "pearl grass [2]"
-        ],
-        "synonyms": [
-            "Briza major"
-        ]
-    },
+    "genus_description": "Briza can be annual or perennial grasses forming dense tufts of linear leaves, with long-lasting, open panicles of nodding spikelets on slender branches; useful for dried flower arrangement",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,7 +43,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing",
+            "North–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,72 +93,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most well-drained fertile soils in a sunny position",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing",
-            "North–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Cut flowers"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Mediterranean",
         "foliage": "Deciduous",
-        "habit": "Tufted",
-        "genus": "Briza can be annual or perennial grasses forming dense tufts of linear leaves, with long-lasting, open panicles of nodding spikelets on slender branches; useful for dried flower arrangement",
-        "name_status": "Correct",
-        "plant_range": "Mediterranean"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most well-drained fertile soils in a sunny position",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, sown in situ in spring or autumn",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Cut flowers"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Briza major",
-    "display_name": "Greater quaking grass",
-    "clear_main_name": "Briza major",
-    "pt_search_main_name": "Briza major"
+        "habit": "Tufted"
+    }
 }

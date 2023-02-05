@@ -1,21 +1,29 @@
 {
-    "id": "b1da0a14-d92c-4afc-b6c2-f2999872b21a",
-    "link": "https://www.rhs.org.uk/plants/25759/malus-trilobata/details",
+    "latin_name": "Malus trilobata",
+    "main_common_name": {
+        "en": "Lebanese wild apple",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Eriolobus trilobatus"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Eriolobus trilobatus"
-        ]
-    },
+    "genus_description": "Malus are small to medium-sized deciduous trees with showy flowers in spring and ornamental or edible fruit in autumn; some have good autumn foliage colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +38,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "North–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -67,101 +94,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile soil in a sunny position; will tolerate partial shade",
+        "propagation": [
+            "Chip budding",
+            "Grafting"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "North–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Mediterranean, N E Greece",
         "foliage": "Deciduous",
-        "genus": "Malus are small to medium-sized deciduous trees with showy flowers in spring and ornamental or edible fruit in autumn; some have good autumn foliage colour",
-        "name_status": "Correct",
-        "plant_range": "E Mediterranean, N E Greece"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile soil in a sunny position; will tolerate partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in a seedbed in autumn, by chip budding in late summer or grafting in midwinter",
-            "link_names": [
-                "Chip budding",
-                "Grafting"
-            ],
-            "related_links": {
-                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, including woolly aphid and rosy apple aphid, fruit tree red spider mite, codling moth and other caterpillars",
-            "link_names": [
-                "Aphids",
-                "Woolly aphid",
-                "Rosy apple aphid",
-                "Red spider mite"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "woolly_aphid": "https://www.rhs.org.uk/biodiversity/woolly-aphid",
-                "rosy_apple_aphid": "https://www.rhs.org.uk/biodiversity/rosy-apple-aphid",
-                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to apple canker, apple scab, blossom wilt, brown rot, fireblight, honey fungus and powdery mildews",
-            "link_names": [
-                "Apple canker",
-                "Apple scab",
-                "Brown rot",
-                "Fireblight",
-                "Honey fungus",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "apple_canker": "https://www.rhs.org.uk/disease/apple-canker",
-                "apple_scab": "https://www.rhs.org.uk/disease/apple-and-pear-scab",
-                "brown_rot": "https://www.rhs.org.uk/disease/brown-rot",
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Malus trilobata",
-    "display_name": "Lebanese wild apple",
-    "clear_main_name": "Malus trilobata",
-    "pt_search_main_name": "Malus trilobata"
+        "habit": null
+    }
 }

@@ -1,22 +1,36 @@
 {
-    "id": "5c4743d6-4223-40e2-886f-128864d78cb9",
-    "link": "https://www.rhs.org.uk/plants/137/acantholimon-echinus-misapplied/details",
+    "latin_name": "Acantholimon echinus misapplied",
+    "main_common_name": {
+        "en": "Purple parsnip",
+        "ru": "Дудник гигантский"
+    },
+    "common_names": {
+        "en": [
+            "Purple parsnip",
+            "Giant angelica",
+            "Korean angelica"
+        ],
+        "ru": [
+            "Дудник гигантский"
+        ]
+    },
+    "synonyms": [
+        "Angelica gigas"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "Korean angelica"
-        ]
-    },
+    "genus_description": "Angelica are large biennials or herbaceous perennials, some monocarpic, with pinnately or palmately divided leaves and small white or purple flowers in large umbels",
+    "rank": 10422,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam"
         ],
@@ -30,7 +44,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "North–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Purple"
@@ -72,111 +105,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow outdoors in full sun in very free-draining soil, such as an upright wall crevice, with protection from winter wet, or in an alpine house or frame in equal parts loam-based potting compost and coarse grit",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "North–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Umbellifers",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Carrots",
+            "Ivies and allies"
+        ],
+        "genus": "Angelica",
+        "species": "Korean angelica"
     },
     "botanical_details": {
-        "family": "Apiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan, Korea",
         "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Angelica are large biennials or herbaceous perennials, some monocarpic, with pinnately or palmately divided leaves and small white or purple flowers in large umbels",
-        "name_status": "Correct",
-        "plant_range": "Japan, Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow outdoors in full sun in very free-draining soil, such as an upright wall crevice, with protection from winter wet, or in an alpine house or frame in equal parts loam-based potting compost and coarse grit",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in spring, or by semi-ripe cuttings taken in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning needed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally problem free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Angelica_gigas.html",
-        "filename": "137-acantholimon-echinus-misapplied.json",
-        "latin_name": "Angelica gigas",
-        "common_names": [
-            "Purple parsnip",
-            "Giant angelica",
-            "Korean angelica"
-        ],
-        "synonyms": [
-            "Angelica gigas"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Дудник гигантский"
-            ],
-            "synonyms": [
-                "Angelica gigas"
-            ]
-        },
-        "rank": 10422,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Carrots",
-                "Ivies and allies"
-            ],
-            "family": "Umbellifers",
-            "genus": "Angelica",
-            "species": "Korean angelica"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Acantholimon echinus misapplied",
-    "display_name": "Ulex-like prickly thrift",
-    "clear_main_name": "Acantholimon echinus misapplied",
-    "pt_search_main_name": "Acantholimon echinus misapplied"
+        "habit": "Columnar upright"
+    }
 }

@@ -1,31 +1,38 @@
 {
-    "id": "13d8887d-cf55-47e5-a5e3-68c7143a8292",
-    "link": "https://www.rhs.org.uk/plants/318960/stenhammaria-maritima/details",
+    "latin_name": "Stenhammaria maritima",
+    "main_common_name": {
+        "en": "Oysterplant",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Gromwell",
+            "Sea bugloss",
+            "Oysterleaf",
+            "Sea lungwort"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Stenhammaria maritima",
+        "Mertensia simplicissima",
+        "Mertensia maritima subsp. asiatica",
+        "Mertensia asiatica"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "gromwell",
-            "oysterleaf",
-            "sea bugloss",
-            "sea lungwort"
-        ],
-        "synonyms": [
-            "Mertensia maritima subsp. asiatica",
-            "Mertensia asiatica",
-            "Stenhammaria maritima",
-            "Mertensia simplicissima"
-        ]
-    },
+    "genus_description": "Mertensia are herbaceous perennials with usually grey-green or blue-green leaves and nodding, blue, tubular or narrowly bell-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Sand"
         ],
         "moisture": [
@@ -37,7 +44,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -81,79 +105,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in sharply-drained, gritty soil with low fertility in full sun with some midday shade",
+        "propagation": [
+            "Propagate by seed",
+            "Divide"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Patio and container plants"
         ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Boraginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Boraginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Northern Hemisphere",
         "foliage": "Deciduous",
-        "habit": "Trailing",
-        "genus": "Mertensia are herbaceous perennials with usually grey-green or blue-green leaves and nodding, blue, tubular or narrowly bell-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Northern Hemisphere"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in sharply-drained, gritty soil with low fertility in full sun with some midday shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn; keep young plants shaded and do not allow the soil to dry out. Divide plants carefully as new growth begins in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Divide"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be attacked by slugs and snails",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Stenhammaria maritima",
-    "display_name": "Oysterplant",
-    "clear_main_name": "Stenhammaria maritima",
-    "pt_search_main_name": "Stenhammaria maritima"
+        "habit": "Trailing"
+    }
 }

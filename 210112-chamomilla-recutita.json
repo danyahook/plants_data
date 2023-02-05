@@ -1,29 +1,36 @@
 {
-    "id": "d38f4d8b-dfa7-433c-a151-e3caf54af503",
-    "link": "https://www.rhs.org.uk/plants/210112/chamomilla-recutita/details",
+    "latin_name": "Chamomilla recutita",
+    "main_common_name": {
+        "en": "Scented mayweed",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Wild chamomile [2]",
+            "German chamomile [2]",
+            "Horse gowan [3]",
+            "Sweet false chamomile"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Chamomilla recutita",
+        "Matricaria chamomilla"
+    ],
     "tags": [
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "sweet false chamomile",
-            "German chamomile [2]",
-            "horse gowan [3]",
-            "wild chamomile [2]"
-        ],
-        "synonyms": [
-            "Matricaria chamomilla",
-            "Chamomilla recutita"
-        ]
-    },
+    "genus_description": "Matricaria are a genus of hardy annuals with a pleasant aroma, often found in rock and herb gardens. They have erect stems with many branches and plentiful bipinnate leaves. Flowers are daisy-like and symmetrical and mainly white with yellow capitula.",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -36,6 +43,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Foliage",
@@ -73,66 +96,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Prefers light soil and as a cornfield weed, disturbed ground to germinate",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Wildflower meadow"
         ],
-        "exposure": "Exposed",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asteraceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Matricaria are a genus of hardy annuals with a pleasant aroma, often found in rock and herb gardens. They have erect stems with many branches and plentiful bipinnate leaves. Flowers are daisy-like and symmetrical and mainly white with yellow capitula.",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Prefers light soil and as a cornfield weed, disturbed ground to germinate",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Chamomilla recutita",
-    "display_name": "Scented mayweed",
-    "clear_main_name": "Chamomilla recutita",
-    "pt_search_main_name": "Chamomilla recutita"
+        "habit": "Bushy"
+    }
 }

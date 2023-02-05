@@ -1,26 +1,45 @@
 {
-    "id": "afa8469a-53e3-46be-af5e-51ca28fea91e",
-    "link": "https://www.rhs.org.uk/plants/99720/salix-purpurea/details",
+    "latin_name": "Salix purpurea",
+    "main_common_name": {
+        "en": "Purple willow",
+        "ru": "Ива пурпурная"
+    },
+    "common_names": {
+        "en": [
+            "Blue artic willow",
+            "Basket willow",
+            "Nana",
+            "Purple willow",
+            "Purpleosier willow",
+            "Bitter willow",
+            "Purple osier",
+            "Basket willow",
+            "Purple osier willow"
+        ],
+        "ru": [
+            "Ива пурпурная",
+            "Ива-желтолоз",
+            "Краснотал",
+            "Желтолозник"
+        ]
+    },
+    "synonyms": [
+        "Salix purpurea",
+        "Salix purpurea 'helix'"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "bitter willow",
-            "purple osier",
-            "basket willow"
-        ],
-        "synonyms": [
-            "Salix purpurea 'Helix'"
-        ]
-    },
+    "genus_description": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
+    "rank": 4837,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -35,7 +54,33 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [
+            "Mid winter",
+            "Late winter",
+            "Spring",
+            "Summer",
+            "Early fall"
+        ],
+        "planting": [
+            "Late spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,146 +120,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Salicaceae",
-        "native_to_the_uk": "Yes",
-        "foliage": "Deciduous",
-        "genus": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
-        "name_status": "Correct",
-        "plant_range": "Europe, C. Asia"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any deep moist well-drained soil in full sun. Dislikes shallow chalk soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood or hardwood cuttings",
-            "link_names": [
-                "Softwood",
-                "Hardwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
-            "link_names": [
-                "Willow anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Salix_purpurea.html",
-        "filename": "99720-salix-purpurea.json",
-        "latin_name": "Salix purpurea",
-        "common_names": [
-            "Purple willow",
-            "Basket willow",
-            "Purple osier willow",
-            "Purpleosier willow",
-            "Blue artic willow",
-            "Nana"
+        "cultivation": "Grow in any deep moist well-drained soil in full sun. Dislikes shallow chalk soils",
+        "propagation": [
+            "Softwood",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Salix purpurea"
+        "suggested_panting_places": [
+            "Coastal",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Ива пурпурная",
-                "Ива-желтолоз",
-                "Краснотал",
-                "Желтолозник"
-            ],
-            "synonyms": [
-                "Salix purpurea"
-            ]
-        },
-        "rank": 4837,
-        "items_data": {
-            "sunlight": "Full sun",
-            "planting_time": "Late spring",
-            "harvest_time": [
-                "Mid winter",
-                "Late winter",
-                "Spring",
-                "Summer",
-                "Early fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Nances",
-                "Spurges",
-                "Willows",
-                "Allies"
-            ],
-            "family": "Willow",
-            "genus": "Willows",
-            "species": "Purple willow"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Leaf rot",
-            "Underwatering",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Salix purpurea",
-    "display_name": "Purple willow",
-    "clear_main_name": "Salix purpurea",
-    "pt_search_main_name": "Salix purpurea"
+    "diseases_and_pests": [
+        "Leaf beetles",
+        "Sap-sucking insects",
+        "Underwatering",
+        "Leaf rot",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Willow",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Nances",
+            "Spurges",
+            "Willows",
+            "Allies"
+        ],
+        "genus": "Willows",
+        "species": "Purple willow"
+    },
+    "botanical_details": {
+        "plant_range": "Europe, C. Asia",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

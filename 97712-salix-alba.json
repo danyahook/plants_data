@@ -1,22 +1,49 @@
 {
-    "id": "f8c2ddae-60d2-47ae-ba42-6691e285828b",
-    "link": "https://www.rhs.org.uk/plants/97712/salix-alba/details",
+    "latin_name": "Salix alba",
+    "main_common_name": {
+        "en": "White willow",
+        "ru": "И́ва бе́лая"
+    },
+    "common_names": {
+        "en": [
+            "Swallow tail willow",
+            "White willow",
+            "Huntingdon willow",
+            "Sallow tree",
+            "Silver willow",
+            "Cricket-bat willow",
+            "Royal willow",
+            "Golden weeping willow",
+            "Water willow",
+            "Swallow-tailed willow"
+        ],
+        "ru": [
+            "И́ва бе́лая",
+            "Ветла́",
+            "Ива серебристая",
+            "Ракита",
+            "Ветловник",
+            "Белолоз",
+            "Верба",
+            "Белотал"
+        ]
+    },
+    "synonyms": [
+        "Salix alba"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Huntingdon willow",
-            "swallow-tailed willow"
-        ]
-    },
+    "genus_description": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
+    "rank": 1392,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +59,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -67,147 +115,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "East–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Salicaceae",
-        "native_to_the_uk": "Yes",
-        "foliage": "Deciduous",
-        "genus": "Salix are deciduous shrubs and trees of diverse habit, with simple leaves and tiny flowers in catkins, male and female usually on separate plants. Some are valued for their brightly coloured winter shoots, others for their foliage or showy male catkins",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in full sun in moist or wet soil; avoid planting near buildings because its roots take up a lot of water from a wide area",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in early summer or hardwood cuttings in winter; may also be propagated by large sets, up to 3.5m long and 2-3cm thick",
-            "link_names": [
-                "Softwood",
-                "Hardwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Cottage and informal garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to aphids, caterpillars, leaf beetles, sawflies, willow scale",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to willow anthracnose, scab, canker, honey fungus and rust",
-            "link_names": [
-                "Willow anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "willow_anthracnose": "https://www.rhs.org.uk/disease/willow-anthracnose-scab-and-canker",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Salix_alba.html",
-        "filename": "97712-salix-alba.json",
-        "latin_name": "Salix alba",
-        "common_names": [
-            "White willow",
-            "Royal Willow",
-            "Water willow",
-            "Silver willow",
-            "Cricket-bat willow",
-            "Golden weeping willow",
-            "Sallow tree",
-            "Huntingdon willow",
-            "Swallow Tail Willow"
+        "cultivation": "Grow in full sun in moist or wet soil; avoid planting near buildings because its roots take up a lot of water from a wide area",
+        "propagation": [
+            "Softwood",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Salix alba"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Cottage and informal garden"
         ],
-        "ru_data": {
-            "common_names": [
-                "И́ва бе́лая",
-                "Ветла́",
-                "Ива серебристая",
-                "Ракита",
-                "Ветловник",
-                "Белолоз",
-                "Верба",
-                "Белотал"
-            ],
-            "synonyms": [
-                "Salix alba"
-            ]
-        },
-        "rank": 1392,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "hardiness_zones": "2 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Nances",
-                "Spurges",
-                "Willows",
-                "Allies"
-            ],
-            "family": "Willow",
-            "genus": "Willows",
-            "species": "White willow"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Leaf rot",
-            "Underwatering",
-            "Leaf beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Salix alba",
-    "display_name": "White willow",
-    "clear_main_name": "Salix alba",
-    "pt_search_main_name": "Salix alba"
+    "diseases_and_pests": [
+        "Leaf beetles",
+        "Sap-sucking insects",
+        "Underwatering",
+        "Leaf rot",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Willow",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Nances",
+            "Spurges",
+            "Willows",
+            "Allies"
+        ],
+        "genus": "Willows",
+        "species": "White willow"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

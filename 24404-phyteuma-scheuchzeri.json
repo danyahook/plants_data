@@ -1,21 +1,38 @@
 {
-    "id": "3715e39d-b3e5-4f7d-886a-3214c97528ab",
-    "link": "https://www.rhs.org.uk/plants/24404/phyteuma-scheuchzeri/details",
+    "latin_name": "Phyteuma scheuchzeri",
+    "main_common_name": {
+        "en": "Oxford rampion",
+        "ru": "Кольник шейхцера"
+    },
+    "common_names": {
+        "en": [
+            "Oxford rampion",
+            "Horned rampion"
+        ],
+        "ru": [
+            "Кольник шейхцера"
+        ]
+    },
+    "synonyms": [
+        "Rapunculus scheuchzeri",
+        "Phyteuma corniculatum subsp. scheuchzeri",
+        "Phyteuma scheuchzeri",
+        "Phyteuma ovatum",
+        "Phyteuma corniculatum"
+    ],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {
-        "synonyms": [
-            "Phyteuma corniculatum"
-        ]
-    },
+    "genus_description": null,
+    "rank": 103637,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -30,7 +47,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,111 +98,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, well-drained soil in full sun",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Rock garden",
+            "Flower borders and beds"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Bellflower",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Asters bellflowers fanflowers",
+            "Allies"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "genus": "Phyteuma",
+        "species": "Oxford rampion"
     },
     "botanical_details": {
-        "family": "Campanulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Alps",
         "foliage": "Semi evergreen",
-        "habit": "Tufted",
-        "name_status": "Correct",
-        "plant_range": "Alps"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in a cold frame in containers in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Rock garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to slugs and snails",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Phyteuma_scheuchzeri.html",
-        "filename": "24404-phyteuma-scheuchzeri.json",
-        "latin_name": "Phyteuma scheuchzeri",
-        "common_names": [
-            "Oxford rampion",
-            "Horned rampion"
-        ],
-        "synonyms": [
-            "Rapunculus scheuchzeri",
-            "Phyteuma corniculatum",
-            "Phyteuma corniculatum subsp. scheuchzeri",
-            "Phyteuma ovatum",
-            "Phyteuma scheuchzeri"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Кольник Шейхцера"
-            ],
-            "synonyms": [
-                "Rapunculus scheuchzeri",
-                "Phyteuma corniculatum",
-                "Phyteuma corniculatum subsp. scheuchzeri",
-                "Phyteuma ovatum",
-                "Phyteuma scheuchzeri"
-            ]
-        },
-        "rank": 103637,
-        "items_data": {},
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Asters bellflowers fanflowers",
-                "Allies"
-            ],
-            "family": "Bellflower",
-            "genus": "Phyteuma",
-            "species": "Oxford rampion"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Phyteuma scheuchzeri",
-    "display_name": "Oxford rampion",
-    "clear_main_name": "Phyteuma scheuchzeri",
-    "pt_search_main_name": "Phyteuma scheuchzeri"
+        "habit": "Tufted"
+    }
 }

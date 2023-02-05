@@ -1,17 +1,31 @@
 {
-    "id": "e1afb2cb-dda0-4785-b637-1f93f3e8275c",
-    "link": "https://www.rhs.org.uk/plants/226601/helenium-luc/details",
+    "latin_name": "Helenium 'Luc'",
+    "main_common_name": {
+        "en": "Sneezeweeds 'luc'",
+        "ru": "Helenium 'luc'"
+    },
+    "common_names": {
+        "en": [
+            "Sneezeweeds 'luc'"
+        ],
+        "ru": [
+            "Helenium 'luc'"
+        ]
+    },
+    "synonyms": [],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {},
+    "genus_description": "Helenium may be upright, clump-forming annuals, biennials or herbaceous perennials with simple leaves and showy daisy-like flower-heads over a long period",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Chalk",
             "Loam",
@@ -26,7 +40,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,106 +99,39 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any fertile, moist but well-drained soil in full sun.",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Division"
         ],
-        "aspect_position": [
-            "East–facing",
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Prairie planting",
+            "Wildlife gardens",
+            "Cut flowers",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Daisy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Asters bellflowers fanflowers",
+            "Allies"
+        ],
+        "genus": "Sneezeweeds",
+        "species": null
     },
     "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Helenium may be upright, clump-forming annuals, biennials or herbaceous perennials with simple leaves and showy daisy-like flower-heads over a long period",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any fertile, moist but well-drained soil in full sun.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, or root basal softwood cuttings in a cold frame in spring. Propagate by division in spring.",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Prairie planting",
-                "Wildlife gardens",
-                "Cut flowers",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required. Cut back flower stems in winter or early spring.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to leaf spot",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Helenium 'Luc'",
-    "display_name": "Sneezewort 'luc'",
-    "clear_main_name": "Helenium Luc",
-    "pt_search_main_name": "Helenium 'Luc'",
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Helenium__Luc_.html",
-        "filename": "226601-helenium-luc.json",
-        "latin_name": "Helenium 'Luc'",
-        "common_names": [
-            "Sneezeweeds 'Luc'"
-        ],
-        "synonyms": [],
-        "ru_data": {
-            "common_names": [
-                "Helenium 'Luc'"
-            ],
-            "synonyms": []
-        },
-        "rank": 999999,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Asters bellflowers fanflowers",
-                "Allies"
-            ],
-            "family": "Daisy",
-            "genus": "Sneezeweeds"
-        },
-        "toxic_data": [],
-        "diseases_data": []
+        "habit": "Clump forming"
     }
 }

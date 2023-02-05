@@ -1,28 +1,35 @@
 {
-    "id": "42c0ccec-2bd0-4a87-97bb-5c095da87660",
-    "link": "https://www.rhs.org.uk/plants/324086/dracaena-australis/details",
+    "latin_name": "Dracaena australis",
+    "main_common_name": {
+        "en": "Cabbage palm",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "New zealand cabbage palm",
+            "Palm lily",
+            "Cabbage tree",
+            "New zealand dragon plant"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Dracaena australis"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "cabbage tree",
-            "New Zealand cabbage palm",
-            "New Zealand dragon plant",
-            "palm lily"
-        ],
-        "synonyms": [
-            "Dracaena australis"
-        ]
-    },
+    "genus_description": "Cordyline are palm-like evergreen shrubs or tree-like perennials, with rosettes or tufts of linear or anrrowly lance-shaped, leathery leaves, and terminal panicles of fragrant, cup-shaped flowers followed by small. spherical berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -37,6 +44,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -79,84 +102,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in well-drained soil in a sheltered position in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Suckers"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Coastal",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H3"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Asparagaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Asparagaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand",
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Cordyline are palm-like evergreen shrubs or tree-like perennials, with rosettes or tufts of linear or anrrowly lance-shaped, leathery leaves, and terminal panicles of fragrant, cup-shaped flowers followed by small. spherical berries",
-        "name_status": "Correct",
-        "plant_range": "New Zealand"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in a sheltered position in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or suckers",
-            "link_names": [
-                "Propagate by seed",
-                "Suckers"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Coastal",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Not usually pruned",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to glasshouse red spider mite and scale insects",
-            "link_names": [
-                "Glasshouse red spider mite",
-                "Scale insects"
-            ],
-            "related_links": {
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to cordyline slime flux and honey fungus (rarely)",
-            "link_names": [
-                "Cordyline slime flux",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "cordyline_slime_flux": "https://www.rhs.org.uk/disease/cordyline-slime-flux",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Dracaena australis",
-    "display_name": "Cabbage palm",
-    "clear_main_name": "Dracaena australis",
-    "pt_search_main_name": "Dracaena australis"
+        "habit": "Tufted"
+    }
 }

@@ -1,28 +1,35 @@
 {
-    "id": "55658cee-2bf7-4c63-b0b9-f8a74e2078ad",
-    "link": "https://www.rhs.org.uk/plants/254508/citrus-tahiti/details",
+    "latin_name": "Citrus 'Tahiti'",
+    "main_common_name": {
+        "en": "Persian lime",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Tahiti lime",
+            "Bearss lime"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Citrus 'tahiti'",
+        "Citrus × latifolia 'tahiti'"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bearss lime",
-            "Tahiti lime"
-        ],
-        "synonyms": [
-            "Citrus 'Tahiti'",
-            "Citrus × latifolia 'Tahiti'"
-        ]
-    },
+    "genus_description": "Citrus are typically evergreen shrubs or trees, frequently spiny, with simple, leathery, aromatic leaves, usually with winged stalks, and often fragrant white or pink-tinged flowers, followed by large, juicy fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam"
         ],
         "moisture": [
@@ -33,7 +40,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,86 +98,36 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Under glass, grow in loam-based potting compost (JI No. 2) in full light, with shade from hot sun. In growth, water freely, mist daily and apply a balanced liquid every 2-3 weeks; water sparingly in winter. See citrus cultivation for further information",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Mediterranean climate plants",
+            "Patio and container plants",
+            "Bedding",
+            "Conservatory and greenhouse",
+            "Edible fruit"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rutaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rutaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Citrus are typically evergreen shrubs or trees, frequently spiny, with simple, leathery, aromatic leaves, usually with winged stalks, and often fragrant white or pink-tinged flowers, followed by large, juicy fruits",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass, grow in loam-based potting compost (JI No. 2) in full light, with shade from hot sun. In growth, water freely, mist daily and apply a balanced liquid every 2-3 weeks; water sparingly in winter. See citrus cultivation for further information",
-            "link_names": [
-                "Citrus cultivation"
-            ],
-            "related_links": {
-                "citrus_cultivation": "https://www.rhs.org.uk/plants/citrus/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by semi-ripe cuttings in summer, or layer in early spring. Sow seed at 16°C in spring; seedlings do not come true to type",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Mediterranean climate plants",
-                "Patio and container plants",
-                "Bedding",
-                "Conservatory and greenhouse",
-                "Edible fruit"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "See pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, mealybugs and glasshouse red spider mite",
-            "link_names": [
-                "Scale insects",
-                "Mealybugs",
-                "Glasshouse red spider mite"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Citrus 'Tahiti'",
-    "display_name": "Persian lime",
-    "clear_main_name": "Citrus Tahiti",
-    "pt_search_main_name": "Citrus 'Tahiti'"
+        "habit": "Bushy"
+    }
 }

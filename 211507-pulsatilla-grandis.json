@@ -1,23 +1,31 @@
 {
-    "id": "c2475fef-4acd-42dd-9601-fd9214a7ada8",
-    "link": "https://www.rhs.org.uk/plants/211507/pulsatilla-grandis/details",
+    "latin_name": "Pulsatilla grandis",
+    "main_common_name": {
+        "en": "Greater pasqueflower",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Pulsatilla halleri subsp. grandis",
+        "Pulsatilla grandis"
+    ],
     "tags": [
         "Alpine Rockery",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Pulsatilla grandis",
-            "Pulsatilla halleri subsp. grandis"
-        ]
-    },
+    "genus_description": "Pulsatilla are herbaceous perennials forming clumps of finely dissected leaves, with solitary, hairy bell-shaped or cup-shaped flowers followed by silky-plumed seed-heads",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -31,7 +39,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -66,75 +90,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in very well-drained soil in full sun; suitable for rock garden, scree or alpine bed. Resents disturbance and can be hard to establish",
+        "propagation": [
+            "Propagate by seed",
+            "Root cuttings"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Rock garden",
+            "Patio and container plants"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Ranunculaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Ranunculaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "C Europe, Ukraine",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "potentially_harmful": "Can cause mild stomach upset if ingested. Wear gloves and wash hands after handling",
-        "genus": "Pulsatilla are herbaceous perennials forming clumps of finely dissected leaves, with solitary, hairy bell-shaped or cup-shaped flowers followed by silky-plumed seed-heads",
-        "name_status": "Correct",
-        "plant_range": "C Europe, Ukraine"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in very well-drained soil in full sun; suitable for rock garden, scree or alpine bed. Resents disturbance and can be hard to establish",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or take root cuttings in the winter",
-            "link_names": [
-                "Propagate by seed",
-                "Root cuttings"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Rock garden",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Slugs may eat the flowers",
-            "link_names": [
-                "Slugs"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Pulsatilla grandis",
-    "display_name": "Greater pasqueflower",
-    "clear_main_name": "Pulsatilla grandis",
-    "pt_search_main_name": "Pulsatilla grandis"
+        "habit": "Clump forming"
+    }
 }

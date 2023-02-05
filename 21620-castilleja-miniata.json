@@ -1,21 +1,38 @@
 {
-    "id": "71ca7e92-e4c3-4d6a-b89f-9053606a8727",
-    "link": "https://www.rhs.org.uk/plants/21620/castilleja-miniata/details",
+    "latin_name": "Castilleja miniata",
+    "main_common_name": {
+        "en": "Giant red indian paintbrush",
+        "ru": "Castilleja miniata"
+    },
+    "common_names": {
+        "en": [
+            "Giant red indian paintbrush",
+            "Greater red indian-paintbrush",
+            "Scarlet paintbrush",
+            "Common red paintbrush",
+            "Meadow paintbrush"
+        ],
+        "ru": [
+            "Castilleja miniata"
+        ]
+    },
+    "synonyms": [
+        "Castilleja miniata",
+        "Castilleja crista-galli"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "synonyms": [
-            "Castilleja crista-galli"
-        ]
-    },
+    "genus_description": "Castilleja can be annual or perennial herbaceous plants with bright red leaf-like bracts surrounding white to green flowers in early to mid-spring.",
+    "rank": 4150,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -29,7 +46,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,109 +101,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in full sun in moist but well-drained soil. Can also be grown successfully in pots; a host plant is not essential",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Broomrape",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Indian paintbrush",
+        "species": "Giant red Indian paintbrush"
     },
     "botanical_details": {
-        "family": "Orobanchaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "N America",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Castilleja can be annual or perennial herbaceous plants with bright red leaf-like bracts surrounding white to green flowers in early to mid-spring.",
-        "name_status": "Correct",
-        "plant_range": "N America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in full sun in moist but well-drained soil. Can also be grown successfully in pots; a host plant is not essential",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Castilleja_miniata.html",
-        "filename": "21620-castilleja-miniata.json",
-        "latin_name": "Castilleja miniata",
-        "common_names": [
-            "Giant red Indian paintbrush",
-            "Meadow paintbrush",
-            "Greater red Indian-paintbrush",
-            "Scarlet paintbrush",
-            "Common red paintbrush"
-        ],
-        "synonyms": [
-            "Castilleja miniata"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Castilleja miniata"
-            ],
-            "synonyms": [
-                "Castilleja miniata"
-            ]
-        },
-        "rank": 4150,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Broomrape",
-            "genus": "Indian paintbrush",
-            "species": "Giant red Indian paintbrush"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Castilleja miniata",
-    "display_name": "",
-    "clear_main_name": "Castilleja miniata",
-    "pt_search_main_name": "Castilleja miniata"
+        "habit": "Clump forming"
+    }
 }

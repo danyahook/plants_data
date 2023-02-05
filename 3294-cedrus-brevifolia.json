@@ -1,25 +1,32 @@
 {
-    "id": "7038f867-d2f5-4662-8126-47799dff01fe",
-    "link": "https://www.rhs.org.uk/plants/3294/cedrus-brevifolia/details",
+    "latin_name": "Cedrus brevifolia",
+    "main_common_name": {
+        "en": "Cyprus cedar",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Cypress cedar"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Cedrus libani subsp. brevifolia"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "cypress cedar"
-        ],
-        "synonyms": [
-            "Cedrus libani subsp. brevifolia"
-        ]
-    },
+    "genus_description": "Cedrus are large evergreen trees with needle-like leaves arranged spirally on young shoots, and in whorls on short spur-like side-shoots; ovoid cones break up to release the seeds while still attached to the tree",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +41,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -72,78 +97,30 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Good specimen tree but needs space to reach full potential. Grow in any well-drained soil",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Cyprus (mts)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Cedrus are large evergreen trees with needle-like leaves arranged spirally on young shoots, and in whorls on short spur-like side-shoots; ovoid cones break up to release the seeds while still attached to the tree",
-        "name_status": "Correct",
-        "plant_range": "Cyprus (mts)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Good specimen tree but needs space to reach full potential. Grow in any well-drained soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Cedrus brevifolia",
-    "display_name": "Cyprus cedar",
-    "clear_main_name": "Cedrus brevifolia",
-    "pt_search_main_name": "Cedrus brevifolia"
+        "habit": "Bushy"
+    }
 }

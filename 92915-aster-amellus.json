@@ -1,21 +1,43 @@
 {
-    "id": "fac1fe8a-2dbc-4907-879a-b2c62437d388",
-    "link": "https://www.rhs.org.uk/plants/92915/aster-amellus/details",
+    "latin_name": "Aster amellus",
+    "main_common_name": {
+        "en": "European michaelmas daisy",
+        "ru": "Астра ромашковая"
+    },
+    "common_names": {
+        "en": [
+            "Italian aster",
+            "European michaelmas daisy",
+            "Summer michaelmas daisy",
+            "Italian starwort"
+        ],
+        "ru": [
+            "Астра ромашковая",
+            "Астра звёздчатая",
+            "Астра многолетняя",
+            "Астра итальянская",
+            "Астра дикая",
+            "Астра европейская",
+            "Астра степная",
+            "Астра звёздная"
+        ]
+    },
+    "synonyms": [
+        "Aster amellus"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "Italian starwort"
-        ]
-    },
+    "genus_description": "Aster can be perennials, annuals or subshrubs, mostly with narrow leaves, and solitary or clustered, daisy-like flowers",
+    "rank": 3231,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -30,7 +52,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,152 +112,47 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Asteraceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Aster can be perennials, annuals or subshrubs, mostly with narrow leaves, and solitary or clustered, daisy-like flowers",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained, moderately fertile soil in an open, sunny position. See aster cultivation",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in spring or root softwood basal cuttings in spring",
-            "link_names": [
-                "Division",
-                "Softwood"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Wildflower meadow",
-                "Cut flowers",
-                "Flower borders and beds",
-                "Underplanting of roses and shrubs"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Deadhead spent flowers to tidy, cut back stem close to the ground in late autumn",
-            "link_names": [
-                "Deadhead"
-            ],
-            "related_links": {
-                "deadhead": "https://www.rhs.org.uk/garden-jobs/deadheading-plants"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leaf and bud eelworms, slugs and snails",
-            "link_names": [
-                "Leaf and bud eelworms",
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Asters may be susceptible to Verticillium wilt, Powdery mildews and grey moulds",
-            "link_names": [
-                "Verticillium wilt",
-                "Powdery mildews",
-                "Grey moulds"
-            ],
-            "related_links": {
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "grey_moulds": "https://www.rhs.org.uk/disease/grey-mould"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Aster_amellus.html",
-        "filename": "92915-aster-amellus.json",
-        "latin_name": "Aster amellus",
-        "common_names": [
-            "European michaelmas daisy",
-            "Italian aster",
-            "Summer michaelmas daisy",
-            "Italian starwort"
+        "cultivation": "Grow in well-drained, moderately fertile soil in an open, sunny position. See aster cultivation",
+        "propagation": [
+            "Division",
+            "Softwood"
         ],
-        "synonyms": [
-            "Aster amellus"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Wildflower meadow",
+            "Cut flowers",
+            "Flower borders and beds",
+            "Underplanting of roses and shrubs"
         ],
-        "ru_data": {
-            "common_names": [
-                "Астра ромашковая",
-                "Астра звёздчатая",
-                "Астра многолетняя",
-                "Астра итальянская",
-                "Астра дикая",
-                "Астра европейская",
-                "Астра степная",
-                "Астра звёздная"
-            ],
-            "synonyms": [
-                "Aster amellus"
-            ]
-        },
-        "rank": 3231,
-        "items_data": {
-            "water": "Every week",
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Asters bellflowers fanflowers",
-                "Allies"
-            ],
-            "family": "Daisy",
-            "genus": "Asters",
-            "species": "European michaelmas daisy"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Brown spot",
-            "Flower withering",
-            "Aged yellow and dry",
-            "Leaf beetles"
+        "pruning": [
+            "Deadhead"
         ]
     },
-    "main_name_original": "Aster amellus",
-    "display_name": "Italian aster",
-    "clear_main_name": "Aster amellus",
-    "pt_search_main_name": "Aster amellus"
+    "diseases_and_pests": [
+        "Flower withering",
+        "Aged yellow and dry",
+        "Leaf beetles",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Daisy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Asters bellflowers fanflowers",
+            "Allies"
+        ],
+        "genus": "Asters",
+        "species": "European michaelmas daisy"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Deciduous",
+        "habit": "Clump forming"
+    }
 }

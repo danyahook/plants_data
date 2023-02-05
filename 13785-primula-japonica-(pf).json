@@ -1,18 +1,39 @@
 {
-    "id": "a7072c4a-4700-40b7-905b-129174967aa7",
-    "link": "https://www.rhs.org.uk/plants/13785/primula-japonica-(pf)/details",
+    "latin_name": "Primula japonica",
+    "main_common_name": {
+        "en": "Japanese primrose",
+        "ru": "Первоцвет японский"
+    },
+    "common_names": {
+        "en": [
+            "Japanese cowslip",
+            "Queen of primroses",
+            "Valley red",
+            "Japanese primrose"
+        ],
+        "ru": [
+            "Первоцвет японский",
+            "Примула японская"
+        ]
+    },
+    "synonyms": [
+        "Primula japonica",
+        "Aleuritia japonica"
+    ],
     "tags": [
         "Bogs",
         "Herbaceous Perennial"
     ],
-    "names": {},
+    "genus_description": "Primula are herbaceous or semi-evergreen perennials, forming a basal rosette of simple leaves, with salver-shaped or bell-shaped flowers which may be solitary or carried in an umbel or in whorls on an erect stem",
+    "rank": 3047,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Loam"
         ],
         "moisture": [
@@ -23,7 +44,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -57,133 +97,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in deep moist or moist but well-drained neutral to acid, humus-rich soil in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Division",
+            "Root cuttings"
         ],
-        "aspect_position": [
-            "North–facing",
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Primrose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Heathers",
+            "Allies"
+        ],
+        "genus": "Primroses",
+        "species": "Japanese primrose"
     },
     "botanical_details": {
-        "family": "Primulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Japan",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Primula are herbaceous or semi-evergreen perennials, forming a basal rosette of simple leaves, with salver-shaped or bell-shaped flowers which may be solitary or carried in an umbel or in whorls on an erect stem",
-        "name_status": "Correct",
-        "horticultural_group": "Proliferae section primulas are moisture-loving herbaceous or semi-evergreen perennials forming a rosette of basal leaves, with erect stems each carrying several whorls of salver-shaped flowers",
-        "plant_range": "Japan"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep moist or moist but well-drained neutral to acid, humus-rich soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed. Sow on the surface of the compost as soon as ripe in late winter or early spring. Can be propagated by division between autumn and early spring. Take root cuttings when dormant in winter",
-            "link_names": [
-                "Propagate by seed",
-                "Division",
-                "Root cuttings"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "root_cuttings": "https://www.rhs.org.uk/propagation/root-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be attacked by aphids, vine weevil, slugs, leaf and bud eelworms and glasshouse red spider mite",
-            "link_names": [
-                "Aphids",
-                "Vine weevil",
-                "Slugs",
-                "Leaf and bud eelworms",
-                "Glasshouse red spider mite"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "leaf_and_bud_eelworms": "https://www.rhs.org.uk/biodiversity/foliar-nematodes",
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "May suffer from a virus, primula brown core and grey mould",
-            "link_names": [
-                "A virus"
-            ],
-            "related_links": {
-                "a_virus": "https://www.rhs.org.uk/disease/plant-viruses"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Primula_japonica.html",
-        "filename": "13785-primula-japonica-(pf).json",
-        "latin_name": "Primula japonica",
-        "common_names": [
-            "Japanese primrose",
-            "Japanese cowslip",
-            "Queen of primroses",
-            "Valley red"
-        ],
-        "synonyms": [
-            "Aleuritia japonica",
-            "Primula japonica"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Первоцвет японский",
-                "Примула японская"
-            ],
-            "synonyms": [
-                "Aleuritia japonica",
-                "Primula japonica"
-            ]
-        },
-        "rank": 3047,
-        "items_data": {
-            "water": "Every week"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Heathers",
-                "Allies"
-            ],
-            "family": "Primrose",
-            "genus": "Primroses",
-            "species": "Japanese primrose"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Primula japonica",
-    "display_name": "Japanese primrose",
-    "clear_main_name": "Primula japonica",
-    "pt_search_main_name": "Primula japonica"
+        "habit": "Bushy"
+    }
 }

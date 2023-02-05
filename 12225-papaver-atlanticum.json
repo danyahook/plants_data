@@ -1,17 +1,36 @@
 {
-    "id": "c156294f-8be1-4539-839e-f0acd3fb5748",
-    "link": "https://www.rhs.org.uk/plants/12225/papaver-atlanticum/details",
+    "latin_name": "Papaver atlanticum",
+    "main_common_name": {
+        "en": "Atlas poppy",
+        "ru": "Мак атлантический"
+    },
+    "common_names": {
+        "en": [
+            "Atlas poppy",
+            "Spanish poppy",
+            "Moroccan poppy",
+            "Atlantic poppy"
+        ],
+        "ru": [
+            "Мак атлантический"
+        ]
+    },
+    "synonyms": [
+        "Papaver atlanticum"
+    ],
     "tags": [
         "Herbaceous Perennial"
     ],
-    "names": {},
+    "genus_description": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
+    "rank": 107711,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -26,7 +45,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -74,114 +112,38 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any good, moist but well-drained soil in sun or partial shade",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "North–facing",
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Coastal",
+            "Rock garden",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poppy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Buttercups",
+            "Poppies",
+            "Allies"
+        ],
+        "genus": "Poppies",
+        "species": "Atlas poppy"
     },
     "botanical_details": {
-        "family": "Papaveraceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Morocco",
         "foliage": "Semi evergreen",
-        "habit": "Bushy",
-        "genus": "Papaver can be annuals, biennials or herbaceous perennials with simple or pinnately divided leaves and short-lived, saucer-shaped, 4-petalled flowers which may be solitary or in racemes",
-        "name_status": "Correct",
-        "plant_range": "Morocco"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any good, moist but well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Rock garden",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None needed",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Papaver_atlanticum.html",
-        "filename": "12225-papaver-atlanticum.json",
-        "latin_name": "Papaver atlanticum",
-        "common_names": [
-            "Atlas poppy",
-            "Moroccan poppy",
-            "Spanish poppy",
-            "Atlantic poppy"
-        ],
-        "synonyms": [
-            "Papaver atlanticum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Мак атлантический"
-            ],
-            "synonyms": [
-                "Papaver atlanticum"
-            ]
-        },
-        "rank": 107711,
-        "items_data": {
-            "water": "Every week"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Buttercups",
-                "Poppies",
-                "Allies"
-            ],
-            "family": "Poppy",
-            "genus": "Poppies",
-            "species": "Atlas poppy"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Papaver atlanticum",
-    "display_name": "Atlas poppy",
-    "clear_main_name": "Papaver atlanticum",
-    "pt_search_main_name": "Papaver atlanticum"
+        "habit": "Bushy"
+    }
 }

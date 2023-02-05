@@ -1,25 +1,54 @@
 {
-    "id": "7646277f-e642-4ce0-9345-bf5d5f3e1001",
-    "link": "https://www.rhs.org.uk/plants/41249/salvia-sclarea/details",
+    "latin_name": "Salvia sclarea",
+    "main_common_name": {
+        "en": "Clary sage",
+        "ru": "Шалфей мускатный"
+    },
+    "common_names": {
+        "en": [
+            "Clary sage",
+            "Herb clary",
+            "See-bright",
+            "Clary",
+            "Biennial clary sage",
+            "Clear eye",
+            "Clear-eyes",
+            "Eyebright"
+        ],
+        "ru": [
+            "Шалфей мускатный",
+            "Шалфей большой",
+            "Шалфей французский"
+        ]
+    },
+    "synonyms": [
+        "Aethiopis sclarea",
+        "Salvia lucana",
+        "Salvia coarctata",
+        "Salvia pamirica",
+        "Salvia haematodes",
+        "Salvia calostachya",
+        "Salvia turkestanica",
+        "Salvia sclarea",
+        "Salvia sclarea var. turkestanica",
+        "Sclarea vulgaris",
+        "Salvia sclarea var. calostachya",
+        "Salvia altilabrosa",
+        "Salvia simsiana"
+    ],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "biennial clary sage",
-            "clear eye",
-            "clear-eyes",
-            "herb clary",
-            "see-bright"
-        ]
-    },
+    "genus_description": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
+    "rank": 3314,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -31,6 +60,26 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [
+            "Summer",
+            "Fall"
+        ],
+        "planting": [
+            "Spring",
+            "Fall"
         ]
     },
     "colour_and_scent": {
@@ -70,161 +119,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil. Best in full sun but can tolerate light partial shade",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Brown spot",
+        "Wilting after blooming",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Mint",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Sages",
+        "species": "Clary sage"
     },
     "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in light, moderately fertile, humus-rich, moist but well-drained soil. Best in full sun but can tolerate light partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, in pots in a cold frame in spring. Alternatively sow in situ in spring",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Often dies after flowering. Do not remove flowers to allow self-seeding",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May get slugs, snails and leafhoppers",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely), powdery mildews, verticillium wilt and foot and root rots",
-            "link_names": [
-                "Honey fungus",
-                "Powdery mildews",
-                "Verticillium wilt"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews",
-                "verticillium_wilt": "https://www.rhs.org.uk/disease/verticillium-wilt"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Salvia_sclarea.html",
-        "filename": "41249-salvia-sclarea.json",
-        "latin_name": "Salvia sclarea",
-        "common_names": [
-            "Clary sage",
-            "Eyebright",
-            "Clary"
-        ],
-        "synonyms": [
-            "Salvia sclarea var. turkestanica",
-            "Salvia haematodes",
-            "Sclarea vulgaris",
-            "Salvia turkestanica",
-            "Salvia pamirica",
-            "Salvia simsiana",
-            "Salvia lucana",
-            "Salvia coarctata",
-            "Salvia calostachya",
-            "Salvia sclarea var. calostachya",
-            "Salvia altilabrosa",
-            "Salvia sclarea",
-            "Aethiopis sclarea"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Шалфей мускатный",
-                "Шалфей большой",
-                "Шалфей французский"
-            ],
-            "synonyms": [
-                "Salvia sclarea var. turkestanica",
-                "Salvia haematodes",
-                "Sclarea vulgaris",
-                "Salvia turkestanica",
-                "Salvia pamirica",
-                "Salvia simsiana",
-                "Salvia lucana",
-                "Salvia coarctata",
-                "Salvia calostachya",
-                "Salvia sclarea var. calostachya",
-                "Salvia altilabrosa",
-                "Salvia sclarea",
-                "Aethiopis sclarea"
-            ]
-        },
-        "rank": 3314,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 9",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ],
-            "harvest_time": [
-                "Summer",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Mint",
-            "genus": "Sages",
-            "species": "Clary sage"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Brown spot",
-            "Aged yellow and dry",
-            "Wilting after blooming"
-        ]
-    },
-    "main_name_original": "Salvia sclarea",
-    "display_name": "Clary",
-    "clear_main_name": "Salvia sclarea",
-    "pt_search_main_name": "Salvia sclarea"
+        "habit": "Bushy"
+    }
 }

@@ -1,30 +1,46 @@
 {
-    "id": "3d07132a-ff70-4b5b-b687-77753aa6ab61",
-    "link": "https://www.rhs.org.uk/plants/12899/picea-abies/details",
+    "latin_name": "Picea abies",
+    "main_common_name": {
+        "en": "Norway spruce",
+        "ru": "Ель обыкновенная"
+    },
+    "common_names": {
+        "en": [
+            "Spruce fir",
+            "Christmas tree",
+            "Norway spruce",
+            "Baltic whitewood",
+            "European spruce",
+            "Burgundy pitch tree",
+            "Common spruce",
+            "Common spruce",
+            "White deal"
+        ],
+        "ru": [
+            "Ель обыкновенная",
+            "Ель европейская",
+            "Смерека"
+        ]
+    },
+    "synonyms": [
+        "Picea rubra a. dietr.",
+        "Pinus excelsa lamb.",
+        "Picea abies 'excelsa'",
+        "Picea abies"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Baltic whitewood",
-            "Burgundy pitch tree",
-            "common spruce",
-            "spruce fir",
-            "white deal"
-        ],
-        "synonyms": [
-            "Picea abies 'Excelsa'",
-            "Picea rubra A. Dietr.",
-            "Pinus excelsa Lamb."
-        ]
-    },
+    "genus_description": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
+    "rank": 940,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -37,7 +53,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Fall",
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -75,136 +112,40 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained, acid or neutral soil",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Longhorn beetles",
+        "Crown gall",
+        "Fruit withering",
+        "Fire ants",
+        "Dieback",
+        "Branch blight"
+    ],
+    "scientific_classification": {
+        "family": "Pine",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Spruces",
+        "species": "Norway spruce"
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Picea are evergreen trees with rigid, needle-like leaves arranged singly all round the shoots, and narrow, leathery-scaled cones borne near the ends of the shoots",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained, acid or neutral soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids, red spider mite and conifer aphid",
-            "link_names": [
-                "Adelgids",
-                "Red spider mite",
-                "Conifer aphid"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite",
-                "conifer_aphid": "https://www.rhs.org.uk/biodiversity/conifer-aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Picea_abies.html",
-        "filename": "12899-picea-abies.json",
-        "latin_name": "Picea abies",
-        "common_names": [
-            "Norway spruce",
-            "Christmas tree",
-            "Common spruce",
-            "European spruce"
-        ],
-        "synonyms": [
-            "Picea abies"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Ель обыкновенная",
-                "Ель европейская",
-                "Смерека"
-            ],
-            "synonyms": [
-                "Picea abies"
-            ]
-        },
-        "rank": 940,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "2 - 5",
-            "planting_time": [
-                "Fall",
-                "Spring"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Pine",
-            "genus": "Spruces",
-            "species": "Norway spruce"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Fruit withering",
-            "Fire ants",
-            "Dieback",
-            "Branch blight",
-            "Crown gall",
-            "Longhorn beetles"
-        ]
-    },
-    "main_name_original": "Picea abies",
-    "display_name": "Norway spruce",
-    "clear_main_name": "Picea abies",
-    "pt_search_main_name": "Picea abies"
+        "habit": "Columnar upright"
+    }
 }

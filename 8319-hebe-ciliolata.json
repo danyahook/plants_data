@@ -1,24 +1,32 @@
 {
-    "id": "2765e2d7-7bd8-45bc-8ec7-3ab7b0dc729b",
-    "link": "https://www.rhs.org.uk/plants/8319/hebe-ciliolata/details",
+    "latin_name": "Hebe ciliolata",
+    "main_common_name": {
+        "en": "Ben lomond hebe",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Chionohebe ciliolata",
+        "Pygmea ciliolata",
+        "Hebe ciliolata"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Chionohebe ciliolata",
-            "Pygmea ciliolata",
-            "Hebe ciliolata"
-        ]
-    },
+    "genus_description": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -69,87 +96,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in a well-drained soil in full sun or partial shade",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Rock garden",
+            "Patio and container plants",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Plantaginaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Plantaginaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand (S.Island)",
         "foliage": "Evergreen",
-        "habit": "Matforming, Bushy",
-        "genus": "Veronica can be annuals, perennials or sub-shrubs with paired leaves and small flowers usually in terminal or axillary racemes or spikes",
-        "name_status": "Correct",
-        "plant_range": "New Zealand (S.Island)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in a well-drained soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or by semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Rock garden",
-                "Patio and container plants",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "High Risk Host for Xylella fastidiosa. May be susceptible to downy mildews, fungal leaf spot, fungal rot, Phytophthora and sometimes honey fungus",
-            "link_names": [
-                "High risk host for xylella fastidiosa",
-                "Downy mildews",
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "high_risk_host_for_xylella_fastidiosa": "https://www.rhs.org.uk/disease/xylella-fastidiosa",
-                "downy_mildews": "https://www.rhs.org.uk/disease/downy-mildews",
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Hebe ciliolata",
-    "display_name": "Ben lomond hebe",
-    "clear_main_name": "Hebe ciliolata",
-    "pt_search_main_name": "Hebe ciliolata"
+        "habit": "Matforming, Bushy"
+    }
 }

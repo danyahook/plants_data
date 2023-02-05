@@ -1,25 +1,47 @@
 {
-    "id": "cca2502c-c831-4bc0-9665-20f203e19045",
-    "link": "https://www.rhs.org.uk/plants/1461/araucaria-heterophylla/details",
+    "latin_name": "Araucaria heterophylla",
+    "main_common_name": {
+        "en": "Norfolk island pine",
+        "ru": "Араукария разнолистная"
+    },
+    "common_names": {
+        "en": [
+            "Australian pine",
+            "House pine",
+            "Triangle tree",
+            "Norfolk island pine",
+            "Polynesian pine",
+            "Norfolk pine",
+            "House pine",
+            "Living christmas tree",
+            "Star pine"
+        ],
+        "ru": [
+            "Араукария разнолистная",
+            "Норфолкская сосна",
+            "Комнатная ель"
+        ]
+    },
+    "synonyms": [
+        "Araucaria heterophylla",
+        "Eutassa heterophylla",
+        "Abies columbaria",
+        "Araucaria excelsa misapplied"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "house pine"
-        ],
-        "synonyms": [
-            "Araucaria excelsa misapplied"
-        ]
-    },
+    "genus_description": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
+    "rank": 1931,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -33,7 +55,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -73,142 +116,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
-    },
-    "botanical_details": {
-        "family": "Araucariaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Araucaria are evergreen trees from the Southern Hemisphere, with whorled branches bearing spirally arranged leaves that may be needle-like, triangular or scale-like, and small male, and large female cones, usually on separate trees",
-        "name_status": "Correct",
-        "plant_range": "Norfolk Island"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow as a containerised tree under glass in areas liable to frost. The plant may be placed outside in a sheltered, sunny position during the summer and brought under glass once more in the autumn. In containers, use a well drained loam-based potting soil (JI No2) with extra perlite. Water freely during the growing season, March to September and keep the compost just moist during the winter. Apply a balanced fertiliser every two weeks during the growing season, but withhold fertiliser during the winter months",
-            "link_names": [
-                "Containers"
-            ],
-            "related_links": {
-                "containers": "https://www.rhs.org.uk/container-gardening/maintenance"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in seedbed as soon as ripe; take cuttings of vertical shoot tips in midsummer and root in a cold frame; cuttings of horizontal side branches will not form an upright tree",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; little or no pruning is required, as this can permanently spoil the shape of the tree",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Araucaria_heterophylla.html",
-        "filename": "1461-araucaria-heterophylla.json",
-        "latin_name": "Araucaria heterophylla",
-        "common_names": [
-            "Norfolk island pine",
-            "Norfolk Pine",
-            "Star pine",
-            "Triangle tree",
-            "Living christmas tree",
-            "Polynesian pine",
-            "House Pine",
-            "Australian Pine"
+        "cultivation": "Grow as a containerised tree under glass in areas liable to frost. The plant may be placed outside in a sheltered, sunny position during the summer and brought under glass once more in the autumn. In containers, use a well drained loam-based potting soil (JI No2) with extra perlite. Water freely during the growing season, March to September and keep the compost just moist during the winter. Apply a balanced fertiliser every two weeks during the growing season, but withhold fertiliser during the winter months",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Abies columbaria",
-            "Araucaria heterophylla",
-            "Eutassa heterophylla"
+        "suggested_panting_places": [
+            "Architectural"
         ],
-        "ru_data": {
-            "common_names": [
-                "Араукария разнолистная",
-                "Норфолкская сосна",
-                "Комнатная ель"
-            ],
-            "synonyms": [
-                "Abies columbaria",
-                "Araucaria heterophylla",
-                "Eutassa heterophylla"
-            ]
-        },
-        "rank": 1931,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "10 - 11",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Araucaria",
-            "genus": "Araucaria",
-            "species": "Norfolk island pine"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Scars",
-            "Leaf scorch",
-            "Fruit withering",
-            "Branch blight",
-            "Dieback",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Araucaria heterophylla",
-    "display_name": "Norfolk island pine",
-    "clear_main_name": "Araucaria heterophylla",
-    "pt_search_main_name": "Araucaria heterophylla"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Scars",
+        "Leaf scorch",
+        "Fruit withering",
+        "Dieback",
+        "Branch blight"
+    ],
+    "scientific_classification": {
+        "family": "Araucaria",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Araucaria",
+        "species": "Norfolk island pine"
+    },
+    "botanical_details": {
+        "plant_range": "Norfolk Island",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

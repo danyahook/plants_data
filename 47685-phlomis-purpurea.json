@@ -1,17 +1,33 @@
 {
-    "id": "edd469ed-cc70-4dff-af7d-91b397e0980b",
-    "link": "https://www.rhs.org.uk/plants/47685/phlomis-purpurea/details",
+    "latin_name": "Phlomis purpurea",
+    "main_common_name": {
+        "en": "Purple jerusalem sage",
+        "ru": "Зопник пурпурный"
+    },
+    "common_names": {
+        "en": [
+            "Purple jerusalem sage"
+        ],
+        "ru": [
+            "Зопник пурпурный"
+        ]
+    },
+    "synonyms": [
+        "Phlomis purpurea"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {},
+    "genus_description": "Phlomis can be herbaceous perennials or evergreen shrubs, with sage-like leaves and whorls of tubular, hooded flowers over a long period in summer",
+    "rank": 5797,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -26,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -68,119 +100,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
-    },
-    "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Phlomis can be herbaceous perennials or evergreen shrubs, with sage-like leaves and whorls of tubular, hooded flowers over a long period in summer",
-        "name_status": "Correct",
-        "plant_range": "W. Med."
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in spring, or propagate by seed sown at 13-18°C in spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Mediterranean climate plants",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 or pruning group 9",
-            "link_names": [
-                "Pruning group 8",
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leafhoppers",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely)",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Phlomis_purpurea.html",
-        "filename": "47685-phlomis-purpurea.json",
-        "latin_name": "Phlomis purpurea",
-        "common_names": [
-            "Purple jerusalem sage"
+        "cultivation": "Grow in fertile, well-drained soil in full sun",
+        "propagation": [
+            "Division"
         ],
-        "synonyms": [
-            "Phlomis purpurea"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Mediterranean climate plants",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Зопник пурпурный"
-            ],
-            "synonyms": [
-                "Phlomis purpurea"
-            ]
-        },
-        "rank": 5797,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Mint",
-            "genus": "Jerusalem sage",
-            "species": "Purple jerusalem sage"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Flower withering",
-            "Petal blight",
-            "Caterpillars",
-            "Wilting after blooming"
+        "pruning": [
+            "Pruning group 8",
+            "Pruning group 9"
         ]
     },
-    "main_name_original": "Phlomis purpurea",
-    "display_name": "",
-    "clear_main_name": "Phlomis purpurea",
-    "pt_search_main_name": "Phlomis purpurea"
+    "diseases_and_pests": [
+        "Wilting after blooming",
+        "Petal blight",
+        "Flower withering",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Mint",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Jerusalem sage",
+        "species": "Purple jerusalem sage"
+    },
+    "botanical_details": {
+        "plant_range": "W. Med.",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

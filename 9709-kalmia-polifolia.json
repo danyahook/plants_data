@@ -1,27 +1,48 @@
 {
-    "id": "4cbd7f4c-0c0c-4e7b-a38f-7860bdf78bfe",
-    "link": "https://www.rhs.org.uk/plants/9709/kalmia-polifolia/details",
+    "latin_name": "Kalmia polifolia",
+    "main_common_name": {
+        "en": "Bog laurel",
+        "ru": "Кальмия многолистная"
+    },
+    "common_names": {
+        "en": [
+            "Glaucous kalmia",
+            "Box laurel",
+            "Bog kalmia",
+            "Swamp laurel",
+            "Bog laurel",
+            "Bog laurel",
+            "Eastern bog laurel",
+            "Pale laurel",
+            "Alpine bog laurel",
+            "Swamp laurel",
+            "Western bog laurel"
+        ],
+        "ru": [
+            "Кальмия многолистная"
+        ]
+    },
+    "synonyms": [
+        "Kalmia polifolia var. rosmarinifolia",
+        "Kalmia polifolia",
+        "Kalmia glauca",
+        "Kalmia oleifolia",
+        "Chamaedaphne glauca",
+        "Kalmia rosmarinifolia"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "bog laurel",
-            "eastern bog laurel",
-            "swamp laurel",
-            "glaucous kalmia"
-        ],
-        "synonyms": [
-            "Kalmia glauca"
-        ]
-    },
+    "genus_description": "Kalmia are evergreen shrubs with simple, leathery leaves and racemes or corymbs of bowl-shaped flowers in spring or summer",
+    "rank": 10290,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Sand",
             "Loam",
             "Clay"
@@ -34,7 +55,26 @@
             "Acid"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -71,144 +111,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Ericaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Clump forming",
-        "potentially_harmful": "All parts can cause severe discomfort if eaten. Wear gloves and other protective equipment when handling",
-        "genus": "Kalmia are evergreen shrubs with simple, leathery leaves and racemes or corymbs of bowl-shaped flowers in spring or summer",
-        "name_status": "Correct",
-        "plant_range": "N North America"
-    },
+    "toxicity": [
+        "Toxic to Cats"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist, acidic soil enriched with acidic organic matter such as leaf mould, in part shade. Sun is tolerated if the soil is kept moist in summer",
-            "link_names": [
-                "Organic matter"
-            ],
-            "related_links": {
-                "organic_matter": "https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by greenwood cuttings in summer, hardwood cuttings in midwinter, by seed in winter to early spring or by layering in spring",
-            "link_names": [
-                "Greenwood",
-                "Hardwood",
-                "Layering"
-            ],
-            "related_links": {
-                "greenwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Kalmia_polifolia.html",
-        "filename": "9709-kalmia-polifolia.json",
-        "latin_name": "Kalmia polifolia",
-        "common_names": [
-            "Bog laurel",
-            "Alpine bog laurel",
-            "Western bog laurel",
-            "Bog kalmia",
-            "Box laurel",
-            "Pale laurel",
-            "Swamp laurel"
+        "cultivation": "Grow in moist, acidic soil enriched with acidic organic matter such as leaf mould, in part shade. Sun is tolerated if the soil is kept moist in summer",
+        "propagation": [
+            "Greenwood",
+            "Hardwood",
+            "Layering"
         ],
-        "synonyms": [
-            "Chamaedaphne glauca",
-            "Kalmia glauca",
-            "Kalmia rosmarinifolia",
-            "Kalmia oleifolia",
-            "Kalmia polifolia",
-            "Kalmia polifolia var. rosmarinifolia"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Кальмия многолистная\n"
-            ],
-            "synonyms": [
-                "Chamaedaphne glauca",
-                "Kalmia glauca",
-                "Kalmia rosmarinifolia",
-                "Kalmia oleifolia",
-                "Kalmia polifolia",
-                "Kalmia polifolia var. rosmarinifolia"
-            ]
-        },
-        "rank": 10290,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "water": "Every week"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Heathers",
-                "Allies"
-            ],
-            "family": "Heath",
-            "genus": "sheep laurel",
-            "species": "Bog laurel"
-        },
-        "toxic_data": [
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Flower withering",
-            "Brown spot",
-            "Leaf Weevils"
+        "pruning": [
+            "Pruning group 8"
         ]
     },
-    "main_name_original": "Kalmia polifolia",
-    "display_name": "Bog kalmia",
-    "clear_main_name": "Kalmia polifolia",
-    "pt_search_main_name": "Kalmia polifolia"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Leaf Weevils",
+        "Flower withering"
+    ],
+    "scientific_classification": {
+        "family": "Heath",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Heathers",
+            "Allies"
+        ],
+        "genus": "sheep laurel",
+        "species": "Bog laurel"
+    },
+    "botanical_details": {
+        "plant_range": "N North America",
+        "foliage": "Evergreen",
+        "habit": "Clump forming"
+    }
 }

@@ -1,28 +1,35 @@
 {
-    "id": "33d7655e-2283-4aa3-a140-1cb803849c68",
-    "link": "https://www.rhs.org.uk/plants/22196/oryzopsis-lessoniana/details",
+    "latin_name": "Oryzopsis lessoniana",
+    "main_common_name": {
+        "en": "Pheasant's tail grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Pheasant grass",
+            "New zealand wind grass",
+            "Bent grass [2]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Oryzopsis lessoniana",
+        "Stipa arundinacea"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "New Zealand wind grass",
-            "pheasant grass",
-            "bent grass [2]"
-        ],
-        "synonyms": [
-            "Oryzopsis lessoniana",
-            "Stipa arundinacea"
-        ]
-    },
+    "genus_description": "Anemanthele are semi-evergreen grasses forming a clump of slender leaves of attractive, arching habit, with large, feathery sprays of tiny reddish-brown flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -38,7 +45,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -83,77 +108,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, medium to light well-drained soil in full sun. Tolerant of partial shade and heavier soils and temperatures down to around -10°C (14°F) for short periods",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Prairie planting",
+            "Flower borders and beds",
+            "Garden edging"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "New Zealand",
         "foliage": "Semi evergreen",
-        "habit": "Bushy",
-        "genus": "Anemanthele are semi-evergreen grasses forming a clump of slender leaves of attractive, arching habit, with large, feathery sprays of tiny reddish-brown flowers",
-        "name_status": "Correct",
-        "plant_range": "New Zealand"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, medium to light well-drained soil in full sun. Tolerant of partial shade and heavier soils and temperatures down to around -10°C (14°F) for short periods",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame in spring. Propagate by division from mid-spring to early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Prairie planting",
-                "Flower borders and beds",
-                "Garden edging"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Comb out dead and winter damaged leaves in early spring",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Oryzopsis lessoniana",
-    "display_name": "Pheasant's tail grass",
-    "clear_main_name": "Oryzopsis lessoniana",
-    "pt_search_main_name": "Oryzopsis lessoniana"
+        "habit": "Bushy"
+    }
 }

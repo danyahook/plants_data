@@ -1,23 +1,31 @@
 {
-    "id": "235aace0-2c2c-432a-9054-bd9e0adb0d4d",
-    "link": "https://www.rhs.org.uk/plants/358943/aeonium-(_haworthii_-_sempervivum_)/details",
+    "latin_name": "Aeonium",
+    "main_common_name": {
+        "en": "Pinwheel",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Aeonium (_haworthii_ × _sempervivum_)"
+    ],
     "tags": [
         "Cactus Succulent",
         "Conservatory Greenhouse",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Aeonium (_haworthii_ × _Sempervivum_)"
-        ]
-    },
+    "genus_description": "Aeonium are evergreen succulents often of shrubby habit, with fleshy leaves in terminal rosettes on the shoots, and racemes or panicles of small, star-shaped flowers with numerous narrow petals",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -30,7 +38,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1C"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -76,73 +100,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in a standard cactus compost, in bright, filtered light. When in growth water moderately and feed every two or three weeks with a balanced liquid feed. Keep almost dry in the winter",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Mediterranean climate plants"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1C"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Crassulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Crassulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Tenerife",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Aeonium are evergreen succulents often of shrubby habit, with fleshy leaves in terminal rosettes on the shoots, and racemes or panicles of small, star-shaped flowers with numerous narrow petals",
-        "name_status": "Correct",
-        "plant_range": "Tenerife"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a standard cactus compost, in bright, filtered light. When in growth water moderately and feed every two or three weeks with a balanced liquid feed. Keep almost dry in the winter",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown at 19-24°C in spring or by cuttings of rosettes kept at 18°C and barely moist until rooted. See houseplant cacti and succulent cultivation for further advice",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Mediterranean climate plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May susceptible to aphids and mealybugs",
-            "link_names": [
-                "Aphids",
-                "Mealybugs"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Aeonium",
-    "display_name": "Pinwheel",
-    "clear_main_name": "Aeonium",
-    "pt_search_main_name": "Aeonium"
+        "habit": "Bushy"
+    }
 }

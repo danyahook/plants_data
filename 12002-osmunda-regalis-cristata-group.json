@@ -1,22 +1,30 @@
 {
-    "id": "71c8177a-d576-4269-a79d-f93295e3aaa1",
-    "link": "https://www.rhs.org.uk/plants/12002/osmunda-regalis-cristata-group/details",
+    "latin_name": "Osmunda regalis Cristata Group",
+    "main_common_name": {
+        "en": "Royal fern 'cristata'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Osmunda regalis cristata group"
+    ],
     "tags": [
         "Ferns",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Osmunda regalis Cristata Group"
-        ]
-    },
+    "genus_description": "Osmunda are medium-sized to large deciduous ferns, usually from wet places, with erect or arching, pinnate or bipinnate fronds, bearing spores either on modified pinnae or on separate, smaller fronds",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam"
@@ -31,7 +39,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -64,71 +92,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most cool, moist, lightly shaded sites and will grow in full sun if given plenty of moisture. Will tolerate alkaline soils if plenty of fibrous compost is incorporated. Useful for very wet sites",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Osmundaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Osmundaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Osmunda are medium-sized to large deciduous ferns, usually from wet places, with erect or arching, pinnate or bipinnate fronds, bearing spores either on modified pinnae or on separate, smaller fronds",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most cool, moist, lightly shaded sites and will grow in full sun if given plenty of moisture. Will tolerate alkaline soils if plenty of fibrous compost is incorporated. Useful for very wet sites",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in early spring or autumn",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Dead or damaged fronds may be removed as necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free outdoors",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free outdoors",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Osmunda regalis Cristata Group",
-    "display_name": "Royal fern 'cristata'",
-    "clear_main_name": "Osmunda regalis Cristata Group",
-    "pt_search_main_name": "Osmunda regalis Cristata Group"
+        "habit": "Bushy"
+    }
 }

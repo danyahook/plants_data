@@ -1,24 +1,38 @@
 {
-    "id": "b46356ee-999f-45f9-a20e-c417a2449ac2",
-    "link": "https://www.rhs.org.uk/plants/7582/galanthus-plicatus/details",
+    "latin_name": "Galanthus plicatus",
+    "main_common_name": {
+        "en": "Pleated snowdrop",
+        "ru": "Подснежник складчатый"
+    },
+    "common_names": {
+        "en": [
+            "Byzantine snowdrop",
+            "Pleated snowdrop",
+            "Crimean snowdrop"
+        ],
+        "ru": [
+            "Подснежник складчатый"
+        ]
+    },
+    "synonyms": [
+        "Chianthemum plicatum",
+        "Galanthus plicatus",
+        "Galanthus nivalis var. plicatus",
+        "Galanthus plicatus var. brauneri"
+    ],
     "tags": [
         "Bulbs"
     ],
-    "names": {
-        "other_common_names": [
-            "Crimean snowdrop"
-        ],
-        "synonyms": [
-            "Galanthus plicatus var. brauneri"
-        ]
-    },
+    "genus_description": "Galanthus are dwarf bulbous perennials with linear or strap-shaped leaves, and solitary, often honey-scented, nodding flowers with 3 white outer tepals and 3 smaller inner ones often marked with green",
+    "rank": 103418,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,7 +48,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,73 +103,28 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": null,
+        "propagation": [],
+        "suggested_panting_places": [],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Amaryllis",
+        "phylum": "Vascular plants",
+        "classify": "Monocotyledons",
+        "order": [
+            "Asparagus",
+            "Allies"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "genus": "Snowdrops",
+        "species": "Pleated snowdrop"
     },
     "botanical_details": {
-        "family": "Amaryllidaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Europe",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "potentially_harmful": "Ingestion may cause mild stomach upset, contact might irritate skin. Wear gloves and other protective equipment when handling",
-        "genus": "Galanthus are dwarf bulbous perennials with linear or strap-shaped leaves, and solitary, often honey-scented, nodding flowers with 3 white outer tepals and 3 smaller inner ones often marked with green",
-        "name_status": "Correct",
-        "plant_range": "E Europe"
-    },
-    "how_to_grow": {},
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Galanthus_plicatus.html",
-        "filename": "7582-galanthus-plicatus.json",
-        "latin_name": "Galanthus plicatus",
-        "common_names": [
-            "Pleated snowdrop",
-            "Byzantine snowdrop"
-        ],
-        "synonyms": [
-            "Galanthus nivalis var. plicatus",
-            "Chianthemum plicatum",
-            "Galanthus plicatus"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Подснежник складчатый"
-            ],
-            "synonyms": [
-                "Galanthus nivalis var. plicatus",
-                "Chianthemum plicatum",
-                "Galanthus plicatus"
-            ]
-        },
-        "rank": 103418,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Monocotyledons",
-            "order": [
-                "Asparagus",
-                "Allies"
-            ],
-            "family": "Amaryllis",
-            "genus": "Snowdrops",
-            "species": "Pleated snowdrop"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Galanthus plicatus",
-    "display_name": "Pleated snowdrop",
-    "clear_main_name": "Galanthus plicatus",
-    "pt_search_main_name": "Galanthus plicatus"
+        "habit": "Clump forming"
+    }
 }

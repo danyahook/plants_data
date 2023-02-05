@@ -1,31 +1,48 @@
 {
-    "id": "720ed7e8-9ca8-423b-86e9-2e5e2eca624d",
-    "link": "https://www.rhs.org.uk/plants/148757/aucuba-japonica/details",
+    "latin_name": "Aucuba japonica",
+    "main_common_name": {
+        "en": "Japanese laurel",
+        "ru": "Аукуба японская"
+    },
+    "common_names": {
+        "en": [
+            "Japanese laurel",
+            "Spotted laurel",
+            "Gold-leaf plant",
+            "Blotch-leaved laurel",
+            "Spotted laurel",
+            "Japan laurel",
+            "Gold dust plant",
+            "Variegated laurel",
+            "Japanese aucuba"
+        ],
+        "ru": [
+            "Аукуба японская",
+            "Золотое дерево",
+            "Колбасное дерево"
+        ]
+    },
+    "synonyms": [
+        "Aucuba vivicans",
+        "Aucuba japonica 'concolor'",
+        "Aucuba concolor",
+        "Aucuba japonica 'viridis'",
+        "Aucuba japonica var. viridis",
+        "Aucuba japonica"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "blotch-leaved laurel",
-            "gold-leaf plant",
-            "Japan laurel",
-            "spotted laurel",
-            "variegated laurel"
-        ],
-        "synonyms": [
-            "Aucuba japonica 'Viridis'",
-            "Aucuba japonica 'Concolor'",
-            "Aucuba japonica var. viridis",
-            "Aucuba concolor"
-        ]
-    },
+    "genus_description": "Aucuba are dioecious evergreen shrubs with simple, leathery leaves, attractively variegated in many cultivars, and small purple flowers followed on female plants by large glossy red fruit",
+    "rank": 452,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -41,7 +58,30 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -81,136 +121,43 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Garryaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "All parts of the plant are mildly toxic if ingested. Wear gloves and other protective equipment when handling",
-        "genus": "Aucuba are dioecious evergreen shrubs with simple, leathery leaves, attractively variegated in many cultivars, and small purple flowers followed on female plants by large glossy red fruit",
-        "name_status": "Correct"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Will grow in almost any soil or situation except soil prone to waterlogging, tolerating full shade, dry soil, pollution and salt wind",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by taking semi-ripe cuttings from late summer to autumn",
-            "link_names": [
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1. Trim hedges in spring; shrubs may be renovated by hard pruning in spring",
-            "link_names": [
-                "Pruning group 1",
-                "Hedges"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "hedges": "https://www.rhs.org.uk/plants/types/hedges/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Aucuba_japonica.html",
-        "filename": "148757-aucuba-japonica.json",
-        "latin_name": "Aucuba japonica",
-        "common_names": [
-            "Japanese laurel",
-            "Spotted laurel",
-            "Gold dust plant",
-            "Japanese aucuba"
+        "cultivation": "Will grow in almost any soil or situation except soil prone to waterlogging, tolerating full shade, dry soil, pollution and salt wind",
+        "propagation": [
+            "Semi-ripe"
         ],
-        "synonyms": [
-            "Aucuba japonica",
-            "Aucuba vivicans"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Аукуба японская",
-                "Золотое дерево",
-                "Колбасное дерево"
-            ],
-            "synonyms": [
-                "Aucuba japonica",
-                "Aucuba vivicans"
-            ]
-        },
-        "rank": 452,
-        "items_data": {
-            "sunlight": "Full shade",
-            "hardiness_zones": "10 - 13",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Garryales"
-            ],
-            "family": "Silk tassel",
-            "genus": "Aucuba",
-            "species": "Japanese laurel"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Scars",
-            "Brown spot",
-            "Leaf rot"
+        "pruning": [
+            "Pruning group 1",
+            "Hedges"
         ]
     },
-    "main_name_original": "Aucuba japonica",
-    "display_name": "Japanese laurel",
-    "clear_main_name": "Aucuba japonica",
-    "pt_search_main_name": "Aucuba japonica"
+    "diseases_and_pests": [
+        "Sap-sucking insects",
+        "Leaf rot",
+        "Scars",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Silk tassel",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Garryales"
+        ],
+        "genus": "Aucuba",
+        "species": "Japanese laurel"
+    },
+    "botanical_details": {
+        "plant_range": null,
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

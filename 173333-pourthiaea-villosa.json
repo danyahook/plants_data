@@ -1,25 +1,33 @@
 {
-    "id": "d5759282-d7ae-4c5b-a1ed-bc5a710fbed3",
-    "link": "https://www.rhs.org.uk/plants/173333/pourthiaea-villosa/details",
+    "latin_name": "Pourthiaea villosa",
+    "main_common_name": {
+        "en": "Oriental photinia",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Photinia variabilis",
+        "Photinia benthamiana misapplied",
+        "Pourthiaea villosa"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Photinia variabilis",
-            "Pourthiaea villosa",
-            "Photinia benthamiana misapplied"
-        ]
-    },
+    "genus_description": "Photinia can be evergreen or deciduous shrubs or trees, with simple leaves and panicles of small white flowers, usually followed by red berries",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -33,7 +41,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,89 +97,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows best in fertile, humus-rich soil in sun or partial shade. See photinia cultivation",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Wildlife gardens",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China Japan Korea",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Photinia can be evergreen or deciduous shrubs or trees, with simple leaves and panicles of small white flowers, usually followed by red berries",
-        "name_status": "Correct",
-        "plant_range": "China Japan Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in fertile, humus-rich soil in sun or partial shade. See photinia cultivation",
-            "link_names": [
-                "Photinia cultivation"
-            ],
-            "related_links": {
-                "photinia_cultivation": "https://www.rhs.org.uk/plants/photinia/growing-guide"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings in summer. Or propagate by seed sown in containers, in a cold frame in autumn",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Wildlife gardens",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fireblight, a leaf spot, honey fungus and powdery mildews",
-            "link_names": [
-                "Fireblight",
-                "Honey fungus",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Pourthiaea villosa",
-    "display_name": "Oriental photinia",
-    "clear_main_name": "Pourthiaea villosa",
-    "pt_search_main_name": "Pourthiaea villosa"
+        "habit": "Bushy"
+    }
 }

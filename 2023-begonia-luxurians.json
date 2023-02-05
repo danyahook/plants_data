@@ -1,24 +1,32 @@
 {
-    "id": "65590eac-5d14-4cdf-b287-42ae54ae8411",
-    "link": "https://www.rhs.org.uk/plants/2023/begonia-luxurians/details",
+    "latin_name": "Begonia luxurians",
+    "main_common_name": {
+        "en": "Palm leaf begonia",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Vinca minor 'caerulea plena'",
+        "Vinca minor 'plena'",
+        "Vinca minor 'flore plena'"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Vinca minor 'Flore Plena'",
-            "Vinca minor 'Plena'",
-            "Vinca minor 'Caerulea Plena'"
-        ]
-    },
+    "genus_description": "Vinca can be evergreen subshrubs or herbaceous perennials, with simple, paired leaves and solitary, 5-lobed, salver-shaped flowers in the leaf axils",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -35,7 +43,27 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,89 +103,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "When planted outdoors, grow in a frost-free site in a well-drained, humus-rich soil in partial shade. Under glass, grow in a loam-based compost in filtered light, although it can take direct sunlight in winter. Performs best when humidity levels of 50% or more are maintained when in active growth. See Begonias: outdoors for further advice.",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Sub-tropical",
+            "Architectural",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Apocynaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Apocynaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Vinca can be evergreen subshrubs or herbaceous perennials, with simple, paired leaves and solitary, 5-lobed, salver-shaped flowers in the leaf axils",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "When planted outdoors, grow in a frost-free site in a well-drained, humus-rich soil in partial shade. Under glass, grow in a loam-based compost in filtered light, although it can take direct sunlight in winter. Performs best when humidity levels of 50% or more are maintained when in active growth. See Begonias: outdoors for further advice.",
-            "link_names": [
-                "Begonias: outdoors"
-            ],
-            "related_links": {
-                "begonias:_outdoors": "https://www.rhs.org.uk/plants/begonias/outdoors"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by seed and by stem cuttings",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Sub-tropical",
-                "Architectural",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be troubled by mealybugs, aphids, mites and scale insects",
-            "link_names": [
-                "Mealybugs",
-                "Aphids",
-                "Scale insects"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "Susceptible to powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Begonia luxurians",
-    "display_name": "Palm leaf begonia",
-    "clear_main_name": "Begonia luxurians",
-    "pt_search_main_name": "Begonia luxurians"
+        "habit": "Matforming"
+    }
 }

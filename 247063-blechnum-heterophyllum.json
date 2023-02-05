@@ -1,30 +1,37 @@
 {
-    "id": "cd7d5539-ca48-4677-b666-d44927fbad26",
-    "link": "https://www.rhs.org.uk/plants/247063/blechnum-heterophyllum/details",
+    "latin_name": "Blechnum heterophyllum",
+    "main_common_name": {
+        "en": "Hard fern",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Herringbone fern",
+            "Northern fern",
+            "Deer fern",
+            "Rusty back",
+            "Snake fern"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Blechnum boreale",
+        "Blechnum heterophyllum"
+    ],
     "tags": [
         "Ferns",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "deer fern",
-            "herringbone fern",
-            "northern fern",
-            "rusty back",
-            "snake fern"
-        ],
-        "synonyms": [
-            "Blechnum boreale",
-            "Blechnum heterophyllum"
-        ]
-    },
+    "genus_description": "Blechnum are mostly evergreen ferns with erect or creeping rhizomes and simply pinnate, leathery fronds, the fertile ones usually erect, the sterile often spreading",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam"
         ],
@@ -37,7 +44,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,70 +97,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easy to grow in most cool, moist, shaded sites",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Flower borders and beds",
+            "Underplanting of roses and shrubs"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Blechnaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Blechnaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Temp. N Hemis.",
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Blechnum are mostly evergreen ferns with erect or creeping rhizomes and simply pinnate, leathery fronds, the fertile ones usually erect, the sterile often spreading",
-        "name_status": "Correct",
-        "plant_range": "Temp. N Hemis."
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in most cool, moist, shaded sites",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing spores (may not come true) in mid to late summer or by division in spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Flower borders and beds",
-                "Underplanting of roses and shrubs"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Dead or damaged fronds may be removed as necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free outdoors",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free outdoors",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Blechnum heterophyllum",
-    "display_name": "Hard fern",
-    "clear_main_name": "Blechnum heterophyllum",
-    "pt_search_main_name": "Blechnum heterophyllum"
+        "habit": "Tufted"
+    }
 }

@@ -1,22 +1,41 @@
 {
-    "id": "cbbeed5e-4532-43da-9894-bb66ca820cbb",
-    "link": "https://www.rhs.org.uk/plants/53/abies-nordmanniana/details",
+    "latin_name": "Abies nordmanniana",
+    "main_common_name": {
+        "en": "Caucasian fir",
+        "ru": "Пихта нордманна"
+    },
+    "common_names": {
+        "en": [
+            "Kazdadi fir",
+            "Nordmann fir",
+            "Caucasian fir",
+            "Nordmann's silver fir",
+            "Turkish fir",
+            "Nordmann's fir",
+            "Trojan fir"
+        ],
+        "ru": [
+            "Пихта нордманна",
+            "Пихта кавказская"
+        ]
+    },
+    "synonyms": [
+        "Abies nordmanniana"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Nordmann fir"
-        ]
-    },
+    "genus_description": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
+    "rank": 5280,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -28,6 +47,25 @@
             "Acid",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [
+            "Mid fall"
+        ],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -68,127 +106,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained slightly acidic soil.",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Dieback",
+        "Scale insects",
+        "Fire ants",
+        "Fruit withering"
+    ],
+    "scientific_classification": {
+        "family": "Pine",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Firs",
+        "species": "Caucasian fir"
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "NE Turkey, N Iran, Caucasus",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
-        "name_status": "Correct",
-        "plant_range": "NE Turkey, N Iran, Caucasus"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained slightly acidic soil.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids and aphids",
-            "link_names": [
-                "Adelgids",
-                "Aphids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free, but may be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Abies_nordmanniana.html",
-        "filename": "53-abies-nordmanniana.json",
-        "latin_name": "Abies nordmanniana",
-        "common_names": [
-            "Caucasian fir",
-            "Nordmann's fir",
-            "Trojan fir",
-            "Kazdadi fir",
-            "Turkish fir",
-            "Nordmann's silver fir"
-        ],
-        "synonyms": [
-            "Abies nordmanniana"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Пихта Нордманна",
-                "Пихта кавказская"
-            ],
-            "synonyms": [
-                "Abies nordmanniana"
-            ]
-        },
-        "rank": 5280,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "9 - 11",
-            "harvest_time": "Mid fall"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Pine",
-            "genus": "Firs",
-            "species": "Caucasian fir"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Fruit withering",
-            "Fire ants",
-            "Dieback",
-            "Scale insects"
-        ]
-    },
-    "main_name_original": "Abies nordmanniana",
-    "display_name": "Caucasian fir",
-    "clear_main_name": "Abies nordmanniana",
-    "pt_search_main_name": "Abies nordmanniana"
+        "habit": "Columnar upright"
+    }
 }

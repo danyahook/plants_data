@@ -1,24 +1,40 @@
 {
-    "id": "b7590138-ea9f-48e2-8c21-b2cf1b3f1042",
-    "link": "https://www.rhs.org.uk/plants/28947/celtis-australis/details",
+    "latin_name": "Celtis australis",
+    "main_common_name": {
+        "en": "European nettle tree",
+        "ru": "Каркас южный"
+    },
+    "common_names": {
+        "en": [
+            "Honeyberry of greece",
+            "Mediterranean hackberry",
+            "European nettle tree",
+            "Lote tree"
+        ],
+        "ru": [
+            "Каркас южный",
+            "Железное дерево",
+            "Каркас обыкновенный",
+            "Каменное дерево",
+            "Кукуля"
+        ]
+    },
+    "synonyms": [
+        "Celtis australis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "European nettle tree",
-            "honeyberry of Greece",
-            "lote tree",
-            "Mediterranean hackberry"
-        ]
-    },
+    "genus_description": null,
+    "rank": 1425,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Loam",
             "Sand",
             "Chalk"
@@ -32,7 +48,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,121 +103,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Cannabaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "name_status": "Correct",
-        "plant_range": "Europe, N. Africa, Asia Minor"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in full sun; does best in hot summers in the UK",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in autumn",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Celtis_australis.html",
-        "filename": "28947-celtis-australis.json",
-        "latin_name": "Celtis australis",
-        "common_names": [
-            "European nettle tree",
-            "Mediterranean hackberry"
+        "cultivation": "Grow in fertile, well-drained soil in full sun; does best in hot summers in the UK",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Celtis australis"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Каркас южный",
-                "Железное дерево",
-                "Каркас обыкновенный",
-                "Каменное дерево",
-                "Кукуля"
-            ],
-            "synonyms": [
-                "Celtis australis"
-            ]
-        },
-        "rank": 1425,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 9"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Hemp",
-            "genus": "Hackberries",
-            "species": "European nettle tree"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Caterpillars",
-            "Brown spot",
-            "Plant dried up",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Celtis australis",
-    "display_name": "European hackberry",
-    "clear_main_name": "Celtis australis",
-    "pt_search_main_name": "Celtis australis"
+    "diseases_and_pests": [
+        "Plant dried up",
+        "Leaf beetles",
+        "Brown spot",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Hemp",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Hackberries",
+        "species": "European nettle tree"
+    },
+    "botanical_details": {
+        "plant_range": "Europe, N. Africa, Asia Minor",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }

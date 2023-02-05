@@ -1,24 +1,45 @@
 {
-    "id": "463ad53b-3274-4206-a376-ae20cc59fc89",
-    "link": "https://www.rhs.org.uk/plants/19126/wisteria-sinensis/details",
+    "latin_name": "Wisteria sinensis",
+    "main_common_name": {
+        "en": "Chinese wisteria",
+        "ru": "Глициния китайская"
+    },
+    "common_names": {
+        "en": [
+            "Cooke's purple wisteria",
+            "Chinese wisteria",
+            "Chinese kidney bean",
+            "Purple wisteria",
+            "Wisteria"
+        ],
+        "ru": [
+            "Глициния китайская",
+            "Вистерия китайская",
+            "Вистерия синенсис"
+        ]
+    },
+    "synonyms": [
+        "Glycine sinensis",
+        "Rehsonia sinensis",
+        "Wisteria sinensis",
+        "Wisteria praecox",
+        "Wistaria sinensis",
+        "Wisteria chinensis",
+        "Millettia chinensis"
+    ],
     "tags": [
         "Climber Wall Shrub"
     ],
-    "names": {
-        "other_common_names": [
-            "Chinese kidney bean"
-        ],
-        "synonyms": [
-            "Wisteria chinensis"
-        ]
-    },
+    "genus_description": "Wisteria are vigorous woody climbers with twining stems bearing pinnate leaves and long pendulous racemes of fragrant pea-like flowers in spring and early summer",
+    "rank": 596,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every week",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -31,6 +52,25 @@
             "Acid",
             "Alkaline",
             "Neutral"
+        ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Fall",
+            "Spring"
         ]
     },
     "colour_and_scent": {
@@ -68,160 +108,48 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Climbing",
-        "potentially_harmful": "All parts may cause severe discomfort if ingested. Wear gloves and wash hands after handling",
-        "genus": "Wisteria are vigorous woody climbers with twining stems bearing pinnate leaves and long pendulous racemes of fragrant pea-like flowers in spring and early summer",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
+    "toxicity": [
+        "Toxic to Dogs",
+        "Toxic to Cats"
+    ],
     "how_to_grow": {
-        "cultivation": {
-            "text": "A large, long-lived climber so choosing the right site is important. Can be grown informally through large tree or more formally against a house wall or trained as a free-standing half standard in a container. Will grow in most soils that are moist but well-drained. See wisteria growing guide for more advice",
-            "link_names": [
-                "Container"
-            ],
-            "related_links": {
-                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by layering, softwood cuttings, hardwood cuttings or grafting",
-            "link_names": [
-                "Layering",
-                "Softwood",
-                "Hardwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "layering": "https://www.rhs.org.uk/propagation/layering",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning wisteria",
-            "link_names": [
-                "Pruning wisteria"
-            ],
-            "related_links": {
-                "pruning_wisteria": "https://www.rhs.org.uk/plants/wisteria/pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Can get scale insects",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "May be affected by a leaf spot and powdery mildews",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Wisteria_sinensis.html",
-        "filename": "19126-wisteria-sinensis.json",
-        "latin_name": "Wisteria sinensis",
-        "common_names": [
-            "Chinese wisteria",
-            "Cooke's Purple Wisteria",
-            "Wisteria",
-            "Purple wisteria"
+        "cultivation": "A large, long-lived climber so choosing the right site is important. Can be grown informally through large tree or more formally against a house wall or trained as a free-standing half standard in a container. Will grow in most soils that are moist but well-drained. See wisteria growing guide for more advice",
+        "propagation": [
+            "Layering",
+            "Softwood",
+            "Hardwood",
+            "Grafting"
         ],
-        "synonyms": [
-            "Rehsonia sinensis",
-            "Wisteria chinensis",
-            "Millettia chinensis",
-            "Glycine sinensis",
-            "Wisteria praecox",
-            "Wistaria sinensis",
-            "Wisteria sinensis"
+        "suggested_panting_places": [
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Глициния китайская",
-                "Вистерия китайская",
-                "Вистерия синенсис"
-            ],
-            "synonyms": [
-                "Rehsonia sinensis",
-                "Wisteria chinensis",
-                "Millettia chinensis",
-                "Glycine sinensis",
-                "Wisteria praecox",
-                "Wistaria sinensis",
-                "Wisteria sinensis"
-            ]
-        },
-        "rank": 596,
-        "items_data": {
-            "water": "Every week",
-            "sunlight": "Full sun",
-            "hardiness_zones": "5 - 8",
-            "planting_time": [
-                "Fall",
-                "Spring"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Legumes",
-                "Milkworts",
-                "Allies"
-            ],
-            "family": "Legume",
-            "genus": "Wisterias",
-            "species": "Chinese wisteria"
-        },
-        "toxic_data": [
-            "Toxic to Dogs",
-            "Toxic to Cats"
-        ],
-        "diseases_data": [
-            "Leaf scorch",
-            "Leaf rot",
-            "Aged yellow and dry",
-            "Leaf beetles",
-            "Aphids",
-            "Brown spot"
+        "pruning": [
+            "Pruning wisteria"
         ]
     },
-    "main_name_original": "Wisteria sinensis",
-    "display_name": "Chinese wisteria",
-    "clear_main_name": "Wisteria sinensis",
-    "pt_search_main_name": "Wisteria sinensis"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Leaf scorch",
+        "Aphids",
+        "Leaf beetles",
+        "Leaf rot",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Legume",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Legumes",
+            "Milkworts",
+            "Allies"
+        ],
+        "genus": "Wisterias",
+        "species": "Chinese wisteria"
+    },
+    "botanical_details": {
+        "plant_range": "China",
+        "foliage": "Deciduous",
+        "habit": "Climbing"
+    }
 }

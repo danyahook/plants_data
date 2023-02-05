@@ -1,22 +1,36 @@
 {
-    "id": "be898701-7aa3-4ebe-a3cd-6757b9228963",
-    "link": "https://www.rhs.org.uk/plants/15927/rodgersia-sambucifolia/details",
+    "latin_name": "Rodgersia sambucifolia",
+    "main_common_name": {
+        "en": "Elderberry rodgersia",
+        "ru": "Rodgersia sambucifolia"
+    },
+    "common_names": {
+        "en": [
+            "Elderberry rodgersia",
+            "Elder-leaved rodgersia"
+        ],
+        "ru": [
+            "Rodgersia sambucifolia"
+        ]
+    },
+    "synonyms": [
+        "Spiraea holorhodantha",
+        "Rodgersia sambucifolia"
+    ],
     "tags": [
         "Bogs",
         "Herbaceous Perennial"
     ],
-    "names": {
-        "other_common_names": [
-            "elder-leaved rodgersia"
-        ]
-    },
+    "genus_description": "Rodgersia are moisture-loving rhizomatous herbaceous perennials with handsome, often attractively tinted, leaves that may be pinnately or palmately divided, and small star-shaped flowers in large conical panicles in summer, remaining showy in fruit",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam"
         ],
@@ -30,7 +44,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing",
+            "North–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -64,69 +97,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": null,
+        "propagation": [],
+        "suggested_panting_places": [],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Saxifrage",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Saxifrages",
+            "Stonecrops",
+            "Allies"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing",
-            "North–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "genus": "Rodgersia",
+        "species": "Elderberry rodgersia"
     },
     "botanical_details": {
-        "family": "Saxifragaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China",
         "foliage": "Deciduous",
-        "habit": "Clump forming",
-        "genus": "Rodgersia are moisture-loving rhizomatous herbaceous perennials with handsome, often attractively tinted, leaves that may be pinnately or palmately divided, and small star-shaped flowers in large conical panicles in summer, remaining showy in fruit",
-        "name_status": "Correct",
-        "plant_range": "China"
-    },
-    "how_to_grow": {},
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Rodgersia_sambucifolia.html",
-        "filename": "15927-rodgersia-sambucifolia.json",
-        "latin_name": "Rodgersia sambucifolia",
-        "common_names": [
-            "Elderberry rodgersia"
-        ],
-        "synonyms": [
-            "Spiraea holorhodantha",
-            "Rodgersia sambucifolia"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Rodgersia sambucifolia"
-            ],
-            "synonyms": [
-                "Spiraea holorhodantha",
-                "Rodgersia sambucifolia"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {},
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Saxifrages",
-                "Stonecrops",
-                "Allies"
-            ],
-            "family": "Saxifrage",
-            "genus": "Rodgersia",
-            "species": "Elderberry rodgersia"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Rodgersia sambucifolia",
-    "display_name": "Elderberry rodgersia",
-    "clear_main_name": "Rodgersia sambucifolia",
-    "pt_search_main_name": "Rodgersia sambucifolia"
+        "habit": "Clump forming"
+    }
 }

@@ -1,26 +1,34 @@
 {
-    "id": "66523684-7ada-4702-a324-f396407b5497",
-    "link": "https://www.rhs.org.uk/plants/209617/cereus-silvestrii/details",
+    "latin_name": "Cereus silvestrii",
+    "main_common_name": {
+        "en": "Peanut cactus",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Chamaecereus silvestrii crassicaule",
+        "Cereus silvestrii",
+        "Chamaecereus silvestrii",
+        "Lobivia silvestrii"
+    ],
     "tags": [
         "Cactus Succulent",
         "Conservatory Greenhouse",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Chamaecereus silvestrii",
-            "Chamaecereus silvestrii crassicaule",
-            "Cereus silvestrii",
-            "Lobivia silvestrii"
-        ]
-    },
+    "genus_description": "Echinopsis can have spherical or cylindrical, heavily ribbed and spiny stems, with funnel-shaped flowers in spring or summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -33,7 +41,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -62,69 +86,27 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, sparingly when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H3"
+        "suggested_panting_places": [],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cactaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cactaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Argentina",
         "foliage": "Evergreen",
-        "habit": "Trailing",
-        "genus": "Echinopsis can have spherical or cylindrical, heavily ribbed and spiny stems, with funnel-shaped flowers in spring or summer",
-        "name_status": "Correct",
-        "plant_range": "Argentina"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, sparingly when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or offsets",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Susceptible to mealybugs",
-            "link_names": [
-                "Mealybugs"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Cereus silvestrii",
-    "display_name": "Peanut cactus",
-    "clear_main_name": "Cereus silvestrii",
-    "pt_search_main_name": "Cereus silvestrii"
+        "habit": "Trailing"
+    }
 }

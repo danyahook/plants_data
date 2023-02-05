@@ -1,22 +1,30 @@
 {
-    "id": "68bc3a12-9034-4772-aec1-3435f6a30726",
-    "link": "https://www.rhs.org.uk/plants/643/agapetes-serpens/details",
+    "latin_name": "Agapetes serpens",
+    "main_common_name": {
+        "en": "Creeping agapetes",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Pentapterygium serpens"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Pentapterygium serpens"
-        ]
-    },
+    "genus_description": "Agapetes can be upright or scrambling, usually evergreen shrubs with simple, leathery, opposite leaves and solitary or clustered, bell-shaped, tubular or urn-shaped flowers with 5 short lobes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -28,7 +36,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -58,79 +83,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Under glass, grow in frost-free conditions in moist, but well-drained ericaceous soil in partial shade. Water freely during the growing period, more sparingly in winter",
+        "propagation": [
+            "Semi-ripe",
+            "Layering"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Wall side borders"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "pruning": [
+            "Pruning group 11"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Ericaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Ericaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Himalaya",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "potentially_harmful": "Toxic if ingested. Wear gloves and wash hands after handling",
-        "genus": "Agapetes can be upright or scrambling, usually evergreen shrubs with simple, leathery, opposite leaves and solitary or clustered, bell-shaped, tubular or urn-shaped flowers with 5 short lobes",
-        "name_status": "Correct",
-        "plant_range": "Himalaya"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass, grow in frost-free conditions in moist, but well-drained ericaceous soil in partial shade. Water freely during the growing period, more sparingly in winter",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Take semi-ripe ripe cuttings in late summer, or propagate by layering stems in late spring",
-            "link_names": [
-                "Semi-ripe",
-                "Layering"
-            ],
-            "related_links": {
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 11, but best to keep pruning to a minimum",
-            "link_names": [
-                "Pruning group 11"
-            ],
-            "related_links": {
-                "pruning_group_11": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "scale insects can be a problem",
-            "link_names": [
-                "Scale insects"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects"
-            }
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Agapetes serpens",
-    "display_name": "Creeping agapetes",
-    "clear_main_name": "Agapetes serpens",
-    "pt_search_main_name": "Agapetes serpens"
+        "habit": "Bushy"
+    }
 }

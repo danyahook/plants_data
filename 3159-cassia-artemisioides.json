@@ -1,28 +1,35 @@
 {
-    "id": "de85bf82-f48a-4f69-95c7-4e37eed1c82c",
-    "link": "https://www.rhs.org.uk/plants/3159/cassia-artemisioides/details",
+    "latin_name": "Cassia artemisioides",
+    "main_common_name": {
+        "en": "Wormwood senna",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Feathery cassia",
+            "Silver cassia",
+            "Wormwood cassia"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Cassia artemisioides"
+    ],
     "tags": [
         "Shrubs",
         "Conservatory Greenhouse",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "feathery cassia",
-            "silver cassia",
-            "wormwood cassia"
-        ],
-        "synonyms": [
-            "Cassia artemisioides"
-        ]
-    },
+    "genus_description": "Senna can be deciduous or evergreen shrubs , trees or perennials with pinnate leaves and terminal or axillary racemes, corymbs or panicles of usually yellow, bowl-shaped, 5-petalled flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -36,6 +43,21 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H1B"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -88,73 +110,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in a loam-based compost in full light with moderate humidity. Grow outdoors in moist but well-drained fertile in full sun in protected frost-free area",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Low Maintenance"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H1B"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Australia",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Senna can be deciduous or evergreen shrubs , trees or perennials with pinnate leaves and terminal or axillary racemes, corymbs or panicles of usually yellow, bowl-shaped, 5-petalled flowers",
-        "name_status": "Correct",
-        "plant_range": "Australia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a loam-based compost in full light with moderate humidity. Grow outdoors in moist but well-drained fertile in full sun in protected frost-free area",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or semi-hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Cassia artemisioides",
-    "display_name": "Wormwood senna",
-    "clear_main_name": "Cassia artemisioides",
-    "pt_search_main_name": "Cassia artemisioides"
+        "habit": "Bushy"
+    }
 }

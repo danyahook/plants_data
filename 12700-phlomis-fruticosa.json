@@ -1,25 +1,50 @@
 {
-    "id": "6f1e4cf8-84de-401c-8d57-4600684a4f5d",
-    "link": "https://www.rhs.org.uk/plants/12700/phlomis-fruticosa/details",
+    "latin_name": "Phlomis fruticosa",
+    "main_common_name": {
+        "en": "Shrubby jerusalem sage",
+        "ru": "Зопник кустарниковый"
+    },
+    "common_names": {
+        "en": [
+            "Yellow clary",
+            "Jupiter's distaff",
+            "Shrubby jerusalem sage",
+            "Wild mullein",
+            "Jupiter's distaff",
+            "French sage",
+            "Yellow clary",
+            "Tree sage",
+            "Jerusalem sage"
+        ],
+        "ru": [
+            "Зопник кустарниковый",
+            "Зопник кустарниковидный",
+            "Иерусалимский шалфей"
+        ]
+    },
+    "synonyms": [
+        "Phlomis portae",
+        "Phlomis collina",
+        "Phlomis angustifolia",
+        "Beloakon luteum",
+        "Phlomis latifolia",
+        "Phlomis salviifolia",
+        "Phlomis scariosa",
+        "Phlomis fruticosa"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "Jupiter's distaff",
-            "yellow clary"
-        ],
-        "synonyms": [
-            "Phlomis angustifolia"
-        ]
-    },
+    "genus_description": "Phlomis can be herbaceous perennials or evergreen shrubs, with sage-like leaves and whorls of tubular, hooded flowers over a long period in summer",
+    "rank": 1499,
     "size": {
         "ultimate_height": "0.5–1 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -34,7 +59,30 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [
+            "Summer",
+            "Fall"
+        ],
+        "planting": [
+            "Spring",
+            "Summer"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -78,157 +126,46 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Lamiaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Phlomis can be herbaceous perennials or evergreen shrubs, with sage-like leaves and whorls of tubular, hooded flowers over a long period in summer",
-        "name_status": "Correct",
-        "plant_range": "Mediterranean"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Easy to grow in any well-drained fertile soil in full sun. Seed heads can be left over winter for their effect",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cuttings in summer or division in the spring. Propagate by seed in late spring under cover",
-            "link_names": [
-                "Softwood",
-                "Division",
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Mediterranean climate plants",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8 or pruning group 9",
-            "link_names": [
-                "Pruning group 8",
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide",
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to leafhoppers",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus (rarely)",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Phlomis_fruticosa.html",
-        "filename": "12700-phlomis-fruticosa.json",
-        "latin_name": "Phlomis fruticosa",
-        "common_names": [
-            "Shrubby jerusalem sage",
-            "Jupiter's Distaff",
-            "Yellow Clary",
-            "Jerusalem sage",
-            "French sage",
-            "Tree sage",
-            "Wild mullein"
+        "cultivation": "Easy to grow in any well-drained fertile soil in full sun. Seed heads can be left over winter for their effect",
+        "propagation": [
+            "Softwood",
+            "Division",
+            "Propagate by seed"
         ],
-        "synonyms": [
-            "Phlomis scariosa",
-            "Phlomis portae",
-            "Phlomis angustifolia",
-            "Phlomis latifolia",
-            "Phlomis salviifolia",
-            "Beloakon luteum",
-            "Phlomis collina",
-            "Phlomis fruticosa"
+        "suggested_panting_places": [
+            "Coastal",
+            "Mediterranean climate plants",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "ru_data": {
-            "common_names": [
-                "Зопник кустарниковый",
-                "Зопник кустарниковидный",
-                "Иерусалимский шалфей"
-            ],
-            "synonyms": [
-                "Phlomis scariosa",
-                "Phlomis portae",
-                "Phlomis angustifolia",
-                "Phlomis latifolia",
-                "Phlomis salviifolia",
-                "Beloakon luteum",
-                "Phlomis collina",
-                "Phlomis fruticosa"
-            ]
-        },
-        "rank": 1499,
-        "items_data": {
-            "sunlight": "Full sun",
-            "planting_time": [
-                "Spring",
-                "Summer"
-            ],
-            "harvest_time": [
-                "Summer",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mints plantains olives",
-                "Allies"
-            ],
-            "family": "Mint",
-            "genus": "Jerusalem sage",
-            "species": "Shrubby jerusalem sage"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Caterpillars",
-            "Brown spot",
-            "Petal blight",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 8",
+            "Pruning group 9"
         ]
     },
-    "main_name_original": "Phlomis fruticosa",
-    "display_name": "Jerusalem sage",
-    "clear_main_name": "Phlomis fruticosa",
-    "pt_search_main_name": "Phlomis fruticosa"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Petal blight",
+        "Brown spot",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Mint",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mints plantains olives",
+            "Allies"
+        ],
+        "genus": "Jerusalem sage",
+        "species": "Shrubby jerusalem sage"
+    },
+    "botanical_details": {
+        "plant_range": "Mediterranean",
+        "foliage": "Evergreen",
+        "habit": "Bushy"
+    }
 }

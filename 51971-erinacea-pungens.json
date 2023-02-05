@@ -1,30 +1,37 @@
 {
-    "id": "8cfe6cea-ddc5-4a7a-b2dc-c6c1801de9c2",
-    "link": "https://www.rhs.org.uk/plants/51971/erinacea-pungens/details",
+    "latin_name": "Erinacea pungens",
+    "main_common_name": {
+        "en": "Hedgehog broom",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Blue broom",
+            "Branch thorn",
+            "Hedgehog plant",
+            "Rushy kidney vetch"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Erinacea pungens",
+        "Anthyllis erinacea"
+    ],
     "tags": [
         "Shrubs",
         "Alpine Rockery",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "blue broom",
-            "branch thorn",
-            "hedgehog plant",
-            "rushy kidney vetch"
-        ],
-        "synonyms": [
-            "Erinacea pungens",
-            "Anthyllis erinacea"
-        ]
-    },
+    "genus_description": "Erinacea are dwarf, spiny, evergreen subshrubs with simple or trifoliate leaves and pea-like blue flowers borne in small clusters in the leaf axils",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "0.5–1 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk"
         ],
         "moisture": [
@@ -35,7 +42,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -83,77 +106,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in deep, gritty, very well-drained soil in full sun. Long-lived and slow-growing",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-hardwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Gravel garden",
+            "Patio and container plants",
+            "Rock garden",
+            "Mediterranean climate plants"
         ],
-        "exposure": "Exposed",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe Morocco",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Erinacea are dwarf, spiny, evergreen subshrubs with simple or trifoliate leaves and pea-like blue flowers borne in small clusters in the leaf axils",
-        "name_status": "Correct",
-        "plant_range": "Europe Morocco"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep, gritty, very well-drained soil in full sun. Long-lived and slow-growing",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in pots in an open frame in autumn. Propagate by rooting semi-hardwood cuttings in late spring or early summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Gravel garden",
-                "Patio and container plants",
-                "Rock garden",
-                "Mediterranean climate plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to aphids and glasshouse red spider mite when grown under glass",
-            "link_names": [
-                "Aphids",
-                "Glasshouse red spider mite"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "glasshouse_red_spider_mite": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Erinacea pungens",
-    "display_name": "Hedgehog broom",
-    "clear_main_name": "Erinacea pungens",
-    "pt_search_main_name": "Erinacea pungens"
+        "habit": "Bushy"
+    }
 }

@@ -1,22 +1,46 @@
 {
-    "id": "f18c27e5-91ca-42ce-8c8d-c1c6eb890286",
-    "link": "https://www.rhs.org.uk/plants/894/alnus-cordata/details",
+    "latin_name": "Alnus cordata",
+    "main_common_name": {
+        "en": "Italian alder",
+        "ru": "Ольха сердцевидная"
+    },
+    "common_names": {
+        "en": [
+            "Italian alder"
+        ],
+        "ru": [
+            "Ольха сердцевидная",
+            "Ольха сердцелистная",
+            "Ольха итальянская"
+        ]
+    },
+    "synonyms": [
+        "Alnus tiliacea hort. ex. rehd.",
+        "Alnus obcordata",
+        "Alnus rotundifolia",
+        "Alnus cordifolia",
+        "Alnus cordata f. parvifolia",
+        "Alnus cordata",
+        "Betula cordata",
+        "Alnus neapolitana",
+        "Alnus cordata var. rotundifolia",
+        "Alnus nervosus",
+        "Alnus macrocarpa",
+        "Alnus cordifolia var. rotundifolia"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "synonyms": [
-            "Alnus tiliacea hort. Ex. Rehd.",
-            "Alnus cordifolia"
-        ]
-    },
+    "genus_description": "Alnus are vigorous deciduous trees and large shrubs with rounded leaves and often conspicuous catkins in winter",
+    "rank": 4267,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam"
@@ -31,7 +55,28 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "East–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -67,154 +112,42 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "East–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Columnar upright",
-        "genus": "Alnus are vigorous deciduous trees and large shrubs with rounded leaves and often conspicuous catkins in winter",
-        "name_status": "Correct",
-        "plant_range": "Corsica & S Italy"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "This genus is noted for its ability to thrive in poor, wet conditions and is widely used in land reclamation",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or hardwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to alder sucker and leaf-mining sawflies",
-            "link_names": [
-                "Alder sucker"
-            ],
-            "related_links": {
-                "alder_sucker": "https://www.rhs.org.uk/biodiversity/alder-sucker"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to Phytophthora and honey fungus",
-            "link_names": [
-                "Phytophthora",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "phytophthora": "https://www.rhs.org.uk/disease/phytophthora-root-rot",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Alnus_cordata.html",
-        "filename": "894-alnus-cordata.json",
-        "latin_name": "Alnus cordata",
-        "common_names": [
-            "Italian alder"
+        "cultivation": "This genus is noted for its ability to thrive in poor, wet conditions and is widely used in land reclamation",
+        "propagation": [
+            "Propagate by seed",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Alnus neapolitana",
-            "Alnus rotundifolia",
-            "Alnus cordata var. rotundifolia",
-            "Alnus nervosus",
-            "Betula cordata",
-            "Alnus obcordata",
-            "Alnus cordifolia",
-            "Alnus macrocarpa",
-            "Alnus cordifolia var. rotundifolia",
-            "Alnus cordata",
-            "Alnus cordata f. parvifolia"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Hedging and screens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Ольха сердцевидная",
-                "Ольха сердцелистная",
-                "Ольха итальянская"
-            ],
-            "synonyms": [
-                "Alnus neapolitana",
-                "Alnus rotundifolia",
-                "Alnus cordata var. rotundifolia",
-                "Alnus nervosus",
-                "Betula cordata",
-                "Alnus obcordata",
-                "Alnus cordifolia",
-                "Alnus macrocarpa",
-                "Alnus cordifolia var. rotundifolia",
-                "Alnus cordata",
-                "Alnus cordata f. parvifolia"
-            ]
-        },
-        "rank": 4267,
-        "items_data": {
-            "water": "Every 2 weeks",
-            "hardiness_zones": "4 - 8",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Birch",
-            "genus": "Alders",
-            "species": "Italian alder"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Fruit withering",
-            "Gall"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Alnus cordata",
-    "display_name": "Italian alder",
-    "clear_main_name": "Alnus cordata",
-    "pt_search_main_name": "Alnus cordata"
+    "diseases_and_pests": [
+        "Gall",
+        "Underwatering",
+        "Fruit withering"
+    ],
+    "scientific_classification": {
+        "family": "Birch",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Alders",
+        "species": "Italian alder"
+    },
+    "botanical_details": {
+        "plant_range": "Corsica & S Italy",
+        "foliage": "Deciduous",
+        "habit": "Columnar upright"
+    }
 }

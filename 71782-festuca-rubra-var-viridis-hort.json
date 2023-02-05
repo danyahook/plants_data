@@ -1,23 +1,31 @@
 {
-    "id": "be854787-6aff-4bca-8bfe-776c04da9214",
-    "link": "https://www.rhs.org.uk/plants/71782/festuca-rubra-var-viridis-hort/details",
+    "latin_name": "Festuca rubra var. viridis hort.",
+    "main_common_name": {
+        "en": "Spiky fescue",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Festuca scoparia",
+        "Festuca rubra var. viridis hort."
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Festuca rubra var. viridis hort.",
-            "Festuca scoparia"
-        ]
-    },
+    "genus_description": "Festuca can be herbaceous or evergreen, rhizomatous grasses with linear, often strikingly coloured, leaves, and dense or lax panicles of brownish flowers in summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -32,7 +40,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -70,72 +97,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in poor to moderatly fertile dry well drained soil in ful sun. Divide and replant every 2-3 years to maintain good foliage colour",
+        "propagation": [
+            "Divide"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "drought resistance": "Yes",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Evergreen",
-        "habit": "Clump forming",
-        "genus": "Festuca can be herbaceous or evergreen, rhizomatous grasses with linear, often strikingly coloured, leaves, and dense or lax panicles of brownish flowers in summer",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in poor to moderatly fertile dry well drained soil in ful sun. Divide and replant every 2-3 years to maintain good foliage colour",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Divide clumps every two-three years. Sow seed from autumn to spring in containers",
-            "link_names": [
-                "Divide"
-            ],
-            "related_links": {
-                "divide": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Tidy up in spring raking the dead foliage out of the middle of plant",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Festuca rubra var. viridis hort.",
-    "display_name": "Spiky fescue",
-    "clear_main_name": "Festuca rubra var. viridis hort.",
-    "pt_search_main_name": "Festuca rubra var. viridis hort."
+        "habit": "Clump forming"
+    }
 }

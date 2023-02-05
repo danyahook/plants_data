@@ -1,26 +1,64 @@
 {
-    "id": "bac9c98d-849b-48a0-94fe-3021db80af4f",
-    "link": "https://www.rhs.org.uk/plants/19/abies-cephalonica/details",
+    "latin_name": "Abies cephalonica",
+    "main_common_name": {
+        "en": "Greek fir",
+        "ru": "Пихта греческая"
+    },
+    "common_names": {
+        "en": [
+            "Grecian fir",
+            "Apollo fir",
+            "Greek fir"
+        ],
+        "ru": [
+            "Пихта греческая",
+            "Пихта кефалинийская"
+        ]
+    },
+    "synonyms": [
+        "Abies apollinis",
+        "Pinus cephalonica",
+        "Pinus cephalonica var. reginae-amaliae",
+        "Pinus apollinis",
+        "Abies alba var. cephalonica",
+        "Abies cephalonica var. cephalonica",
+        "Abies taxifolia hort. ex",
+        "Abies peloponnesiaca",
+        "Abies apollinis var. reginae-amaliae",
+        "Abies cephalonica",
+        "Pinus picea var. graeca",
+        "Abies cephalonica var. arcadica",
+        "Pinus abies var. panachaica",
+        "Abies panachaica",
+        "Abies cephalonica var. apollinis",
+        "Abies cephalonica var. peloponnesiaca",
+        "Picea cephalonica",
+        "Abies apollinis var. panachaica",
+        "Abies cephalonica var. parnassica",
+        "Pinus abies var. apollinis",
+        "Abies picea var. apollinis",
+        "Abies reginae-amaliae",
+        "Picea apollinis",
+        "Abies cephalonica var. reginae-amaliae",
+        "Picea cephalonica var. panachaica",
+        "Pinus abies var. cephalonica",
+        "Abies peloponnesica",
+        "Abies heterophylla"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "Grecian fir"
-        ],
-        "synonyms": [
-            "Abies cephalonica var. apollinis",
-            "Abies cephalonica var. cephalonica"
-        ]
-    },
+    "genus_description": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
+    "rank": 104158,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -33,7 +71,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": null
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -67,161 +123,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist but well-drained slightly acidic soil",
+        "propagation": [
+            "Propagate by seed",
+            "Grafting"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Pinaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Greece",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Abies are evergreen conifers, often very tall, with whorled branches bearing flattened, linear leaves, often whitish beneath, and on the upper branches, large cones which break up whilst attached to the tree",
-        "name_status": "Correct",
-        "plant_range": "Greece"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist but well-drained slightly acidic soil",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to adelgids and aphids",
-            "link_names": [
-                "Adelgids",
-                "Aphids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free, but may be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Abies_cephalonica.html",
-        "filename": "19-abies-cephalonica.json",
-        "latin_name": "Abies cephalonica",
-        "common_names": [
-            "Greek fir",
-            "Grecian fir",
-            "Apollo fir"
-        ],
-        "synonyms": [
-            "Abies cephalonica var. reginae-amaliae",
-            "Abies heterophylla",
-            "Abies cephalonica var. peloponnesiaca",
-            "Pinus abies var. apollinis",
-            "Pinus abies var. panachaica",
-            "Pinus abies var. cephalonica",
-            "Abies apollinis",
-            "Pinus cephalonica",
-            "Abies panachaica",
-            "Abies cephalonica var. arcadica",
-            "Abies peloponnesiaca",
-            "Pinus cephalonica var. reginae-amaliae",
-            "Picea apollinis",
-            "Abies cephalonica var. apollinis",
-            "Abies peloponnesica",
-            "Pinus apollinis",
-            "Abies alba var. cephalonica",
-            "Abies apollinis var. panachaica",
-            "Picea cephalonica var. panachaica",
-            "Abies cephalonica var. parnassica",
-            "Abies picea var. apollinis",
-            "Abies taxifolia hort. ex",
-            "Abies reginae-amaliae",
-            "Picea cephalonica",
-            "Abies cephalonica",
-            "Pinus picea var. graeca",
-            "Abies apollinis var. reginae-amaliae"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Пихта греческая",
-                "Пихта кефалинийская"
-            ],
-            "synonyms": [
-                "Abies cephalonica var. reginae-amaliae",
-                "Abies heterophylla",
-                "Abies cephalonica var. peloponnesiaca",
-                "Pinus abies var. apollinis",
-                "Pinus abies var. panachaica",
-                "Pinus abies var. cephalonica",
-                "Abies apollinis",
-                "Pinus cephalonica",
-                "Abies panachaica",
-                "Abies cephalonica var. arcadica",
-                "Abies peloponnesiaca",
-                "Pinus cephalonica var. reginae-amaliae",
-                "Picea apollinis",
-                "Abies cephalonica var. apollinis",
-                "Abies peloponnesica",
-                "Pinus apollinis",
-                "Abies alba var. cephalonica",
-                "Abies apollinis var. panachaica",
-                "Picea cephalonica var. panachaica",
-                "Abies cephalonica var. parnassica",
-                "Abies picea var. apollinis",
-                "Abies taxifolia hort. ex",
-                "Abies reginae-amaliae",
-                "Picea cephalonica",
-                "Abies cephalonica",
-                "Pinus picea var. graeca",
-                "Abies apollinis var. reginae-amaliae"
-            ]
-        },
-        "rank": 104158,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {},
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Abies cephalonica",
-    "display_name": "Greek fir",
-    "clear_main_name": "Abies cephalonica",
-    "pt_search_main_name": "Abies cephalonica"
+        "habit": "Bushy"
+    }
 }

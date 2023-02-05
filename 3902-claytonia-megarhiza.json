@@ -1,21 +1,36 @@
 {
-    "id": "7516e984-04d3-482f-a593-01ab20bc5dc5",
-    "link": "https://www.rhs.org.uk/plants/3902/claytonia-megarhiza/details",
+    "latin_name": "Claytonia megarhiza",
+    "main_common_name": {
+        "en": "Alpine springbeauty",
+        "ru": "Claytonia megarhiza"
+    },
+    "common_names": {
+        "en": [
+            "Alpine springbeauty",
+            "Fell-fields claytonia"
+        ],
+        "ru": [
+            "Claytonia megarhiza"
+        ]
+    },
+    "synonyms": [
+        "Claytonia arctica var. megarhiza",
+        "Rhododendron cruentum",
+        "Claytonia megarhiza"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "synonyms": [
-            "Rhododendron cruentum"
-        ]
-    },
+    "genus_description": "Rhododendron can be evergreen or deciduous shrubs or trees, with simple leaves, sometimes with a dense colourful indumentum of hairs on the lower side, and funnel-shaped, bell-shaped or tubular flowers that may be solitary or in short racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -27,7 +42,24 @@
             "Acid"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -68,91 +100,28 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in gritty, humus-rich, sharply drained soil in full sun. Protect from excessive winter wet",
+        "propagation": [],
+        "suggested_panting_places": [
+            "Patio and container plants",
+            "Rock garden"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Ericaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Ericaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SW China",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Rhododendron can be evergreen or deciduous shrubs or trees, with simple leaves, sometimes with a dense colourful indumentum of hairs on the lower side, and funnel-shaped, bell-shaped or tubular flowers that may be solitary or in short racemes",
-        "name_status": "Correct",
-        "plant_range": "SW China"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in gritty, humus-rich, sharply drained soil in full sun. Protect from excessive winter wet",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing seed in a cold frame in autumn",
-            "link_names": [],
-            "related_links": {}
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants",
-                "Rock garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Claytonia megarhiza",
-    "display_name": "",
-    "clear_main_name": "Claytonia megarhiza",
-    "pt_search_main_name": "Claytonia megarhiza",
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Claytonia_megarhiza.html",
-        "filename": "3902-claytonia-megarhiza.json",
-        "latin_name": "Claytonia megarhiza",
-        "common_names": [
-            "Alpine springbeauty",
-            "Fell-fields claytonia"
-        ],
-        "synonyms": [
-            "Claytonia arctica var. megarhiza",
-            "Claytonia megarhiza"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Claytonia megarhiza"
-            ],
-            "synonyms": [
-                "Claytonia arctica var. megarhiza",
-                "Claytonia megarhiza"
-            ]
-        },
-        "rank": 999999,
-        "items_data": {},
-        "class_data": {},
-        "toxic_data": [],
-        "diseases_data": []
+        "habit": "Bushy"
     }
 }

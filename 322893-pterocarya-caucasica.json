@@ -1,26 +1,33 @@
 {
-    "id": "d6b94074-aff4-4dc4-a729-129fe44fcdda",
-    "link": "https://www.rhs.org.uk/plants/322893/pterocarya-caucasica/details",
+    "latin_name": "Pterocarya caucasica",
+    "main_common_name": {
+        "en": "Caucasian wingnut",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Caucasian walnut"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Pterocarya caucasica",
+        "Pterocarya pterocarpa"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "Caucasian walnut"
-        ],
-        "synonyms": [
-            "Pterocarya pterocarpa",
-            "Pterocarya caucasica"
-        ]
-    },
+    "genus_description": "Pterocarya are tall deciduous trees with large pinnate leaves and tiny flowers in pendulous catkins, followed by spikes of winged fruits",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -34,7 +41,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -68,79 +91,34 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in deep, fertile, moist but well-drained soil in full sun",
+        "propagation": [
+            "Propagate by seed",
+            "Outdoors",
+            "Suckers"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Cottage and informal garden"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Juglandaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Juglandaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E Turkey, N Iran, Caucasus",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Pterocarya are tall deciduous trees with large pinnate leaves and tiny flowers in pendulous catkins, followed by spikes of winged fruits",
-        "name_status": "Correct",
-        "plant_range": "E Turkey, N Iran, Caucasus"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in deep, fertile, moist but well-drained soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers outdoors in autumn. Remove rooted suckers in autumn",
-            "link_names": [
-                "Propagate by seed",
-                "Outdoors",
-                "Suckers"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "outdoors": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Cottage and informal garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; remove unwanted suckers and seedlings as they appear",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Pterocarya caucasica",
-    "display_name": "Caucasian wingnut",
-    "clear_main_name": "Pterocarya caucasica",
-    "pt_search_main_name": "Pterocarya caucasica"
+        "habit": "Bushy"
+    }
 }

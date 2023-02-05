@@ -1,23 +1,31 @@
 {
-    "id": "7d7e5cd6-7ff9-4f66-bc03-bc9e5e676146",
-    "link": "https://www.rhs.org.uk/plants/334564/crataegus-laevigata-crimson-cloud/details",
+    "latin_name": "Crataegus laevigata Crimson Cloud",
+    "main_common_name": {
+        "en": "Hawthorn 'punicea'",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Crataegus oxyacantha 'punicea'",
+        "Crataegus laevigata crimson cloud"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Crataegus oxyacantha 'Punicea'",
-            "Crataegus laevigata Crimson Cloud"
-        ]
-    },
+    "genus_description": "Crataegus are deciduous trees and shrubs, usually with spiny branches, lobed or toothed leaves, and clusters of creamy-white flowers followed by red or black fruits. Some have fine autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +41,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -70,91 +97,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Very tolerant plants growing in any soil that is not waterlogged, in full sun or partial shade. Useful specimen trees for town, coastal or exposed gardens",
+        "propagation": [
+            "Chip budding",
+            "Grafting"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "potentially_harmful": "Fruit may cause mild stomach upset if ingested. Wear gloves and wash hands after handling",
-        "genus": "Crataegus are deciduous trees and shrubs, usually with spiny branches, lobed or toothed leaves, and clusters of creamy-white flowers followed by red or black fruits. Some have fine autumn colour",
-        "name_status": "Accepted"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Very tolerant plants growing in any soil that is not waterlogged, in full sun or partial shade. Useful specimen trees for town, coastal or exposed gardens",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by chip budding in mid- to late summer or grafting in late winter",
-            "link_names": [
-                "Chip budding",
-                "Grafting"
-            ],
-            "related_links": {
-                "chip_budding": "https://www.rhs.org.uk/propagation/chip-budding",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to caterpillars, gall mites and aphids",
-            "link_names": [
-                "Gall mites",
-                "Aphids"
-            ],
-            "related_links": {
-                "gall_mites": "https://www.rhs.org.uk/biodiversity/gall-mites",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease-free but may be susceptible to a leaf spot, fireblight and honey fungus",
-            "link_names": [
-                "Fireblight",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Crataegus laevigata Crimson Cloud",
-    "display_name": "Hawthorn 'punicea'",
-    "clear_main_name": "Crataegus laevigata Crimson Cloud",
-    "pt_search_main_name": "Crataegus laevigata Crimson Cloud"
+        "habit": "Bushy"
+    }
 }

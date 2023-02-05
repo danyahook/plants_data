@@ -1,34 +1,42 @@
 {
-    "id": "9388e429-9065-448a-b225-92727404f703",
-    "link": "https://www.rhs.org.uk/plants/1104/anagallis-arvensis/details",
+    "latin_name": "Anagallis arvensis",
+    "main_common_name": {
+        "en": "Bird's eye",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Red chickweed",
+            "Shepherd's weatherglass",
+            "Common pimpernel",
+            "Little joan",
+            "Red pimpernel",
+            "Eyebright",
+            "Poor man's weatherglass",
+            "Shepherd's clock",
+            "Clockflower",
+            "Burnet rose",
+            "Scarlet pimpernel",
+            "Bird's tongue",
+            "Sunflower",
+            "Wink-a-peep"
+        ],
+        "ru": null
+    },
+    "synonyms": [],
     "tags": [
         "Annual Biennial"
     ],
-    "names": {
-        "other_common_names": [
-            "bird's tongue",
-            "burnet rose",
-            "clockflower",
-            "common pimpernel",
-            "eyebright",
-            "little Joan",
-            "poor man's weatherglass",
-            "red chickweed",
-            "red pimpernel",
-            "scarlet pimpernel",
-            "shepherd's clock",
-            "shepherd's weatherglass",
-            "sunflower",
-            "wink-a-peep"
-        ]
-    },
+    "genus_description": "Anagallis can be annuals or evergreen perennials of creeping habit, with small leaves and solitary, 5-petalled, saucer-shaped flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1 year",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -43,7 +51,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -78,67 +103,29 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grows in any soil but prefers well-drained, light soils in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Patio and container plants"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Primulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Primulaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe",
         "foliage": "Deciduous",
-        "habit": "Matforming",
-        "genus": "Anagallis can be annuals or evergreen perennials of creeping habit, with small leaves and solitary, 5-petalled, saucer-shaped flowers",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grows in any soil but prefers well-drained, light soils in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Anagallis arvensis",
-    "display_name": "Bird's eye",
-    "clear_main_name": "Anagallis arvensis",
-    "pt_search_main_name": "Anagallis arvensis"
+        "habit": "Matforming"
+    }
 }

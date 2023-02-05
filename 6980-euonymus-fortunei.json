@@ -1,18 +1,52 @@
 {
-    "id": "b5c9729d-0200-4884-97b1-b4aaa1b4bdbc",
-    "link": "https://www.rhs.org.uk/plants/6980/euonymus-fortunei/details",
+    "latin_name": "Euonymus fortunei",
+    "main_common_name": {
+        "en": "Wintercreeper",
+        "ru": "Бересклет форчуна"
+    },
+    "common_names": {
+        "en": [
+            "Fortune's spindle",
+            "Emerald and gold",
+            "Climbing euonymus",
+            "Wintercreeper"
+        ],
+        "ru": [
+            "Бересклет форчуна",
+            "Бересклет форчуна укореняющийся"
+        ]
+    },
+    "synonyms": [
+        "Euonymus hederaceus",
+        "Euonymus guidingensis",
+        "Euonymus wensiensis",
+        "Euonymus patens",
+        "Euonymus fortunei var. acuminatus f.",
+        "Euonymus hederacioides",
+        "Euonymus kiautschovicus",
+        "Euonymus fortunei",
+        "Elaeodendron javanicum",
+        "Cassine fortunei",
+        "Euonymus japonicus var. chinensis",
+        "Euonymus japonicus var. acutus",
+        "Euonymus fortunei var. patens",
+        "Euonymus kiautschovicus var. patens",
+        "Elaeodendron fortunei"
+    ],
     "tags": [
         "Climber Wall Shrub",
         "Shrubs"
     ],
-    "names": {},
+    "genus_description": "Euonymus can be deciduous or evergreen shrubs or small trees, often with fine autumn colour, and small flowers followed by colourful fruits",
+    "rank": 876,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -28,7 +62,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -67,169 +123,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Celastraceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Trailing, Climbing",
-        "potentially_harmful": "All parts may cause severe discomfort if ingested. Wear gloves and other protective equipment when handling",
-        "genus": "Euonymus can be deciduous or evergreen shrubs or small trees, often with fine autumn colour, and small flowers followed by colourful fruits",
-        "name_status": "Correct",
-        "plant_range": "China, Japan, Korea"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in well-drained soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings and layering",
-            "link_names": [
-                "Semi-hardwood",
-                "Layering"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Low Maintenance",
-                "Climber and wall shrubs",
-                "Flower borders and beds",
-                "Hedging and screens",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 8",
-            "link_names": [
-                "Pruning group 8"
-            ],
-            "related_links": {
-                "pruning_group_8": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to vine weevil, horse chestnut scale, euonymus scale and caterpillars",
-            "link_names": [
-                "Vine weevil",
-                "Euonymus scale"
-            ],
-            "related_links": {
-                "vine_weevil": "https://www.rhs.org.uk/biodiversity/vine-weevil",
-                "euonymus_scale": "https://www.rhs.org.uk/biodiversity/euonymus-scale"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to powdery mildews and a leaf spot",
-            "link_names": [
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Euonymus_fortunei.html",
-        "filename": "6980-euonymus-fortunei.json",
-        "latin_name": "Euonymus fortunei",
-        "common_names": [
-            "Wintercreeper",
-            "Emerald and gold",
-            "Climbing euonymus",
-            "Fortune's spindle"
+        "cultivation": "Grow in well-drained soil in sun or partial shade",
+        "propagation": [
+            "Semi-hardwood",
+            "Layering"
         ],
-        "synonyms": [
-            "Euonymus kiautschovicus",
-            "Euonymus hederaceus",
-            "Euonymus japonicus var. chinensis",
-            "Euonymus hederacioides",
-            "Euonymus kiautschovicus var. patens",
-            "Euonymus guidingensis",
-            "Cassine fortunei",
-            "Euonymus patens",
-            "Euonymus fortunei var. patens",
-            "Elaeodendron fortunei",
-            "Elaeodendron javanicum",
-            "Euonymus wensiensis",
-            "Euonymus fortunei",
-            "Euonymus fortunei var. acuminatus f.",
-            "Euonymus japonicus var. acutus"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Low Maintenance",
+            "Climber and wall shrubs",
+            "Flower borders and beds",
+            "Hedging and screens",
+            "Wall side borders"
         ],
-        "ru_data": {
-            "common_names": [
-                "Бересклет Форчуна",
-                "Бересклет Форчуна укореняющийся"
-            ],
-            "synonyms": [
-                "Euonymus kiautschovicus",
-                "Euonymus hederaceus",
-                "Euonymus japonicus var. chinensis",
-                "Euonymus hederacioides",
-                "Euonymus kiautschovicus var. patens",
-                "Euonymus guidingensis",
-                "Cassine fortunei",
-                "Euonymus patens",
-                "Euonymus fortunei var. patens",
-                "Elaeodendron fortunei",
-                "Elaeodendron javanicum",
-                "Euonymus wensiensis",
-                "Euonymus fortunei",
-                "Euonymus fortunei var. acuminatus f.",
-                "Euonymus japonicus var. acutus"
-            ]
-        },
-        "rank": 876,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "hardiness_zones": "6 - 9",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Spindle tree order"
-            ],
-            "family": "Bittersweet",
-            "genus": "Spindle trees",
-            "species": "Wintercreeper"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Leaf deformity",
-            "Brown spot",
-            "Caterpillars",
-            "Fruit withering"
+        "pruning": [
+            "Pruning group 8"
         ]
     },
-    "main_name_original": "Euonymus fortunei",
-    "display_name": "Winter creeper",
-    "clear_main_name": "Euonymus fortunei",
-    "pt_search_main_name": "Euonymus fortunei"
+    "diseases_and_pests": [
+        "Fruit withering",
+        "Brown spot",
+        "Leaf deformity",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Bittersweet",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Spindle tree order"
+        ],
+        "genus": "Spindle trees",
+        "species": "Wintercreeper"
+    },
+    "botanical_details": {
+        "plant_range": "China, Japan, Korea",
+        "foliage": "Evergreen",
+        "habit": "Trailing, Climbing"
+    }
 }

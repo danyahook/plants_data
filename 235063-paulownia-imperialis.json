@@ -1,25 +1,32 @@
 {
-    "id": "cdf64caa-5d32-4842-8ea9-66a1bd443d66",
-    "link": "https://www.rhs.org.uk/plants/235063/paulownia-imperialis/details",
+    "latin_name": "Paulownia imperialis",
+    "main_common_name": {
+        "en": "Foxglove tree",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Princess tree"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Paulownia imperialis"
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "princess tree"
-        ],
-        "synonyms": [
-            "Paulownia imperialis"
-        ]
-    },
+    "genus_description": "Paulownia are deciduous trees with large, ovate leaves and erect panicles of foxglove-like flowers in spring; they can also be coppiced for extra-large leaves at expense of flowers",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,6 +40,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "East–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -72,77 +95,33 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist, humus-rich, fertile soils. Protect young trees from frost. Can be pollarded. Very tolerant of atmospheric pollution",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "West–facing",
-            "East–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
+        "pruning": [
+            "Pruning group 1",
+            "Pruning group 7"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Paulowniaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Paulowniaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "China, Korea",
         "foliage": "Deciduous",
-        "genus": "Paulownia are deciduous trees with large, ovate leaves and erect panicles of foxglove-like flowers in spring; they can also be coppiced for extra-large leaves at expense of flowers",
-        "name_status": "Correct",
-        "plant_range": "China, Korea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist, humus-rich, fertile soils. Protect young trees from frost. Can be pollarded. Very tolerant of atmospheric pollution",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in containers in a cold frame in autumn or spring. Seed germinates best if exposed to light. Seedlings must be protected from frost",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 or Pruning group 7 for foliage effect",
-            "link_names": [
-                "Pruning group 1",
-                "Pruning group 7"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "pruning_group_7": "https://www.rhs.org.uk/plants/types/shrubs/colourful-stems-large-foliage"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Paulownia imperialis",
-    "display_name": "Foxglove tree",
-    "clear_main_name": "Paulownia imperialis",
-    "pt_search_main_name": "Paulownia imperialis"
+        "habit": null
+    }
 }

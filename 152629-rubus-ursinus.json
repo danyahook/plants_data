@@ -1,21 +1,35 @@
 {
-    "id": "6d7624e2-d604-422f-aede-7a4c056ad1cc",
-    "link": "https://www.rhs.org.uk/plants/152629/rubus-ursinus/details",
+    "latin_name": "Rubus ursinus",
+    "main_common_name": {
+        "en": "California blackberry",
+        "ru": "Ежевика медвежья"
+    },
+    "common_names": {
+        "en": [
+            "California blackberry",
+            "Boysenberry [2]",
+            "Pacific dewberry"
+        ],
+        "ru": [
+            "Ежевика медвежья"
+        ]
+    },
+    "synonyms": [
+        "Rubus ursinus"
+    ],
     "tags": [
         "Fruit Edible"
     ],
-    "names": {
-        "other_common_names": [
-            "boysenberry [2]"
-        ]
-    },
+    "genus_description": "Rubus can be deciduous or evergreen shrubs, often scrambling with bristly or prickly stems bearing simple, lobed, palmate or pinnate leaves and 5-petalled flowers followed by juicy, sometimes edible fruits",
+    "rank": 3117,
     "size": {
         "ultimate_height": "1–1.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -29,6 +43,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -69,110 +100,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Train to wires on the sheltered side of a fence or wall, in any fertile soil in sun or partial shade",
+        "propagation": [
+            "Division",
+            "Layering"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Edible fruit"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rose",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Roses",
+            "Elms",
+            "Figs",
+            "And allies"
+        ],
+        "genus": "Brambles",
+        "species": "California blackberry"
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": null,
         "foliage": "Deciduous",
-        "habit": "Clump forming, Suckering",
-        "genus": "Rubus can be deciduous or evergreen shrubs, often scrambling with bristly or prickly stems bearing simple, lobed, palmate or pinnate leaves and 5-petalled flowers followed by juicy, sometimes edible fruits",
-        "name_status": "Correct"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Train to wires on the sheltered side of a fence or wall, in any fertile soil in sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division or by layering shoot tips in spring or late summer",
-            "link_names": [
-                "Division",
-                "Layering"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing",
-                "layering": "https://www.rhs.org.uk/propagation/layering"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Edible fruit"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Once well established, cut fruited canes down to the ground in late autumn and tie in the new canes which have grown over the summer.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Rubus_ursinus.html",
-        "filename": "152629-rubus-ursinus.json",
-        "latin_name": "Rubus ursinus",
-        "common_names": [
-            "California blackberry",
-            "Pacific dewberry"
-        ],
-        "synonyms": [
-            "Rubus ursinus"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Ежевика медвежья"
-            ],
-            "synonyms": [
-                "Rubus ursinus"
-            ]
-        },
-        "rank": 3117,
-        "items_data": {
-            "sunlight": "Partial sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Roses",
-                "Elms",
-                "Figs",
-                "And allies"
-            ],
-            "family": "Rose",
-            "genus": "Brambles",
-            "species": "California blackberry"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Rubus ursinus",
-    "display_name": "California blackberry",
-    "clear_main_name": "Rubus ursinus",
-    "pt_search_main_name": "Rubus ursinus"
+        "habit": "Clump forming, Suckering"
+    }
 }

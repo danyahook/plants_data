@@ -1,28 +1,35 @@
 {
-    "id": "be3384e3-c0c2-417c-96c8-14b337388eea",
-    "link": "https://www.rhs.org.uk/plants/203074/baptisia-nepalensis/details",
+    "latin_name": "Baptisia nepalensis",
+    "main_common_name": {
+        "en": "Nepal laburnum",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Evergreen laburnum"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Piptanthus laburnifolius",
+        "Piptanthus leiocarpus",
+        "Baptisia nepalensis",
+        "Piptanthus forrestii"
+    ],
     "tags": [
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "evergreen laburnum"
-        ],
-        "synonyms": [
-            "Piptanthus forrestii",
-            "Baptisia nepalensis",
-            "Piptanthus leiocarpus",
-            "Piptanthus laburnifolius"
-        ]
-    },
+    "genus_description": "Piptanthus are evergreen shrubs with leaves composed of 3 leaflets, and yellow pea-flowers in short terminal racemes",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -35,7 +42,24 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H3"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -75,79 +99,37 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in fertile, well-drained soil in sun or partial shade with shelter from cold, drying winds",
+        "propagation": [
+            "Propagate by seed",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Coastal",
+            "Flower borders and beds",
+            "Wall side borders"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H3"
+        "pruning": [
+            "Pruning group 1",
+            "Pruning group 13"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Fabaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Fabaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Himalaya",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Piptanthus are evergreen shrubs with leaves composed of 3 leaflets, and yellow pea-flowers in short terminal racemes",
-        "name_status": "Correct",
-        "plant_range": "Himalaya"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in fertile, well-drained soil in sun or partial shade with shelter from cold, drying winds",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame in spring or autumn; take heeled, semi-ripe cuttings (basal) in summer",
-            "link_names": [
-                "Propagate by seed",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Coastal",
-                "Flower borders and beds",
-                "Wall side borders"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1 or Pruning group 13 if wall-trained",
-            "link_names": [
-                "Pruning group 1",
-                "Pruning group 13"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning",
-                "pruning_group_13": "https://www.rhs.org.uk/plants/types/climbers/established-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Baptisia nepalensis",
-    "display_name": "Nepal laburnum",
-    "clear_main_name": "Baptisia nepalensis",
-    "pt_search_main_name": "Baptisia nepalensis"
+        "habit": "Bushy"
+    }
 }

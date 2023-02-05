@@ -1,21 +1,35 @@
 {
-    "id": "33015f0a-e264-4b49-869d-3a7d13a96e90",
-    "link": "https://www.rhs.org.uk/plants/27019/arenaria-montana/details",
+    "latin_name": "Arenaria montana",
+    "main_common_name": {
+        "en": "Mountain sandwort",
+        "ru": "Песчанка горная"
+    },
+    "common_names": {
+        "en": [
+            "Mountain sandwort",
+            "Mountain daisy [2]"
+        ],
+        "ru": [
+            "Песчанка горная",
+            "Аренария горная"
+        ]
+    },
+    "synonyms": [
+        "Arenaria montana"
+    ],
     "tags": [
         "Alpine Rockery"
     ],
-    "names": {
-        "other_common_names": [
-            "mountain daisy [2]"
-        ]
-    },
+    "genus_description": "Arenaria can be annuals or usually mat-forming, evergreen or herbaceous perennials with small leaves and 5-petalled white flowers",
+    "rank": 3761,
     "size": {
         "ultimate_height": "Up to 10cm",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -29,7 +43,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Late summer",
+            "Early fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -65,124 +101,45 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Easily grown in rock garden or in a crevices in a wall or paving. Grows best on poor sandy soils",
+        "propagation": [
+            "Propagate by seed",
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Gravel garden",
+            "Rock garden",
+            "Patio and container plants",
+            "Low Maintenance",
+            "Garden edging",
+            "Ground cover"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H5"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Flower withering",
+        "Aged yellow and dry",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Pink",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Pinks",
+            "Cacti",
+            "And allies"
+        ],
+        "genus": "Sandworts",
+        "species": "Mountain sandwort"
     },
     "botanical_details": {
-        "family": "Caryophyllaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "SW Europe, Morocco",
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Arenaria can be annuals or usually mat-forming, evergreen or herbaceous perennials with small leaves and 5-petalled white flowers",
-        "name_status": "Correct",
-        "plant_range": "SW Europe, Morocco"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Easily grown in rock garden or in a crevices in a wall or paving. Grows best on poor sandy soils",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, division or basal cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Division"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Gravel garden",
-                "Rock garden",
-                "Patio and container plants",
-                "Low Maintenance",
-                "Garden edging",
-                "Ground cover"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Arenaria_montana.html",
-        "filename": "27019-arenaria-montana.json",
-        "latin_name": "Arenaria montana",
-        "common_names": [
-            "Mountain sandwort"
-        ],
-        "synonyms": [
-            "Arenaria montana"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Песчанка горная",
-                "Аренария горная"
-            ],
-            "synonyms": [
-                "Arenaria montana"
-            ]
-        },
-        "rank": 3761,
-        "items_data": {
-            "sunlight": "Full sun",
-            "planting_time": [
-                "Late summer",
-                "Early fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Pinks",
-                "Cacti",
-                "And allies"
-            ],
-            "family": "Pink",
-            "genus": "Sandworts",
-            "species": "Mountain sandwort"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Flower withering",
-            "Aged yellow and dry"
-        ]
-    },
-    "main_name_original": "Arenaria montana",
-    "display_name": "Mountain sandwort",
-    "clear_main_name": "Arenaria montana",
-    "pt_search_main_name": "Arenaria montana"
+        "habit": "Matforming"
+    }
 }

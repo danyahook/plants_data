@@ -1,28 +1,49 @@
 {
-    "id": "e43ce000-4a13-40f1-beee-d7a918f94998",
-    "link": "https://www.rhs.org.uk/plants/14090/pseudotsuga-menziesii/details",
+    "latin_name": "Pseudotsuga menziesii",
+    "main_common_name": {
+        "en": "Common douglas-fir",
+        "ru": "Псевдотсуга мензиса"
+    },
+    "common_names": {
+        "en": [
+            "Green douglas fir",
+            "Red pine",
+            "Douglas spruce",
+            "False hemlock",
+            "Oregon pine",
+            "Common douglas-fir"
+        ],
+        "ru": [
+            "Псевдотсуга мензиса",
+            "Дугласова пихта",
+            "Псевдотсуга тиссолистная",
+            "Лжетсуга тиссолистная",
+            "Лжетсуга мензиса",
+            "Дугласия тиссолистная",
+            "Орегонская сосна",
+            "Пихта дугласа"
+        ]
+    },
+    "synonyms": [
+        "Pseudotsuga taxifolia",
+        "Tsuga menziesii",
+        "Pseudotsuga menziesii",
+        "Pseudotsuga douglasii"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "green Douglas fir",
-            "Oregon pine"
-        ],
-        "synonyms": [
-            "Pseudotsuga douglasii",
-            "Tsuga menziesii",
-            "Pseudotsuga taxifolia"
-        ]
-    },
+    "genus_description": "Pseudotsuga are large evergreen trees with leathery, linear leaves and conspicuous cones with 3-pointed bracts emerging between the cone-scales",
+    "rank": 2074,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "more than 50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -35,7 +56,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Fall",
+            "Winter",
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,127 +111,37 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any well-drained, non-chalky soil in full sun",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Hedging and screens"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Fire ants",
+        "Longhorn beetles",
+        "Fruit withering"
+    ],
+    "scientific_classification": {
+        "family": "Pine",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Douglas firs",
+        "species": "Common douglas-fir"
     },
     "botanical_details": {
-        "family": "Pinaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "N America, Mexico",
         "foliage": "Evergreen",
-        "habit": "Columnar upright",
-        "genus": "Pseudotsuga are large evergreen trees with leathery, linear leaves and conspicuous cones with 3-pointed bracts emerging between the cone-scales",
-        "name_status": "Correct",
-        "plant_range": "N America, Mexico"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any well-drained, non-chalky soil in full sun",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown fresh in containers in a cold frame in late winter",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Requires little pruning. Remove competing leaders on young trees",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Douglas fir adelgids may occur",
-            "link_names": [
-                "Adelgids"
-            ],
-            "related_links": {
-                "adelgids": "https://www.rhs.org.uk/biodiversity/adelgids"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Pseudotsuga_menziesii.html",
-        "filename": "14090-pseudotsuga-menziesii.json",
-        "latin_name": "Pseudotsuga menziesii",
-        "common_names": [
-            "Common douglas-fir",
-            "Douglas spruce",
-            "Red pine",
-            "Oregon pine",
-            "False hemlock"
-        ],
-        "synonyms": [
-            "Pseudotsuga menziesii"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Псевдотсуга Мензиса",
-                "Дугласова пихта",
-                "Псевдотсуга тиссолистная",
-                "Лжетсуга тиссолистная",
-                "Лжетсуга Мензиса",
-                "Дугласия тиссолистная",
-                "Орегонская сосна",
-                "Пихта Дугласа"
-            ],
-            "synonyms": [
-                "Pseudotsuga menziesii"
-            ]
-        },
-        "rank": 2074,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "planting_time": [
-                "Fall",
-                "Winter",
-                "Spring"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Pine",
-            "genus": "Douglas firs",
-            "species": "Common douglas-fir"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Longhorn beetles",
-            "Fruit withering",
-            "Fire ants"
-        ]
-    },
-    "main_name_original": "Pseudotsuga menziesii",
-    "display_name": "Douglas fir",
-    "clear_main_name": "Pseudotsuga menziesii",
-    "pt_search_main_name": "Pseudotsuga menziesii"
+        "habit": "Columnar upright"
+    }
 }

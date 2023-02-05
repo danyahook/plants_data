@@ -1,38 +1,47 @@
 {
-    "id": "82a93b20-3347-4f8d-a3eb-44cc05f5787f",
-    "link": "https://www.rhs.org.uk/plants/174529/silene-rubra/details",
+    "latin_name": "Silene rubra",
+    "main_common_name": {
+        "en": "Red campion",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Adder's flower",
+            "White soapwort",
+            "Robins",
+            "Mother-die",
+            "Red lychnis",
+            "Ragged jack",
+            "Devil's flower",
+            "Poor robin",
+            "Hare's eye",
+            "Soldiers [2]"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Lychnis diurna",
+        "Silene rubra",
+        "Melandrium sylvestre",
+        "Silene diurna",
+        "Melandrium rubrum",
+        "Lychnis sylvestris",
+        "Lychnis dioica"
+    ],
     "tags": [
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "adder's flower",
-            "devil's flower",
-            "hare's eye",
-            "mother-die",
-            "poor robin",
-            "ragged Jack",
-            "red lychnis",
-            "robins",
-            "white soapwort",
-            "soldiers [2]"
-        ],
-        "synonyms": [
-            "Melandrium rubrum",
-            "Lychnis dioica",
-            "Lychnis diurna",
-            "Lychnis sylvestris",
-            "Silene diurna",
-            "Silene rubra",
-            "Melandrium sylvestre"
-        ]
-    },
+    "genus_description": "Silene can be annuals, biennials or herbaceous or evergreen perennials, with opposite, untoothed leaves and solitary or clustered flowers with 5, usually notched petals",
+    "rank": 999999,
     "size": {
-        "ultimate_height": "0.5–1 metres"
+        "ultimate_height": "0.5–1 metres",
+        "time_to_ultimate_height": null,
+        "ultimate_spread": null
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -43,7 +52,20 @@
         ],
         "ph": []
     },
+    "position": {
+        "sunlight": [
+            "Partial shade"
+        ],
+        "side": [],
+        "exposure": null,
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -83,63 +105,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Occurs naturally on well-drained, moderately fertile soils. Dislikes waterlogging so is rarely found on heavy clay. A flower of hedgerows and semi-shaded places",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [],
-        "hardiness": "H6"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Wildflower meadow"
+        ],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Caryophyllaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Caryophyllaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Europe",
         "foliage": "Semi evergreen",
-        "habit": "Bushy",
-        "genus": "Silene can be annuals, biennials or herbaceous or evergreen perennials, with opposite, untoothed leaves and solitary or clustered flowers with 5, usually notched petals",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Occurs naturally on well-drained, moderately fertile soils. Dislikes waterlogging so is rarely found on heavy clay. A flower of hedgerows and semi-shaded places",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Silene rubra",
-    "display_name": "Red campion",
-    "clear_main_name": "Silene rubra",
-    "pt_search_main_name": "Silene rubra"
+        "habit": "Bushy"
+    }
 }

@@ -1,21 +1,29 @@
 {
-    "id": "c94cb2f9-9598-4af7-a2fa-3220f2d3c2ec",
-    "link": "https://www.rhs.org.uk/plants/2254/betula-medwediewii/details",
+    "latin_name": "Betula medwediewii",
+    "main_common_name": {
+        "en": "Transcaucasian birch",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Medwediew's birch"
+        ],
+        "ru": null
+    },
+    "synonyms": [],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "Medwediew's birch"
-        ]
-    },
+    "genus_description": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
+    "rank": 999999,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -29,7 +37,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Bronze",
@@ -82,92 +109,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade but tolerant of a range of soil conditions",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Grafting"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Hedging and screens"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Betulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Black Sea",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
-        "name_status": "Correct",
-        "plant_range": "Black Sea"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade but tolerant of a range of soil conditions",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown in a seed bed in autumn or take softwood cuttings in summer or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Hedging and screens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; birches bleed heavily, prune only when fully dormant from late summer to before mid-winter",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
-            "link_names": [
-                "Honey fungus",
-                "Tree rust",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "main_name_original": "Betula medwediewii",
-    "display_name": "Transcaucasian birch",
-    "clear_main_name": "Betula medwediewii",
-    "pt_search_main_name": "Betula medwediewii"
+        "habit": "Bushy"
+    }
 }

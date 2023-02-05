@@ -1,22 +1,30 @@
 {
-    "id": "b4f9a36f-f6fa-4836-9a61-27db329e48af",
-    "link": "https://www.rhs.org.uk/plants/209938/chaetochloa-palmifolia/details",
+    "latin_name": "Chaetochloa palmifolia",
+    "main_common_name": {
+        "en": "Palm grass",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Chaetochloa palmifolia"
+    ],
     "tags": [
         "Grass Like",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Chaetochloa palmifolia"
-        ]
-    },
+    "genus_description": "Setaria can be annual or perennial grasses, with linear to elliptic leaves and small flowers in a panicle, the spikelets with a tuft of conspicuous bristles",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "1.5–2.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -32,7 +40,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -69,82 +95,35 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "May be grown outdoors in frost-free areas, otherwise best grown in a container or lifted to overwinter in a cool greenhouse or conservatory. Grow in any well-drained soil in full sun or partial shade",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Sub-tropical",
+            "Low Maintenance",
+            "Conservatory and greenhouse",
+            "Flower borders and beds"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Poaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Poaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Asia to Australia",
         "foliage": "Semi evergreen",
-        "habit": "Clump forming",
-        "genus": "Setaria can be annual or perennial grasses, with linear to elliptic leaves and small flowers in a panicle, the spikelets with a tuft of conspicuous bristles",
-        "name_status": "Correct",
-        "plant_range": "Asia to Australia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "May be grown outdoors in frost-free areas, otherwise best grown in a container or lifted to overwinter in a cool greenhouse or conservatory. Grow in any well-drained soil in full sun or partial shade",
-            "link_names": [
-                "Container"
-            ],
-            "related_links": {
-                "container": "https://www.rhs.org.uk/container-gardening/maintenance"
-            }
-        },
-        "propagation": {
-            "text": "Propagate by division in spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Sub-tropical",
-                "Low Maintenance",
-                "Conservatory and greenhouse",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "May be susceptible to red spider mites and caterpillars",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to rust diseases",
-            "link_names": [
-                "Rust diseases"
-            ],
-            "related_links": {
-                "rust_diseases": "https://www.rhs.org.uk/disease/rust-diseases"
-            }
-        }
-    },
-    "main_name_original": "Chaetochloa palmifolia",
-    "display_name": "Palm grass",
-    "clear_main_name": "Chaetochloa palmifolia",
-    "pt_search_main_name": "Chaetochloa palmifolia"
+        "habit": "Clump forming"
+    }
 }

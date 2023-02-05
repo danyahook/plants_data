@@ -1,30 +1,43 @@
 {
-    "id": "9b63a1b9-ae17-4e46-b357-f6bcd2150b9a",
-    "link": "https://www.rhs.org.uk/plants/8222/halesia-tetraptera/details",
+    "latin_name": "Halesia tetraptera",
+    "main_common_name": {
+        "en": "Carolina silverbell",
+        "ru": "Halesia tetraptera"
+    },
+    "common_names": {
+        "en": [
+            "Carolina silverbell",
+            "Four-wing silverbell",
+            "Opossum wood",
+            "Silverbell tree",
+            "Snowdrop tree",
+            "Mountain silverbell",
+            "Silverbell tree"
+        ],
+        "ru": [
+            "Halesia tetraptera"
+        ]
+    },
+    "synonyms": [
+        "Halesia tetraptera",
+        "Halesia parviflora",
+        "Halesia tetraptera var. tetraptera"
+    ],
     "tags": [
         "Shrubs",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "opossum wood",
-            "silverbell tree",
-            "snowdrop tree"
-        ],
-        "synonyms": [
-            "Halesia tetraptera",
-            "Halesia parviflora",
-            "Halesia tetraptera var. tetraptera"
-        ]
-    },
+    "genus_description": "Halesia are deciduous shrubs or small trees with simple, ovate leaves and pendent, bell-shaped white flowers followed by distinctive, winged fruits",
+    "rank": 3533,
     "size": {
         "ultimate_height": "4–8 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 2 weeks",
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -37,7 +50,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing",
+            "North–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [
@@ -73,121 +105,41 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing",
-            "North–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Styracaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Halesia are deciduous shrubs or small trees with simple, ovate leaves and pendent, bell-shaped white flowers followed by distinctive, winged fruits",
-        "name_status": "Correct",
-        "plant_range": "S E USA"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in lime-free, moist but well-drained soil in partial shade; suitable for woodlands",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed or softwood cuttings",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Halesia_tetraptera.html",
-        "filename": "8222-halesia-tetraptera.json",
-        "latin_name": "Halesia tetraptera",
-        "common_names": [
-            "Carolina Silverbell",
-            "Mountain Silverbell",
-            "Silverbell Tree",
-            "Four-wing Silverbell"
+        "cultivation": "Grow in lime-free, moist but well-drained soil in partial shade; suitable for woodlands",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood"
         ],
-        "synonyms": [
-            "Halesia tetraptera"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Halesia tetraptera"
-            ],
-            "synonyms": [
-                "Halesia tetraptera"
-            ]
-        },
-        "rank": 3533,
-        "items_data": {
-            "sunlight": "Full sun",
-            "water": "Every 2 weeks"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Heathers",
-                "Allies"
-            ],
-            "family": "Storax",
-            "genus": "Silverbells",
-            "species": "Carolina Silverbell"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Caterpillars",
-            "Brown spot",
-            "Leaf beetles"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Halesia tetraptera",
-    "display_name": "Carolina silverbell",
-    "clear_main_name": "Halesia tetraptera",
-    "pt_search_main_name": "Halesia tetraptera"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Leaf beetles",
+        "Underwatering",
+        "Caterpillars"
+    ],
+    "scientific_classification": {
+        "family": "Storax",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Heathers",
+            "Allies"
+        ],
+        "genus": "Silverbells",
+        "species": "Carolina Silverbell"
+    },
+    "botanical_details": {
+        "plant_range": "S E USA",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

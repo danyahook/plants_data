@@ -1,29 +1,36 @@
 {
-    "id": "a6f83699-677b-4444-8fdd-82c8b0a51bcf",
-    "link": "https://www.rhs.org.uk/plants/189759/asplenium-trichomanoides/details",
+    "latin_name": "Asplenium trichomanoides",
+    "main_common_name": {
+        "en": "Maidenhair spleenwort",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Waterwort",
+            "English maidenhair",
+            "Common spleenwort",
+            "Green spleenwort"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Asplenium trichomanoides"
+    ],
     "tags": [
         "Conservatory Greenhouse",
         "Ferns",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "common spleenwort",
-            "English maidenhair",
-            "green spleenwort",
-            "waterwort"
-        ],
-        "synonyms": [
-            "Asplenium trichomanoides"
-        ]
-    },
+    "genus_description": "Asplenium are evergreen ferns with short, usually erect rhizomes bearing a rosette of slightly leathery fronds which may be simple, pinnate to 3-pinnate",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -37,7 +44,25 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Brown"
@@ -79,75 +104,36 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Under glass grow in a mix of equal parts loam, coarse leaf mould, sharp sand and charcoal. Water moderately when in growth, water sparingly over winter. When in growth apply a half-strength balanced liquid fertiliser monthly. Grow outdoors in humus-rich, moist but well-drained soil. Prefers alkaline conditions. Bright midday sun can cause damage",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "City and courtyard gardens",
+            "Coastal",
+            "Cottage and informal garden",
+            "Patio and container plants",
+            "Architectural",
+            "Low Maintenance",
+            "Underplanting of roses and shrubs",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Aspleniaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Aspleniaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "N Termperate, Tropical Mountains",
         "foliage": "Evergreen",
-        "habit": "Tufted",
-        "genus": "Asplenium are evergreen ferns with short, usually erect rhizomes bearing a rosette of slightly leathery fronds which may be simple, pinnate to 3-pinnate",
-        "name_status": "Correct",
-        "plant_range": "N Termperate, Tropical Mountains"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Under glass grow in a mix of equal parts loam, coarse leaf mould, sharp sand and charcoal. Water moderately when in growth, water sparingly over winter. When in growth apply a half-strength balanced liquid fertiliser monthly. Grow outdoors in humus-rich, moist but well-drained soil. Prefers alkaline conditions. Bright midday sun can cause damage",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by sowing spores in mid to late summer or by division in spring",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "City and courtyard gardens",
-                "Coastal",
-                "Cottage and informal garden",
-                "Patio and container plants",
-                "Architectural",
-                "Low Maintenance",
-                "Underplanting of roses and shrubs",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Dead or damaged fronds may be removed as necessary",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free outdoors",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Asplenium trichomanoides",
-    "display_name": "Maidenhair spleenwort",
-    "clear_main_name": "Asplenium trichomanoides",
-    "pt_search_main_name": "Asplenium trichomanoides"
+        "habit": "Tufted"
+    }
 }

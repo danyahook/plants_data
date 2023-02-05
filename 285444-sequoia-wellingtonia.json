@@ -1,32 +1,39 @@
 {
-    "id": "978768b9-e457-43b2-ab25-ee9c73bedf42",
-    "link": "https://www.rhs.org.uk/plants/285444/sequoia-wellingtonia/details",
+    "latin_name": "Sequoia wellingtonia",
+    "main_common_name": {
+        "en": "Giant redwood",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Sierra redwood",
+            "Mammoth tree",
+            "Wellingtonia",
+            "Washingtonia",
+            "Big tree",
+            "Giant sequoia"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Sequoia wellingtonia",
+        "Sequoia gigantea"
+    ],
     "tags": [
         "Conifers",
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "big tree",
-            "giant sequoia",
-            "mammoth tree",
-            "Sierra redwood",
-            "washingtonia",
-            "wellingtonia"
-        ],
-        "synonyms": [
-            "Sequoia wellingtonia",
-            "Sequoia gigantea"
-        ]
-    },
+    "genus_description": "Sequoiadendron is a tall evergreen tree with soft, red-brown bark, flame-shaped when young, becoming more irregular with maturity. Short awl-shaped leaves are arranged spirally on the shoots, and ovoid cones become red-brown when mature",
+    "rank": 999999,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand",
             "Clay"
@@ -41,7 +48,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -81,78 +107,32 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, well-drained soil in full sun or light dappled shade",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cupressaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Cupressaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "USA (California)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Sequoiadendron is a tall evergreen tree with soft, red-brown bark, flame-shaped when young, becoming more irregular with maturity. Short awl-shaped leaves are arranged spirally on the shoots, and ovoid cones become red-brown when mature",
-        "name_status": "Correct",
-        "plant_range": "USA (California)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, well-drained soil in full sun or light dappled shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame in spring. Root softwood cuttings in summer or semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "main_name_original": "Sequoia wellingtonia",
-    "display_name": "Giant redwood",
-    "clear_main_name": "Sequoia wellingtonia",
-    "pt_search_main_name": "Sequoia wellingtonia"
+        "habit": "Bushy"
+    }
 }

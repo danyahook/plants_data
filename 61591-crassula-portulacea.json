@@ -1,30 +1,37 @@
 {
-    "id": "a1e61f7d-a939-41a4-84fc-7c7541fa92ae",
-    "link": "https://www.rhs.org.uk/plants/61591/crassula-portulacea/details",
+    "latin_name": "Crassula portulacea",
+    "main_common_name": {
+        "en": "Jade plant",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Friendship tree",
+            "Jade tree",
+            "Money tree"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Crassula argentea",
+        "Crassula portulacea"
+    ],
     "tags": [
         "Houseplants",
         "Conservatory Greenhouse",
         "Shrubs",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "friendship tree",
-            "jade tree",
-            "money tree"
-        ],
-        "synonyms": [
-            "Crassula argentea",
-            "Crassula portulacea"
-        ]
-    },
+    "genus_description": "Crassula can be succulent annuals, perennials, evergreen shrubs or sub-shrubs, with fleshy leaves and small, star-shaped or funnel-shaped flowers in a terminal cluster",
+    "rank": 999999,
     "size": {
         "ultimate_height": "1.5–2.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -37,7 +44,23 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H2"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,77 +89,31 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, very sparingly when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season",
+        "propagation": [
+            "Propagate by seed",
+            "Leaf cuttings"
         ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
+        "suggested_panting_places": [
+            "Sub-tropical",
+            "Patio and container plants"
         ],
-        "exposure": "Sheltered",
-        "hardiness": "H2"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Crassulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Crassulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "S. Africa (Cape)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Crassula can be succulent annuals, perennials, evergreen shrubs or sub-shrubs, with fleshy leaves and small, star-shaped or funnel-shaped flowers in a terminal cluster",
-        "name_status": "Correct",
-        "plant_range": "S. Africa (Cape)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow under glass in a loam-based potting compost with added extra grit. Water moderately when in growth, very sparingly when dormant. Apply a balanced liquid fertiliser 2 or 3 times in the growing season",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed sown as soon as ripe or by offsets or by root, stem or leaf cuttings in spring",
-            "link_names": [
-                "Propagate by seed",
-                "Leaf cuttings"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "leaf_cuttings": "https://www.rhs.org.uk/propagation/leaf-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Sub-tropical",
-                "Patio and container plants"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Can be attacked by mealybugs, aphids and vine weevils",
-            "link_names": [
-                "Mealybugs",
-                "Aphids",
-                "Vine weevils"
-            ],
-            "related_links": {
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug",
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids",
-                "vine_weevils": "https://www.rhs.org.uk/biodiversity/vine-weevil"
-            }
-        },
-        "diseases": {
-            "text": "Generally disease free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Crassula portulacea",
-    "display_name": "Jade plant",
-    "clear_main_name": "Crassula portulacea",
-    "pt_search_main_name": "Crassula portulacea"
+        "habit": "Bushy"
+    }
 }

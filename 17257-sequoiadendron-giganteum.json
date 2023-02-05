@@ -1,31 +1,57 @@
 {
-    "id": "bc857f2e-e411-4230-82f8-7a557403176d",
-    "link": "https://www.rhs.org.uk/plants/17257/sequoiadendron-giganteum/details",
+    "latin_name": "Sequoiadendron giganteum",
+    "main_common_name": {
+        "en": "Giant sequoia",
+        "ru": "Секвойядендрон гигантский"
+    },
+    "common_names": {
+        "en": [
+            "Bigtree",
+            "Sierra redwood",
+            "Mammoth tree",
+            "Wellingtonia",
+            "Giant redwood",
+            "Washingtonia",
+            "Wellingtonia",
+            "Giant sequoia",
+            "Big tree",
+            "Giant sequoia"
+        ],
+        "ru": [
+            "Секвойядендрон гигантский",
+            "Гигантская секвойя",
+            "Веллингтония",
+            "Большое дерево",
+            "Мамонтово дерево"
+        ]
+    },
+    "synonyms": [
+        "Steinhauera gigantea",
+        "Sequoia wellingtonia",
+        "Gigantabies wellingtoniana",
+        "Sequoia washingtoniana",
+        "Sequoia gigantea",
+        "Sequoiadendron giganteum",
+        "Taxodium giganteum",
+        "Wellingtonia gigantea",
+        "Taxodium washingtonianum",
+        "Americus gigantea",
+        "Washingtonia californica"
+    ],
     "tags": [
         "Conifers",
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "big tree",
-            "giant sequoia",
-            "mammoth tree",
-            "Sierra redwood",
-            "washingtonia",
-            "wellingtonia"
-        ],
-        "synonyms": [
-            "Sequoia wellingtonia",
-            "Sequoia gigantea"
-        ]
-    },
+    "genus_description": "Sequoiadendron is a tall evergreen tree with soft, red-brown bark, flame-shaped when young, becoming more irregular with maturity. Short awl-shaped leaves are arranged spirally on the shoots, and ovoid cones become red-brown when mature",
+    "rank": 3459,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand",
             "Clay"
@@ -40,7 +66,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Summer",
+            "Spring"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -80,152 +128,40 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moderately fertile, well-drained soil in full sun or light dappled shade",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Semi-ripe"
         ],
-        "aspect_position": [
-            "North–facing",
-            "West–facing",
-            "South–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Architectural",
+            "Low Maintenance"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [
+        "Dieback",
+        "Branch blight",
+        "Longhorn beetles",
+        "Fruit withering"
+    ],
+    "scientific_classification": {
+        "family": "Cypress",
+        "phylum": "Vascular plants",
+        "classify": "Conifers",
+        "order": [
+            "Pines",
+            "Allies"
+        ],
+        "genus": "Giant sequoia",
+        "species": "Giant sequoia"
     },
     "botanical_details": {
-        "family": "Cupressaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "USA (California)",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Sequoiadendron is a tall evergreen tree with soft, red-brown bark, flame-shaped when young, becoming more irregular with maturity. Short awl-shaped leaves are arranged spirally on the shoots, and ovoid cones become red-brown when mature",
-        "name_status": "Correct",
-        "plant_range": "USA (California)"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, well-drained soil in full sun or light dappled shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in containers in a cold frame in spring. Root softwood cuttings in summer or semi-ripe cuttings in late summer",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Semi-ripe"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "semi-ripe": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Architectural",
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "No pruning required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Sequoiadendron_giganteum.html",
-        "filename": "17257-sequoiadendron-giganteum.json",
-        "latin_name": "Sequoiadendron giganteum",
-        "common_names": [
-            "Giant sequoia",
-            "Giant redwood",
-            "Bigtree",
-            "Wellingtonia",
-            "Sierra redwood"
-        ],
-        "synonyms": [
-            "Sequoia washingtoniana",
-            "Wellingtonia gigantea",
-            "Sequoia gigantea",
-            "Gigantabies wellingtoniana",
-            "Washingtonia californica",
-            "Taxodium giganteum",
-            "Taxodium washingtonianum",
-            "Sequoia wellingtonia",
-            "Americus gigantea",
-            "Steinhauera gigantea",
-            "Sequoiadendron giganteum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Секвойядендрон гигантский",
-                "Гигантская секвойя",
-                "Веллингтония",
-                "Большое дерево",
-                "Мамонтово дерево"
-            ],
-            "synonyms": [
-                "Sequoia washingtoniana",
-                "Wellingtonia gigantea",
-                "Sequoia gigantea",
-                "Gigantabies wellingtoniana",
-                "Washingtonia californica",
-                "Taxodium giganteum",
-                "Taxodium washingtonianum",
-                "Sequoia wellingtonia",
-                "Americus gigantea",
-                "Steinhauera gigantea",
-                "Sequoiadendron giganteum"
-            ]
-        },
-        "rank": 3459,
-        "items_data": {
-            "sunlight": "Full sun",
-            "hardiness_zones": "6 - 9",
-            "planting_time": [
-                "Summer",
-                "Spring"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Conifers",
-            "order": [
-                "Pines",
-                "Allies"
-            ],
-            "family": "Cypress",
-            "genus": "Giant sequoia",
-            "species": "Giant sequoia"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Branch blight",
-            "Longhorn beetles",
-            "Fruit withering",
-            "Dieback"
-        ]
-    },
-    "main_name_original": "Sequoiadendron giganteum",
-    "display_name": "Giant redwood",
-    "clear_main_name": "Sequoiadendron giganteum",
-    "pt_search_main_name": "Sequoiadendron giganteum"
+        "habit": "Bushy"
+    }
 }

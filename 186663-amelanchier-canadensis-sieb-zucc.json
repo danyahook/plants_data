@@ -1,22 +1,30 @@
 {
-    "id": "fd8d4ea1-6260-4f00-bb3f-ad9cb78a3ae3",
-    "link": "https://www.rhs.org.uk/plants/186663/amelanchier-canadensis-sieb-zucc/details",
+    "latin_name": "Amelanchier canadensis Sieb. & Zucc.",
+    "main_common_name": {
+        "en": "Tree amelanchier",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Amelanchier canadensis sieb. &amp; zucc."
+    ],
     "tags": [
         "Trees",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Amelanchier canadensis Sieb. &amp; Zucc."
-        ]
-    },
+    "genus_description": "Amelanchier are small deciduous trees or shrubs with showy white flowers in early spring, red to purple fruits and often good autumn colour",
+    "rank": 999999,
     "size": {
         "ultimate_height": "8–12 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam",
             "Sand"
@@ -29,6 +37,24 @@
             "Acid",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Partial shade",
+            "Full sun"
+        ],
+        "side": [
+            "East–facing",
+            "North–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -91,83 +117,36 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Partial shade",
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in moist, lime-free, well-drained soil. The best autumn colour is achieved when grown in full sun.",
+        "propagation": [
+            "Semi-hardwood",
+            "Suckers"
         ],
-        "aspect_position": [
-            "East–facing",
-            "North–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Wildlife gardens",
+            "Low Maintenance",
+            "Banks and slopes",
+            "Edible fruit"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": [
+            "Pruning group 1"
+        ]
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Rosaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Rosaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "E North America",
         "foliage": "Deciduous",
-        "habit": "Columnar upright, Suckering",
-        "genus": "Amelanchier are small deciduous trees or shrubs with showy white flowers in early spring, red to purple fruits and often good autumn colour",
-        "name_status": "Correct",
-        "plant_range": "E North America"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist, lime-free, well-drained soil. The best autumn colour is achieved when grown in full sun.",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings or remove suckers in winter.",
-            "link_names": [
-                "Semi-hardwood",
-                "Suckers"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings",
-                "suckers": "https://www.rhs.org.uk/plants/types/trees/removing-suckers-trees-shrubs"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Wildlife gardens",
-                "Low Maintenance",
-                "Banks and slopes",
-                "Edible fruit"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1.",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to fireblight. In dry soil conditions or strong winds, may be susceptible to leaf scorch.",
-            "link_names": [
-                "Fireblight"
-            ],
-            "related_links": {
-                "fireblight": "https://www.rhs.org.uk/disease/fireblight"
-            }
-        }
-    },
-    "main_name_original": "Amelanchier canadensis Sieb. & Zucc.",
-    "display_name": "Tree amelanchier",
-    "clear_main_name": "Amelanchier canadensis Sieb. & Zucc.",
-    "pt_search_main_name": "Amelanchier canadensis Sieb. & Zucc."
+        "habit": "Columnar upright, Suckering"
+    }
 }

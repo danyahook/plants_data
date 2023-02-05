@@ -1,24 +1,32 @@
 {
-    "id": "03a9d1ae-e2f6-4682-914b-b95baf78bde4",
-    "link": "https://www.rhs.org.uk/plants/47098/campanula-recurva/details",
+    "latin_name": "Campanula recurva",
+    "main_common_name": {
+        "en": "Evia bellflower",
+        "ru": null
+    },
+    "common_names": {
+        "en": null,
+        "ru": null
+    },
+    "synonyms": [
+        "Campanula recurva",
+        "Campanula leutweinii"
+    ],
     "tags": [
         "Alpine Rockery",
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "synonyms": [
-            "Campanula recurva",
-            "Campanula leutweinii"
-        ]
-    },
+    "genus_description": "Campanula may be annuals, herbaceous or evergreen perennials, with bell or star-shaped, often blue, flowers in late spring or summer",
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "1–2 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -32,7 +40,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "South–facing",
+            "North–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -66,79 +93,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Plant in moderately fertile, well-drained soil in a sunny position",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [
-            "South–facing",
-            "North–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "City and courtyard gardens",
+            "Patio and container plants",
+            "Rock garden",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H4"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Campanulaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Campanulaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Greece",
         "foliage": "Evergreen",
-        "habit": "Bushy",
-        "genus": "Campanula may be annuals, herbaceous or evergreen perennials, with bell or star-shaped, often blue, flowers in late spring or summer",
-        "name_status": "Correct",
-        "plant_range": "Greece"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Plant in moderately fertile, well-drained soil in a sunny position",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed in winter or spring in a cold frame",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "City and courtyard gardens",
-                "Patio and container plants",
-                "Rock garden",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Slugs and snails may be problematic",
-            "link_names": [
-                "Slugs",
-                "Snails"
-            ],
-            "related_links": {
-                "slugs": "https://www.rhs.org.uk/biodiversity/slugs",
-                "snails": "https://www.rhs.org.uk/biodiversity/snails"
-            }
-        },
-        "diseases": {
-            "text": "Usually trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Campanula recurva",
-    "display_name": "Evia bellflower",
-    "clear_main_name": "Campanula recurva",
-    "pt_search_main_name": "Campanula recurva"
+        "habit": "Bushy"
+    }
 }

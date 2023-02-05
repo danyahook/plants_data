@@ -1,25 +1,46 @@
 {
-    "id": "5e90adae-befe-482b-9111-fb8fdcb4c725",
-    "link": "https://www.rhs.org.uk/plants/2251/betula-lenta/details",
+    "latin_name": "Betula lenta",
+    "main_common_name": {
+        "en": "Sweet birch",
+        "ru": "Берёза вишнёвая"
+    },
+    "common_names": {
+        "en": [
+            "Spice birch",
+            "Mountain mahogany",
+            "Mahogany birch",
+            "Mountain mahogany",
+            "Cherry birch",
+            "Wintergreen",
+            "Black birch",
+            "Black birch",
+            "Cherry birch",
+            "Mahogany birch",
+            "Sweet birch"
+        ],
+        "ru": [
+            "Берёза вишнёвая",
+            "Берёза тягучая",
+            "Берёза сладкая"
+        ]
+    },
+    "synonyms": [
+        "Betula lenta",
+        "Betula lenta var. genuina"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "black birch",
-            "cherry birch",
-            "mahogany birch",
-            "mountain mahogany",
-            "wintergreen"
-        ]
-    },
+    "genus_description": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
+    "rank": 4118,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "Wider than 8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -34,6 +55,23 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Bark",
@@ -91,143 +129,44 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
-    },
-    "botanical_details": {
-        "family": "Betulaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "habit": "Bushy",
-        "genus": "Betula can be deciduous trees or shrubs, usually colouring well in autumn and often with striking white, pink, or peeling brown bark; separate male and female catkins open before or with the leaves in spring",
-        "name_status": "Correct",
-        "plant_range": "E N America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade. Tolerant of a range of soil conditions from dry to wet but does prefer sheltered woodland conditions",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, softwood cuttings or grafting",
-            "link_names": [
-                "Propagate by seed",
-                "Softwood",
-                "Grafting"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings",
-                "grafting": "https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Coastal",
-                "Cottage and informal garden",
-                "Wildlife gardens"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1; birches bleed heavily, prune only when fully dormant from late summer to before mid-winter",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to birch borers, leaf-mining sawflies and aphids",
-            "link_names": [
-                "Aphids"
-            ],
-            "related_links": {
-                "aphids": "https://www.rhs.org.uk/biodiversity/aphids"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to honey fungus, a tree rust and powdery mildews",
-            "link_names": [
-                "Honey fungus",
-                "Tree rust",
-                "Powdery mildews"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus",
-                "tree_rust": "https://www.rhs.org.uk/disease/tree-rusts",
-                "powdery_mildews": "https://www.rhs.org.uk/disease/powdery-mildews"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Betula_lenta.html",
-        "filename": "2251-betula-lenta.json",
-        "latin_name": "Betula lenta",
-        "common_names": [
-            "Sweet birch",
-            "Black birch",
-            "Cherry birch",
-            "Mahogany birch",
-            "Spice birch",
-            "Mountain mahogany"
+        "cultivation": "Grow in moderately fertile, moist but well-drained soil in full sun or partial shade. Tolerant of a range of soil conditions from dry to wet but does prefer sheltered woodland conditions",
+        "propagation": [
+            "Propagate by seed",
+            "Softwood",
+            "Grafting"
         ],
-        "synonyms": [
-            "Betula lenta var. genuina",
-            "Betula lenta"
+        "suggested_panting_places": [
+            "Coastal",
+            "Cottage and informal garden",
+            "Wildlife gardens"
         ],
-        "ru_data": {
-            "common_names": [
-                "Берёза вишнёвая",
-                "Берёза тягучая",
-                "Берёза сладкая"
-            ],
-            "synonyms": [
-                "Betula lenta var. genuina",
-                "Betula lenta"
-            ]
-        },
-        "rank": 4118,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Partial sun",
-            "hardiness_zones": "3 - 8"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Beeches",
-                "Walnuts",
-                "And allied trees"
-            ],
-            "family": "Birch",
-            "genus": "Betula",
-            "species": "Sweet birch"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Sap-sucking insects",
-            "Longhorn beetles",
-            "Aged yellow and dry"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Betula lenta",
-    "display_name": "Sweet birch",
-    "clear_main_name": "Betula lenta",
-    "pt_search_main_name": "Betula lenta"
+    "diseases_and_pests": [
+        "Sap-sucking insects",
+        "Aged yellow and dry",
+        "Longhorn beetles",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Birch",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Beeches",
+            "Walnuts",
+            "And allied trees"
+        ],
+        "genus": "Betula",
+        "species": "Sweet birch"
+    },
+    "botanical_details": {
+        "plant_range": "E N America",
+        "foliage": "Deciduous",
+        "habit": "Bushy"
+    }
 }

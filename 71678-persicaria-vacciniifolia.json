@@ -1,27 +1,34 @@
 {
-    "id": "2faa6271-b0b5-4ae7-af61-b3326866c66e",
-    "link": "https://www.rhs.org.uk/plants/71678/persicaria-vacciniifolia/details",
+    "latin_name": "Persicaria vacciniifolia",
+    "main_common_name": {
+        "en": "Rock knotweed",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Whortleberry-leaved knotweed"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Persicaria vacciniifolia",
+        "Polygonum vacciniifolium"
+    ],
     "tags": [
         "Bogs",
         "Herbaceous Perennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "whortleberry-leaved knotweed"
-        ],
-        "synonyms": [
-            "Polygonum vacciniifolium",
-            "Persicaria vacciniifolia"
-        ]
-    },
+    "genus_description": null,
+    "rank": 999999,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "5–10 years",
         "ultimate_spread": "1–1.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Clay",
             "Loam"
         ],
@@ -35,7 +42,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "North–facing",
+            "East–facing",
+            "South–facing",
+            "West–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H7"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -73,71 +99,32 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun",
-            "Partial shade"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Grow in any moist soil in full sun or partial shade",
+        "propagation": [
+            "Division"
         ],
-        "aspect_position": [
-            "North–facing",
-            "East–facing",
-            "South–facing",
-            "West–facing"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Rock garden",
+            "Ground cover",
+            "Flower borders and beds"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H7"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Polygonaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Polygonaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Himalaya",
         "foliage": "Semi evergreen",
-        "habit": "Matforming",
-        "name_status": "Correct",
-        "plant_range": "Himalaya"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in any moist soil in full sun or partial shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by division in spring or autumn",
-            "link_names": [
-                "Division"
-            ],
-            "related_links": {
-                "division": "https://www.rhs.org.uk/plants/types/perennials/dividing"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Rock garden",
-                "Ground cover",
-                "Flower borders and beds"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally pest-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally disease-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Persicaria vacciniifolia",
-    "display_name": "Rock knotweed",
-    "clear_main_name": "Persicaria vacciniifolia",
-    "pt_search_main_name": "Persicaria vacciniifolia"
+        "habit": "Matforming"
+    }
 }

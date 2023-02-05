@@ -1,17 +1,39 @@
 {
-    "id": "6f11f470-d560-4ca1-a5f9-b3b58c5e1831",
-    "link": "https://www.rhs.org.uk/plants/1032/alyssum-montanum/details",
+    "latin_name": "Alyssum montanum",
+    "main_common_name": {
+        "en": "Mountain alyssum",
+        "ru": "Бурачок горный"
+    },
+    "common_names": {
+        "en": [
+            "Mountain alyssum"
+        ],
+        "ru": [
+            "Бурачок горный",
+            "Алиссум горный",
+            "Икотная трава",
+            "Бурачок пьемонтский",
+            "Бурачок фессалийский"
+        ]
+    },
+    "synonyms": [
+        "Alyssum montanum",
+        "Clypeola montana",
+        "Adyseton montanum"
+    ],
     "tags": [
         "Alpine Rockery"
     ],
-    "names": {},
+    "genus_description": "Alyssum can be annuals or evergreen perennials or sub-shrubs, with simple leaves and short racemes of small, 4-petalled yellow or white flowers in early summer",
+    "rank": 8589,
     "size": {
         "ultimate_height": "0.1–0.5 metres",
         "time_to_ultimate_height": "2–5 years",
         "ultimate_spread": "0.1–0.5 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Loam",
             "Sand"
         ],
@@ -23,6 +45,22 @@
             "Alkaline",
             "Neutral"
         ]
+    },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "South–facing",
+            "West–facing",
+            "East–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
     },
     "colour_and_scent": {
         "fragrance": "Flower",
@@ -69,112 +107,33 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Prefers a sunny, well-drained situation; ideally suited to rock garden conditions",
+        "propagation": [
+            "Softwood"
         ],
-        "aspect_position": [
-            "South–facing",
-            "West–facing",
-            "East–facing"
+        "suggested_panting_places": [
+            "Rock garden"
         ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Cruciferae",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Mustards",
+            "Capers",
+            "And allies"
+        ],
+        "genus": "Alyssum",
+        "species": "Mountain alyssum"
     },
     "botanical_details": {
-        "family": "Brassicaceae",
-        "native_to_the_uk": "No",
+        "plant_range": "Europe",
         "foliage": "Evergreen",
-        "habit": "Matforming",
-        "genus": "Alyssum can be annuals or evergreen perennials or sub-shrubs, with simple leaves and short racemes of small, 4-petalled yellow or white flowers in early summer",
-        "name_status": "Correct",
-        "plant_range": "Europe"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Prefers a sunny, well-drained situation; ideally suited to rock garden conditions",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by softwood cutting or by propagate by seed",
-            "link_names": [
-                "Softwood"
-            ],
-            "related_links": {
-                "softwood": "https://www.rhs.org.uk/propagation/softwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Rock garden"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Cut back lightly after flowering",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Generally trouble free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Alyssum_montanum.html",
-        "filename": "1032-alyssum-montanum.json",
-        "latin_name": "Alyssum montanum",
-        "common_names": [
-            "Mountain alyssum"
-        ],
-        "synonyms": [
-            "Adyseton montanum",
-            "Clypeola montana",
-            "Alyssum montanum"
-        ],
-        "ru_data": {
-            "common_names": [
-                "Бурачок горный",
-                "Алиссум горный",
-                "Икотная трава",
-                "Бурачок пьемонтский",
-                "Бурачок фессалийский"
-            ],
-            "synonyms": [
-                "Adyseton montanum",
-                "Clypeola montana",
-                "Alyssum montanum"
-            ]
-        },
-        "rank": 8589,
-        "items_data": {
-            "sunlight": "Full sun"
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Mustards",
-                "Capers",
-                "And allies"
-            ],
-            "family": "Cruciferae",
-            "genus": "Alyssum",
-            "species": "Mountain alyssum"
-        },
-        "toxic_data": [],
-        "diseases_data": []
-    },
-    "main_name_original": "Alyssum montanum",
-    "display_name": "Mountain madwort",
-    "clear_main_name": "Alyssum montanum",
-    "pt_search_main_name": "Alyssum montanum"
+        "habit": "Matforming"
+    }
 }

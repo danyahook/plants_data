@@ -1,29 +1,51 @@
 {
-    "id": "5c8c9c03-4acc-437b-a1f2-ddbcfff0afe4",
-    "link": "https://www.rhs.org.uk/plants/7147/fatsia-japonica/details",
+    "latin_name": "Fatsia japonica",
+    "main_common_name": {
+        "en": "Paperplant",
+        "ru": "Фа́тсия япо́нская"
+    },
+    "common_names": {
+        "en": [
+            "Paperplant",
+            "Japanese aralia",
+            "Fig-leaf palm",
+            "Glossy-leaved paper plant",
+            "Glossy-leaf paper plant",
+            "Castor oil plant",
+            "Fatsia",
+            "False castor oil plant",
+            "Fatsi"
+        ],
+        "ru": [
+            "Фа́тсия япо́нская",
+            "Аралия японская"
+        ]
+    },
+    "synonyms": [
+        "Aralia japonica",
+        "Fatsia japonica",
+        "Aralia sieboldii de vriese",
+        "Fatsia japonica var. liukiuensis",
+        "Fatsia japonica var. lobulata",
+        "Echinopanax japonicus",
+        "Aralia sieboldii",
+        "Dimorphanthus japonicus",
+        "Aralia brownii",
+        "Aralia sieboldii k. koch"
+    ],
     "tags": [
         "Shrubs"
     ],
-    "names": {
-        "other_common_names": [
-            "castor oil plant",
-            "fatsi",
-            "fig-leaf palm",
-            "glossy-leaved paper plant"
-        ],
-        "synonyms": [
-            "Aralia sieboldii K. Koch",
-            "Aralia sieboldii de Vriese",
-            "Aralia japonica"
-        ]
-    },
+    "genus_description": "Fatsia are evergreen shrubs with stout, sparsely branched stems bearing large, leathery, palmately lobed leaves and small white flowers in terminal compound umbels, followed by small black fruits",
+    "rank": 977,
     "size": {
         "ultimate_height": "2.5–4 metres",
         "time_to_ultimate_height": "10–20 years",
         "ultimate_spread": "2.5–4 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -38,7 +60,29 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full shade",
+            "Full sun",
+            "Partial shade"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing",
+            "East–facing"
+        ],
+        "exposure": "Sheltered",
+        "hardiness_zone": "H5"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -76,154 +120,43 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full shade",
-            "Full sun",
-            "Partial shade"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing",
-            "East–facing"
-        ],
-        "exposure": "Sheltered",
-        "hardiness": "H5"
-    },
-    "botanical_details": {
-        "family": "Araliaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Evergreen",
-        "habit": "Suckering",
-        "genus": "Fatsia are evergreen shrubs with stout, sparsely branched stems bearing large, leathery, palmately lobed leaves and small white flowers in terminal compound umbels, followed by small black fruits",
-        "name_status": "Correct",
-        "plant_range": "Japan, South Korea"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grows best in moist but well-drained soil in full sun or partial shade; can tolerate full shade",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by semi-hardwood cuttings",
-            "link_names": [
-                "Semi-hardwood"
-            ],
-            "related_links": {
-                "semi-hardwood": "https://www.rhs.org.uk/propagation/semi-ripe-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Cottage and informal garden",
-                "Architectural",
-                "City and courtyard gardens",
-                "Low Maintenance",
-                "Banks and slopes"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 9",
-            "link_names": [
-                "Pruning group 9"
-            ],
-            "related_links": {
-                "pruning_group_9": "https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to scale insects, thrips and mealybugs",
-            "link_names": [
-                "Scale insects",
-                "Thrips",
-                "Mealybugs"
-            ],
-            "related_links": {
-                "scale_insects": "https://www.rhs.org.uk/biodiversity/scale-insects",
-                "thrips": "https://www.rhs.org.uk/biodiversity/thrips",
-                "mealybugs": "https://www.rhs.org.uk/biodiversity/mealybug"
-            }
-        },
-        "diseases": {
-            "text": "May be susceptible to a leaf spot and honey fungus",
-            "link_names": [
-                "Honey fungus"
-            ],
-            "related_links": {
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Fatsia_japonica.html",
-        "filename": "7147-fatsia-japonica.json",
-        "latin_name": "Fatsia japonica",
-        "common_names": [
-            "Paperplant",
-            "Fatsia",
-            "Japanese aralia",
-            "Glossy-leaf paper plant",
-            "False castor oil plant"
+        "cultivation": "Grows best in moist but well-drained soil in full sun or partial shade; can tolerate full shade",
+        "propagation": [
+            "Semi-hardwood"
         ],
-        "synonyms": [
-            "Dimorphanthus japonicus",
-            "Aralia brownii",
-            "Fatsia japonica var. lobulata",
-            "Aralia japonica",
-            "Fatsia japonica var. liukiuensis",
-            "Echinopanax japonicus",
-            "Aralia sieboldii",
-            "Fatsia japonica"
+        "suggested_panting_places": [
+            "Cottage and informal garden",
+            "Architectural",
+            "City and courtyard gardens",
+            "Low Maintenance",
+            "Banks and slopes"
         ],
-        "ru_data": {
-            "common_names": [
-                "Фа́тсия япо́нская",
-                "Аралия японская"
-            ],
-            "synonyms": [
-                "Dimorphanthus japonicus",
-                "Aralia brownii",
-                "Fatsia japonica var. lobulata",
-                "Aralia japonica",
-                "Fatsia japonica var. liukiuensis",
-                "Echinopanax japonicus",
-                "Aralia sieboldii",
-                "Fatsia japonica"
-            ]
-        },
-        "rank": 977,
-        "items_data": {
-            "sunlight": "Partial sun",
-            "water": "Every 1-2 weeks",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Carrots",
-                "Ivies",
-                "Allies"
-            ],
-            "family": "Ivy",
-            "genus": "Fatsia",
-            "species": "Paperplant"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Underwatering",
-            "Brown spot",
-            "Powdery Mildew"
+        "pruning": [
+            "Pruning group 9"
         ]
     },
-    "main_name_original": "Fatsia japonica",
-    "display_name": "Japanese aralia",
-    "clear_main_name": "Fatsia japonica",
-    "pt_search_main_name": "Fatsia japonica"
+    "diseases_and_pests": [
+        "Brown spot",
+        "Powdery Mildew",
+        "Underwatering"
+    ],
+    "scientific_classification": {
+        "family": "Ivy",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Carrots",
+            "Ivies",
+            "Allies"
+        ],
+        "genus": "Fatsia",
+        "species": "Paperplant"
+    },
+    "botanical_details": {
+        "plant_range": "Japan, South Korea",
+        "foliage": "Evergreen",
+        "habit": "Suckering"
+    }
 }

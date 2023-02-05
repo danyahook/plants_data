@@ -1,30 +1,39 @@
 {
-    "id": "ad3d2cbd-7ea2-4e0a-be55-4d2e4510cf47",
-    "link": "https://www.rhs.org.uk/plants/387550/centaurium-minus/details",
+    "latin_name": "Centaurium minus",
+    "main_common_name": {
+        "en": "Common centaury",
+        "ru": null
+    },
+    "common_names": {
+        "en": [
+            "Feverwort",
+            "Earth gall",
+            "Bloodwort",
+            "Christ's ladder",
+            "Bitter herb"
+        ],
+        "ru": null
+    },
+    "synonyms": [
+        "Centaurium erythraea umbellatum",
+        "Centaurium minus",
+        "Centaurium umbellatum",
+        "Erythraea centaurium misapplied"
+    ],
     "tags": [
         "Annual Biennial",
         "Synonym"
     ],
-    "names": {
-        "other_common_names": [
-            "bitter herb",
-            "bloodwort",
-            "Christ's ladder",
-            "earth gall",
-            "feverwort"
-        ],
-        "synonyms": [
-            "Centaurium erythraea umbellatum",
-            "Centaurium minus",
-            "Erythraea centaurium misapplied",
-            "Centaurium umbellatum"
-        ]
-    },
+    "genus_description": null,
+    "rank": 999999,
     "size": {
-        "ultimate_height": "0.1–0.5 metres"
+        "ultimate_height": "0.1–0.5 metres",
+        "time_to_ultimate_height": null,
+        "ultimate_spread": null
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": null,
+        "type": [
             "Chalk",
             "Loam",
             "Sand"
@@ -37,7 +46,20 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [],
+        "exposure": null,
+        "hardiness_zone": "H4"
+    },
+    "events": {
+        "harvest": [],
+        "planting": []
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [],
             "flower": [],
@@ -71,62 +93,30 @@
             "fruit": []
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
+    "toxicity": [],
+    "how_to_grow": {
+        "cultivation": "Naturally occurs in dry or well-draining, grassy places such as chalk down land and sand dunes",
+        "propagation": [
+            "Propagate by seed"
         ],
-        "aspect_position": [],
-        "hardiness": "H4"
+        "suggested_panting_places": [
+            "Wildlife gardens",
+            "Wildflower meadow"
+        ],
+        "pruning": []
+    },
+    "diseases_and_pests": [],
+    "scientific_classification": {
+        "family": "Gentianaceae",
+        "phylum": null,
+        "classify": null,
+        "order": [],
+        "genus": null,
+        "species": null
     },
     "botanical_details": {
-        "family": "Gentianaceae",
-        "native_to_the_uk": "Yes",
+        "plant_range": "Eurasia",
         "foliage": "Deciduous",
-        "habit": "Bushy",
-        "name_status": "Correct",
-        "plant_range": "Eurasia"
-    },
-    "how_to_grow": {
-        "cultivation": {
-            "text": "Naturally occurs in dry or well-draining, grassy places such as chalk down land and sand dunes",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed",
-            "link_names": [
-                "Propagate by seed"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Wildlife gardens",
-                "Wildflower meadow"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "None required",
-            "link_names": [],
-            "related_links": {}
-        },
-        "pests": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "Trouble-free",
-            "link_names": [],
-            "related_links": {}
-        }
-    },
-    "main_name_original": "Centaurium minus",
-    "display_name": "Common centaury",
-    "clear_main_name": "Centaurium minus",
-    "pt_search_main_name": "Centaurium minus"
+        "habit": "Bushy"
+    }
 }

@@ -1,24 +1,54 @@
 {
-    "id": "15416a9b-787d-4e34-9f72-2cfea2d80c8a",
-    "link": "https://www.rhs.org.uk/plants/13226/platanus-occidentalis/details",
+    "latin_name": "Platanus occidentalis",
+    "main_common_name": {
+        "en": "American sycamore",
+        "ru": "Платан западный"
+    },
+    "common_names": {
+        "en": [
+            "Buttonwood",
+            "American plane tree",
+            "Buttonwood",
+            "Occidental plane",
+            "Water beech",
+            "Water beech",
+            "American sycamore",
+            "London plane",
+            "Western plane",
+            "American planetree",
+            "Western plane"
+        ],
+        "ru": [
+            "Платан западный",
+            "Явор",
+            "Сикомор",
+            "Платан сикаморе"
+        ]
+    },
+    "synonyms": [
+        "Platanus pyramidalis",
+        "Platanus lobata",
+        "Platanus hispanica var. pyramidalis",
+        "Platanus occidentalis var. glabrata",
+        "Platanus occidentalis var. palmeri",
+        "Platanus integrifolia hort. ex",
+        "Platanus excelsa",
+        "Platanus orientalis var. palmeri",
+        "Platanus occidentalis"
+    ],
     "tags": [
         "Trees"
     ],
-    "names": {
-        "other_common_names": [
-            "American sycamore",
-            "buttonwood",
-            "water beech",
-            "western plane"
-        ]
-    },
+    "genus_description": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
+    "rank": 337,
     "size": {
         "ultimate_height": "Higher than 12 metres",
         "time_to_ultimate_height": "20–50 years",
         "ultimate_spread": "4–8 metres"
     },
-    "growing_conditions": {
-        "soil": [
+    "soil": {
+        "water": "Every 1-2 weeks",
+        "type": [
             "Chalk",
             "Clay",
             "Loam",
@@ -33,7 +63,26 @@
             "Neutral"
         ]
     },
+    "position": {
+        "sunlight": [
+            "Full sun"
+        ],
+        "side": [
+            "West–facing",
+            "South–facing"
+        ],
+        "exposure": "Exposed or Sheltered",
+        "hardiness_zone": "H6"
+    },
+    "events": {
+        "harvest": [],
+        "planting": [
+            "Spring",
+            "Fall"
+        ]
+    },
     "colour_and_scent": {
+        "fragrance": null,
         "spring": {
             "stem": [
                 "Brown",
@@ -90,154 +139,43 @@
             ]
         }
     },
-    "position": {
-        "sun_position": [
-            "Full sun"
-        ],
-        "aspect_position": [
-            "West–facing",
-            "South–facing"
-        ],
-        "exposure": "Exposed or Sheltered",
-        "hardiness": "H6"
-    },
-    "botanical_details": {
-        "family": "Platanaceae",
-        "native_to_the_uk": "No",
-        "foliage": "Deciduous",
-        "potentially_harmful": "Contact with the hairs on the fruits may irritate the skin and respiriatory system. Wear gloves and other protective equipment when handling",
-        "genus": "Platanus are vigorous, large deciduous trees of stately appearance, with maple-like foliage and attractively patterned bark",
-        "name_status": "Correct",
-        "plant_range": "N America"
-    },
+    "toxicity": [],
     "how_to_grow": {
-        "cultivation": {
-            "text": "Grow in moist, fertile soil in full sun, allowing enough space for a very large tree with a vigorous root system",
-            "link_names": [],
-            "related_links": {}
-        },
-        "propagation": {
-            "text": "Propagate by seed, or hardwood cuttings in winter",
-            "link_names": [
-                "Propagate by seed",
-                "Hardwood"
-            ],
-            "related_links": {
-                "propagate_by_seed": "https://www.rhs.org.uk/propagation/sowing-seed-outdoors",
-                "hardwood": "https://www.rhs.org.uk/propagation/hardwood-cuttings"
-            }
-        },
-        "suggested_planting_locations_and_garden_types": {
-            "text": [
-                "Low Maintenance"
-            ],
-            "link_names": [],
-            "related_links": {}
-        },
-        "pruning": {
-            "text": "Pruning group 1, but will tolerate severe pruning if necessary",
-            "link_names": [
-                "Pruning group 1"
-            ],
-            "related_links": {
-                "pruning_group_1": "https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning"
-            }
-        },
-        "pests": {
-            "text": "May be susceptible to lace bugs",
-            "link_names": [],
-            "related_links": {}
-        },
-        "diseases": {
-            "text": "May be susceptible to plane anthracnose and honey fungus",
-            "link_names": [
-                "Plane anthracnose",
-                "Honey fungus"
-            ],
-            "related_links": {
-                "plane_anthracnose": "https://www.rhs.org.uk/disease/plane-anthracnose",
-                "honey_fungus": "https://www.rhs.org.uk/disease/honey-fungus"
-            }
-        }
-    },
-    "pt_data": {
-        "pt_link": "https://www.picturethisai.com/wiki/Platanus_occidentalis.html",
-        "filename": "13226-platanus-occidentalis.json",
-        "latin_name": "Platanus occidentalis",
-        "common_names": [
-            "American sycamore",
-            "American Planetree",
-            "Western Plane",
-            "Water Beech",
-            "American plane tree",
-            "Occidental plane",
-            "Buttonwood",
-            "London plane"
+        "cultivation": "Grow in moist, fertile soil in full sun, allowing enough space for a very large tree with a vigorous root system",
+        "propagation": [
+            "Propagate by seed",
+            "Hardwood"
         ],
-        "synonyms": [
-            "Platanus pyramidalis",
-            "Platanus lobata",
-            "Platanus hispanica var. pyramidalis",
-            "Platanus integrifolia hort. ex",
-            "Platanus occidentalis var. glabrata",
-            "Platanus occidentalis var. palmeri",
-            "Platanus orientalis var. palmeri",
-            "Platanus excelsa",
-            "Platanus occidentalis"
+        "suggested_panting_places": [
+            "Low Maintenance"
         ],
-        "ru_data": {
-            "common_names": [
-                "Платан западный",
-                "Явор",
-                "Сикомор",
-                "Платан сикаморе"
-            ],
-            "synonyms": [
-                "Platanus pyramidalis",
-                "Platanus lobata",
-                "Platanus hispanica var. pyramidalis",
-                "Platanus integrifolia hort. ex",
-                "Platanus occidentalis var. glabrata",
-                "Platanus occidentalis var. palmeri",
-                "Platanus orientalis var. palmeri",
-                "Platanus excelsa",
-                "Platanus occidentalis"
-            ]
-        },
-        "rank": 337,
-        "items_data": {
-            "water": "Every 1-2 weeks",
-            "sunlight": "Full sun",
-            "hardiness_zones": "4 - 9",
-            "planting_time": [
-                "Spring",
-                "Fall"
-            ]
-        },
-        "class_data": {
-            "phylum": "Vascular plants",
-            "class": "Dicotyledons",
-            "order": [
-                "Proteas",
-                "Lotuses",
-                "Planes",
-                "And allies"
-            ],
-            "family": "Plane tree",
-            "genus": "Plane trees",
-            "species": "American sycamore"
-        },
-        "toxic_data": [],
-        "diseases_data": [
-            "Sap-sucking insects",
-            "Caterpillars",
-            "Aged yellow and dry",
-            "Longhorn beetles",
-            "Brown spot"
+        "pruning": [
+            "Pruning group 1"
         ]
     },
-    "main_name_original": "Platanus occidentalis",
-    "display_name": "American plane",
-    "clear_main_name": "Platanus occidentalis",
-    "pt_search_main_name": "Platanus occidentalis"
+    "diseases_and_pests": [
+        "Aged yellow and dry",
+        "Longhorn beetles",
+        "Sap-sucking insects",
+        "Caterpillars",
+        "Brown spot"
+    ],
+    "scientific_classification": {
+        "family": "Plane tree",
+        "phylum": "Vascular plants",
+        "classify": "Dicotyledons",
+        "order": [
+            "Proteas",
+            "Lotuses",
+            "Planes",
+            "And allies"
+        ],
+        "genus": "Plane trees",
+        "species": "American sycamore"
+    },
+    "botanical_details": {
+        "plant_range": "N America",
+        "foliage": "Deciduous",
+        "habit": null
+    }
 }
